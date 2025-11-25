@@ -1,0 +1,6 @@
+# Algolia-Crawler-Verif: 4D1A011788E3FBEF
+
+User-agent: *
+Allow: /
+
+Sitemap: https://taigibird.siansiansu.com/sitemap.xml

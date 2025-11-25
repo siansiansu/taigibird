@@ -1,0 +1,53 @@
+---
+title: 扇尾鶲科 sìnn-bué-ong-kho
+description: 扇尾鶲科（sìnn-bué-ong-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "扇尾鶲"]
+---
+
+# 扇尾鶲科 sìnn-bué-ong-kho
+
+扇尾鶲科（sìnn-bué-ong-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+
+## 菲律賓扇尾鶲 フィリピンオビオウギビタキ Philippine Pied-Fantail
+
+![菲律賓扇尾鶲 フィリピンオビオウギビタキ Philippine Pied-Fantail](https://inaturalist-open-data.s3.amazonaws.com/photos/373449797/medium.jpg)
+
+© Casey Clark Sumalinog, some rights reserved (CC-BY)
+
+**台語名**
+
+- 🎯 **菲律賓烏白扇尾鶲 hui-lu̍t-pin-oo-pe̍h-sìnn-bué-ong**
+- 🎯 **菲律賓烏白尾扇 hui-lu̍t-pin-oo-pe̍h-bué-sìnn**
+
+參考英語、[eBird 資料](https://ebird.org/species/phipif1)
+
+---
+
+## 斑扇尾鶲 ムナオビオウギビタキ Malaysian Pied-Fantail
+
+![斑扇尾鶲 ムナオビオウギビタキ Malaysian Pied-Fantail](https://inaturalist-open-data.s3.amazonaws.com/photos/188717255/medium.jpg)
+
+(c) Sam Hambly, some rights reserved (CC BY-NC)
+
+**台語名**
+
+- 🎯 **烏白尾扇 oo-pe̍h-bué-sìnn**
+- 🎯 **烏白扇尾鶲 oo-pe̍h-sìnn-bué-ong**
+- 🎯 **馬來西亞烏白扇尾鶲 Má-lâi-se-a-oo-pe̍h-sìnn-bué-ong**
+
+參考英語、特徵、[eBird 資料](https://ebird.org/species/piefan1)
+
+---
+
+## 白喉扇尾鶲 ノドジロオウギビタキ White-throated Fantail
+
+![白喉扇尾鶲 ノドジロオウギビタキ White-throated Fantail](https://inaturalist-open-data.s3.amazonaws.com/photos/87761856/medium.jpg)
+
+(c) Md. Zaber Ansary, some rights reserved (CC BY-NC)
+
+**台語名**
+
+- 🎯 **白喉扇尾鶲 pe̍h-âu-sìnn-bué-ong**
+- 🎯 **白喉尾扇 pe̍h-âu-bué-sìnn**
+
+參考英語、特徵、[eBird 資料](https://ebird.org/species/whtfan1)
