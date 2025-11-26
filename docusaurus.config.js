@@ -33,7 +33,14 @@ const config = {
           sidebarPath: "./sidebars.js",
           sidebarCollapsed: false,
         },
-        blog: false,
+        blog: {
+          showReadingTime: true,
+          blogTitle: "文章",
+          blogDescription: "分享技術、賞鳥、台語學習的心得",
+          postsPerPage: 10,
+          blogSidebarTitle: "所有文章",
+          blogSidebarCount: "ALL",
+        },
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -116,6 +123,11 @@ const config = {
       navbar: {
         title: "現代鳥仔名台語新詞討論",
         items: [
+          {
+            to: "/blog",
+            label: "文章",
+            position: "left",
+          },
           {
             href: "https://portaly.cc/siansiansu",
             label: "作品集",
