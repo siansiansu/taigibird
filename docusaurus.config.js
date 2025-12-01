@@ -15,7 +15,7 @@ const config = {
   onBrokenLinks: "throw",
   i18n: {
     defaultLocale: "zh-TW",
-    locales: ["zh-TW", "en"],
+    locales: ["zh-TW"],
   },
   markdown: {
     hooks: {
@@ -116,11 +116,6 @@ const config = {
       navbar: {
         title: "現代鳥仔名台語新詞討論",
         items: [
-          {
-            to: "/blog",
-            label: "文章",
-            position: "left",
-          },
           {
             href: "https://portaly.cc/siansiansu",
             label: "作品集",
