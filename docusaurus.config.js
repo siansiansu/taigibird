@@ -33,14 +33,7 @@ const config = {
           sidebarPath: "./sidebars.js",
           sidebarCollapsed: false,
         },
-        blog: {
-          showReadingTime: true,
-          blogTitle: "文章",
-          blogDescription: "分享技術、賞鳥、台語學習的心得",
-          postsPerPage: 10,
-          blogSidebarTitle: "所有文章",
-          blogSidebarCount: "ALL",
-        },
+        blog: false,
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -146,7 +139,7 @@ const config = {
       },
       footer: {
         style: "light",
-        copyright: `Copyright © 2024 Soo bîn-hiân`,
+        copyright: `Copyright © 2024 Bîn-hiân`,
       },
       prism: {
         theme: prismThemes.github,
