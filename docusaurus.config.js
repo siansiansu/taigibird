@@ -28,11 +28,11 @@ const config = {
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          routeBasePath: '/',
-          sidebarPath: "./sidebars.js",
-          sidebarCollapsed: false,
-        },
+        // docs: {
+        //   routeBasePath: '/',
+        //   sidebarPath: "./sidebars.js",
+        //   sidebarCollapsed: false,
+        // },
         blog: {
           showReadingTime: true,
           blogTitle: "文章",
@@ -152,18 +152,18 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-      docs: {
-        sidebar: {
-          hideable: false,
-          autoCollapseCategories: true,
-        },
-      },
-      algolia: {
-        container: '#docsearch',
-        appId: '4O78XTNEFF',
-        indexName: '現代鳥仔名台語新詞討論',
-        apiKey: '61aef2634379b6d1b948dd074e2441b2',
-      },
+      // docs: {
+      //   sidebar: {
+      //     hideable: false,
+      //     autoCollapseCategories: true,
+      //   },
+      // },
+      // algolia: {
+      //   container: '#docsearch',
+      //   appId: '4O78XTNEFF',
+      //   indexName: '現代鳥仔名台語新詞討論',
+      //   apiKey: '61aef2634379b6d1b948dd074e2441b2',
+      // },
     }),
 };
 
