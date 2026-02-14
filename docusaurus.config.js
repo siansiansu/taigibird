@@ -7,8 +7,8 @@ const config = {
   favicon: "img/favicon.ico",
   trailingSlash: true,
 
-  url: "https://siansiansu.github.io",
-  baseUrl: "/taigibird/",
+  url: "https://taigibird.siansiansu.com",
+  baseUrl: "/",
   organizationName: "siansiansu",
   projectName: "taigibird",
 
@@ -89,7 +89,7 @@ const config = {
         },
         {
           name: "og:url",
-          content: "https://siansiansu.github.io/taigibird/"
+          content: "https://taigibird.siansiansu.com/"
         },
         {
           name: "description",
@@ -101,11 +101,11 @@ const config = {
         },
         {
           name: "og:image",
-          content: "https://siansiansu.github.io/taigibird/img/profile.jpg"
+          content: "https://taigibird.siansiansu.com/img/profile.jpg"
         },
         {
           name: "twitter:image",
-          content: "https://siansiansu.github.io/taigibird/img/profile.jpg"
+          content: "https://taigibird.siansiansu.com/img/profile.jpg"
         },
         {
           name: "og:type",

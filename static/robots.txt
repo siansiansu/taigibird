@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://siansiansu.github.io/taigibird/sitemap.xml
+Sitemap: https://taigibird.siansiansu.com/sitemap.xml
