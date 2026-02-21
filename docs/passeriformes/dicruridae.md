@@ -1,12 +1,12 @@
 ---
-title: 烏鶖科 oo-tshiu-kho
-description: 烏鶖（oo-tshiu，華語：卷尾）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 烏鶖科 o͘-chhiu-kho
+description: 烏鶖（o͘-chhiu，華語：卷尾）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鶖", "卷尾"]
 ---
 
-# 烏鶖科 oo-tshiu-kho
+# 烏鶖科 o͘-chhiu-kho
 
-烏鶖（oo-tshiu，華語：卷尾）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+烏鶖（o͘-chhiu，華語：卷尾）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 大卷尾 オウチュウ Black Drongo
 
@@ -16,7 +16,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鶖", 
 
 **台語名**
 
-🎯 **烏鶖 oo-tshiu**
+🎯 **烏鶖 o͘-chhiu**
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/bladro1)
 
@@ -30,7 +30,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鶖", 
 
 **台語名**
 
-🎯 **殕色烏鶖 phú-sik-oo-tshiu**
+🎯 **殕色烏鶖 phú-sek-o͘-chhiu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/ashdro1)
 
@@ -44,7 +44,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鶖", 
 
 **台語名**
 
-🎯 **鴉喙烏鶖 a-tshuì-oo-tshiu**
+🎯 **鴉喙烏鶖 a-chhùi-o͘-chhiu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/crbdro1)
 
@@ -58,7 +58,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鶖", 
 
 **台語名**
 
-🎯 **山烏鶖 suann-oo-tshiu**
+🎯 **山烏鶖 soaⁿ-o͘-chhiu**
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/brodro1)
 
@@ -72,10 +72,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鶖", 
 
 **台語名**
 
-- 🎯 **聳毛烏鶖 tshàng-moo-oo-tshiu**
-- 髮冠烏鶖 huat-kuan-oo-tshiu
-- 冠烏鶖 huat-kuan-oo-tshiu
-- 聳頭烏鶖 tshàng-thâu-oo-tshiu
+- 🎯 **聳毛烏鶖 chhàng-mo͘-o͘-chhiu**
+- 髮冠烏鶖 hoat-koan-o͘-chhiu
+- 冠烏鶖 hoat-koan-o͘-chhiu
+- 聳頭烏鶖 chhàng-thâu-o͘-chhiu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/hacdro1)
 
@@ -89,6 +89,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鶖", 
 
 **台語名**
 
-🎯 **雙尾烏鶖 siang-bué-oo-tshiu**
+🎯 **雙尾烏鶖 siang-bóe-o͘-chhiu**
 
 參考特徵、[eBird 資料](https://ebird.org/species/grtdro1)

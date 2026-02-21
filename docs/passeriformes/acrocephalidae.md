@@ -1,12 +1,12 @@
 ---
-title: 蘆荻仔鳥科 lôo-tik-á-tsiáu-kho
-description: 蘆荻仔鳥（lôo-tik-á-tsiáu，華語：葦鶯）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 蘆荻仔鳥科 lô͘-tek-á-chiáu-kho
+description: 蘆荻仔鳥（lô͘-tek-á-chiáu，華語：葦鶯）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔鳥", "葦鶯"]
 ---
 
-# 蘆荻仔鳥科 lôo-tik-á-tsiáu-kho
+# 蘆荻仔鳥科 lô͘-tek-á-chiáu-kho
 
-蘆荻仔鳥（lôo-tik-á-tsiáu，華語：葦鶯）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+蘆荻仔鳥（lô͘-tek-á-chiáu，華語：葦鶯）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 厚嘴葦鶯 ハシブトオオヨシキリ Thick-billed Warbler
 
@@ -16,9 +16,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **厚喙蘆荻仔 kāu-tshuì-lôo-tik-á**
+🎯 **厚喙蘆荻仔 kāu-chhùi-lô͘-tek-á**
 
-參考蘆荻仔鳥 lôo-tik-á-tsiáu + 英語、[eBird 資料](https://ebird.org/species/thbwar1)
+參考蘆荻仔鳥 lô͘-tek-á-chiáu + 英語、[eBird 資料](https://ebird.org/species/thbwar1)
 
 ---
 
@@ -30,7 +30,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **靴管鶯 hia-kóng-ing**
+🎯 **靴管鶯 hia-kóng-eng**
 
 參考英語、[eBird 資料](https://ebird.org/species/boowar1)
 
@@ -44,9 +44,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **雙眉蘆荻仔 siang-bâi-lôo-tik-á**
+🎯 **雙眉蘆荻仔 siang-bâi-lô͘-tek-á**
 
-參考蘆荻仔鳥 lôo-tik-á-tsiáu + 特徵、[eBird 資料](https://ebird.org/species/bbrwar1)
+參考蘆荻仔鳥 lô͘-tek-á-chiáu + 特徵、[eBird 資料](https://ebird.org/species/bbrwar1)
 
 ---
 
@@ -58,9 +58,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **細紋蘆荻仔 suè-bûn-lôo-tik-á**
+🎯 **細紋蘆荻仔 sòe-bûn-lô͘-tek-á**
 
-參考蘆荻仔鳥 lôo-tik-á-tsiáu + 特徵、[eBird 資料](https://ebird.org/species/strwar1)
+參考蘆荻仔鳥 lô͘-tek-á-chiáu + 特徵、[eBird 資料](https://ebird.org/species/strwar1)
 
 ---
 
@@ -72,9 +72,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **田蘆荻仔 tshân-lôo-tik-á**
+🎯 **田蘆荻仔 chhân-lô͘-tek-á**
 
-參考蘆荻仔鳥 lôo-tik-á-tsiáu + 英語、[eBird 資料](https://ebird.org/species/padwar1)
+參考蘆荻仔鳥 lô͘-tek-á-chiáu + 英語、[eBird 資料](https://ebird.org/species/padwar1)
 
 ---
 
@@ -86,9 +86,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **鈍翅蘆荻仔鳥 tùn-tshì-lôo-tik-á**
+🎯 **鈍翅蘆荻仔鳥 tùn-chhì-lô͘-tek-á**
 
-參考蘆荻仔鳥 lôo-tik-á-tsiáu + 英語、[eBird 資料](https://ebird.org/species/blwwar1)
+參考蘆荻仔鳥 lô͘-tek-á-chiáu + 英語、[eBird 資料](https://ebird.org/species/blwwar1)
 
 ---
 
@@ -100,9 +100,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **遠東蘆荻仔鳥 uán-tong-lôo-tik-á**
+🎯 **遠東蘆荻仔鳥 oán-tong-lô͘-tek-á**
 
-參考蘆荻仔鳥 lôo-tik-á-tsiáu + 華語、[eBird 資料](https://ebird.org/species/manrew1)
+參考蘆荻仔鳥 lô͘-tek-á-chiáu + 華語、[eBird 資料](https://ebird.org/species/manrew1)
 
 ---
 
@@ -114,9 +114,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **布萊氏蘆荻仔 pòo-lâi-sī-lôo-tik-á**
+🎯 **布萊氏蘆荻仔 pò͘-lâi-sī-lô͘-tek-á**
 
-參考蘆荻仔鳥 lôo-tik-á-tsiáu + 英語、[eBird 資料](https://ebird.org/species/blrwar1)
+參考蘆荻仔鳥 lô͘-tek-á-chiáu + 英語、[eBird 資料](https://ebird.org/species/blrwar1)
 
 ---
 
@@ -128,8 +128,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-- 🎯 **蘆趵 lôo-tà**
-- 🎯 **蘆荻仔鳥 lôo-tik-á-tsiáu**
-- 🎯 **東方荻仔鳥 tang-hong-lôo-tik-á-tsiáu**
+- 🎯 **蘆趵 lô͘-tà**
+- 🎯 **蘆荻仔鳥 lô͘-tek-á-chiáu**
+- 🎯 **東方荻仔鳥 tang-hong-lô͘-tek-á-chiáu**
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、頭前加上東方 tang-hong 區分、[eBird 資料](https://ebird.org/species/orrwar1)

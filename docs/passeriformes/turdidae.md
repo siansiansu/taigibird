@@ -17,10 +17,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 **台語名**
 
 - 🎯 **白氏鶇仔 pe̍h-sī-tang-á**
-- ✳️ 花柿仔 hue-khī-á
+- ✳️ 花柿仔 hoe-khī-á
 - ✳️ 鶇仔 tang-á
 
-[《台灣野鳥鄉土名》](https://www.oocities.org/~smewmao/taiwan/twnname.html) 稱作花柿仔 hue-khī-á，但是目前揣無其他參考資料、華語、英語、[eBird 資料](https://ebird.org/species/scathr2)
+[《台灣野鳥鄉土名》](https://www.oocities.org/~smewmao/taiwan/twnname.html) 稱作花柿仔 hoe-khī-á，但是目前揣無其他參考資料、華語、英語、[eBird 資料](https://ebird.org/species/scathr2)
 
 ---
 
@@ -32,11 +32,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-- 🎯 **虎皮鶇仔 hóo-phuê-tang-á**
-- ✳️ 花柿仔 hue-khī-á
+- 🎯 **虎皮鶇仔 hó͘-phôe-tang-á**
+- ✳️ 花柿仔 hoe-khī-á
 - ✳️ 鶇仔 tang-á
 
-[《台灣野鳥鄉土名》](https://www.oocities.org/~smewmao/taiwan/twnname.html) 稱作花柿仔 hue-khī-á，但是目前揣無其他參考資料、華語、英語、[eBird 資料](https://ebird.org/species/scathr8/)
+[《台灣野鳥鄉土名》](https://www.oocities.org/~smewmao/taiwan/twnname.html) 稱作花柿仔 hoe-khī-á，但是目前揣無其他參考資料、華語、英語、[eBird 資料](https://ebird.org/species/scathr8/)
 
 ---
 
@@ -91,7 +91,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-🎯 **槲寄生鶇仔 hôo-kià-senn-tang-á**
+🎯 **槲寄生鶇仔 hô͘-kià-seⁿ-tang-á**
 
 參考英語、[eBird 資料](https://ebird.org/species/misthr1)
 
@@ -105,7 +105,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-🎯 **中國烏鶇仔 tiong-kok-oo-tang-á**
+🎯 **中國烏鶇仔 tiong-kok-o͘-tang-á**
 
 參考英語、[eBird 資料](https://ebird.org/species/chibla1)
 
@@ -120,7 +120,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 **台語名**
 
 - 🎯 **白頭鶇仔 pe̍h-thâu-tang-á**
-- 🎯 **台灣鶇仔 tâi-uân-tang-á**
+- 🎯 **台灣鶇仔 tâi-oân-tang-á**
 - ✳️ 白頭仔 pe̍h-thâu-á
 - ✳️ 鶇仔 tang-á
 
@@ -136,7 +136,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-- 🎯 **日本烏鶇仔 ji̍t-pún-oo-tang-á**
+- 🎯 **日本烏鶇仔 ji̍t-pún-o͘-tang-á**
 - ✳️ 鶇仔 tang-á
 
 參考日語、英語、[eBird 資料](https://ebird.org/species/japthr1)
@@ -151,7 +151,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-🎯 **殕背鶇仔 phú-puē-tang-á**
+🎯 **殕背鶇仔 phú-pōe-tang-á**
 
 參考英語、[eBird 資料](https://ebird.org/species/gybthr1)
 
@@ -161,7 +161,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 ![白腹鶇 シロハラ Pale Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/20690/medium.jpg)
 
-(c) Nash Chou, some rights reserved (CC BY-NC)
+(c) Nash Cho͘, some rights reserved (CC BY-NC)
 
 **台語名**
 
@@ -180,7 +180,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-🎯 **赤頭鶇仔 tshiah-thâu-tang-á**
+🎯 **赤頭鶇仔 chhiah-thâu-tang-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gysthr1)
 
@@ -222,7 +222,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-🎯 **烏頸鶇仔 oo-kún-tang-á**
+🎯 **烏頸鶇仔 o͘-kún-tang-á**
 
 參考英語、特徵、[eBird 資料](https://ebird.org/species/datthr1)
 
@@ -236,7 +236,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-🎯 **赤頸鶇仔 oo-kún-tang-á**
+🎯 **赤頸鶇仔 o͘-kún-tang-á**
 
 參考英語、特徵、[eBird 資料](https://ebird.org/species/retthr1)
 
@@ -264,6 +264,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-🎯 **紅尾鶇仔 âng-bué-tang-á**
+🎯 **紅尾鶇仔 âng-bóe-tang-á**
 
 參考華語鳥類名錄、特徵、[eBird 資料](https://ebird.org/species/dusthr1)

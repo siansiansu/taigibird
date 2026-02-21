@@ -1,12 +1,12 @@
 ---
-title: 食蜂鳥科 tsia̍h-phang-tsiáu-kho
-description: 食蜂鳥（tsia̍h-phang-tsiáu，華語：蜂虎）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 食蜂鳥科 chia̍h-phang-chiáu-kho
+description: 食蜂鳥（chia̍h-phang-chiáu，華語：蜂虎）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜂鳥", "蜂虎"]
 ---
 
-# 食蜂鳥科 tsia̍h-phang-tsiáu-kho
+# 食蜂鳥科 chia̍h-phang-chiáu-kho
 
-食蜂鳥（tsia̍h-phang-tsiáu，華語：蜂虎）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+食蜂鳥（chia̍h-phang-chiáu，華語：蜂虎）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 藍喉蜂虎 ルリノドハチクイ Blue-throated Bee-eater
 
@@ -16,8 +16,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜂鳥
 
 **台語名**
 
-- 🎯 青喉食蜂鳥 tshenn-âu-tsia̍h-phang-tsiáu
-- 青喉蜂虎 tshenn-âu-phang-hóo
+- 🎯 青喉食蜂鳥 chheⁿ-âu-chia̍h-phang-chiáu
+- 青喉蜂虎 chheⁿ-âu-phang-hó͘
 
 參考英語、[eBird 資料](https://ebird.org/species/btbeat2)
 
@@ -31,8 +31,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜂鳥
 
 **台語名**
 
-- 🎯 **青面食蜂鳥 tshenn-bīn-tsia̍h-phang-tsiáu**
-- 青面蜂虎 tshenn-bīn-phang-hóo
+- 🎯 **青面食蜂鳥 chheⁿ-bīn-chia̍h-phang-chiáu**
+- 青面蜂虎 chheⁿ-bīn-phang-hó͘
 
 參考英語、[eBird 資料](https://ebird.org/species/bcbeat1)
 
@@ -46,8 +46,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜂鳥
 
 **台語名**
 
-- 🎯 **青尾食蜂鳥 tshenn-bué-tsia̍h-phang-tsiáu**
-- 栗喉蜂虎 lik-âu-phang-hóo
+- 🎯 **青尾食蜂鳥 chheⁿ-bóe-chia̍h-phang-chiáu**
+- 栗喉蜂虎 lek-âu-phang-hó͘
 
 參考英語、[eBird 資料](https://ebird.org/species/btbeat1)
 
@@ -61,7 +61,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜂鳥
 
 **台語名**
 
-- 🎯 **虹色食蜂鳥 khīng-sik-tsia̍h-phang-tsiáu**
-- 彩色蜂虎 khīng-sik-phang-hóo
+- 🎯 **虹色食蜂鳥 khēng-sek-chia̍h-phang-chiáu**
+- 彩色蜂虎 khēng-sek-phang-hó͘
 
 參考英語、[eBird 資料](https://ebird.org/species/rabeat1)

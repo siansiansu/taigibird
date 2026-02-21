@@ -1,12 +1,12 @@
 ---
-title: 海鷗科 hái-oo-kho
-description: 海鷗（hái-oo）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 海鷗科 hái-o͘-kho
+description: 海鷗（hái-o͘）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 ---
 
-# 海鷗科 hái-oo-kho
+# 海鷗科 hái-o͘-kho
 
-海鷗（hái-oo）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+海鷗（hái-o͘）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 小鷗 ヒメカモメ Little Gull
 
@@ -16,9 +16,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **小鷗 sió-oo**
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **小鷗 sió-o͘**
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ カモメ ka-mo-me
 
 老一輩台灣人會講 カモメ
@@ -35,9 +35,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **三爪鷗 sann-jiáu-oo**
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **三爪鷗 saⁿ-jiáu-o͘**
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ カモメ ka-mo-me
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/bklkit)
@@ -52,9 +52,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **叉尾鷗 tshe-bué-oo**
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **叉尾鷗 chhe-bóe-o͘**
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ カモメ ka-mo-me
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sabgul)
@@ -69,9 +69,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **烏喙鷗 oo-tshuì-oo**
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **烏喙鷗 o͘-chhùi-o͘**
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ カモメ ka-mo-me
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/saugul2)
@@ -86,9 +86,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **薄喙鷗 po̍h-tshuì-oo**
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **薄喙鷗 po̍h-chhùi-o͘**
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ カモメ ka-mo-me
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/slbgul1)
@@ -103,9 +103,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **紐澳紅喙鷗 liú-ò-âng-tshuì-oo**
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **紐澳紅喙鷗 liú-ò-âng-chhùi-o͘**
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ カモメ ka-mo-me
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/silgul2)
@@ -120,9 +120,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **紅喙鷗 âng-tshuì-oo**
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **紅喙鷗 âng-chhùi-o͘**
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ カモメ ka-mo-me
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/bkhgul)
@@ -137,9 +137,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **赤頭鷗 tshiah-thâu-oo**
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **赤頭鷗 chhiah-thâu-o͘**
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ カモメ ka-mo-me
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/bnhgul1)
@@ -154,9 +154,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **笑鷗 tshiò-oo**
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **笑鷗 chhiò-o͘**
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ カモメ ka-mo-me
 
 參考華語鳥類名錄、英語名、[eBird 資料](https://ebird.org/species/laugul)
@@ -171,10 +171,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **弗氏鷗 hut-sī-oo**
-- 🎯 **富蘭克林鷗 Hù-lân-khik-lîm-oo**
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **弗氏鷗 hut-sī-o͘**
+- 🎯 **富蘭克林鷗 Hù-lân-khek-lîm-o͘**
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ カモメ ka-mo-me
 
 參考華語鳥類名錄、英語名、[eBird 資料](https://ebird.org/species/fragul)
@@ -189,10 +189,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **烏頭大鷗 oo-thâu-tuā-oo**
-- 漁鷗 hî-oo
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **烏頭大鷗 o͘-thâu-tōa-o͘**
+- 漁鷗 hî-o͘
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ 海雞母 hái-ke-bó
 - ✳️ カモメ ka-mo-me
 
@@ -210,9 +210,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **遺鷗 î-oo**
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **遺鷗 î-o͘**
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ カモメ ka-mo-me
 
 參考華語鳥類名錄、英語名、[eBird 資料](https://ebird.org/species/relgul2)
@@ -228,9 +228,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 **台語名**
 
 - 🎯 **海貓 hái-niau**
-- 烏尾鷗 oo-bué-oo
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 烏尾鷗 o͘-bóe-o͘
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ 海雞母 hái-ke-bó
 - ✳️ カモメ ka-mo-me
 
@@ -246,9 +246,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **歐亞海鷗 au-a-hái-oo**
-- 🎯 **海鷗 hái-oo**
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **歐亞海鷗 au-a-hái-o͘**
+- 🎯 **海鷗 hái-o͘**
+- ✳️ 海鳥 hái-chiáu
 - ✳️ 海雞母 hái-ke-bó
 - ✳️ カモメ ka-mo-me
 
@@ -264,9 +264,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **西伯利亞銀鷗 se-pik-lī-a-gîn-oo**
-- ✳️ 海鷗 hái-oo*
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **西伯利亞銀鷗 se-pek-lī-a-gîn-o͘**
+- ✳️ 海鷗 hái-o͘*
+- ✳️ 海鳥 hái-chiáu
 - ✳️ 海雞母 hái-ke-bó
 - ✳️ カモメ ka-mo-me
 
@@ -282,9 +282,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **蒙古銀鷗 bông-kóo-gîn-oo**
-- ✳️ 海鷗 hái-oo*
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **蒙古銀鷗 bông-kó͘-gîn-o͘**
+- ✳️ 海鷗 hái-o͘*
+- ✳️ 海鳥 hái-chiáu
 - ✳️ 海雞母 hái-ke-bó
 - ✳️ カモメ ka-mo-me
 
@@ -300,9 +300,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **北極鷗 pak-ki̍k-oo**
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **北極鷗 pak-ke̍k-o͘**
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ 海雞母 hái-ke-bó
 - ✳️ カモメ ka-mo-me
 
@@ -318,9 +318,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **小烏背鷗 sió-oo-puè-oo**
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **小烏背鷗 sió-o͘-pòe-o͘**
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ 海雞母 hái-ke-bó
 - ✳️ カモメ ka-mo-me
 
@@ -336,9 +336,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **殕色背鷗 phú-sik-puè-oo**
-- ✳️ 海鷗 hái-oo
-- ✳️ 海鳥 hái-tsiáu
+- 🎯 **殕色背鷗 phú-sek-pòe-o͘**
+- ✳️ 海鷗 hái-o͘
+- ✳️ 海鳥 hái-chiáu
 - ✳️ 海雞母 hái-ke-bó
 - ✳️ カモメ ka-mo-me
 
@@ -354,14 +354,14 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **茶色燕仔鷗 tê-sik-iàn-á-oo**
-- 玄燕鷗 hiân-iàn-oo
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **茶色燕仔鷗 tê-sek-iàn-á-o͘**
+- 玄燕鷗 hiân-iàn-o͘
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
-小型燕鷗通常稱為「丁香鳥 ting-hiunn-tsiáu」
+小型燕鷗通常稱為「丁香鳥 teng-hiuⁿ-chiáu」
 
 部分參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/brnnod)
 
@@ -375,12 +375,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **烏色燕仔鷗 tê-sik-iàn-á-oo**
-- 烏玄燕鷗 oo-hiân-iàn-oo
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **烏色燕仔鷗 tê-sek-iàn-á-o͘**
+- 烏玄燕鷗 o͘-hiân-iàn-o͘
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/blknod)
 
@@ -394,11 +394,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **白腰燕仔鷗 pe̍h-io-iàn-á-oo**
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **白腰燕仔鷗 pe̍h-io-iàn-á-o͘**
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/aleter1)
 
@@ -412,11 +412,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **烏領燕仔鷗 oo-niá-iàn-á-oo**
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **烏領燕仔鷗 o͘-niá-iàn-á-o͘**
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sooter1)
 
@@ -430,11 +430,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **白眉燕仔鷗 pe̍h-bâi-iàn-á-oo**
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **白眉燕仔鷗 pe̍h-bâi-iàn-á-o͘**
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/briter1)
 
@@ -448,11 +448,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **小燕仔鷗 sió-iàn-á-oo**
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **小燕仔鷗 sió-iàn-á-o͘**
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/litter1)
 
@@ -466,11 +466,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **美洲小燕仔鷗 bí-tsiu-sió-iàn-á-oo**
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **美洲小燕仔鷗 bí-chiu-sió-iàn-á-o͘**
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/leater1)
 
@@ -484,12 +484,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **厚喙燕仔鷗 kāu-tshuì-iàn-á-oo**
-- 🎯 **鷗喙燕仔鷗 oo-tshuì-iàn-á-oo**
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **厚喙燕仔鷗 kāu-chhùi-iàn-á-o͘**
+- 🎯 **鷗喙燕仔鷗 o͘-chhùi-iàn-á-o͘**
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考特徵、[eBird 資料](https://ebird.org/species/gubter2)
 
@@ -503,11 +503,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **裏海燕仔鷗 lí-hái-iàn-á-oo**
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **裏海燕仔鷗 lí-hái-iàn-á-o͘**
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/caster1)
 
@@ -521,12 +521,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **烏腹燕仔鷗 oo-pak-iàn-á-oo**
-- 🎯 烏肚燕仔鷗 oo-tóo-iàn-á-oo
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **烏腹燕仔鷗 o͘-pak-iàn-á-o͘**
+- 🎯 烏肚燕仔鷗 o͘-tó͘-iàn-á-o͘
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/whiter2)
 
@@ -540,11 +540,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **烏浮鷗 oo-phû-oo**
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **烏浮鷗 o͘-phû-o͘**
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/blkter)
 
@@ -558,11 +558,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **白翅烏燕仔鷗 pe̍h-tshì-oo-iàn-á-oo**
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **白翅烏燕仔鷗 pe̍h-chhì-o͘-iàn-á-o͘**
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/whwter)
 
@@ -576,10 +576,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **燕仔鷗 iàn-á-oo**
-- 🎯 燕鷗 iàn-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **燕仔鷗 iàn-á-o͘**
+- 🎯 燕鷗 iàn-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/comter)
 
@@ -593,12 +593,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **烏頸燕仔鷗 oo-kún-iàn-á-oo**
-- 蒼燕鷗 tshong-iàn-oo
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **烏頸燕仔鷗 o͘-kún-iàn-á-o͘**
+- 蒼燕鷗 chhong-iàn-o͘
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考英語、[eBird 資料](https://ebird.org/species/blnter1)
 
@@ -612,11 +612,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **紅燕仔鷗 âng-iàn-á-oo**
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **紅燕仔鷗 âng-iàn-á-o͘**
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/roster)
 
@@ -630,11 +630,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **白喙尖聳毛燕仔鷗 pe̍h-tshuì-tsiam-tshàng-moo-iàn-á-oo**
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **白喙尖聳毛燕仔鷗 pe̍h-chhùi-chiam-chhàng-mo͘-iàn-á-o͘**
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/santer1)
 
@@ -648,11 +648,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **小聳毛燕仔鷗 sió-tshàng-moo-iàn-á-oo**
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **小聳毛燕仔鷗 sió-chhàng-mo͘-iàn-á-o͘**
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lecter2)
 
@@ -666,11 +666,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **聳毛燕仔鷗 tshàng-moo-iàn-á-oo**
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 燕仔鷗 iàn-á-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **聳毛燕仔鷗 chhàng-mo͘-iàn-á-o͘**
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 燕仔鷗 iàn-á-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/grcter1)
 
@@ -684,9 +684,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- 🎯 **烏喙尖聳毛燕仔鷗 oo-tshuì-tsiam-tshàng-moo-iàn-á-oo**
-- ✳️ 燕鷗 iàn-oo
-- ✳️ 海燕仔 hái-ìnn-á
-- ✳️ 丁香鳥 ting-hiunn-tsiáu
+- 🎯 **烏喙尖聳毛燕仔鷗 o͘-chhùi-chiam-chhàng-mo͘-iàn-á-o͘**
+- ✳️ 燕鷗 iàn-o͘
+- ✳️ 海燕仔 hái-ìⁿ-á
+- ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chcter2)

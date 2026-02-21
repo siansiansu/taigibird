@@ -1,12 +1,12 @@
 ---
-title: 粟鳥仔科 tshik-tsiáu-á-kho
-description: 粟鳥仔科（tshik-tsiáu-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 粟鳥仔科 chhek-chiáu-á-kho
+description: 粟鳥仔科（chhek-chiáu-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "粟鳥仔", "麻雀"]
 ---
 
-# 粟鳥仔科 tshik-tsiáu-á-kho
+# 粟鳥仔科 chhek-chiáu-á-kho
 
-粟鳥仔科（tshik-tsiáu-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+粟鳥仔科（chhek-chiáu-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 家麻雀 イエスズメ House Sparrow
 
@@ -17,16 +17,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "粟鳥仔
 
 **台語名**
 
-- 🎯 **外國 ê 粟鳥仔 guā-kok-ê-tshik-tsiáu-á**
-- 灰頭粟鳥仔 hue-thâu-tshik-tsiáu-á
-- 灰頭厝鳥仔 hue-thâu-tshù-tsiáu-á
-- 灰頭厝角鳥仔 hue-thâu-tshù-kak-tsiáu-á
-- ✳️ 厝角鳥仔 tshù-kak-tsiáu-á
-- ✳️ 厝鳥仔 tshù-tsiáu-á
-- ✳️ 粟鳥仔 tshik-tsiáu-á
-- ✳️ 雀鳥仔 tshiok-tsiáu-á
+- 🎯 **外國 ê 粟鳥仔 gōa-kok-ê-chhek-chiáu-á**
+- 灰頭粟鳥仔 hoe-thâu-chhek-chiáu-á
+- 灰頭厝鳥仔 hoe-thâu-chhù-chiáu-á
+- 灰頭厝角鳥仔 hoe-thâu-chhù-kak-chiáu-á
+- ✳️ 厝角鳥仔 chhù-kak-chiáu-á
+- ✳️ 厝鳥仔 chhù-chiáu-á
+- ✳️ 粟鳥仔 chhek-chiáu-á
+- ✳️ 雀鳥仔 chhiok-chiáu-á
 
-家麻雀 House Sparrow 若用台語講已經有厝鳥仔 tshù-tsiáu-á ê 意思，叫伊「厝厝鳥仔 tshù-tshù-tsiáu-á」嘛誠奇怪。若依伊 ê 外觀叫「灰頭厝鳥仔 hue-thâu-tshù-tsiáu-á」，可能有人嘛毋捌，建議叫伊「外國 ê 厝鳥仔 guā-kok-ê-tshù-tsiáu-á」，無熟似的人可能聽較有，按呢嘛較會使用台語區別一般講 ê「厝鳥仔 tshù-tsiáu-á」。
+家麻雀 House Sparrow 若用台語講已經有厝鳥仔 chhù-chiáu-á ê 意思，叫伊「厝厝鳥仔 chhù-chhù-chiáu-á」嘛誠奇怪。若依伊 ê 外觀叫「灰頭厝鳥仔 hoe-thâu-chhù-chiáu-á」，可能有人嘛毋捌，建議叫伊「外國 ê 厝鳥仔 gōa-kok-ê-chhù-chiáu-á」，無熟似的人可能聽較有，按呢嘛較會使用台語區別一般講 ê「厝鳥仔 chhù-chiáu-á」。
 
 [eBird 資料](https://ebird.org/species/houspa)
 
@@ -40,13 +40,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "粟鳥仔
 
 **台語名**
 
-- 🎯 **山粟鳥仔 suann-tshik-tsiáu-á**
-- 山雀鳥仔 suann-tshiok-tsiáu-á
-- 山麻雀 suann-môa-chhiok
+- 🎯 **山粟鳥仔 soaⁿ-chhek-chiáu-á**
+- 山雀鳥仔 soaⁿ-chhiok-chiáu-á
+- 山麻雀 soaⁿ-môa-chhiok
 - 入内雀 ji̍p-lāi-chhiok
-- 厝角鳥仔 tshù-kak-tsiáu-á
-- 粟鳥仔 tshik-tsiáu-á
-- 雀鳥仔 tshiok-tsiáu-á
+- 厝角鳥仔 chhù-kak-chiáu-á
+- 粟鳥仔 chhek-chiáu-á
+- 雀鳥仔 chhiok-chiáu-á
 
 參考 [《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/) 、[eBird 資料](https://ebird.org/species/russpa2)
 
@@ -60,10 +60,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "粟鳥仔
 
 **台語名**
 
-- 🎯 **粟鳥仔 tshik-tsiáu-á**
-- 🎯 **厝鳥仔 tshù-tsiáu-á**
-- 🎯 **雀鳥仔 tshiok-tsiáu-á**
-- 🎯 **厝角鳥仔 tshù-kak-tsiáu-á**
+- 🎯 **粟鳥仔 chhek-chiáu-á**
+- 🎯 **厝鳥仔 chhù-chiáu-á**
+- 🎯 **雀鳥仔 chhiok-chiáu-á**
+- 🎯 **厝角鳥仔 chhù-kak-chiáu-á**
 
 參考 [《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/) 、[eBird 資料](https://ebird.org/species/eutspa)
 
@@ -77,6 +77,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "粟鳥仔
 
 **台語名**
 
-🎯 **山蚊母草鵐仔 suann-bûn-bó-tsháu-bû-á**
+🎯 **山蚊母草鵐仔 soaⁿ-bûn-bó-chháu-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/savspa)

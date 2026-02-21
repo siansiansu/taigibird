@@ -30,7 +30,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 **台語名**
 
-🎯 **烏鶲仔 oo-ong-á**
+🎯 **烏鶲仔 o͘-ong-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/dasfly)
 
@@ -45,7 +45,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 **台語名**
 
 - 🎯 **紅尾鶲仔 âng-bé-ong-á**
-- 🎯 **深山鶲仔 tshim-suann-ong-á**
+- 🎯 **深山鶲仔 chhim-soaⁿ-ong-á**
 
 參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/ferfly1)
 
@@ -59,7 +59,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 **台語名**
 
-🎯 **闊喙鶲仔 khuan-tshuì-ong-á**
+🎯 **闊喙鶲仔 khoan-chhùi-ong-á**
 
 參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/asbfly)
 
@@ -73,7 +73,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 **台語名**
 
-🎯 **赤胸鶲 tshiah-hing-ong**
+🎯 **赤胸鶲 chhiah-heng-ong**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/brbfly2)
 
@@ -101,7 +101,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 **台語名**
 
-🎯 **水濺仔 tsuí-tsuānn-á**
+🎯 **水濺仔 chuí-chōaⁿ-á**
 
 參考[金門日報](https://www.kmdn.gov.tw/1117/1271/1274/33656)、[eBird 資料](https://ebird.org/species/magrob)
 
@@ -115,7 +115,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 **台語名**
 
-🎯 **長尾四季鳥 tn̂g-bué-sù-kuì-tsiáu**
+🎯 **長尾四季鳥 tn̂g-bóe-sù-kùi-chiáu**
 
 參考華語俗稱「長尾四喜」，m̄-koh 台語無「四喜」這个字，所以借用日語「四季鳥 シキチョウ」ê 稱呼
 
@@ -145,7 +145,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 **台語名**
 
-🎯 **小赤腹大琉璃 sió-tshiah-pak-tuā-liû-lî**
+🎯 **小赤腹大琉璃 sió-chhiah-pak-tōa-liû-lî**
 
 參考日語、[eBird 資料](https://ebird.org/species/rubnil1)
 
@@ -159,7 +159,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 **台語名**
 
-🎯 **中國青琉璃 tiong-kok-tshenn-liû-lî**
+🎯 **中國青琉璃 tiong-kok-chheⁿ-liû-lî**
 
 參考日語、英語、[eBird 資料](https://ebird.org/species/vivnil2)
 
@@ -183,13 +183,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 ![白腹琉璃 オオルリ Blue-and-white Flycatcher](https://inaturalist-open-data.s3.amazonaws.com/photos/98935926/medium.jpg)
 
-(c) Ben Tsai蔡維哲, some rights reserved (CC BY-NC)
+(c) Ben Chai蔡維哲, some rights reserved (CC BY-NC)
 
 **台語名**
 
 - 🎯 **白腹琉璃 pe̍h-pak-liû-lî**
-- 大瑠璃 tuā-liû-lî
-- 竹林鳥 tik-lîm-tsiáu
+- 大瑠璃 tōa-liû-lî
+- 竹林鳥 tek-lîm-chiáu
 
 參考 2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/bawfly2)
 
@@ -203,7 +203,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 **台語名**
 
-🎯 **琉璃青鶲 liû-lî-tshenn-ong**
+🎯 **琉璃青鶲 liû-lî-chheⁿ-ong**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/zapfly1)
 
@@ -217,7 +217,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 **台語名**
 
-🎯 **青鶲 tshenn-ong**
+🎯 **青鶲 chheⁿ-ong**
 
 參考日語、[eBird 資料](https://ebird.org/species/verfly4)
 
@@ -231,7 +231,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 **台語名**
 
-🎯 **海南青鶲 hái-lâm-tshenn-ong**
+🎯 **海南青鶲 hái-lâm-chheⁿ-ong**
 
 參考英語、日語、[eBird 資料](https://ebird.org/species/habfly1)
 
@@ -245,7 +245,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 **台語名**
 
-🎯 **中國青鶲 tiong-kok-tshenn-ong**
+🎯 **中國青鶲 tiong-kok-chheⁿ-ong**
 
 參考英語、[eBird 資料](https://ebird.org/species/butfly2)
 
@@ -259,7 +259,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 **台語名**
 
-🎯 **山青鶲 suann-tshenn-ong**
+🎯 **山青鶲 soaⁿ-chheⁿ-ong**
 
 參考英語、[eBird 資料](https://ebird.org/species/hibfly1)
 
@@ -315,7 +315,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 **台語名**
 
-🎯 **紅尾鴝仔 âng-bué-kî-á**
+🎯 **紅尾鴝仔 âng-bóe-kî-á**
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/rutrob1)
 
@@ -357,7 +357,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 **台語名**
 
-🎯 **青鴝仔 tshenn-kî-á**
+🎯 **青鴝仔 chheⁿ-kî-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sibrob)
 
@@ -371,7 +371,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 
 **台語名**
 
-🎯 **青喉鴝仔 tshenn-âu-kî-á**
+🎯 **青喉鴝仔 chheⁿ-âu-kî-á**
 
 參考英語、特徵、[eBird 資料](https://ebird.org/species/blueth)
 
@@ -385,7 +385,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **台灣烏磯 tâi-uân-oo-ki**
+🎯 **台灣烏磯 tâi-oân-o͘-ki**
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/fowthr1)
 
@@ -399,7 +399,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **白斑烏磯 pe̍h-pan-oo-ki**
+🎯 **白斑烏磯 pe̍h-pan-o͘-ki**
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、特徵、[eBird 資料](https://ebird.org/species/blwthr1)
 
@@ -413,7 +413,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **烏白鶇仔 oo-pe̍h-tang-á**
+🎯 **烏白鶇仔 o͘-pe̍h-tang-á**
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、特徵、[eBird 資料](https://ebird.org/species/litfor1)
 
@@ -456,7 +456,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **青尾鴝仔 tshenn-bué-kî-á**
+🎯 **青尾鴝仔 chheⁿ-bóe-kî-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/refblu)
 
@@ -470,7 +470,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **台灣白眉鴝仔 tâi-uân-pe̍h-bâi-kî-á**
+🎯 **台灣白眉鴝仔 tâi-oân-pe̍h-bâi-kî-á**
 
 參考英語、[eBird 資料](https://ebird.org/species/wbbrob1)
 
@@ -484,7 +484,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-- 🎯 **栗背鴝仔 lik-puē-kî-á**
+- 🎯 **栗背鴝仔 lek-pōe-kî-á**
 - 🎯 **阿里山鴝仔 a-lí-san-kî-á**
 
 參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/cobrob1)
@@ -555,7 +555,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **鐵鉎青鶲仔 thih-sian-tshenn-ong-á**
+🎯 **鐵鉎青鶲仔 thih-sian-chheⁿ-ong-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/slbfly1)
 
@@ -569,7 +569,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **黃胸青鶲仔 n̂g-hing-tshenn-ong-á**
+🎯 **黃胸青鶲仔 n̂g-heng-chheⁿ-ong-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/snbfly1)
 
@@ -583,7 +583,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **柑仔色胸鶲仔 kam-á-sik-hing-ong-á**
+🎯 **柑仔色胸鶲仔 kam-á-sek-heng-ong-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rugfly1)
 
@@ -611,7 +611,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **紅胸鶲仔 âng-hing-ong-á**
+🎯 **紅胸鶲仔 âng-heng-ong-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rebfly)
 
@@ -625,7 +625,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **藍額紅尾鴝仔 nâ-hia̍h-âng-bué-kî-á**
+🎯 **藍額紅尾鴝仔 nâ-hia̍h-âng-bóe-kî-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/blfred1)
 
@@ -639,8 +639,8 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-- 🎯 **石青仔 tsio̍h-tshenn-á**
-- 🎯 **紅尾鶇仔 âng-bué-tang-á**
+- 🎯 **石青仔 chio̍h-chheⁿ-á**
+- 🎯 **紅尾鶇仔 âng-bóe-tang-á**
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/plured1)
 
@@ -654,7 +654,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **白頭紅尾鴝仔 pe̍h-thâu-âng-bué-kî-á**
+🎯 **白頭紅尾鴝仔 pe̍h-thâu-âng-bóe-kî-á**
 
 參考特徵、[eBird 資料](https://ebird.org/species/whcred1)
 
@@ -668,7 +668,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **烏身紅尾鴝仔 oo-sin-âng-bué-kî-á**
+🎯 **烏身紅尾鴝仔 o͘-sin-âng-bóe-kî-á**
 
 參考英語、[eBird 資料](https://ebird.org/species/blared1)
 
@@ -682,7 +682,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-- 🎯 **紅尾溜 âng-bué-liu**
+- 🎯 **紅尾溜 âng-bóe-liu**
 
 參考華語鳥類名錄、特徵、[eBird 資料](https://ebird.org/species/daured1)
 
@@ -711,7 +711,7 @@ no rights reserved, uploaded by 葉子
 **台語名**
 
 - 🎯 **藍磯鶇仔 nâ-ki-tang-á**
-- ✳️ 厝角鳥 tshù-kak-tsiáu
+- ✳️ 厝角鳥 chhù-kak-chiáu
 
 參考英語、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/burthr)
 
@@ -725,7 +725,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **烏喉鴝仔 oo-âu-kî-á**
+🎯 **烏喉鴝仔 o͘-âu-kî-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/stonec7)
 
@@ -739,7 +739,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **白斑烏石䳭 pe̍h-pan-oo-tsio̍h-tsik**
+🎯 **白斑烏石䳭 pe̍h-pan-o͘-chio̍h-chek**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/piebus1)
 
@@ -753,7 +753,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **殕色鴝仔 phú-sik-kî-á**
+🎯 **殕色鴝仔 phú-sek-kî-á**
 
 參考英語、特徵、[eBird 資料](https://ebird.org/species/grybus1)
 
@@ -767,7 +767,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **穗䳭仔 suī-tsik-á**
+🎯 **穗䳭仔 sūi-chek-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/norwhe)
 
@@ -777,11 +777,11 @@ no rights reserved, uploaded by 葉子
 
 ![沙䳭 イナバヒタキ Isabelline Wheatear](https://inaturalist-open-data.s3.amazonaws.com/photos/118441745/medium.jpg)
 
-(c) Nik Borrow, some rights reserved (CC BY-NC)
+(c) Nek Borrow, some rights reserved (CC BY-NC)
 
 **台語名**
 
-🎯 **沙䳭仔 sua-tsik-á**
+🎯 **沙䳭仔 soa-chek-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/isawhe1)
 
@@ -795,7 +795,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **漠鶲 bo̍k-tsik-á**
+🎯 **漠鶲 bo̍k-chek-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/deswhe1)
 
@@ -809,6 +809,6 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **白頂䳭仔 pe̍h-tíng-tsik-á**
+🎯 **白頂䳭仔 pe̍h-tíng-chek-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/piewhe1)

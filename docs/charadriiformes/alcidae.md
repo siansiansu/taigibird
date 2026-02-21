@@ -1,12 +1,12 @@
 ---
-title: 海雀仔科 hái-tshiok-á-kho
-description: 海雀仔（hái-tshiok-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 海雀仔科 hái-chhiok-á-kho
+description: 海雀仔（hái-chhiok-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海雀"]
 ---
 
-# 海雀仔科 hái-tshiok-á-kho
+# 海雀仔科 hái-chhiok-á-kho
 
-海雀仔（hái-tshiok-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+海雀仔（hái-chhiok-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 崖海鴉 ウミガラス Common Murre
 
@@ -30,7 +30,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海雀"]
 
 **台語名**
 
-🎯 **扁喙海雀 pínn-tshuì-hái-tshiok**
+🎯 **扁喙海雀 pínn-chhùi-hái-chhiok**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/ancmur)
 
@@ -44,7 +44,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海雀"]
 
 **台語名**
 
-🎯 **聳毛海雀 tshàng-moo-hái-tshiok**
+🎯 **聳毛海雀 chhàng-mo͘-hái-chhiok**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/japmur1)
 
@@ -58,9 +58,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海雀"]
 
 **台語名**
 
-- 🎯 **白眶海粉鳥 pe̍h-khing-hái-hún-tsiáu**
-- 🎯 白眶海雀 pe̍h-khing-hái-tshiok
-- 🎯 白眶海鴿 pe̍h-khing-hái-kah
+- 🎯 **白眶海粉鳥 pe̍h-kheng-hái-hún-chiáu**
+- 🎯 白眶海雀 pe̍h-kheng-hái-chhiok
+- 🎯 白眶海鴿 pe̍h-kheng-hái-kah
 
 參考華語、[eBird 資料](https://ebird.org/species/spegui1)
 
@@ -74,6 +74,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海雀"]
 
 **台語名**
 
-🎯 **角喙海雀 kak-tshuì-hái-tshiok**
+🎯 **角喙海雀 kak-chhùi-hái-chhiok**
 
 參考華語、[eBird 資料](https://ebird.org/species/rhiauk)

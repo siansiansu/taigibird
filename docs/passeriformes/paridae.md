@@ -1,12 +1,12 @@
 ---
-title: 山雀科 suann-tshiok-kho
-description: 山雀科（suann-tshiok-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 山雀科 soaⁿ-chhiok-kho
+description: 山雀科（soaⁿ-chhiok-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "山雀"]
 ---
 
-# 山雀科 suann-tshiok-kho
+# 山雀科 soaⁿ-chhiok-kho
 
-山雀科（suann-tshiok-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+山雀科（soaⁿ-chhiok-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 煤山雀 ヒガラ Coal Tit
 
@@ -16,9 +16,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "山雀"]
 
 **台語名**
 
-- 🎯 **台灣日雀 tâi-uân-ji̍t-tshiok**
-- 🎯 **小山雀 sió-suann-tshiok**
-- 煤山雀 muê-suann-tshiok
+- 🎯 **台灣日雀 tâi-oân-ji̍t-chhiok**
+- 🎯 **小山雀 sió-soaⁿ-chhiok**
+- 煤山雀 môe-soaⁿ-chhiok
 
 參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/coatit2)
 
@@ -32,7 +32,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "山雀"]
 
 **台語名**
 
-🎯 **黃腹山雀 n̂g-pak-suann-tshiok**
+🎯 **黃腹山雀 n̂g-pak-soaⁿ-chhiok**
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/yebtit4)
 
@@ -46,8 +46,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "山雀"]
 
 **台語名**
 
-- 🎯 **紅腹山雀 âng-pak-suann-tshiok**
-- 🎯 **赤腹山雀 tshiah-pak-suann-tshiok**
+- 🎯 **紅腹山雀 âng-pak-soaⁿ-chhiok**
+- 🎯 **赤腹山雀 chhiah-pak-soaⁿ-chhiok**
 
 參考英語、特徵、[eBird 資料](https://ebird.org/species/vartit3)
 
@@ -61,8 +61,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "山雀"]
 
 **台語名**
 
-- 🎯 **雜色山雀 tsa̍p-sik-suann-tshiok**
-- 🎯 **山雀 suann-tshiok**
+- 🎯 **雜色山雀 cha̍p-sek-soaⁿ-chhiok**
+- 🎯 **山雀 soaⁿ-chhiok**
 
 參考英語、日語、[eBird 資料](https://ebird.org/species/vartit1)
 
@@ -76,7 +76,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "山雀"]
 
 **台語名**
 
-🎯 **青背山雀 tshinn-puē-suann-tshiok**
+🎯 **青背山雀 chhiⁿ-pōe-soaⁿ-chhiok**
 
 參考英語、特徵、[eBird 資料](https://ebird.org/species/grbtit1)
 
@@ -90,8 +90,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "山雀"]
 
 **台語名**
 
-- 🎯 **日本山雀 ji̍t-pún-suann-tshiok**
-- 🎯 **白喙䫌山雀 pe̍h-tshuì-phué-suann-tshiok**
+- 🎯 **日本山雀 ji̍t-pún-soaⁿ-chhiok**
+- 🎯 **白喙䫌山雀 pe̍h-chhùi-phóe-soaⁿ-chhiok**
 
 參考英語、特徵、[eBird 資料](https://ebird.org/species/gretit4)
 
@@ -105,7 +105,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "山雀"]
 
 **台語名**
 
-- 🎯 **司公仔鳥 sai-kong-á-tsiáu**
-- 🎯 **黃山雀 n̂g-suann-tshiok**
+- 🎯 **司公仔鳥 sai-kong-á-chiáu**
+- 🎯 **黃山雀 n̂g-soaⁿ-chhiok**
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/yeltit2)

@@ -1,12 +1,12 @@
 ---
-title: 圓頭仔科 înn-thâu-á-kho
-description: 圓頭仔科（înn-thâu-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 圓頭仔科 îⁿ-thâu-á-kho
+description: 圓頭仔科（îⁿ-thâu-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "圓頭仔", "鸚嘴"]
 ---
 
-# 圓頭仔科 înn-thâu-á-kho
+# 圓頭仔科 îⁿ-thâu-á-kho
 
-圓頭仔科（înn-thâu-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+圓頭仔科（îⁿ-thâu-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 褐頭花翼 タイワンチメドリ Taiwan Fulvetta
 
@@ -16,8 +16,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "圓頭仔
 
 **台語名**
 
-- 🎯 **赤頭圓頭仔 tshiah-thâu-înn-thâu-á**
-- ✳️ 花眉仔 hue-bâi-á
+- 🎯 **赤頭圓頭仔 chhiah-thâu-îⁿ-thâu-á**
+- ✳️ 花眉仔 hoe-bâi-á
 
 參考 2002⁺ 台華線頂辭典、日語、華語、特徵、[eBird 資料](https://ebird.org/species/taiful1)
 
@@ -31,8 +31,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "圓頭仔
 
 **台語名**
 
-- 🎯 **黃毛圓頭仔 n̂g-moo-înn-thâu-á**
-- ✳️ 圓頭仔 înn-thâu-á
+- 🎯 **黃毛圓頭仔 n̂g-mo͘-îⁿ-thâu-á**
+- ✳️ 圓頭仔 îⁿ-thâu-á
 
 參考 1973 Embree台英辭典、英語、[eBird 資料](https://ebird.org/species/golpar2)
 
@@ -46,7 +46,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "圓頭仔
 
 **台語名**
 
-- 🎯 **粉紅圓頭仔 hún-âng-înn-thâu-á**
-- ✳️ 圓頭仔 înn-thâu-á
+- 🎯 **粉紅圓頭仔 hún-âng-îⁿ-thâu-á**
+- ✳️ 圓頭仔 îⁿ-thâu-á
 
 參考 1973 Embree台英辭典、英語、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/vitpar1)

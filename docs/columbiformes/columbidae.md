@@ -16,7 +16,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **台語名**
 
-🎯 **粉鳥 hún-tsiáu**
+🎯 **粉鳥 hún-chiáu**
 
 參考[教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/)、[eBird 資料](https://ebird.org/species/rocpig1)
 
@@ -30,7 +30,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **台語名**
 
-🎯 **山粉鳥 suann-hún-tsiáu**
+🎯 **山粉鳥 soaⁿ-hún-chiáu**
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/aswpig1)
 
@@ -44,7 +44,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **台語名**
 
-🎯 **烏粉鳥 oo-hún-tsiáu**
+🎯 **烏粉鳥 o͘-hún-chiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/jawpig1)
 
@@ -58,8 +58,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **台語名**
 
-- 🎯 **白喉粉鳥 pe̍h-âu-hún-tsiáu**
-- 🎯 **赤目烏粉鳥 tshiah-ba̍k-oo-hún-tsiáu**
+- 🎯 **白喉粉鳥 pe̍h-âu-hún-chiáu**
+- 🎯 **赤目烏粉鳥 chhiah-ba̍k-o͘-hún-chiáu**
 
 參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/metpig1)
 
@@ -73,8 +73,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **台語名**
 
-- 🎯 **山斑鴿 suann-pan-kah**
-- 🎯 **大花斑 tuā-hue-pan**
+- 🎯 **山斑鴿 soaⁿ-pan-kah**
+- 🎯 **大花斑 tōa-hoe-pan**
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/ortdov)
 
@@ -88,7 +88,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **台語名**
 
-🎯 **殕色斑鴿 phú-sik-pan-kah**
+🎯 **殕色斑鴿 phú-sek-pan-kah**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eucdov)
 
@@ -102,8 +102,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **台語名**
 
-- 🎯 **火鵻仔 hué-tsui-á**
-- 🎯 **火斑鴿 hué-pan-kah**
+- 🎯 **火鵻仔 hóe-chui-á**
+- 🎯 **火斑鴿 hóe-pan-kah**
 - 🎯 **紅斑鴿 âng-pan-kah**
 
 參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/recdov1)
@@ -119,7 +119,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 **台語名**
 
 - 🎯 **斑鴿 pan-kah**
-- 🎯 **數珠仔 sòo-tsu-a**
+- 🎯 **數珠仔 sò͘-chu-a**
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/spodov)
 
@@ -133,7 +133,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **台語名**
 
-🎯 **橫紋長尾鳩 huâinn-bûn-tn̂g-bé-kah**
+🎯 **橫紋長尾鳩 hoâiⁿ-bûn-tn̂g-bé-kah**
 
 參考特徵、日語、[eBird 資料](https://ebird.org/species/bacdov1)
 
@@ -162,8 +162,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **台語名**
 
-- 🎯 **金鵻 kim-tsui**
-- **🎯 林跤鳥 nâ-kha-tsiáu**
+- 🎯 **金鵻 kim-chui**
+- **🎯 林跤鳥 nâ-kha-chiáu**
 
 參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/emedov2)
 
@@ -177,8 +177,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **台語名**
 
-- 🎯 **花條鴿 hue-tiâu-kah**
-- 🎯 **花斑鴿 hue-pan-kah**
+- 🎯 **花條鴿 hoe-tiâu-kah**
+- 🎯 **花斑鴿 hoe-pan-kah**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/zebdov)
 
@@ -192,7 +192,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **台語名**
 
-🎯 **柑仔色胸青鵻 kam-á-sik-hing-tshenn-tsui**
+🎯 **柑仔色胸青鵻 kam-á-sek-heng-chheⁿ-chui**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/orbpig1)
 
@@ -206,7 +206,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **台語名**
 
-🎯 **厚喙青鵻 kāu-tshuì-tshenn-tsui**
+🎯 **厚喙青鵻 kāu-chhùi-chheⁿ-chui**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/thbpig1)
 
@@ -220,8 +220,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **台語名**
 
-- 🎯 **青鵻 tshenn-tsui**
-- 🎯 **黃鵻 n̂g-tsui**
+- 🎯 **青鵻 chheⁿ-chui**
+- 🎯 **黃鵻 n̂g-chui**
 
 參考 2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/whbpig1)
 
@@ -235,7 +235,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **台語名**
 
-🎯 **紅頭青鵻 âng-thâu-tshenn-tsui**
+🎯 **紅頭青鵻 âng-thâu-chheⁿ-chui**
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/whgpig1)
 
@@ -249,6 +249,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **台語名**
 
-🎯 **小青鵻 sió-tshenn-tsui**
+🎯 **小青鵻 sió-chheⁿ-chui**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/bcfdov1)

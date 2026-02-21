@@ -1,12 +1,12 @@
 ---
-title: 食蜜鳥科 tsia̍h-bi̍t-tsiáu-kho
-description: 食蜜鳥（tsia̍h-bi̍t-tsiáu，華語：太陽鳥、吸蜜鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 食蜜鳥科 chia̍h-bi̍t-chiáu-kho
+description: 食蜜鳥（chia̍h-bi̍t-chiáu，華語：太陽鳥、吸蜜鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜜鳥", "花蜜鳥", "太陽鳥"]
 ---
 
-# 食蜜鳥科 tsia̍h-bi̍t-tsiáu-kho
+# 食蜜鳥科 chia̍h-bi̍t-chiáu-kho
 
-食蜜鳥（tsia̍h-bi̍t-tsiáu，華語：太陽鳥、吸蜜鳥、花蜜鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+食蜜鳥（chia̍h-bi̍t-chiáu，華語：太陽鳥、吸蜜鳥、花蜜鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 黃腹花蜜鳥 Ornate Sunbird
 
@@ -16,7 +16,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜜鳥
 
 **台語名**
 
-🎯 **黃腹花蜜鳥 n̂g-pak-hue-bi̍t-tsiáu**
+🎯 **黃腹花蜜鳥 n̂g-pak-hoe-bi̍t-chiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/olbsun4)
 
@@ -30,7 +30,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜜鳥
 
 **台語名**
 
-🎯 **藍喉太陽鳥 nâ-âu-thài-iông-tsiáu**
+🎯 **藍喉太陽鳥 nâ-âu-thài-iông-chiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gousun1)
 
@@ -44,6 +44,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜜鳥
 
 **台語名**
 
-🎯 **攕仔尾太陽鳥 tshiám-á-bué-thài-iông-tsiáu**
+🎯 **攕仔尾太陽鳥 chhiám-á-bóe-thài-iông-chiáu**
 
 參考英語、[eBird 資料](https://ebird.org/species/fotsun1)

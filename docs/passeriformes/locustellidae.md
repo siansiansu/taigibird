@@ -1,12 +1,12 @@
 ---
-title: 蝗鶯科 hông-ing-kho
-description: 蝗鶯（hông-ing）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 蝗鶯科 hông-eng-kho
+description: 蝗鶯（hông-eng）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蝗鶯"]
 ---
 
-# 蝗鶯科 hông-ing-kho
+# 蝗鶯科 hông-eng-kho
 
-蝗鶯（hông-ing）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+蝗鶯（hông-eng）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 蒼眉蝗鶯 シベリアエゾセンニュウ Gray's Grasshopper Warbler
 
@@ -16,9 +16,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蝗鶯"]
 
 **台語名**
 
-- 🎯 **蒼眉蝗鶯 tshong-bâi-hông-ing**
-- 蒼眉急鳥 tshong-bâi-kip-tsiáu
-- ✳️ 急鳥 kip-tsiáu
+- 🎯 **蒼眉蝗鶯 chhong-bâi-hông-eng**
+- 蒼眉急鳥 chhong-bâi-kip-chiáu
+- ✳️ 急鳥 kip-chiáu
 
 參考華語鳥類名錄、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/grgwar1)
 
@@ -32,9 +32,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蝗鶯"]
 
 **台語名**
 
-- 🎯 **庫頁島蝗鶯 khòo-ia̍h-tó-hông-ing**
-- **庫頁島急鳥 khòo-ia̍h-tó-kip-tsiáu**
-- ✳️ 急鳥 kip-tsiáu
+- 🎯 **庫頁島蝗鶯 khò͘-ia̍h-tó-hông-eng**
+- **庫頁島急鳥 khò͘-ia̍h-tó-kip-chiáu**
+- ✳️ 急鳥 kip-chiáu
 
 參考華語鳥類名錄、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/sakwar1)
 
@@ -48,9 +48,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蝗鶯"]
 
 **台語名**
 
-- 🎯 **小蝗鶯 sió-hông-ing**
-- 小急鳥 sió-kip-tsiáu
-- ✳️ 急鳥 kip-tsiáu
+- 🎯 **小蝗鶯 sió-hông-eng**
+- 小急鳥 sió-kip-chiáu
+- ✳️ 急鳥 kip-chiáu
 
 參考華語鳥類名錄、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/pagwar1)
 
@@ -64,9 +64,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蝗鶯"]
 
 **台語名**
 
-- 🎯 **北蝗鶯 pak-hông-ing**
-- 花尾急鳥 hue-bué-kip-tsiáu
-- ✳️ 急鳥 kip-tsiáu
+- 🎯 **北蝗鶯 pak-hông-eng**
+- 花尾急鳥 hoe-bóe-kip-chiáu
+- ✳️ 急鳥 kip-chiáu
 
 參考華語鳥類名錄、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/migwar)
 
@@ -80,9 +80,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蝗鶯"]
 
 **台語名**
 
-- 🎯 **史氏蝗鶯 sú-sī-hông-ing**
-- 史氏急鳥 sú-sī-kip-tsiáu
-- ✳️ 急鳥 kip-tsiáu
+- 🎯 **史氏蝗鶯 sú-sī-hông-eng**
+- 史氏急鳥 sú-sī-kip-chiáu
+- ✳️ 急鳥 kip-chiáu
 
 參考華語鳥類名錄、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/plewar1)
 
@@ -96,9 +96,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蝗鶯"]
 
 **台語名**
 
-- 🎯 **茅斑蝗鶯 hm̂-pan-hông-ing**
-- 茅斑急鳥 hm̂-pan-kip-tsiáu
-- ✳️ 急鳥 kip-tsiáu
+- 🎯 **茅斑蝗鶯 hm̂-pan-hông-eng**
+- 茅斑急鳥 hm̂-pan-kip-chiáu
+- ✳️ 急鳥 kip-chiáu
 
 參考華語鳥類名錄、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/lanwar)
 
@@ -112,7 +112,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蝗鶯"]
 
 **台語名**
 
-🎯 **台灣叢樹鶯 tâi-uân-tshông-tshiū-ing**
+🎯 **台灣叢樹鶯 tâi-oân-chhông-chhiū-eng**
 
 參考華語鳥類名錄、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/taibuw1)
 
@@ -126,8 +126,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蝗鶯"]
 
 **台語名**
 
-- 🎯 **赤色蝗鶯 tshiah-hông-ing**
-- 赤色急鳥 tshiah-kip-tsiáu
-- ✳️ 急鳥 kip-tsiáu
+- 🎯 **赤色蝗鶯 chhiah-hông-eng**
+- 赤色急鳥 chhiah-kip-chiáu
+- ✳️ 急鳥 kip-chiáu
 
 參考華語鳥類名錄、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/rubwar1)

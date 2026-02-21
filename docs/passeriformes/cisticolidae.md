@@ -1,12 +1,12 @@
 ---
-title: 扇尾鶯科 sìnn-bué-ing-kho
-description: 扇尾鶯科（sìnn-bué-ing-kho，例如：鷦鶯、扇尾鶯）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 扇尾鶯科 sìⁿ-bóe-eng-kho
+description: 扇尾鶯科（sìⁿ-bóe-eng-kho，例如：鷦鶯、扇尾鶯）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "扇尾鶯", "鷦鶯"]
 ---
 
-# 扇尾鶯科 sìnn-bué-ing-kho
+# 扇尾鶯科 sìⁿ-bóe-eng-kho
 
-扇尾鶯科（sìnn-bué-ing-kho，例如：鷦鶯、扇尾鶯）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+扇尾鶯科（sìⁿ-bóe-eng-kho，例如：鷦鶯、扇尾鶯）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 斑紋鷦鶯 Striped Prinia
 
@@ -17,7 +17,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "扇尾鶯
 **台語名**
 
 - 🎯 **斑紋望冬 pan-bûn-bāng-tang**
-- ✳️ 布袋鳥 pòo-tē-tsiáu
+- ✳️ 布袋鳥 pò͘-tē-chiáu
 - ✳️ 望冬丟仔 bāng-tang-tiú-á
 
 頭前加上特徵、[eBird 資料](https://ebird.org/species/strpri8)
@@ -32,8 +32,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "扇尾鶯
 
 **台語名**
 
-- 🎯 **殕色頭望冬 phú-sik-thâu-bāng-tang**
-- ✳️ 布袋鳥 pòo-tē-tsiáu
+- 🎯 **殕色頭望冬 phú-sek-thâu-bāng-tang**
+- ✳️ 布袋鳥 pò͘-tē-chiáu
 - ✳️ 望冬丟仔 bāng-tang-tiú-á
 
 頭前加上特徵、[eBird 資料](https://ebird.org/species/yebpri1)
@@ -48,8 +48,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "扇尾鶯
 
 **台語名**
 
-- 🎯 **赤頭望冬 tshiah-thâu-bāng-tang**
-- ✳️ 布袋鳥 pòo-tē-tsiáu
+- 🎯 **赤頭望冬 chhiah-thâu-bāng-tang**
+- ✳️ 布袋鳥 pò͘-tē-chiáu
 - ✳️ 望冬丟仔 bāng-tang-tiú-á
 
 頭前加上特徵、[eBird 資料](https://ebird.org/species/plapri1)
@@ -64,9 +64,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "扇尾鶯
 
 **台語名**
 
-- 🎯 **白尾扇 pe̍h-bué-sìnn**
-- ✳️ 布袋鳥 pòo-tē-tsiáu
-- ✳️ 布袋鳥仔 pòo-tē-tsiáu-á
+- 🎯 **白尾扇 pe̍h-bóe-sìⁿ**
+- ✳️ 布袋鳥 pò͘-tē-chiáu
+- ✳️ 布袋鳥仔 pò͘-tē-chiáu-á
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/zitcis1)
 
@@ -80,10 +80,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "扇尾鶯
 
 **台語名**
 
-- 🎯 **黃頭塚仔鳥 n̂g-thâu-thióng-á-tsiáu**
-- ✳️ 墓仔鳥 bōng-á-tsiáu
-- ✳️ 塚仔鳥 thióng-á-tsiáu
-- ✳️ 布袋鳥 pòo-tē-tsiáu
+- 🎯 **黃頭塚仔鳥 n̂g-thâu-thióng-á-chiáu**
+- ✳️ 墓仔鳥 bōng-á-chiáu
+- ✳️ 塚仔鳥 thióng-á-chiáu
+- ✳️ 布袋鳥 pò͘-tē-chiáu
 
 頭前加上特徵、[eBird 資料](https://ebird.org/species/gohcis1)
 
@@ -97,6 +97,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "扇尾鶯
 
 **台語名**
 
-🎯 **長尾裁縫鳥 tn̂g-bé-tshâi-hông-tsiáu**
+🎯 **長尾裁縫鳥 tn̂g-bé-chhâi-hông-chiáu**
 
 參考華語、日語、[eBird 資料](https://ebird.org/species/comtai1)

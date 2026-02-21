@@ -1,12 +1,12 @@
 ---
-title: 雀仔科 tshiok-á-kho
-description: 雀仔（tshiok-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 雀仔科 chhiok-á-kho
+description: 雀仔（chhiok-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 ---
 
-# 雀仔科 tshiok-á-kho
+# 雀仔科 chhiok-á-kho
 
-雀仔（tshiok-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+雀仔（chhiok-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 花雀 アトリ Brambling
 
@@ -16,7 +16,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **花鳥仔 hue-tsiáu-á**
+🎯 **花鳥仔 hoe-chiáu-á**
 
 參考日語、[eBird 資料](https://ebird.org/species/brambl)
 
@@ -30,7 +30,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **臘喙雀 la̍h-tshuì-tshiok**
+🎯 **臘喙雀 la̍h-chhùi-chhiok**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/hawfin)
 
@@ -72,7 +72,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **普通紅鳥仔 phóo-thong-âng-tsiáu-á**
+🎯 **普通紅鳥仔 phó͘-thong-âng-chiáu-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/comros)
 
@@ -86,7 +86,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **酒紅紅鳥仔 tsiú-âng-âng-tsiáu-á**
+🎯 **酒紅紅鳥仔 chiú-âng-âng-chiáu-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/vinros2)
 
@@ -100,7 +100,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **台灣紅鳥仔 tâi-uân-âng-tsiáu-á**
+🎯 **台灣紅鳥仔 tâi-oân-âng-chiáu-á**
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/vinros3)
 
@@ -114,7 +114,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **北紅鳥仔 pak-âng-tsiáu-á**
+🎯 **北紅鳥仔 pak-âng-chiáu-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/palros2)
 
@@ -124,11 +124,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 ![褐鷽 チャイロウソ Brown Bullfinch](https://inaturalist-open-data.s3.amazonaws.com/photos/113793253/medium.jpg)
 
-(c) Ben Tsai蔡維哲, some rights reserved (CC BY-NC)
+(c) Ben Chai蔡維哲, some rights reserved (CC BY-NC)
 
 **台語名**
 
-🎯 **赤面猴 tshiah-bīn-kâu**
+🎯 **赤面猴 chhiah-bīn-kâu**
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/brobul1)
 
@@ -142,7 +142,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **烏面猴 oo-bīn-kâu**
+🎯 **烏面猴 o͘-bīn-kâu**
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/gyhbul5)
 
@@ -156,7 +156,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **歐亞烏面猴 au-a-oo-bīn-kâu**
+🎯 **歐亞烏面猴 au-a-o͘-bīn-kâu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eurbul)
 
@@ -170,7 +170,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **金翼雀 kim-tshì-tshiok**
+🎯 **金翼雀 kim-chhì-chhiok**
 
 參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/origre)
 
@@ -184,7 +184,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **紅胸紅頂雀 âng-hing-âng-tíng-tshiok**
+🎯 **紅胸紅頂雀 âng-heng-âng-tíng-chhiok**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eurlin1)
 
@@ -198,7 +198,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **普通紅頂雀 phóo-thong-âng-tíng-tshiok**
+🎯 **普通紅頂雀 phó͘-thong-âng-tíng-chhiok**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/comred)
 
@@ -212,7 +212,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **紅必叉喙鳥 âng-pit-tshe-tshuì-tsiáu**
+🎯 **紅必叉喙鳥 âng-pit-chhe-chhùi-chiáu**
 
 參考英語、[eBird 資料](https://ebird.org/species/redcro)
 
@@ -226,7 +226,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **黃雀 n̂g-tshiok**
+🎯 **黃雀 n̂g-chhiok**
 
 參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/eursis)
 
@@ -240,6 +240,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **長尾紅鳥仔 tn̂g-bué-âng-tsiáu-á**
+🎯 **長尾紅鳥仔 tn̂g-bóe-âng-chiáu-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lotros1)

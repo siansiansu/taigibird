@@ -1,12 +1,12 @@
 ---
-title: 賊仔鷗科 tsha̍t-á-oo-kho
-description: 賊仔鷗（tsha̍t-á-oo，華語：賊鷗）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 賊仔鷗科 chha̍t-á-o͘-kho
+description: 賊仔鷗（chha̍t-á-o͘，華語：賊鷗）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "賊鷗"]
 ---
 
-# 賊仔鷗科 tsha̍t-á-oo-kho
+# 賊仔鷗科 chha̍t-á-o͘-kho
 
-賊仔鷗（tsha̍t-á-oo，華語：賊鷗）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+賊仔鷗（chha̍t-á-o͘，華語：賊鷗）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 長尾賊鷗 シロハラトウゾクカモメ Long-tailed Jaeger
 
@@ -16,8 +16,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "賊鷗"]
 
 **台語名**
 
-- 🎯 **長尾賊仔鷗 tn̂g-bué-tsha̍t-á-oo**
-- ✳️ 賊仔鷗 tsha̍t-á-oo
+- 🎯 **長尾賊仔鷗 tn̂g-bóe-chha̍t-á-o͘**
+- ✳️ 賊仔鷗 chha̍t-á-o͘
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lotjae)
 
@@ -31,8 +31,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "賊鷗"]
 
 **台語名**
 
-- 🎯 **短尾賊仔鷗 té-bé-tsha̍t-á-oo**
-- ✳️ 賊仔鷗 tsha̍t-á-oo
+- 🎯 **短尾賊仔鷗 té-bé-chha̍t-á-o͘**
+- ✳️ 賊仔鷗 chha̍t-á-o͘
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/parjae)
 
@@ -46,8 +46,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "賊鷗"]
 
 **台語名**
 
-- 🎯 **中賊仔鷗 tiong-tsha̍t-á-oo**
-- ✳️ 賊仔鷗 tsha̍t-á-oo
+- 🎯 **中賊仔鷗 tiong-chha̍t-á-o͘**
+- ✳️ 賊仔鷗 chha̍t-á-o͘
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/pomjae)
 
@@ -61,7 +61,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "賊鷗"]
 
 **台語名**
 
-- 🎯 **殕色賊仔鷗 phú-sik-tsha̍t-á-oo**
-- ✳️ 賊仔鷗 tsha̍t-á-oo
+- 🎯 **殕色賊仔鷗 phú-sek-chha̍t-á-o͘**
+- ✳️ 賊仔鷗 chha̍t-á-o͘
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sopsku1)

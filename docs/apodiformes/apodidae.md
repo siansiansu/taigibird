@@ -1,12 +1,12 @@
 ---
-title: 雨燕仔科 hōo-iàn-á-kho
-description: 雨燕仔科（hōo-iàn-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 雨燕仔科 hō͘-iàn-á-kho
+description: 雨燕仔科（hō͘-iàn-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔", "雨燕"]
 ---
 
-# 雨燕仔科 hōo-iàn-á-kho
+# 雨燕仔科 hō͘-iàn-á-kho
 
-雨燕仔科（hōo-iàn-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+雨燕仔科（hō͘-iàn-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 白喉針尾雨燕 ハリオアマツバメ White-throated Needletail
 
@@ -16,7 +16,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔", 
 
 **台語名**
 
-🎯 **白喉針尾雨燕仔 pe̍h-âu-tsiam-bé-ú-iàn-á**
+🎯 **白喉針尾雨燕仔 pe̍h-âu-chiam-bé-ú-iàn-á**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/whtnee)
 
@@ -30,7 +30,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔", 
 
 **台語名**
 
-🎯 **殕色喉針尾雨燕 phú-sik-âu-tsiam-bé-ú-iàn**
+🎯 **殕色喉針尾雨燕 phú-sek-âu-chiam-bé-ú-iàn**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/sibnee1)
 
@@ -44,7 +44,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔", 
 
 **台語名**
 
-🎯 **紫色針尾雨燕 tsí-sik-tsiam-bé-ú-iàn**
+🎯 **紫色針尾雨燕 tsí-sek-chiam-bé-ú-iàn**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/purnee1)
 
@@ -58,7 +58,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔", 
 
 **台語名**
 
-🎯 **殕色腰金絲燕 phú-sik-io-kim-si-tsiáu**
+🎯 **殕色腰金絲燕 phú-sek-io-kim-si-chiáu**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/gyrswi5)
 
@@ -72,8 +72,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔", 
 
 **台語名**
 
-- 🎯 **短喙金絲燕 té-tshuì-kim-si-tsiáu**
-- 🎯 **喜馬拉雅金絲燕 hí-má-la-ngá-kim-si-tsiáu**
+- 🎯 **短喙金絲燕 té-chhùi-kim-si-chiáu**
+- 🎯 **喜馬拉雅金絲燕 hí-má-la-ngá-kim-si-chiáu**
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/himswi2)
 
@@ -87,7 +87,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔", 
 
 **台語名**
 
-🎯 **白燕窩金絲燕 pe̍h-iàn-o-kim-si-tsiáu**
+🎯 **白燕窩金絲燕 pe̍h-iàn-o-kim-si-chiáu**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/gerswi1)
 
@@ -101,8 +101,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔", 
 
 **台語名**
 
-- 🎯 **叉尾雨燕仔 tshe-bé-ú-iàn-á**
-- 🎯 **太平洋雨燕仔 thài-pîng-iûnn-ú-iàn-á**
+- 🎯 **叉尾雨燕仔 chhe-bé-ú-iàn-á**
+- 🎯 **太平洋雨燕仔 thài-pêng-iûnn-ú-iàn-á**
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/fotswi)
 
@@ -112,7 +112,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔", 
 
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/210776298/medium.jpg)
 
-(c) Ben Tsai蔡維哲, some rights reserved (CC BY-NC)
+(c) Ben Chai蔡維哲, some rights reserved (CC BY-NC)
 
 **台語名**
 

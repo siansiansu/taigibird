@@ -1,12 +1,12 @@
 ---
-title: 犀鳥科 sai-tsiáu-kho
-description: 犀鳥（sai-tsiáu）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 犀鳥科 sai-chiáu-kho
+description: 犀鳥（sai-chiáu）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "犀鳥"]
 ---
 
-# 犀鳥科 sai-tsiáu-kho
+# 犀鳥科 sai-chiáu-kho
 
-犀鳥（sai-tsiáu）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+犀鳥（sai-chiáu）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## シロクロサイチョウ White-crowned Hornbill
 
@@ -16,7 +16,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "犀鳥"]
 
 **台語名**
 
-🎯 **聳毛犀鳥 tshàng-mn̂g-sai-tsiáu**
+🎯 **聳毛犀鳥 chhàng-mn̂g-sai-chiáu**
 
 參考特徵、日語、英語、[eBird 資料](https://ebird.org/species/whchor2)
 
@@ -30,7 +30,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "犀鳥"]
 
 **台語名**
 
-🎯 **馬來犀鳥 Má-lâi-sai-tsiáu**
+🎯 **馬來犀鳥 Má-lâi-sai-chiáu**
 
 參考特徵、日語、英語、[eBird 資料](https://ebird.org/species/rhihor1)
 
@@ -44,7 +44,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "犀鳥"]
 
 **台語名**
 
-🎯 **皺喙犀鳥 jiâu-tshuì-sai-tsiáu**
+🎯 **皺喙犀鳥 jiâu-chhùi-sai-chiáu**
 
 參考特徵、日語、英語、[eBird 資料](https://ebird.org/species/wrihor1)
 
@@ -58,7 +58,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "犀鳥"]
 
 **台語名**
 
-🎯 **烏犀鳥 oo-sai-tsiáu**
+🎯 **烏犀鳥 o͘-sai-chiáu**
 
 參考特徵、日語、英語、[eBird 資料](https://ebird.org/species/blahor1)
 
@@ -68,10 +68,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "犀鳥"]
 
 ![犀鳥](https://inaturalist-open-data.s3.amazonaws.com/photos/466588482/medium.jpg)
 
-© Foo Chuan Wei, some rights reserved (CC-BY)
+© Foo Choan Wei, some rights reserved (CC-BY)
 
 **台語名**
 
-🎯 **斑犀鳥 pan-sai-tsiáu**
+🎯 **斑犀鳥 pan-sai-chiáu**
 
 參考特徵、日語、英語、[eBird 資料](https://ebird.org/species/orphor1)
