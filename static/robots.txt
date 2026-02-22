@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://taigibird.pages.dev/sitemap.xml
+Sitemap: https://taigichiau.pages.dev/sitemap.xml

@@ -7,7 +7,7 @@ const config = {
   favicon: "img/favicon.ico",
   trailingSlash: true,
 
-  url: "https://taigibird.pages.dev",
+  url: "https://taigichiau.pages.dev",
   baseUrl: "/",
 
   onBrokenLinks: "throw",
@@ -87,7 +87,7 @@ const config = {
         },
         {
           name: "og:url",
-          content: "https://taigibird.pages.dev/"
+          content: "https://taigichiau.pages.dev/"
         },
         {
           name: "description",
@@ -99,11 +99,11 @@ const config = {
         },
         {
           name: "og:image",
-          content: "https://taigibird.pages.dev/img/profile.jpg"
+          content: "https://taigichiau.pages.dev/img/profile.jpg"
         },
         {
           name: "twitter:image",
-          content: "https://taigibird.pages.dev/img/profile.jpg"
+          content: "https://taigichiau.pages.dev/img/profile.jpg"
         },
         {
           name: "og:type",
