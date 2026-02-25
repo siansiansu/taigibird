@@ -147,12 +147,12 @@ const config = {
           autoCollapseCategories: true,
         },
       },
-      algolia: {
-        container: '#docsearch',
-        appId: '42JNGUSU4Z',
-        indexName: 'taigibird.siansiansu.com',
-        apiKey: 'd780517812fd228ff2b7371cc449973c',
-      },
+      // algolia: {
+      //   container: '#docsearch',
+      //   appId: '42JNGUSU4Z',
+      //   indexName: 'taigibird.siansiansu.com',
+      //   apiKey: 'd780517812fd228ff2b7371cc449973c',
+      // },
     }),
 };
 
