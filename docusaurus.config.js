@@ -144,12 +144,12 @@ const config = {
           autoCollapseCategories: true,
         },
       },
-      // algolia: {
-      //   container: '#docsearch',
-      //   appId: '42JNGUSU4Z',
-      //   indexName: 'taigibird.siansiansu.com',
-      //   apiKey: 'd780517812fd228ff2b7371cc449973c',
-      // },
+      algolia: {
+        container: '#docsearch',
+        appId: 'VI6SD4P5S4',
+        indexName: 'Taigichiau Website',
+        apiKey: '641f15a0dc32483cac99847618f1a6e8',
+      },
     }),
 };
 
