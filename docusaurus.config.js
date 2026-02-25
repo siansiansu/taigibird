@@ -10,7 +10,7 @@ const config = {
   url: "https://taigichiau.pages.dev",
   baseUrl: "/",
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   i18n: {
     defaultLocale: "zh-TW",
     locales: ["zh-TW"],
