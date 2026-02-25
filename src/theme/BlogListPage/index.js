@@ -76,7 +76,7 @@ function AtlassianPagination({metadata, currentPage, onPageChange}) {
         <div className="atlassian-pagination-controls">
           {currentPage > 1 && (
             <Link
-              to={currentPage === 2 ? '/blog/' : `/blog/page/${currentPage - 1}/`}
+              to={currentPage === 2 ? '/' : `/page/${currentPage - 1}/`}
               className="atlassian-pagination-button atlassian-pagination-prev"
             >
               <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
@@ -97,7 +97,7 @@ function AtlassianPagination({metadata, currentPage, onPageChange}) {
               }
 
               const isActive = page === currentPage;
-              const pageUrl = page === 1 ? '/blog/' : `/blog/page/${page}/`;
+              const pageUrl = page === 1 ? '/' : `/page/${page}/`;
 
               return (
                 <Link
@@ -115,7 +115,7 @@ function AtlassianPagination({metadata, currentPage, onPageChange}) {
 
           {currentPage < totalPages && (
             <Link
-              to={`/blog/page/${currentPage + 1}/`}
+              to={`/page/${currentPage + 1}/`}
               className="atlassian-pagination-button atlassian-pagination-next"
             >
               下一頁
@@ -164,9 +164,9 @@ function AtlassianBlogList({items, metadata}) {
     <div className="atlassian-blog-container">
       {/* Header Section */}
       <div className="atlassian-blog-header">
-        <h1 className="atlassian-blog-title">最近的文章</h1>
+        <h1 className="atlassian-blog-title">所有題目</h1>
         <p className="atlassian-blog-description">
-          探索技術世界：從賞鳥程式到系統架構，分享我的學習心得與實作經驗
+          LeetCode 刷題筆記與解題思路
         </p>
       </div>
 
@@ -231,7 +231,7 @@ function AtlassianBlogList({items, metadata}) {
         metadata={metadata}
         currentPage={currentPage}
         onPageChange={(page) => {
-          const url = page === 1 ? '/blog/' : `/blog/page/${page}/`;
+          const url = page === 1 ? '/' : `/page/${page}/`;
           window.location.href = url;
         }}
       />
