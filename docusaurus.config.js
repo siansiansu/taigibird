@@ -2,15 +2,15 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Bîn-hiân ê 演算法練習",
-  tagline: "LeetCode 刷題筆記",
+  title: "現代鳥仔名台語新詞討論",
+  tagline: "鳥仔 | 台語 | 賞鳥簿仔 | eBird | 軟工 | 演算法 | 遊戲",
   favicon: "img/favicon.ico",
   trailingSlash: true,
 
   url: "https://taigichiau.pages.dev",
   baseUrl: "/",
 
-  onBrokenLinks: "warn",
+  onBrokenLinks: "throw",
   i18n: {
     defaultLocale: "zh-TW",
     locales: ["zh-TW"],
@@ -26,15 +26,12 @@ const config = {
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: false,
-        blog: {
-          blogTitle: 'Bîn-hiân ê 演算法練習',
-          blogDescription: 'LeetCode 刷題筆記',
-          postsPerPage: 9,
-          blogSidebarCount: 'ALL',
-          blogSidebarTitle: '所有題目',
+        docs: {
           routeBasePath: '/',
+          sidebarPath: "./sidebars.js",
+          sidebarCollapsed: false,
         },
+        blog: false,
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -78,15 +75,44 @@ const config = {
       metadata: [
         {
           name: "keywords",
-          content: "LeetCode, algorithms, 演算法, 刷題, 程式設計"
+          content: "台語, 鳥, 鳥仔, 台語鳥名, 鳥類, 鳥類台語, 鳥名, 鳥仔 ê 名, 台語教學, 認識鳥類, 台語動物名"
+        },
+        {
+          name: "twitter:card",
+          content: "summary_large_image",
+        },
+        {
+          name: "og:title",
+          content: "現代鳥仔名台語新詞討論"
+        },
+        {
+          name: "og:url",
+          content: "https://taigichiau.pages.dev/"
         },
         {
           name: "description",
-          content: "LeetCode 刷題筆記與解題思路"
+          content: "為著予大家認捌鳥仔 ê 台語，我整理了這个清單，予大家方便揣鳥仔 ê 台語名。《鳥仔 ê 名 - 認捌鳥仔 ê 台語》依據上新 ê 鳥類分類研究 kah 號明理路，盡量為每一種鳥仔揣適合 ê 名，希望會當藉著認捌鳥仔 ê 名，嘛有愈來愈濟人來使用這个漸漸消失 ê 語言。"
+        },
+        {
+          name: "og:description",
+          content: "了解鳥類的台語名稱，學習台語中鳥仔的知識"
+        },
+        {
+          name: "og:image",
+          content: "https://taigichiau.pages.dev/img/profile.jpg"
+        },
+        {
+          name: "twitter:image",
+          content: "https://taigichiau.pages.dev/img/profile.jpg"
+        },
+        {
+          name: "og:type",
+          content: "article"
         },
       ],
+      image: "img/profile.jpg",
       navbar: {
-        title: "Bîn-hiân ê 演算法練習",
+        title: "現代鳥仔名台語新詞討論",
         items: [
           {
             href: "https://portaly.cc/siansiansu",
@@ -111,7 +137,6 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-        additionalLanguages: ['cpp', 'java', 'python'],
       },
       docs: {
         sidebar: {
