@@ -26,12 +26,15 @@ const config = {
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
+        docs: false,
+        blog: {
+          blogTitle: 'Bîn-hiân ê 簿仔紙',
+          blogDescription: '賞鳥、野外、台語、軟體、生活',
+          postsPerPage: 9,
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: '最近的文章',
           routeBasePath: '/',
-          sidebarPath: "./sidebars.js",
-          sidebarCollapsed: false,
         },
-        blog: false,
         theme: {
           customCss: "./src/css/custom.css",
         },
