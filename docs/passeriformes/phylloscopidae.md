@@ -344,15 +344,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 ---
 
-## 堪察加柳鶯 オオムシクイ Kamchatka Leaf Warbler
+## 勘察加柳鶯 オオムシクイ Kamchatka Leaf Warbler
 
-![堪察加柳鶯 オオムシクイ Kamchatka Leaf Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/18110426/medium.jpeg)
+![勘察加柳鶯 オオムシクイ Kamchatka Leaf Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/18110426/medium.jpeg)
 
 (c) andriy, some rights reserved (CC BY-NC)
 
 **台語名**
 
-🎯 **堪察加柳鶯 kham-chhâ-chham-liú-eng**
+🎯 **勘察加柳鶯 kham-chhâ-chham-liú-eng**
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/arcwar2)
 

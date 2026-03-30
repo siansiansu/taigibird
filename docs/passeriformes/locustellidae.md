@@ -88,15 +88,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蝗鶯"]
 
 ---
 
-## 茅斑蝗鶯 マキノセンニュウ Lanceolated Warbler
+## 矛斑蝗鶯 マキノセンニュウ Lanceolated Warbler
 
-![茅斑蝗鶯 マキノセンニュウ Lanceolated Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/136898362/medium.jpg)
+![矛斑蝗鶯 マキノセンニュウ Lanceolated Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/136898362/medium.jpg)
 
 (c) Константин Самодуров, some rights reserved (CC BY-NC)
 
 **台語名**
 
-- 🎯 **茅斑蝗鶯 hm̂-pan-hông-eng**
+- 🎯 **矛斑蝗鶯 hm̂-pan-hông-eng**
 - 茅斑急鳥 hm̂-pan-kip-chiáu
 - ✳️ 急鳥 kip-chiáu
 
@@ -104,15 +104,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蝗鶯"]
 
 ---
 
-## 台灣叢樹鶯 タイワンオウギセッカ Taiwan Bush Warbler
+## 臺灣叢樹鶯 タイワンオウギセッカ Taiwan Bush Warbler
 
-![台灣叢樹鶯 タイワンオウギセッカ Taiwan Bush Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/24590989/medium.jpeg)
+![臺灣叢樹鶯 タイワンオウギセッカ Taiwan Bush Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/24590989/medium.jpeg)
 
 (c) Allen Lyu, some rights reserved (CC BY-NC)
 
 **台語名**
 
-🎯 **台灣叢樹鶯 tâi-oân-chhông-chhiū-eng**
+🎯 **臺灣叢樹鶯 tâi-oân-chhông-chhiū-eng**
 
 參考華語鳥類名錄、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/taibuw1)
 

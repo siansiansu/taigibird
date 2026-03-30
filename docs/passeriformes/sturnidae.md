@@ -192,9 +192,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 ---
 
-## 冠八哥 ハッカチョウ Crested Myna
+## 八哥(冠八哥) ハッカチョウ Crested Myna
 
-![冠八哥 ハッカチョウ Crested Myna](https://inaturalist-open-data.s3.amazonaws.com/photos/126315754/medium.jpeg)
+![八哥(冠八哥) ハッカチョウ Crested Myna](https://inaturalist-open-data.s3.amazonaws.com/photos/126315754/medium.jpeg)
 
 (c) Manel Ferreira, some rights reserved (CC BY-NC)
 

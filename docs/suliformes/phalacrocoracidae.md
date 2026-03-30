@@ -1,22 +1,22 @@
 ---
-title: 鸕鶿科 lô͘-chî-kho
-description: 鸕鶿（lô͘-chî）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
-keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸕鶿"]
+title: 鸕鷀科 lô͘-chî-kho
+description: 鸕鷀（lô͘-chî）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸕鷀"]
 ---
 
-# 鸕鶿科 lô͘-chî-kho
+# 鸕鷀科 lô͘-chî-kho
 
-鸕鶿（lô͘-chî）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+鸕鷀（lô͘-chî）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-## 海鸕鶿 ヒメウ Pelagic Cormorant
+## 海鸕鷀 ヒメウ Pelagic Cormorant
 
-![海鸕鶿 ヒメウ Pelagic Cormorant](https://inaturalist-open-data.s3.amazonaws.com/photos/12228141/medium.jpg)
+![海鸕鷀 ヒメウ Pelagic Cormorant](https://inaturalist-open-data.s3.amazonaws.com/photos/12228141/medium.jpg)
 
 (c) Robin Gwen Agarwal, some rights reserved (CC BY-NC)
 
 **台語名**
 
-- 🎯 **海鸕鶿 hái-lô͘-chî**
+- 🎯 **海鸕鷀 hái-lô͘-chî**
 - ✳️ 老仔 lāu-á
 - ✳️ 鶿鸕 tsû-lô͘
 - ✳️ 烏魚郎 o͘-hî-lông
@@ -25,15 +25,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸕鶿"]
 
 ---
 
-## 鸕鶿 カワウ Great Cormorant
+## 鸕鷀 カワウ Great Cormorant
 
-![鸕鶿 カワウ Great Cormorant](https://inaturalist-open-data.s3.amazonaws.com/photos/141367445/medium.jpg)
+![鸕鷀 カワウ Great Cormorant](https://inaturalist-open-data.s3.amazonaws.com/photos/141367445/medium.jpg)
 
 (c) Дмитрий Осипов, some rights reserved (CC BY-NC)
 
 **台語名**
 
-- 🎯 **鸕鶿 lô͘-chî**
+- 🎯 **鸕鷀 lô͘-chî**
 - ✳️ 老仔 lāu-á
 - ✳️ 鶿鸕 tsû-lô͘
 - ✳️ 烏魚郎 o͘-hî-lông
@@ -50,8 +50,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸕鶿"]
 
 **台語名**
 
-- 🎯 **丹氏鸕鶿 tan-sī-lô͘-chî**
-- 🎯 **日本鸕鶿 ji̍t-pún-lô͘-chî**
+- 🎯 **丹氏鸕鷀 tan-sī-lô͘-chî**
+- 🎯 **日本鸕鷀 ji̍t-pún-lô͘-chî**
 - ✳️ 老仔 lāu-á
 - ✳️ 鶿鸕 tsû-lô͘
 - ✳️ 烏魚郎 o͘-hî-lông

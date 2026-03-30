@@ -622,9 +622,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 ---
 
-## 白嘴端鳳頭燕鷗 サンドイッチアジサシ Sandwich Tern
+## 白嘴端燕鷗 サンドイッチアジサシ Sandwich Tern
 
-![白嘴端鳳頭燕鷗 サンドイッチアジサシ Sandwich Tern](https://inaturalist-open-data.s3.amazonaws.com/photos/41916029/medium.jpeg)
+![白嘴端燕鷗 サンドイッチアジサシ Sandwich Tern](https://inaturalist-open-data.s3.amazonaws.com/photos/41916029/medium.jpeg)
 
 (c) Curtis Eckerman, some rights reserved (CC BY-NC)
 

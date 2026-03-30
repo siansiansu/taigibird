@@ -148,15 +148,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 
 ---
 
-## 喫尾伯勞 オオカラモズ Chinese Gray Shrike
+## 楔尾伯勞 オオカラモズ Chinese Gray Shrike
 
-![喫尾伯勞 オオカラモズ Chinese Gray Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/27959717/medium.jpeg)
+![楔尾伯勞 オオカラモズ Chinese Gray Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/27959717/medium.jpeg)
 
 (c) Yongchul Kim, some rights reserved (CC BY-NC)
 
 **台語名**
 
-- 🎯 **喫尾伯勞 khòe-bé-pek-lô**
+- 🎯 **楔尾伯勞 khòe-bé-pek-lô**
 - 🎯 **中國殕色伯勞 tiong-kok-phú-sek-pek-lô**
 - ✳️ 伯勞仔 pek-lô-á
 

@@ -8,9 +8,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 鷸仔（lu̍t-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-## 中勺鷸 チュウシャクシギ Whimbrel
+## 中杓鷸 チュウシャクシギ Whimbrel
 
-![中勺鷸 チュウシャクシギ Whimbrel](https://inaturalist-open-data.s3.amazonaws.com/photos/1940369/medium.jpg)
+![中杓鷸 チュウシャクシギ Whimbrel](https://inaturalist-open-data.s3.amazonaws.com/photos/1940369/medium.jpg)
 
 (c) Paul Cools, some rights reserved (CC BY-NC)
 
@@ -18,7 +18,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 - 🎯 **中土礱鉤仔 tiong-thô͘-lâng-kau-á**
 - 🎯 **中土礱鉤鷸 tiong-thô͘-lâng-kau-lu̍t**
-- 中勺鷸 tiong-sia̍h-lu̍t
+- 中杓鷸 tiong-sia̍h-lu̍t
 - ✳️ 土礱鉤仔 thô͘-lâng-kau-á
 - ✳️ 水尖仔 Chúi-chiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
@@ -27,9 +27,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 ---
 
-## 小勺鷸 コシャクシギ Little Curlew
+## 小杓鷸 コシャクシギ Little Curlew
 
-![小勺鷸 コシャクシギ Little Curlew](https://inaturalist-open-data.s3.amazonaws.com/photos/2674128/medium.jpg)
+![小杓鷸 コシャクシギ Little Curlew](https://inaturalist-open-data.s3.amazonaws.com/photos/2674128/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -37,7 +37,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 - 🎯 **小土礱鉤鷸 sió-thô͘-lâng-kau-lu̍t**
 - 🎯 **小土礱鉤仔 sió-thô͘-lâng-kau-á**
-- 小勺鷸 sió-sia̍h-lu̍t
+- 小杓鷸 sió-sia̍h-lu̍t
 - ✳️ 土礱鉤仔 thô͘-lâng-kau-á
 - ✳️ 水尖仔 Chúi-chiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
@@ -66,9 +66,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 ---
 
-## 大勺鷸 ダイシャクシギ Eurasian Curlew
+## 大杓鷸 ダイシャクシギ Eurasian Curlew
 
-![大勺鷸 ダイシャクシギ Eurasian Curlew](https://inaturalist-open-data.s3.amazonaws.com/photos/149829117/medium.jpg)
+![大杓鷸 ダイシャクシギ Eurasian Curlew](https://inaturalist-open-data.s3.amazonaws.com/photos/149829117/medium.jpg)
 
 (c) alexey_nesmelov, some rights reserved (CC BY-NC)
 
@@ -76,7 +76,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 - 🎯 **大土礱鉤鷸 tōa-thô͘-lâng-kau-lu̍t**
 - 🎯 **大土礱鉤仔 tōa-thô͘-lâng-kau-á**
-- 大勺鷸 tōa-sia̍h-lu̍t
+- 大杓鷸 tōa-sia̍h-lu̍t
 - ✳️ 土礱鉤仔 thô͘-lâng-kau-á
 - ✳️ 水尖仔 Chúi-chiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
