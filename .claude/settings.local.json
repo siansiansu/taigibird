@@ -1,0 +1,46 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "WebFetch(domain:taigibird.pages.dev)",
+      "WebFetch(domain:api.ebird.org)",
+      "WebFetch(domain:api.inaturalist.org)",
+      "WebFetch(domain:docs.google.com)",
+      "Bash(npm run build:*)",
+      "Bash(node:*)",
+      "Bash(ls:*)",
+      "Bash(git:*)",
+      "Bash(cp:*)",
+      "Bash(cd:*)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "if echo \"$TOOL_INPUT\" | grep -q 'git commit'; then echo '🔨 Running build verification...' && npm run build 2>&1 | tail -3; fi",
+            "timeout": 120000
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "if echo \"$TOOL_INPUT\" | grep -q 'git commit'; then node -e \"const fs=require('fs');const files=require('child_process').execSync('git diff --cached --name-only --diff-filter=ACM').toString().split('\\n').filter(f=>f.startsWith('docs/')&&f.endsWith('.md')&&!f.includes('index.md')&&!f.includes('references/'));let errors=[];files.forEach(f=>{if(!f)return;const c=fs.readFileSync(f,'utf8');const species=c.split('\\n## ').slice(1);species.forEach(s=>{if(!s.includes('ebird.org/species/'))errors.push(f+': species entry missing eBird link')})});if(errors.length){console.error('❌ '+errors.join('\\n❌ '));process.exit(1)}else{console.log('✅ All species entries have eBird links')}\"; fi",
+            "timeout": 10000
+          }
+        ]
+      }
+    ]
+  }
+}
