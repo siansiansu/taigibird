@@ -19,12 +19,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .claude/
-
-# Jekyll (不需要，使用 Docusaurus)
-_site/
-.jekyll-cache/
-
-# 根目錄的 .nojekyll（static/ 裡的要保留）
-/.nojekylltaigikeyboard.github.io
+/.nojekyll
 
 references

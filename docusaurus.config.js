@@ -15,11 +15,7 @@ const config = {
     defaultLocale: "zh-TW",
     locales: ["zh-TW"],
   },
-  markdown: {
-    hooks: {
-      onBrokenMarkdownLinks: "warn",
-    },
-  },
+  onBrokenMarkdownLinks: "throw",
 
   presets: [
     [
@@ -40,6 +36,8 @@ const config = {
         },
         sitemap: {
           ignorePatterns: ['/search/**'],
+          changefreq: 'weekly',
+          priority: 0.5,
         },
       }),
     ],
@@ -55,6 +53,33 @@ const config = {
       rel: "preload",
       as: "style",
       onload: "this.onload=null;this.rel='stylesheet'",
+    },
+  ],
+
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://cdnjs.cloudflare.com',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://inaturalist-open-data.s3.amazonaws.com',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preload',
+        href: '/fonts/Iansui-Regular.woff2',
+        as: 'font',
+        type: 'font/woff2',
+        crossorigin: 'anonymous',
+      },
     },
   ],
 
@@ -86,10 +111,6 @@ const config = {
           content: "現代鳥仔名台語新詞討論"
         },
         {
-          name: "og:url",
-          content: "https://taigichiau.pages.dev/"
-        },
-        {
           name: "description",
           content: "為著予大家認捌鳥仔 ê 台語，我整理了這个清單，予大家方便揣鳥仔 ê 台語名。《鳥仔 ê 名 - 認捌鳥仔 ê 台語》依據上新 ê 鳥類分類研究 kah 號明理路，盡量為每一種鳥仔揣適合 ê 名，希望會當藉著認捌鳥仔 ê 名，嘛有愈來愈濟人來使用這个漸漸消失 ê 語言。"
         },
@@ -107,7 +128,7 @@ const config = {
         },
         {
           name: "og:type",
-          content: "article"
+          content: "website"
         },
       ],
       image: "img/profile.jpg",

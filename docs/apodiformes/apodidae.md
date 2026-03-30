@@ -110,7 +110,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔", 
 
 ## 小雨燕 ヒメアマツバメ House Swift
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/210776298/medium.jpg)
+![小雨燕 ヒメアマツバメ House Swift](https://inaturalist-open-data.s3.amazonaws.com/photos/210776298/medium.jpg)
 
 (c) Ben Chai蔡維哲, some rights reserved (CC BY-NC)
 
