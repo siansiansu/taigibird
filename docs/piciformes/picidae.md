@@ -117,3 +117,17 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄樹鳥
 - ✳️ 啄樹鳥 tok-chhiū-chiáu
 
 參考華語、[eBird 資料](https://ebird.org/species/lacwoo1)
+
+---
+
+## 棕腹啄木 チャバラアカゲラ Rufous-bellied Woodpecker
+
+![棕腹啄木 チャバラアカゲラ Rufous-bellied Woodpecker](https://inaturalist-open-data.s3.amazonaws.com/photos/8236280/medium.jpg)
+
+(c) Markus Lilje, some rights reserved (CC BY-NC-ND)
+
+**台語名**
+
+🎯 **赤腹啄樹鳥 chhiah-pak-tok-chhiū-chiáu**
+
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rubwoo1)

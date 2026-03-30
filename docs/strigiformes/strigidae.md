@@ -298,3 +298,17 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "貓頭鳥
 - ✳️ 鴟鴞 chhi-hiau
 
 參考華語、[eBird 資料](https://ebird.org/species/norboo1)
+
+---
+
+## 鵰鴞 ワシミミズク Eurasian Eagle-Owl
+
+![鵰鴞 ワシミミズク Eurasian Eagle-Owl](https://inaturalist-open-data.s3.amazonaws.com/photos/556162413/medium.jpg)
+
+(c) caroline legg, some rights reserved (CC BY)
+
+**台語名**
+
+🎯 **鵰鴞 tiau-hiau**
+
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eueowl1)

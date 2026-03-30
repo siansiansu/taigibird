@@ -194,3 +194,17 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 - ✳️ 烏鴉 o͘-a
 
 參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/colcro1)
+
+---
+
+## 紅嘴山鴉 ベニハシガラス Red-billed Chough
+
+![紅嘴山鴉 ベニハシガラス Red-billed Chough](https://inaturalist-open-data.s3.amazonaws.com/photos/27354873/medium.jpg)
+
+(c) Marco Vicariotto, some rights reserved (CC BY-NC-ND)
+
+**台語名**
+
+🎯 **紅喙山鴉 âng-chhùi-soaⁿ-a**
+
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rebcho1)

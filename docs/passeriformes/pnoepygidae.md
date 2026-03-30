@@ -19,3 +19,17 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷦眉"]
 🎯 **臺灣鷦眉 tâi-oân-chiau-bâi**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/taiwrb1)
+
+---
+
+## 小鷦眉 ミソサザイチメドリ Pygmy Cupwing
+
+![小鷦眉 ミソサザイチメドリ Pygmy Cupwing](https://inaturalist-open-data.s3.amazonaws.com/photos/60434124/medium.jpeg)
+
+(c) Oscar Ho, all rights reserved
+
+**台語名**
+
+🎯 **小鷦眉 sió-chiau-bâi**
+
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/pywbab1)

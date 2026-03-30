@@ -690,3 +690,17 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 - ✳️ 丁香鳥 teng-hiuⁿ-chiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chcter2)
+
+---
+
+## 白燕鷗 シロアジサシ Blue-billed White-Tern
+
+![白燕鷗 シロアジサシ Blue-billed White-Tern](https://inaturalist-open-data.s3.amazonaws.com/photos/59723819/medium.jpg)
+
+(c) juju98, some rights reserved (CC BY-NC)
+
+**台語名**
+
+🎯 **白燕鷗 pe̍h-iàn-o͘**
+
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/whiter4)
