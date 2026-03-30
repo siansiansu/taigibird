@@ -236,9 +236,9 @@ no rights reserved, uploaded by 葉子
 
 ---
 
-## 綠簑鷺 ササゴイ Striated Heron
+## 綠簑鷺 ササゴイ Little Heron
 
-![綠簑鷺 ササゴイ Striated Heron](https://inaturalist-open-data.s3.amazonaws.com/photos/166334459/medium.jpg)
+![綠簑鷺 ササゴイ Little Heron](https://inaturalist-open-data.s3.amazonaws.com/photos/166334459/medium.jpg)
 
 (c) Ad Konings, some rights reserved (CC BY-NC)
 
@@ -253,7 +253,7 @@ no rights reserved, uploaded by 葉子
 - ✳️ 翎鷥 lēng-si
 - ✳️ 鷺仔 lō͘-á
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/strher)
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/strher1)
 
 ---
 

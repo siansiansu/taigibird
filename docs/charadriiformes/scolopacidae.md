@@ -23,7 +23,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - ✳️ 水尖仔 Chúi-chiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/whimbr)
+[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/whimbr5)
 
 ---
 

@@ -458,13 +458,13 @@ no rights reserved, uploaded by 葉子
 
 🎯 **青尾鴝仔 chheⁿ-bóe-kî-á**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/refblu)
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/refblu1)
 
 ---
 
-## 臺灣白眉林鴝 キクチヒタキ White-browed Bush-Robin
+## 臺灣白眉林鴝 キクチヒタキ Taiwan Bush-Robin
 
-![臺灣白眉林鴝 キクチヒタキ White-browed Bush-Robin](https://inaturalist-open-data.s3.amazonaws.com/photos/100656737/medium.jpg)
+![臺灣白眉林鴝 キクチヒタキ Taiwan Bush-Robin](https://inaturalist-open-data.s3.amazonaws.com/photos/100656737/medium.jpg)
 
 (c) paulshaffner, some rights reserved (CC BY-NC)
 
@@ -472,7 +472,7 @@ no rights reserved, uploaded by 葉子
 
 🎯 **台灣白眉鴝仔 tâi-oân-pe̍h-bâi-kî-á**
 
-參考英語、[eBird 資料](https://ebird.org/species/wbbrob1)
+參考英語、[eBird 資料](https://ebird.org/species/whbbur3)
 
 ---
 

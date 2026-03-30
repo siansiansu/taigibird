@@ -89,7 +89,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔", 
 
 🎯 **白燕窩金絲燕 pe̍h-iàn-o-kim-si-chiáu**
 
-華語鳥類名錄、[eBird 資料](https://ebird.org/species/gerswi1)
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/y00731)
 
 ---
 

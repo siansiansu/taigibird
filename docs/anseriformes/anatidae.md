@@ -56,7 +56,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 - ✳️ 野鵝 iá-gô
 - ✳️ 雁仔 gān-á
 
-華語鳥類名錄、[eBird 資料](https://ebird.org/species/bahgoo)
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/gragoo)
 
 ## 鴻雁 サカツラガン Swan Goose
 

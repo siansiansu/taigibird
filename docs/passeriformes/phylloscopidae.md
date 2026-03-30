@@ -116,7 +116,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 🎯 **黃腹柳鶯 n̂g-pak-liú-eng**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/tilwar1)
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/y00989)
 
 ---
 

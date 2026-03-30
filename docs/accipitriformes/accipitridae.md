@@ -477,7 +477,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **歐亞鵟 au-a-kông**
 
-華語鳥類名錄、[eBird 資料](https://ebird.org/species/combuz5)
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/combuz1)
 
 ---
 

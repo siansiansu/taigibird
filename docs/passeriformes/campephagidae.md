@@ -130,7 +130,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戲班仔
 - 🎯 **花翼戲班仔 hoe-chhì-hì-pan-á**
 - ✳️ 戲班仔 hì-pan-á
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/larcus1)
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/larcuc11)
 
 ---
 

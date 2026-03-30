@@ -242,7 +242,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 🎯 **水鷚仔 chuí-liù-á**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/watpip4)
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/watpip1)
 
 ---
 
@@ -256,4 +256,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 🎯 **黃腹鷚仔 n̂g-pak-liù-á**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/amepip)
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sibpip1)

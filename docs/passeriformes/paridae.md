@@ -93,7 +93,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "山雀"]
 - 🎯 **日本山雀 ji̍t-pún-soaⁿ-chhiok**
 - 🎯 **白喙䫌山雀 pe̍h-chhùi-phóe-soaⁿ-chhiok**
 
-參考英語、特徵、[eBird 資料](https://ebird.org/species/gretit4)
+參考英語、特徵、[eBird 資料](https://ebird.org/species/cintit13)
 
 ---
 
