@@ -8,9 +8,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 鳩鴿（khiu-kah，華語：鴿子、斑鳩）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-## 野鴿 カワラバト Rock Pigeon
+## 野鴿 カワラバト Rock Pigeon (Feral Pigeon)
 
-![野鴿 カワラバト Rock Pigeon](https://inaturalist-open-data.s3.amazonaws.com/photos/457955723/medium.jpeg)
+![野鴿 カワラバト Rock Pigeon (Feral Pigeon)](https://inaturalist-open-data.s3.amazonaws.com/photos/457955723/medium.jpeg)
 
 © Sebastián Fornés, some rights reserved (CC-BY)
 

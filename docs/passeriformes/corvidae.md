@@ -88,9 +88,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 ---
 
-## 星鴉 ホシガラス Eurasian Nutcracker
+## 星鴉 ホシガラス Southern Nutcracker
 
-![星鴉 ホシガラス Eurasian Nutcracker](https://inaturalist-open-data.s3.amazonaws.com/photos/1629072/medium.jpg)
+![星鴉 ホシガラス Southern Nutcracker](https://inaturalist-open-data.s3.amazonaws.com/photos/1629072/medium.jpg)
 
 (c) Vitalii Khustochka, some rights reserved (CC BY-NC)
 

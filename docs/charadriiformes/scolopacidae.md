@@ -8,9 +8,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 鷸仔（lu̍t-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-## 中杓鷸 チュウシャクシギ Whimbrel
+## 中杓鷸 チュウシャクシギ Eurasian Whimbrel
 
-![中杓鷸 チュウシャクシギ Whimbrel](https://inaturalist-open-data.s3.amazonaws.com/photos/1940369/medium.jpg)
+![中杓鷸 チュウシャクシギ Eurasian Whimbrel](https://inaturalist-open-data.s3.amazonaws.com/photos/1940369/medium.jpg)
 
 (c) Paul Cools, some rights reserved (CC BY-NC)
 

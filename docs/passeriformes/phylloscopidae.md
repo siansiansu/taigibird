@@ -106,9 +106,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 ---
 
-## 黃腹柳鶯 キバラムシクイ Tickell's Leaf Warbler (Tickell's)
+## 黃腹柳鶯 キバラムシクイ Tickell's Leaf Warbler
 
-![黃腹柳鶯 キバラムシクイ Tickell's Leaf Warbler (Tickell's)](https://inaturalist-open-data.s3.amazonaws.com/photos/445986590/medium.jpeg)
+![黃腹柳鶯 キバラムシクイ Tickell's Leaf Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/445986590/medium.jpeg)
 
 © Dutta Roy Sagnik, some rights reserved (CC-BY)
 

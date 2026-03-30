@@ -119,9 +119,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戲班仔
 
 ---
 
-## 花翅山椒鳥 オオオニサンショウクイ Large Cuckooshrike
+## 花翅山椒鳥 オオオニサンショウクイ Oriental Cuckooshrike
 
-![花翅山椒鳥 オオオニサンショウクイ Large Cuckooshrike](https://inaturalist-open-data.s3.amazonaws.com/photos/364533663/medium.jpeg)
+![花翅山椒鳥 オオオニサンショウクイ Oriental Cuckooshrike](https://inaturalist-open-data.s3.amazonaws.com/photos/364533663/medium.jpeg)
 
 © reginchen, some rights reserved (CC-BY-NC)
 

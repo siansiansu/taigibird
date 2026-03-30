@@ -119,9 +119,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 ---
 
-## 鷹鵑 オオジュウイチ medium Hawk-Cuckoo
+## 鷹鵑 オオジュウイチ Large Hawk-Cuckoo
 
-![鷹鵑 オオジュウイチ medium Hawk-Cuckoo](https://inaturalist-open-data.s3.amazonaws.com/photos/12816014/medium.jpeg)
+![鷹鵑 オオジュウイチ Large Hawk-Cuckoo](https://inaturalist-open-data.s3.amazonaws.com/photos/12816014/medium.jpeg)
 
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 

@@ -50,9 +50,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 ---
 
-## 費島圓尾鸌 オオシロハラミズナギドリ Joan Fernandez Petrel
+## 費島圓尾鸌 オオシロハラミズナギドリ Juan Fernandez Petrel
 
-![費島圓尾鸌 オオシロハラミズナギドリ Joan Fernandez Petrel](https://inaturalist-open-data.s3.amazonaws.com/photos/378848059/medium.jpeg)
+![費島圓尾鸌 オオシロハラミズナギドリ Juan Fernandez Petrel](https://inaturalist-open-data.s3.amazonaws.com/photos/378848059/medium.jpeg)
 
 © Christoph Moning, some rights reserved (CC-BY)
 

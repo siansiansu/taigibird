@@ -8,9 +8,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷺", "�
 
 翎鷥（lēng-si，華語：鷺）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-## 大麻鷺 サンカノゴイ Great Bittern
+## 大麻鷺 サンカノゴイ Eurasian Bittern
 
-![大麻鷺 サンカノゴイ Great Bittern](https://inaturalist-open-data.s3.amazonaws.com/photos/60579218/medium.jpg)
+![大麻鷺 サンカノゴイ Eurasian Bittern](https://inaturalist-open-data.s3.amazonaws.com/photos/60579218/medium.jpg)
 
 (c) Tatyana Zarubo, some rights reserved (CC BY-NC)
 
@@ -111,9 +111,9 @@ no rights reserved, uploaded by Kyle Nessen
 
 ---
 
-## 黑冠麻鷺 ズグロミゾゴイ Malayan Night-Heron
+## 黑冠麻鷺 ズグロミゾゴイ Malayan Night Heron
 
-![黑冠麻鷺 ズグロミゾゴイ Malayan Night-Heron](https://inaturalist-open-data.s3.amazonaws.com/photos/60995427/medium.jpeg)
+![黑冠麻鷺 ズグロミゾゴイ Malayan Night Heron](https://inaturalist-open-data.s3.amazonaws.com/photos/60995427/medium.jpeg)
 
 no rights reserved, uploaded by 葉子
 
@@ -305,9 +305,9 @@ no rights reserved, uploaded by 葉子
 
 ---
 
-## 黃頭鷺 アマサギ Cattle Egret
+## 黃頭鷺 アマサギ Eastern Cattle-Egret
 
-![黃頭鷺 アマサギ Cattle Egret](https://inaturalist-open-data.s3.amazonaws.com/photos/242146160/medium.jpg)
+![黃頭鷺 アマサギ Eastern Cattle-Egret](https://inaturalist-open-data.s3.amazonaws.com/photos/242146160/medium.jpg)
 
 (c) Greg West, some rights reserved (CC BY-NC)
 

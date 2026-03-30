@@ -232,9 +232,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 ---
 
-## 水鷚 ヒガシヨーロッパタヒバリ Water Pipit (Blakiston's)
+## 水鷚 ヒガシヨーロッパタヒバリ Water Pipit
 
-![水鷚 ヒガシヨーロッパタヒバリ Water Pipit (Blakiston's)](https://inaturalist-open-data.s3.amazonaws.com/photos/60500389/medium.jpg)
+![水鷚 ヒガシヨーロッパタヒバリ Water Pipit](https://inaturalist-open-data.s3.amazonaws.com/photos/60500389/medium.jpg)
 
 (c) CORDENOS Thierry, some rights reserved (CC BY-NC)
 
@@ -246,9 +246,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 ---
 
-## 黃腹鷚 タヒバリ American Pipit
+## 黃腹鷚 タヒバリ Siberian Pipit
 
-![黃腹鷚 タヒバリ American Pipit](https://inaturalist-open-data.s3.amazonaws.com/photos/193729/medium.jpg)
+![黃腹鷚 タヒバリ Siberian Pipit](https://inaturalist-open-data.s3.amazonaws.com/photos/193729/medium.jpg)
 
 (c) BJ Stacey, some rights reserved (CC BY-NC)
 

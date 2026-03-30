@@ -8,7 +8,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戴勝", 
 
 墓壙鳥（bōng-khòng-chiáu，華語：戴勝）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-## 戴勝 ヤツガシラ Eurasian Hoopoe
+## 戴勝 ヤツガシラ Common Hoopoe
 
 ![戴勝](https://inaturalist-open-data.s3.amazonaws.com/photos/252322419/medium.png)
 
