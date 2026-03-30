@@ -58,7 +58,7 @@ import TabItem from '@theme/TabItem';
   **下跤 ê 物種無佇辭典**
   1. 鐵嘴鴴仔 -> kāu-chhùi-hêng-á 厚喙鴴
   2. 赤腹鶇仔 -> âng-pak-tong-á 紅腹鶇
-  3. 堪察加柳鶯 -> Kham-chhat-ka-liú-eng 堪察加柳鶯
+  3. 勘察加柳鶯 -> Kham-chhat-ka-liú-eng 勘察加柳鶯
   4. 紅喉潛鳥 -> âng-âu-chhàng-chúi-chiáu 紅喉藏水鳥
   </TabItem>
   <TabItem value="範例四">
