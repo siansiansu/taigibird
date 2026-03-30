@@ -14,7 +14,12 @@
       "Bash(ls:*)",
       "Bash(git:*)",
       "Bash(cp:*)",
-      "Bash(cd:*)"
+      "Bash(cd:*)",
+      "Bash(pip3 show:*)",
+      "Bash(python3 -c \":*)",
+      "Bash(pip3 install:*)",
+      "Bash(# Move docs/img contents to static/img, then remove docs/img\ncp /Users/alexsu/Workspace/taigibird/docs/img/519273.png /Users/alexsu/Workspace/taigibird/static/img/og-cover.png && rm -rf /Users/alexsu/Workspace/taigibird/docs/img)",
+      "Bash(xxd)"
     ]
   },
   "hooks": {
