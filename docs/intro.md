@@ -41,7 +41,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="範例 1">
 **下跤 ê 物種攏是青笛仔**
-  1. 斯氏繡眼 -> su-sī-chheⁿ-thî-á 斯氏青笛仔
+  1. 斯氏繡眼(綠繡眼) -> su-sī-chheⁿ-thî-á 斯氏青笛仔
   2. 日菲繡眼 -> ji̍t-hui-chheⁿ-thî-á 日菲青笛仔
   3. 低地繡眼 -> kē-tē-chheⁿ-thî-á 低地青笛仔
   4. 紅脇繡眼 -> chhiah-koh-chheⁿ-thî-á 赤胳青笛仔

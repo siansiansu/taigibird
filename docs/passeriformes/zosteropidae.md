@@ -53,9 +53,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "青笛仔
 
 ---
 
-## 斯氏繡眼 ミナミメジロ Swinhoe's White-eye
+## 斯氏繡眼(綠繡眼) ミナミメジロ Swinhoe's White-eye
 
-![斯氏繡眼 ミナミメジロ Swinhoe's White-eye](https://inaturalist-open-data.s3.amazonaws.com/photos/20010236/medium.jpg)
+![斯氏繡眼(綠繡眼) ミナミメジロ Swinhoe's White-eye](https://inaturalist-open-data.s3.amazonaws.com/photos/20010236/medium.jpg)
 
 (c) Bronze Cheung Kwok Yee, some rights reserved (CC BY-NC)
 
