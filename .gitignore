@@ -21,5 +21,4 @@ yarn-error.log*
 .claude/settings.local.json
 /.nojekyll
 
-references
 .cache

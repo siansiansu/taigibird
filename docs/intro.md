@@ -92,6 +92,7 @@ import TabItem from '@theme/TabItem';
 - 📕 鳥仔 ê 外觀參考 [The Sibley Field Guide by David Allen Sibley](https://www.audubon.org/marketplace/sibley-field-guides)。
 - 📕 鳥仔冊參考[台灣野鳥手繪圖鑑](https://www.books.com.tw/products/0010918403)(二版)。
 - 📕 鳥仔圖使用 [iNaturalist](https://www.inaturalist.org/) 面頂 ê `CC0`、`CC-BY`、`CC-BY-NC` 授權。
+- 人名翻譯部分參考 [Lohankha外來語音譯系統](https://translate.lohankha.tw/homophonic/)
 
 ## 聯絡我
 
