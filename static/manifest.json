@@ -1,0 +1,15 @@
+{
+  "name": "現代鳥仔名台語新詞討論",
+  "short_name": "鳥仔ê名",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1d1d1f",
+  "icons": [
+    {
+      "src": "/img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

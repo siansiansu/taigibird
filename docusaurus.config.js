@@ -38,6 +38,18 @@ const config = {
           ignorePatterns: ['/search/**'],
           changefreq: 'weekly',
           priority: 0.5,
+          createSitemapItems: async ({ defaultCreateSitemapItems, ...params }) => {
+            const items = await defaultCreateSitemapItems(params);
+            return items.map((item) => {
+              if (item.url.endsWith('.dev/')) {
+                return { ...item, priority: 1.0 };
+              }
+              if (item.url.match(/\/[^/]+\/$/)) {
+                return { ...item, priority: 0.7 };
+              }
+              return item;
+            });
+          },
         },
       }),
     ],
@@ -75,11 +87,72 @@ const config = {
       tagName: 'link',
       attributes: {
         rel: 'preload',
-        href: '/fonts/Iansui-Regular.woff2',
+        href: '/fonts/jf-openhuninn-2.1.ttf',
         as: 'font',
-        type: 'font/woff2',
+        type: 'font/ttf',
         crossorigin: 'anonymous',
       },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'apple-touch-icon',
+        sizes: '180x180',
+        href: '/img/apple-touch-icon.png',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'manifest',
+        href: '/manifest.json',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:title',
+        content: '現代鳥仔名台語新詞討論',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:description',
+        content: '了解鳥類的台語名稱，學習台語中鳥仔的知識',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:image',
+        content: 'https://taigichiau.pages.dev/img/profile.jpg',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:type',
+        content: 'website',
+      },
+    },
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: '現代鳥仔名台語新詞討論',
+        url: 'https://taigichiau.pages.dev',
+        description: '為著予大家認捌鳥仔 ê 台語，我整理了這个清單，予大家方便揣鳥仔 ê 台語名。',
+        inLanguage: 'zh-TW',
+        author: {
+          '@type': 'Person',
+          name: 'Bîn-hiân',
+        },
+      }),
     },
   ],
 
@@ -107,28 +180,12 @@ const config = {
           content: "summary_large_image",
         },
         {
-          name: "og:title",
-          content: "現代鳥仔名台語新詞討論"
-        },
-        {
-          name: "description",
-          content: "為著予大家認捌鳥仔 ê 台語，我整理了這个清單，予大家方便揣鳥仔 ê 台語名。《鳥仔 ê 名 - 認捌鳥仔 ê 台語》依據上新 ê 鳥類分類研究 kah 號明理路，盡量為每一種鳥仔揣適合 ê 名，希望會當藉著認捌鳥仔 ê 名，嘛有愈來愈濟人來使用這个漸漸消失 ê 語言。"
-        },
-        {
-          name: "og:description",
-          content: "了解鳥類的台語名稱，學習台語中鳥仔的知識"
-        },
-        {
-          name: "og:image",
-          content: "https://taigichiau.pages.dev/img/profile.jpg"
-        },
-        {
           name: "twitter:image",
           content: "https://taigichiau.pages.dev/img/profile.jpg"
         },
         {
-          name: "og:type",
-          content: "website"
+          name: "description",
+          content: "為著予大家認捌鳥仔 ê 台語，我整理了這个清單，予大家方便揣鳥仔 ê 台語名。《鳥仔 ê 名 - 認捌鳥仔 ê 台語》依據上新 ê 鳥類分類研究 kah 號明理路，盡量為每一種鳥仔揣適合 ê 名，希望會當藉著認捌鳥仔 ê 名，嘛有愈來愈濟人來使用這个漸漸消失 ê 語言。"
         },
       ],
       image: "img/profile.jpg",
@@ -153,7 +210,7 @@ const config = {
       },
       footer: {
         style: "light",
-        copyright: `Copyright © 2024 Bîn-hiân`,
+        copyright: `Copyright © ${new Date().getFullYear()} Bîn-hiân`,
       },
       prism: {
         theme: prismThemes.github,
