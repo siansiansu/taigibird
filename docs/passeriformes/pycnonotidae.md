@@ -71,9 +71,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵯仔", 
 
 ---
 
-## 白頭翁 シロガシラ Light-vented bulbul
+## 白頭翁 シロガシラ Light-vented Bulbul
 
-![白頭翁 シロガシラ Light-vented bulbul](https://inaturalist-open-data.s3.amazonaws.com/photos/59227677/medium.jpeg)
+![白頭翁 シロガシラ Light-vented Bulbul](https://inaturalist-open-data.s3.amazonaws.com/photos/59227677/medium.jpeg)
 
 no rights reserved, uploaded by 葉子
 

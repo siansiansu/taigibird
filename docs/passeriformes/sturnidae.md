@@ -192,9 +192,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 ---
 
-## 冠八哥 ハッカチョウ Crested Myna
+## 八哥(冠八哥) ハッカチョウ Crested Myna
 
-![冠八哥 ハッカチョウ Crested Myna](https://inaturalist-open-data.s3.amazonaws.com/photos/126315754/medium.jpeg)
+![八哥(冠八哥) ハッカチョウ Crested Myna](https://inaturalist-open-data.s3.amazonaws.com/photos/126315754/medium.jpeg)
 
 (c) Manel Ferreira, some rights reserved (CC BY-NC)
 
@@ -204,3 +204,17 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 - 🎯 **聳毛鵁鴒 chhàng-thâu-ka-lēng**
 
 參考特徵、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/cremyn)
+
+---
+
+## 林八哥 モリハッカ Jungle Myna
+
+![林八哥 モリハッカ Jungle Myna](https://inaturalist-open-data.s3.amazonaws.com/photos/644229/medium.jpg)
+
+(c) Vijay Anand Ismavel, some rights reserved (CC BY-NC-SA)
+
+**台語名**
+
+🎯 **林鵁鴒 nâ-ka-lēng**
+
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/junmyn1)

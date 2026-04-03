@@ -8,7 +8,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 
 # 鳥仔 ê 名：現代鳥仔名台語新詞討論
 
-![鳥仔 ê 名：現代鳥仔名台語新詞討論](/cover_photo.jpeg)
+![鳥仔 ê 名：現代鳥仔名台語新詞討論](/img/profile.jpg)
 
 為著予大家認捌鳥仔 ê 台語，我整理這个清單，予大家方便揣鳥仔 ê 台語名。《鳥仔 ê 名：現代鳥仔名台語新詞討論》依據上新 ê 鳥類分類研究佮 [號明理路](#號名理路-hō-miâ-lí-lō͘)，盡量為每 1 種鳥仔揣適合 ê 名，希望會當藉著認捌鳥仔 ê 名，嘛有愈來愈濟人來使用這个漸漸消失 ê 語言。
 
@@ -41,7 +41,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="範例 1">
 **下跤 ê 物種攏是青笛仔**
-  1. 斯氏繡眼 -> su-sī-chheⁿ-thî-á 斯氏青笛仔
+  1. 斯氏繡眼(綠繡眼) -> su-sī-chheⁿ-thî-á 斯氏青笛仔
   2. 日菲繡眼 -> ji̍t-hui-chheⁿ-thî-á 日菲青笛仔
   3. 低地繡眼 -> kē-tē-chheⁿ-thî-á 低地青笛仔
   4. 紅脇繡眼 -> chhiah-koh-chheⁿ-thî-á 赤胳青笛仔
@@ -58,7 +58,7 @@ import TabItem from '@theme/TabItem';
   **下跤 ê 物種無佇辭典**
   1. 鐵嘴鴴仔 -> kāu-chhùi-hêng-á 厚喙鴴
   2. 赤腹鶇仔 -> âng-pak-tong-á 紅腹鶇
-  3. 堪察加柳鶯 -> Kham-chhat-ka-liú-eng 堪察加柳鶯
+  3. 勘察加柳鶯 -> Kham-chhat-ka-liú-eng 勘察加柳鶯
   4. 紅喉潛鳥 -> âng-âu-chhàng-chúi-chiáu 紅喉藏水鳥
   </TabItem>
   <TabItem value="範例四">

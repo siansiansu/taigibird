@@ -79,9 +79,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔", 
 
 ---
 
-## 白燕窩金絲燕 マレーアナツバメ White-nest Swiftlet (Germain's)
+## 白燕窩金絲燕 マレーアナツバメ White-nest Swiftlet
 
-![白燕窩金絲燕 マレーアナツバメ White-nest Swiftlet (Germain's)](https://inaturalist-open-data.s3.amazonaws.com/photos/457254220/medium.jpg)
+![白燕窩金絲燕 マレーアナツバメ White-nest Swiftlet](https://inaturalist-open-data.s3.amazonaws.com/photos/457254220/medium.jpg)
 
 © Griha Hasanov, some rights reserved (CC-BY)
 
@@ -89,7 +89,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔", 
 
 🎯 **白燕窩金絲燕 pe̍h-iàn-o-kim-si-chiáu**
 
-華語鳥類名錄、[eBird 資料](https://ebird.org/species/gerswi1)
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/y00731)
 
 ---
 
@@ -110,7 +110,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔", 
 
 ## 小雨燕 ヒメアマツバメ House Swift
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/210776298/medium.jpg)
+![小雨燕 ヒメアマツバメ House Swift](https://inaturalist-open-data.s3.amazonaws.com/photos/210776298/medium.jpg)
 
 (c) Ben Chai蔡維哲, some rights reserved (CC BY-NC)
 

@@ -24,9 +24,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "噪眉", 
 
 ---
 
-## 台灣噪眉 タイワンキンバネガビチョウ White-whiskered Laughingthrush
+## 臺灣噪眉 タイワンキンバネガビチョウ White-whiskered Laughingthrush
 
-![台灣噪眉 タイワンキンバネガビチョウ White-whiskered Laughingthrush](https://inaturalist-open-data.s3.amazonaws.com/photos/89028148/medium.jpg)
+![臺灣噪眉 タイワンキンバネガビチョウ White-whiskered Laughingthrush](https://inaturalist-open-data.s3.amazonaws.com/photos/89028148/medium.jpg)
 
 (c) 洪廷維, some rights reserved (CC BY-NC)
 

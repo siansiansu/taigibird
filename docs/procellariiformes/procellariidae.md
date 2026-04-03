@@ -50,9 +50,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 ---
 
-## 費島圓尾鸌 オオシロハラミズナギドリ Joan Fernandez Petrel
+## 費島圓尾鸌 オオシロハラミズナギドリ Juan Fernandez Petrel
 
-![費島圓尾鸌 オオシロハラミズナギドリ Joan Fernandez Petrel](https://inaturalist-open-data.s3.amazonaws.com/photos/378848059/medium.jpeg)
+![費島圓尾鸌 オオシロハラミズナギドリ Juan Fernandez Petrel](https://inaturalist-open-data.s3.amazonaws.com/photos/378848059/medium.jpeg)
 
 © Christoph Moning, some rights reserved (CC-BY)
 
@@ -203,3 +203,31 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 🎯 **所羅門鸌 só͘-lô-bûn-hō͘**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/heishe1)
+
+---
+
+## 邦氏細鸌 Bannerman's Shearwater
+
+![邦氏細鸌 Bannerman's Shearwater](https://inaturalist-open-data.s3.amazonaws.com/photos/64571217/medium.jpg)
+
+(c) Kinlarak, some rights reserved (CC BY-SA)
+
+**台語名**
+
+🎯 **邦氏細鸌 pang-sī-sè-hō͘**
+
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/troshe4)
+
+---
+
+## 熱帶細鸌 Tropical Shearwater
+
+![熱帶細鸌 Tropical Shearwater](https://inaturalist-open-data.s3.amazonaws.com/photos/327930988/medium.jpg)
+
+(c) shachar_alterman, some rights reserved (CC BY-NC)
+
+**台語名**
+
+🎯 **熱帶細鸌 jia̍t-tài-sè-hō͘**
+
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/troshe5)

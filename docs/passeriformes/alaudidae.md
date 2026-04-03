@@ -65,9 +65,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "百靈", 
 
 ---
 
-## 亞洲短址百靈 アジアコヒバリ Asian Short-toed Lark
+## 亞洲短趾百靈 アジアコヒバリ Asian Short-toed Lark
 
-![亞洲短址百靈 アジアコヒバリ Asian Short-toed Lark](https://inaturalist-open-data.s3.amazonaws.com/photos/2684046/medium.jpg)
+![亞洲短趾百靈 アジアコヒバリ Asian Short-toed Lark](https://inaturalist-open-data.s3.amazonaws.com/photos/2684046/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 

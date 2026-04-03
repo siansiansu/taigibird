@@ -38,9 +38,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 ---
 
-## 台灣藍鵲 ヤマムスメ Taiwan Blue-Magpie
+## 臺灣藍鵲 ヤマムスメ Taiwan Blue-Magpie
 
-![台灣藍鵲 ヤマムスメ Taiwan Blue-Magpie](https://inaturalist-open-data.s3.amazonaws.com/photos/367211582/medium.jpeg)
+![臺灣藍鵲 ヤマムスメ Taiwan Blue-Magpie](https://inaturalist-open-data.s3.amazonaws.com/photos/367211582/medium.jpeg)
 
 © lava_chen, some rights reserved (CC-BY-NC)
 
@@ -50,7 +50,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 - 🎯 **山娘仔 soaⁿ-niû-á**
 - 長尾津仔 tn̂g-bóe-tin-á
 - 長尾竹 tn̂g-bóe-tek
-- 台灣藍鵲 tâi-oân-nâ-chhiok
+- 臺灣藍鵲 tâi-oân-nâ-chhiok
 - 藍鵲 nâ-chhiok
 
 參考 2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/formag1)
@@ -88,9 +88,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 ---
 
-## 星鴉 ホシガラス Eurasian Nutcracker
+## 星鴉 ホシガラス Southern Nutcracker
 
-![星鴉 ホシガラス Eurasian Nutcracker](https://inaturalist-open-data.s3.amazonaws.com/photos/1629072/medium.jpg)
+![星鴉 ホシガラス Southern Nutcracker](https://inaturalist-open-data.s3.amazonaws.com/photos/1629072/medium.jpg)
 
 (c) Vitalii Khustochka, some rights reserved (CC BY-NC)
 
@@ -98,7 +98,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 🎯 **松柏仔 chhêng-peh-á**
 
-參考 2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/eurnut1)
+參考 2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/eurnut4)
 
 ---
 
@@ -194,3 +194,17 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 - ✳️ 烏鴉 o͘-a
 
 參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/colcro1)
+
+---
+
+## 紅嘴山鴉 ベニハシガラス Red-billed Chough
+
+![紅嘴山鴉 ベニハシガラス Red-billed Chough](https://inaturalist-open-data.s3.amazonaws.com/photos/27354873/medium.jpg)
+
+(c) Marco Vicariotto, some rights reserved (CC BY-NC-ND)
+
+**台語名**
+
+🎯 **紅喙山鴉 âng-chhùi-soaⁿ-a**
+
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rebcho1)

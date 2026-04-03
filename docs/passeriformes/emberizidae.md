@@ -313,3 +313,17 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 🎯 **殕色鵐仔 phú-sek-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/grybun)
+
+---
+
+## 灰頸鵐 シラガホオジロ Gray-necked Bunting
+
+![灰頸鵐 シラガホオジロ Gray-necked Bunting](https://inaturalist-open-data.s3.amazonaws.com/photos/101886708/medium.jpg)
+
+(c) Daniel König, some rights reserved (CC BY-NC)
+
+**台語名**
+
+🎯 **殕色頷頸鵐仔 phú-sek-ām-kún-bû-á**
+
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gyhbun1)

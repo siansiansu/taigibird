@@ -82,9 +82,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "山雀"]
 
 ---
 
-## 白頰山雀 シジュウカラ Japanese Tit
+## 白頰山雀 シジュウカラ Asian Tit
 
-![白頰山雀 シジュウカラ Japanese Tit](https://inaturalist-open-data.s3.amazonaws.com/photos/2744133/medium.jpg)
+![白頰山雀 シジュウカラ Asian Tit](https://inaturalist-open-data.s3.amazonaws.com/photos/2744133/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -93,7 +93,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "山雀"]
 - 🎯 **日本山雀 ji̍t-pún-soaⁿ-chhiok**
 - 🎯 **白喙䫌山雀 pe̍h-chhùi-phóe-soaⁿ-chhiok**
 
-參考英語、特徵、[eBird 資料](https://ebird.org/species/gretit4)
+參考英語、特徵、[eBird 資料](https://ebird.org/species/cintit13)
 
 ---
 

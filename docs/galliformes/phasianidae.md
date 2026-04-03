@@ -8,9 +8,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔
 
 雉雞仔（thī-kei-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-## 台灣山鷓鴣 ミヤマテッケイ Taiwan Partridge
+## 臺灣山鷓鴣 ミヤマテッケイ Taiwan Partridge
 
-![台灣山鷓鴣 ミヤマテッケイ Taiwan Partridge](https://inaturalist-open-data.s3.amazonaws.com/photos/47721510/medium.jpg)
+![臺灣山鷓鴣 ミヤマテッケイ Taiwan Partridge](https://inaturalist-open-data.s3.amazonaws.com/photos/47721510/medium.jpg)
 
 @Iain Robson no rights reserved
 
@@ -20,7 +20,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔
 - 🎯 **紅跤竹雞 âng-kha-tek-ke**
 - 🎯 **報時鳥 pò-sî-chiáu**
 - 🎯 **時鐘鳥 sî-cheng-chiáu**
-- 台灣山鷓鴣 tâi-oân-soaⁿ-chià-ko͘
+- 臺灣山鷓鴣 tâi-oân-soaⁿ-chià-ko͘
 - 深山鷓鴣 chhim-soaⁿ-chià-ko͘
 - ✳️ 紅跤仔 âng-kha-á
 
@@ -96,15 +96,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔
 
 ---
 
-## 台灣竹雞 テッケイ Taiwan Bamboo-Partridge
+## 臺灣竹雞 テッケイ Taiwan Bamboo-Partridge
 
-![台灣竹雞 テッケイ Taiwan Bamboo-Partridge](https://inaturalist-open-data.s3.amazonaws.com/photos/120166980/medium.jpeg)
+![臺灣竹雞 テッケイ Taiwan Bamboo-Partridge](https://inaturalist-open-data.s3.amazonaws.com/photos/120166980/medium.jpeg)
 
 (c) chiuluan, some rights reserved (CC BY)
 
 **台語名**
 
-- 🎯 **台灣竹雞 tâi-oân-tek-ke**
+- 🎯 **臺灣竹雞 tâi-oân-tek-ke**
 - 🎯 竹雞 tek-ke
 
 參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/taibap1)

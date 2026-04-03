@@ -100,9 +100,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔"]
 
 ---
 
-## 東方金腰燕 オオコシアカツバメ Striated Swallow
+## 東方金腰燕 オオコシアカツバメ Eastern Red-rumped Swallow
 
-![東方金腰燕 オオコシアカツバメ Striated Swallow](https://inaturalist-open-data.s3.amazonaws.com/photos/30639270/medium.jpeg)
+![東方金腰燕 オオコシアカツバメ Eastern Red-rumped Swallow](https://inaturalist-open-data.s3.amazonaws.com/photos/30639270/medium.jpeg)
 
 (c) 灶馬, some rights reserved (CC BY-NC)
 
@@ -113,4 +113,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔"]
 - 紅腰燕 âng-io-ìⁿ
 - ✳️ 燕仔 ìⁿ-á
 
-1973 Embree台英辭典、2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/strswa2)
+1973 Embree台英辭典、2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/y00621)

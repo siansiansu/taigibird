@@ -190,9 +190,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 ---
 
-## 普通朱頂雀 ベニヒワ Redpoll (Common)
+## 普通朱頂雀 ベニヒワ Redpoll
 
-![普通朱頂雀 ベニヒワ Redpoll (Common)](https://inaturalist-open-data.s3.amazonaws.com/photos/240528986/medium.jpeg)
+![普通朱頂雀 ベニヒワ Redpoll](https://inaturalist-open-data.s3.amazonaws.com/photos/240528986/medium.jpeg)
 
 © Анна Васильченко, some rights reserved (CC-BY)
 
@@ -200,7 +200,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 🎯 **普通紅頂雀 phó͘-thong-âng-tíng-chhiok**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/comred)
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/redpol1)
 
 ---
 
