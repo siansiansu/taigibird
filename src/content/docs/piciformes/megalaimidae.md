@@ -1,0 +1,19 @@
+---
+title: 鬚鴷科 chhùi-lia̍t-kho
+description: 鬚鴷科（chhùi-lia̍t-kho，華語：五色鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "五色鳥"]
+---
+
+鬚鴷科（chhùi-lia̍t-kho，華語：五色鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+
+## 五色鳥 タイワンゴシキドリ Taiwan Barbet
+
+![五色鳥 タイワンゴシキドリ Taiwan Barbet](https://inaturalist-open-data.s3.amazonaws.com/photos/175905452/medium.jpg)
+
+(c) Glenda Heng, some rights reserved (CC BY-NC)
+
+**台語名**
+
+🎯 **花仔和尚 hoe-á-hôe-siūⁿ**
+
+參考 1973 Embree台英辭典、2016⁺ iTaigi、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/taibar2)
