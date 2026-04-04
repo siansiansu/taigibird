@@ -16,7 +16,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "文鳥", 
 
 🎯 **白喉筆仔 pe̍h-âu-pit-á**
 
-參考華語鳥類名錄、[教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/)、[eBird 資料](https://ebird.org/species/indsil)
+參考華語鳥類名錄、[教育部臺灣台語常用詞辭典](https://sutian.mue.edu.tw/)、[eBird 資料](https://ebird.org/species/indsil)
 
 ---
 
@@ -30,7 +30,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "文鳥", 
 
 🎯 **斑筆仔 pan-pit-á**
 
-參考華語鳥類名錄、[教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/)、[eBird 資料](https://ebird.org/species/nutman)
+參考華語鳥類名錄、[教育部臺灣台語常用詞辭典](https://sutian.mue.edu.tw/)、[eBird 資料](https://ebird.org/species/nutman)
 
 ---
 
@@ -44,7 +44,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "文鳥", 
 
 🎯 **白腰筆仔 pe̍h-io-pit-á**
 
-參考華語鳥類名錄、[教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/)、[eBird 資料](https://ebird.org/species/whrmun)
+參考華語鳥類名錄、[教育部臺灣台語常用詞辭典](https://sutian.mue.edu.tw/)、[eBird 資料](https://ebird.org/species/whrmun)
 
 ---
 
@@ -56,9 +56,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "文鳥", 
 
 **台語名**
 
-🎯 **烏頭筆仔 o͘-thâu-pit-á**
+🎯 **烏頭筆仔 oo-thâu-pit-á**
 
-參考華語鳥類名錄、[教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/)、[eBird 資料](https://ebird.org/species/chemun)
+參考華語鳥類名錄、[教育部臺灣台語常用詞辭典](https://sutian.mue.edu.tw/)、[eBird 資料](https://ebird.org/species/chemun)
 
 ---
 
@@ -70,7 +70,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "文鳥", 
 
 **台語名**
 
-🎯 **柑仔面梅花雀 kam-á-bīn-mûi-hoe-chhiok**
+🎯 **柑仔面梅花雀 kam-á-bīn-mûi-hue-tshiok**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/orcwax)
 
@@ -84,7 +84,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "文鳥", 
 
 **台語名**
 
-🎯 **橫斑梅花雀 hoâiⁿ-pan-mûi-hoe-chhiok**
+🎯 **橫斑梅花雀 huâinn-pan-mûi-hue-tshiok**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/comwax)
 
@@ -98,6 +98,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "文鳥", 
 
 **台語名**
 
-🎯 **烏喉筆仔 o͘-âu-pit-á**
+🎯 **烏喉筆仔 oo-âu-pit-á**
 
-參考華語鳥類名錄、[教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/)、[eBird 資料](https://ebird.org/species/javmun1)
+參考華語鳥類名錄、[教育部臺灣台語常用詞辭典](https://sutian.mue.edu.tw/)、[eBird 資料](https://ebird.org/species/javmun1)

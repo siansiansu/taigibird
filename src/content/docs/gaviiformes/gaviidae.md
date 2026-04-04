@@ -1,10 +1,10 @@
 ---
-title: 藏水鳥科 chhàng-chuí-chiáu-kho
-description: 藏水鳥（chhàng-chuí-chiáu，華語：潛鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 藏水鳥科 tshàng-tsuí-tsiáu-kho
+description: 藏水鳥（tshàng-tsuí-tsiáu，華語：潛鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 ---
 
-藏水鳥（chhàng-chuí-chiáu，華語：潛鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+藏水鳥（tshàng-tsuí-tsiáu，華語：潛鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 紅喉潛鳥 アビ Red-throated Loon
 
@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 
 **台語名**
 
-🎯 **紅喉藏水鳥 âng-âu-chhàng-chuí-chiáu**
+🎯 **紅喉藏水鳥 âng-âu-tshàng-tsuí-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/retloo)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 
 **台語名**
 
-🎯 **烏喉藏水鳥 o͘-âu-chhàng-chuí-chiáu**
+🎯 **烏喉藏水鳥 oo-âu-tshàng-tsuí-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/arcloo)
 
@@ -42,7 +42,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 
 **台語名**
 
-🎯 **太平洋藏水鳥 thài-pêng-iûnn-chhàng-chuí-chiáu**
+🎯 **太平洋藏水鳥 thài-pîng-iûnn-tshàng-tsuí-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/pacloo)
 
@@ -56,6 +56,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 
 **台語名**
 
-🎯 **白喙藏水鳥 pe̍h-chhùi-chhàng-chuí-chiáu**
+🎯 **白喙藏水鳥 pe̍h-tshuì-tshàng-tsuí-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/yebloo)

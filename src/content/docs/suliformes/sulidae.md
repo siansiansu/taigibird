@@ -17,7 +17,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海雞母
 - 🎯 **紅跤海雞母 âng-kha-hái-ke-bó**
 - ✳️ 海雞母 hái-ke-bó
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/refboo)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/refboo)
 
 ---
 
@@ -32,7 +32,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海雞母
 - 🎯 **白腹海雞母 pe̍h-pak-hái-ke-bó**
 - ✳️ 海雞母 hái-ke-bó
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/brnboo)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/brnboo)
 
 ---
 
@@ -44,7 +44,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海雞母
 
 **台語名**
 
-- 🎯 **青面海雞母 chheⁿ-bīn-hái-ke-bó**
+- 🎯 **青面海雞母 tshenn-bīn-hái-ke-bó**
 - ✳️ 海雞母 hái-ke-bó
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/masboo)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/masboo)

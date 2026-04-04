@@ -106,6 +106,6 @@ Run `npm run build` to confirm no rendering issues.
 
 - **Preserve frontmatter and intro text exactly** — never modify the YAML frontmatter or introductory paragraphs
 - **CSV headers become table headers** — use them directly, no renaming or reordering
-- **Handle romanization carefully** — Pe̍h-ōe-jī characters (o͘, ⁿ, e̍k, etc.) must pass through unchanged
+- **Handle romanization carefully** — Tâi-lô characters (oo, nn, i̍k, etc.) must pass through unchanged
 - **Empty cells are valid** — some rows intentionally have empty columns (especially in ecology.md)
 - **No trailing whitespace** in table cells

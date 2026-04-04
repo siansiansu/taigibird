@@ -17,7 +17,7 @@ export default defineConfig({
       plugins: [
         starlightDocSearch({
           appId: 'VI6SD4P5S4',
-          apiKey: '641f15a0dc32483cac99847618f1a6e8',
+          apiKey: '641f15a0dc32483cac99847618f1ǎe̍',
           indexName: 'Taigichiau Website',
         }),
       ],
@@ -77,9 +77,11 @@ export default defineConfig({
         { label: '啄樹鳥目 tok-tshiū-tsiáu-ba̍k', autogenerate: { directory: 'piciformes' } },
         { label: '隼形目 tsún-hîng-ba̍k', autogenerate: { directory: 'falconiformes' } },
         { label: '鸚形目 ing-hîng-ba̍k', autogenerate: { directory: 'psittaciformes' } },
-        { label: '雀形目 tshiok-hêng-ba̍k', autogenerate: { directory: 'passeriformes' } },
+        { label: '雀形目 tshiok-hîng-ba̍k', autogenerate: { directory: 'passeriformes' } },
       ],
     }),
-    sitemap(),
+    sitemap({
+      lastmod: new Date(),
+    }),
   ],
 });

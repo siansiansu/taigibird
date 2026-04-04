@@ -1,10 +1,10 @@
 ---
-title: 布袋鵝科 pò͘-tē-gô-kho
-description: 布袋鵝（pò͘-tē-gô，華語：鵜鶘）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 布袋鵝科 pòo-tē-gô-kho
+description: 布袋鵝（pòo-tē-gô，華語：鵜鶘）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "布袋鵝", "鵜鶘"]
 ---
 
-布袋鵝（pò͘-tē-gô，華語：鵜鶘）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+布袋鵝（pòo-tē-gô，華語：鵜鶘）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 卷羽鵜鶘 ハイイロペリカン Dalmatian Pelican
 
@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "布袋鵝
 
 **台語名**
 
-- 🎯 **虯毛布袋鵝 khiû-mo͘-pò͘-tē-gô**
-- ✳️ 布袋鵝 pò͘-tē-gô
+- 🎯 **虯毛布袋鵝 khiû-moo-pòo-tē-gô**
+- ✳️ 布袋鵝 pòo-tē-gô
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/dalpel1)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/dalpel1)

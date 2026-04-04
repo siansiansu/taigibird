@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵯仔", 
 
 **台語名**
 
-🎯 **栗背短跤鵯 lek-pòe-té-kha-pi**
+🎯 **栗背短跤鵯 lik-puè-té-kha-pi**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chebul1)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵯仔", 
 
 **台語名**
 
-🎯 **棕耳鵯 chang-hīⁿ-pi**
+🎯 **棕耳鵯 tsang-hīnn-pi**
 
 參考英語、[eBird 資料](https://ebird.org/species/brebul1)
 
@@ -42,12 +42,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵯仔", 
 
 **台語名**
 
-- 🎯 **紅喙烏鶖 âng-chhùi-o͘-chhiu**
-- 紅喙鶖仔 âng-chhùi-chhiu-á
-- 紅喙烏鵯 âng-chhùi-o͘-pi
-- 烏鵯 o͘-pi
+- 🎯 **紅喙烏鶖 âng-tshuì-oo-tshiu**
+- 紅喙鶖仔 âng-tshuì-tshiu-á
+- 紅喙烏鵯 âng-tshuì-oo-pi
+- 烏鵯 oo-pi
 
-參考 2016⁺ iTaigi、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/blabul1)
+參考 2016⁺ iTaigi、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/blabul1)
 
 ---
 
@@ -59,13 +59,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵯仔", 
 
 **台語名**
 
-- 🎯 **石鸚哥 chio̍h-eng-ko**
+- 🎯 **石鸚哥 tsio̍h-ing-ko**
 - 林投雞 nâ-tâu-ke
 - 林投公 nâ-tâu-kong
-- 圓嘴鵯 îⁿ-chhùi-pi
-- 白環鸚嘴鵯 pe̍h-khoân-eng-chhùi-pi
+- 圓嘴鵯 înn-tshuì-pi
+- 白環鸚嘴鵯 pe̍h-khuân-ing-tshuì-pi
 
-參考 2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/colfin1)
+參考 2002⁺ 台華線頂辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/colfin1)
 
 ---
 
@@ -79,9 +79,9 @@ no rights reserved, uploaded by 葉子
 
 - 🎯 **白頭鵠仔 pe̍h-thâu-khok-á**
 - 白頭翁 pe̍h-thâu-ong
-- [雜] 白頭烏頭半仿種 pe̍h-thâu-o͘-thâu-pòaⁿ-hóng-tsíng
+- [雜] 白頭烏頭半仿種 pe̍h-thâu-oo-thâu-puànn-hóng-tsíng
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/livbul1)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/livbul1)
 
 ---
 
@@ -93,11 +93,11 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-- 🎯 **烏頭鵠仔 o͘-thâu-khok-á**
-- 烏頭翁 o͘-thâu-ong
-- [雜] 白頭烏頭半仿種 pe̍h-thâu-o͘-thâu-pòaⁿ-hóng-tsíng
+- 🎯 **烏頭鵠仔 oo-thâu-khok-á**
+- 烏頭翁 oo-thâu-ong
+- [雜] 白頭烏頭半仿種 pe̍h-thâu-oo-thâu-puànn-hóng-tsíng
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/stybul1)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/stybul1)
 
 ---
 
@@ -109,7 +109,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **紅耳鵯 âng-hīⁿ-pi**
+🎯 **紅耳鵯 âng-hīnn-pi**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rewbul)
 
@@ -166,7 +166,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-- 🎯 **紅目茶色鵯 âng-ba̍k-tê-sek-pi**
+- 🎯 **紅目茶色鵯 âng-ba̍k-tê-sik-pi**
 - 🎯 **紅目鵯 âng-ba̍k-pi**
 
 參考華語、日語、[eBird 資料](https://ebird.org/species/reebul1)

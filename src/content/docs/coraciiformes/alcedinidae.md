@@ -17,13 +17,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "釣魚翁
 - 🎯 **釣魚翁 tiò-hî-ang**
 - ✳️ 魚狗 hî-káu
 - ✳️ 天狗 thian-káu
-- ✳️ 水狗 chuí-káu
+- ✳️ 水狗 tsuí-káu
 - ✳️ 漁師 hî-sai
-- ✳️ 魚虎 hî-hó͘
-- ✳️ 鴗鳥 liu-chhùi
-- ✳️ 翡翠 huí-chhùi
+- ✳️ 魚虎 hî-hóo
+- ✳️ 鴗鳥 liu-tshuì
+- ✳️ 翡翠 huí-tshuì
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、2002⁺ 台華線頂辭典、2011⁺ 教育部辭典⁺、2016⁺ iTaigi、[eBird 資料](https://ebird.org/species/comkin1)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、2002⁺ 台華線頂辭典、2011⁺ 教育部辭典⁺、2016⁺ iTaigi、[eBird 資料](https://ebird.org/species/comkin1)
 
 ---
 
@@ -35,14 +35,14 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "釣魚翁
 
 **台語名**
 
-- 🎯 **烏背三爪釣魚翁 o͘-pōe-sam-jiáu-tiò-hî-ang**
+- 🎯 **烏背三爪釣魚翁 oo-puē-sam-jiáu-tiò-hî-ang**
 - ✳️ 魚狗 hî-káu
 - ✳️ 天狗 thian-káu
-- ✳️ 水狗 chuí-káu
+- ✳️ 水狗 tsuí-káu
 - ✳️ 漁師 hî-sai
-- ✳️ 魚虎 hî-hó͘
-- ✳️ 鴗鳥 liu-chhùi
-- ✳️ 翡翠 huí-chhùi
+- ✳️ 魚虎 hî-hóo
+- ✳️ 鴗鳥 liu-tshuì
+- ✳️ 翡翠 huí-tshuì
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/bkbkin1)
 
@@ -56,20 +56,20 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "釣魚翁
 
 **台語名**
 
-- 🎯 **赤紅釣魚翁 chhiah-âng-tiò-hî-ang**
-- 紅翠 âng-chhùi
+- 🎯 **赤紅釣魚翁 tshiah-âng-tiò-hî-ang**
+- 紅翠 âng-tshuì
 - 紅鴗 âng-li̍p
-- 紅翡翠 âng-huí-chhùi
-- 深山翡翠 chheng-soaⁿ huí-chhùi
-- 猩猩翡翠 seng-seng-huí-chhùi
+- 紅翡翠 âng-huí-tshuì
+- 深山翡翠 tshing-suann huí-tshuì
+- 猩猩翡翠 sing-sing-huí-tshuì
 - ✳️ 天狗 thian-káu
-- ✳️ 水狗 chuí-káu
+- ✳️ 水狗 tsuí-káu
 - ✳️ 漁師 hî-sai
 - ✳️ 釣魚翁 tiò-hî-ang
 - ✳️ 魚狗 hî-káu
-- ✳️ 魚虎 hî-hó͘
-- ✳️ 鴗鳥 liu-chhùi
-- ✳️ 翡翠 huí-chhùi
+- ✳️ 魚虎 hî-hóo
+- ✳️ 鴗鳥 liu-tshuì
+- ✳️ 翡翠 huí-tshuì
 
 參考 2002⁺ 台華線頂辭典、英語、[eBird 資料](https://ebird.org/species/rudkin1)
 
@@ -84,15 +84,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "釣魚翁
 **台語名**
 
 - 🎯 **白喉釣魚翁 pe̍h-âu-tiò-hî-ang**
-- 蒼翡翠 chhong-huí-chhùi
+- 蒼翡翠 tshong-huí-tshuì
 - ✳️ 天狗 thian-káu
-- ✳️ 水狗 chuí-káu
+- ✳️ 水狗 tsuí-káu
 - ✳️ 漁師 hî-sai
 - ✳️ 釣魚翁 tiò-hî-ang
 - ✳️ 魚狗 hî-káu
-- ✳️ 魚虎 hî-hó͘
-- ✳️ 鴗鳥 liu-chhùi
-- ✳️ 翡翠 huí-chhùi
+- ✳️ 魚虎 hî-hóo
+- ✳️ 鴗鳥 liu-tshuì
+- ✳️ 翡翠 huí-tshuì
 
 參考英語、[eBird 資料](https://ebird.org/species/whtkin2)
 
@@ -106,16 +106,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "釣魚翁
 
 **台語名**
 
-- 🎯 **烏頭釣魚翁 o͘-thâu-tiò-hî-ang**
-- 烏頭翡翠 o͘-thâu-huí-chhùi
+- 🎯 **烏頭釣魚翁 oo-thâu-tiò-hî-ang**
+- 烏頭翡翠 oo-thâu-huí-tshuì
 - ✳️ 天狗 thian-káu
-- ✳️ 水狗 chuí-káu
+- ✳️ 水狗 tsuí-káu
 - ✳️ 漁師 hî-sai
 - ✳️ 釣魚翁 tiò-hî-ang
 - ✳️ 魚狗 hî-káu
-- ✳️ 魚虎 hî-hó͘
-- ✳️ 鴗鳥 liu-chhùi
-- ✳️ 翡翠 huí-chhùi
+- ✳️ 魚虎 hî-hóo
+- ✳️ 鴗鳥 liu-tshuì
+- ✳️ 翡翠 huí-tshuì
 
 參考英語、[eBird 資料](https://ebird.org/species/blckin1)
 
@@ -130,15 +130,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "釣魚翁
 **台語名**
 
 - 🎯 **白領釣魚翁 pe̍h-niá-tiò-hî-ang**
-- 白領翡翠 pe̍h-niá-huí-chhùi
+- 白領翡翠 pe̍h-niá-huí-tshuì
 - ✳️ 天狗 thian-káu
-- ✳️ 水狗 chuí-káu
+- ✳️ 水狗 tsuí-káu
 - ✳️ 漁師 hî-sai
 - ✳️ 釣魚翁 tiò-hî-ang
 - ✳️ 魚狗 hî-káu
-- ✳️ 魚虎 hî-hó͘
-- ✳️ 鴗鳥 liu-chhùi
-- ✳️ 翡翠 huí-chhùi
+- ✳️ 魚虎 hî-hóo
+- ✳️ 鴗鳥 liu-tshuì
+- ✳️ 翡翠 huí-tshuì
 
 參考英語、[eBird 資料](https://ebird.org/species/colkin1)
 
@@ -152,15 +152,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "釣魚翁
 
 **台語名**
 
-- 🎯 **烏白釣魚翁 o͘-pe̍h-tiám-tiò-hî-ang**
-- 斑點翡翠 pan-tiám-huí-chhùi
+- 🎯 **烏白釣魚翁 oo-pe̍h-tiám-tiò-hî-ang**
+- 斑點翡翠 pan-tiám-huí-tshuì
 - ✳️ 天狗 thian-káu
-- ✳️ 水狗 chuí-káu
+- ✳️ 水狗 tsuí-káu
 - ✳️ 漁師 hî-sai
 - ✳️ 釣魚翁 tiò-hî-ang
 - ✳️ 魚狗 hî-káu
-- ✳️ 魚虎 hî-hó͘
-- ✳️ 鴗鳥 liu-chhùi
-- ✳️ 翡翠 huí-chhùi
+- ✳️ 魚虎 hî-hóo
+- ✳️ 鴗鳥 liu-tshuì
+- ✳️ 翡翠 huí-tshuì
 
 參考英語、[eBird 資料](https://ebird.org/species/piekin1)

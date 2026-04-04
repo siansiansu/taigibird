@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶴"]
 
 **台語名**
 
-🎯 **簑毛鶴 sui-mo͘-ho̍h**
+🎯 **簑毛鶴 sui-moo-ho̍h**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/demcra1)
 
@@ -29,7 +29,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶴"]
 **台語名**
 
 - 🎯 **白鶴 pe̍h-ho̍h**
-- 🎯 **西伯利亞白鶴 se-pek-lī-a-pe̍h-ho̍h**
+- 🎯 **西伯利亞白鶴 se-pik-lī-a-pe̍h-ho̍h**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sibcra1)
 
@@ -43,7 +43,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶴"]
 
 **台語名**
 
-- 🎯 **沙崙鶴 soa-lūn-ho̍h**
+- 🎯 **沙崙鶴 sua-lūn-ho̍h**
 - 🎯 加拿大鶴 Ka-ná-ta-ho̍h
 
 參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/sancra)
@@ -72,7 +72,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶴"]
 
 **台語名**
 
-🎯 **殕色鶴 phú-sek-ho̍h**
+🎯 **殕色鶴 phú-sik-ho̍h**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/comcra)
 

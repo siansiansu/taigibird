@@ -14,11 +14,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "抾箬仔
 
 **台語名**
 
-- 🎯 **青翼抾箬仔 chheⁿ-si̍t-khioh-ha̍h-á**
-- 藍翼八色鳥 lâm-si̍t-peh-sek-chiáu
-- ✳️ 青翼仔 chheⁿ-si̍t-á
+- 🎯 **青翼抾箬仔 tshenn-si̍t-khioh-ha̍h-á**
+- 藍翼八色鳥 lâm-si̍t-peh-sik-tsiáu
+- ✳️ 青翼仔 tshenn-si̍t-á
 - ✳️ 抾箬仔 khioh-ha̍h-á
-- ✳️ 八色鳥 peh-sek-chiáu
+- ✳️ 八色鳥 peh-sik-tsiáu
 
 參考英語、[eBird 資料](https://ebird.org/species/blwpit1)
 
@@ -33,10 +33,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "抾箬仔
 **台語名**
 
 - 🎯 **抾箬仔 khioh-ha̍h-á**
-- 🎯 **青翼仔 chheⁿ-si̍t-á**
-- 八色鳥 peh-sek-chiáu
+- 🎯 **青翼仔 tshenn-si̍t-á**
+- 八色鳥 peh-sik-tsiáu
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/faipit1)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/faipit1)
 
 ---
 
@@ -48,10 +48,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "抾箬仔
 
 **台語名**
 
-- 🎯 **青胸抾箬仔 chheⁿ-heng-khioh-ha̍h-á**
-- 青胸八色鳥 chheⁿ-heng-peh-sek-chiáu
-- ✳️ 青翼仔 chheⁿ-si̍t-á
+- 🎯 **青胸抾箬仔 tshenn-hing-khioh-ha̍h-á**
+- 青胸八色鳥 tshenn-hing-peh-sik-tsiáu
+- ✳️ 青翼仔 tshenn-si̍t-á
 - ✳️ 抾箬仔 khioh-ha̍h-á
-- ✳️ 八色鳥 peh-sek-chiáu
+- ✳️ 八色鳥 peh-sik-tsiáu
 
 參考特徵、[eBird 資料](https://ebird.org/species/wehpit1)

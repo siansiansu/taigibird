@@ -1,10 +1,10 @@
 ---
-title: 鴴仔科 hêng-á-kho
-description: 鴴仔（hêng-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 鴴仔科 hîng-á-kho
+description: 鴴仔（hîng-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 ---
 
-鴴仔（hêng-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+鴴仔（hîng-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 灰斑鴴 ダイゼン Black-bellied Plover
 
@@ -14,9 +14,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-- 🎯 **灰斑鴴 hoe-pan-hêng**
-- 🎯 **烏喙鴴 o͘-chhùi-hêng**
-- ✳️ 水尖仔 chúi-chiam-á
+- 🎯 **灰斑鴴 hue-pan-hîng**
+- 🎯 **烏喙鴴 oo-tshuì-hîng**
+- ✳️ 水尖仔 tsuí-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/bkbplo)
@@ -31,8 +31,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-- 🎯 **太平洋金斑鴴 thài-pêng-iûnn-kim-pan-hêng**
-- ✳️ 水尖仔 chúi-chiam-á
+- 🎯 **太平洋金斑鴴 thài-pîng-iûnn-kim-pan-hîng**
+- ✳️ 水尖仔 tsuí-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
 參考華語鳥類名錄、英語名稱、[eBird 資料](https://ebird.org/species/pagplo)
@@ -47,11 +47,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-- 🎯 **頷箍鴴 ām-kho͘-hêng**
-- ✳️ 水尖仔 chúi-chiam-á
+- 🎯 **頷箍鴴 ām-khoo-hîng**
+- ✳️ 水尖仔 tsuí-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-頷箍 ām-kho͘ 意思是頷仔頸 ām-á-kún + 箍仔 kho͘-á
+頷箍 ām-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
 
 參考華語鳥類名錄、英語名稱、[eBird 資料](https://ebird.org/species/corplo)。
 
@@ -65,12 +65,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-- 🎯 **小頷箍鴴 sió-ām-kho͘-hêng**
+- 🎯 **小頷箍鴴 sió-ām-khoo-hîng**
 - ✳️ 金眼 kim-gán
-- ✳️ 水尖仔 chúi-chiam-á
+- ✳️ 水尖仔 tsuí-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-頷箍 ām-kho͘ 意思是頷仔頸 ām-á-kún + 箍仔 kho͘-á
+頷箍 ām-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
 
 參考華語鳥類名錄、英語名稱、[eBird 資料](https://ebird.org/species/lirplo)。
 
@@ -84,9 +84,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-- 🎯 **劍鴴 kiàm-hêng**
-- 🎯 **長喙鴴 tn̂g-chhùi-hêng**
-- ✳️ 水尖仔 chúi-chiam-á
+- 🎯 **劍鴴 kiàm-hîng**
+- 🎯 **長喙鴴 tn̂g-tshuì-hîng**
+- ✳️ 水尖仔 tsuí-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
 參考華語鳥類名錄、英語名稱、[eBird 資料](https://ebird.org/species/lobplo1)
@@ -101,12 +101,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-- 🎯 **土豆鳥 thô͘-tāu-chiáu**
-- 🎯 **田貓仔 chhân-niau-á**
-- 🎯 **哇仔 oa-á**
-- 🎯 **豆仔鳥 tāu-á-chiáu**
+- 🎯 **土豆鳥 thôo-tāu-tsiáu**
+- 🎯 **田貓仔 tshân-niau-á**
+- 🎯 **哇仔 ua-á**
+- 🎯 **豆仔鳥 tāu-á-tsiáu**
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2016⁺ iTaigi、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/norlap)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2016⁺ iTaigi、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/norlap)
 
 ---
 
@@ -118,7 +118,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-🎯 **跳鴴 thiàu-hêng**
+🎯 **跳鴴 thiàu-hîng**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gyhlap1)
 
@@ -132,7 +132,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-🎯 **東方紅胸鴴 tong-hong-âng-heng-hêng**
+🎯 **東方紅胸鴴 tong-hong-âng-hing-hîng**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/oriplo1)
 
@@ -146,8 +146,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-- 🎯 **蒙古鴴 bông-kó͘-hêng**
-- ✳️ 水尖仔 chúi-chiam-á
+- 🎯 **蒙古鴴 bông-kóo-hîng**
+- ✳️ 水尖仔 tsuí-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lessap2)
@@ -162,8 +162,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-- 🎯 **青藏鴴 chheⁿ-chōng-hêng**
-- ✳️ 水尖仔 chúi-chiam-á
+- 🎯 **青藏鴴 tshenn-tsōng-hîng**
+- ✳️ 水尖仔 tsuí-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lessap1)
@@ -178,8 +178,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-- 🎯 **厚喙鴴 kāu-chhùi-hêng**
-- ✳️ 水尖仔 chúi-chiam-á
+- 🎯 **厚喙鴴 kāu-tshuì-hîng**
+- ✳️ 水尖仔 tsuí-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/grsplo)
@@ -194,11 +194,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-- 🎯 **東方頷箍鴴 tong-hong-ām-kho͘-hêng**
-- ✳️ 水尖仔 chúi-chiam-á
+- 🎯 **東方頷箍鴴 tong-hong-ām-khoo-hîng**
+- ✳️ 水尖仔 tsuí-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-頷箍 ām-kho͘ 意思是頷仔頸 ām-á-kún + 箍仔 kho͘-á
+頷箍 ām-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/kenplo1)。
 
@@ -212,8 +212,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-- 🎯 **白面鴴 pe̍h-bīn-hêng**
-- ✳️ 水尖仔 chúi-chiam-á
+- 🎯 **白面鴴 pe̍h-bīn-hîng**
+- ✳️ 水尖仔 tsuí-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/whfplo2)

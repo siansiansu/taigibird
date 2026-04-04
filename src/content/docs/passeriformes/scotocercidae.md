@@ -1,20 +1,20 @@
 ---
-title: 樹鶯科 chhiū-eng-kho
-description: 樹鶯科（chhiū-eng-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 樹鶯科 tshiū-ing-kho
+description: 樹鶯科（tshiū-ing-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "樹鶯"]
 ---
 
-樹鶯科（chhiū-eng-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+樹鶯科（tshiū-ing-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 短尾鶯 ヤブサメ Asian Stubtail
 
 ![短尾鶯 ヤブサメ Asian Stubtail](https://inaturalist-open-data.s3.amazonaws.com/photos/306929514/medium.jpg)
 
-© Choan Xuan, some rights reserved (CC-BY-NC)
+© Tsuan Xuan, some rights reserved (CC-BY-NC)
 
 **台語名**
 
-🎯 **短尾鶯 té-bóe-eng**
+🎯 **短尾鶯 té-bué-ing**
 
 參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/asistu1)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "樹鶯"]
 
 **台語名**
 
-🎯 **赤面鶯 chhiah-bīn-eng**
+🎯 **赤面鶯 tshiah-bīn-ing**
 
 參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/rufwar1)
 
@@ -42,7 +42,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "樹鶯"]
 
 **台語名**
 
-🎯 **日本樹鶯 ji̍t-pún-chhiū-eng**
+🎯 **日本樹鶯 ji̍t-pún-tshiū-ing**
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/jabwar)
 
@@ -56,7 +56,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "樹鶯"]
 
 **台語名**
 
-🎯 **遠東樹鶯 oán-tong-chhiū-eng**
+🎯 **遠東樹鶯 uán-tong-tshiū-ing**
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/manbuw1)
 
@@ -70,8 +70,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "樹鶯"]
 
 **台語名**
 
-- 🎯 **小鶯 sió-eng**
-- 🎯 **台灣小鶯 tâi-oân-sió-eng**
+- 🎯 **小鶯 sió-ing**
+- 🎯 **台灣小鶯 tâi-uân-sió-ing**
 
 參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/bfbwar1)
 
@@ -85,6 +85,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "樹鶯"]
 
 **台語名**
 
-🎯 **深山鶯 chhim-soaⁿ-eng**
+🎯 **深山鶯 tshim-suann-ing**
 
 參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/ybbwar1)

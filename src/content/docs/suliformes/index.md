@@ -4,7 +4,7 @@ description: 海雞母目（hái-ke-bó-ba̍k）台語名整理，同齊對照�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海雞母", "鰹鳥"]
 ---
 
-- [蛇鵜科 chôa-thê-kho](./anhingidae.md)
-- [軍艦鳥科 kun-lām-chiáu-kho](./fregatidae.md)
-- [鸕鷀科 lô͘-chî-kho](./phalacrocoracidae.md)
+- [蛇鵜科 tsuâ-thê-kho](./anhingidae.md)
+- [軍艦鳥科 kun-lām-tsiáu-kho](./fregatidae.md)
+- [鸕鷀科 lôo-tsî-kho](./phalacrocoracidae.md)
 - [海雞母科 hái-ke-bó-kho](./sulidae.md)

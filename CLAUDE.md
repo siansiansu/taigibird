@@ -66,7 +66,7 @@ From `src/content/docs/index.md` — priority order for Taigi bird names:
 2. If the Taigi name is a generic term covering multiple species, add a descriptive prefix to distinguish
 3. If no native Taigi name exists, reference Chinese/English/Japanese names and bird characteristics
 4. Taxonomic group names use native Taigi nomenclature
-5. Romanization uses Pe̍h-ōe-jī (白話字)
+5. Romanization uses Tâi-lô (台羅 / 教育部臺灣閩南語羅馬字拼音方案)
 
 ## Data Sources
 

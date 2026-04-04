@@ -19,7 +19,12 @@
       "Bash(python3 -c \":*)",
       "Bash(pip3 install:*)",
       "Bash(# Move docs/img contents to static/img, then remove docs/img\ncp /Users/alexsu/Workspace/taigibird/docs/img/519273.png /Users/alexsu/Workspace/taigibird/static/img/og-cover.png && rm -rf /Users/alexsu/Workspace/taigibird/docs/img)",
-      "Bash(xxd)"
+      "Bash(xxd)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:api.github.com)",
+      "WebSearch",
+      "Bash(npx ctx7@latest:*)"
     ]
   },
   "hooks": {

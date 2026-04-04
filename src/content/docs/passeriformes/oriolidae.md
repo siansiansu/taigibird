@@ -1,10 +1,10 @@
 ---
-title: 黃鶯科 hông-eng-kho
-description: 黃鶯科（hông-eng-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 黃鶯科 hông-ing-kho
+description: 黃鶯科（hông-ing-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "黃鶯", "黃鸝", "朱鸝"]
 ---
 
-黃鶯科（hông-eng-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+黃鶯科（hông-ing-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 黃鸝 コウライウグイス Black-naped Oriole
 
@@ -14,13 +14,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "黃鶯", 
 
 **台語名**
 
-- 🎯 **黃鶯 n̂g-eng**
+- 🎯 **黃鶯 n̂g-ing**
 - 黃鸝 n̂g-lê
-- 烏枕黃鸝 o͘-tsím-n̂g-lê
-- 黃鳥 n̂g-chiáu
-- 黃鸝黃鳥 hông-lê-n̂g-chiáu
+- 烏枕黃鸝 oo-tsím-n̂g-lê
+- 黃鳥 n̂g-tsiáu
+- 黃鸝黃鳥 hông-lê-n̂g-tsiáu
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)」、[eBird 資料](https://ebird.org/species/blnori1)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)」、[eBird 資料](https://ebird.org/species/blnori1)
 
 ---
 
@@ -32,6 +32,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "黃鶯", 
 
 **台語名**
 
-🎯 **紅鶯 âng-eng**
+🎯 **紅鶯 âng-ing**
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/marori2)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/marori2)

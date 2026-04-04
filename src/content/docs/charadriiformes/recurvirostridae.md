@@ -14,12 +14,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "躼跤鷸
 
 **台語名**
 
-- 🎯 **躼跤鴴 lò-kha-hêng**
-- 🎯 **長跤鴴 tng-kha-hêng**
-- 高蹺鴴 ko-khiau-hêng
+- 🎯 **躼跤鴴 lò-kha-hîng**
+- 🎯 **長跤鴴 tng-kha-hîng**
+- 高蹺鴴 ko-khiau-hîng
 - ✳️ 躼跤仔 lò-kha-á
 
-參考 1973 Embree台英辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/bkwsti)
+參考 1973 Embree台英辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/bkwsti)
 
 ---
 
@@ -31,8 +31,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "躼跤鷸
 
 **台語名**
 
-- 🎯 **烏領躼跤鴴 o͘-niá-lò-kha-hêng**
-- 🎯 **烏領長跤鴴 o͘-niá-tng-kha-hêng**
+- 🎯 **烏領躼跤鴴 oo-niá-lò-kha-hîng**
+- 🎯 **烏領長跤鴴 oo-niá-tng-kha-hîng**
 - ✳️ 躼跤仔 lò-kha-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/piesti1)
@@ -43,12 +43,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "躼跤鷸
 
 ![反嘴鴴 ソリハシセイタカシギ Pied Avocet](https://inaturalist-open-data.s3.amazonaws.com/photos/15387682/medium.jpg)
 
-(c) Chia aka Cory Chiappone, some rights reserved (CC BY-NC)
+(c) Tsia aka Cory Chiappone, some rights reserved (CC BY-NC)
 
 **台語名**
 
-- 🎯 **翹喙鴴 khiàu-chhùi-hêng**
-- 反嘴鴴 hoán-chhùi-hêng
-- ✳️ 翹喙仔 khiàu-chhùi-á
+- 🎯 **翹喙鴴 khiàu-tshuì-hîng**
+- 反嘴鴴 huán-tshuì-hîng
+- ✳️ 翹喙仔 khiàu-tshuì-á
 
 參考 2016⁺ iTaigi、[eBird 資料](https://ebird.org/species/pieavo1)

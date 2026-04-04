@@ -1,10 +1,10 @@
 ---
-title: 杜鵑科 tō͘-koan-kho
-description: 杜鵑（tō͘-koan）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 杜鵑科 tōo-kuan-kho
+description: 杜鵑（tōo-kuan）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", "郭公"]
 ---
 
-杜鵑（tō͘-koan）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+杜鵑（tōo-kuan）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 褐翅鴉鵑 オオバンケン Greater Coucal
 
@@ -14,8 +14,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **台語名**
 
-- 🎯 **大草嘓 tōa-chháu-kok**
-- 🎯 **大草董 tōa-chháu-táng**
+- 🎯 **大草嘓 tuā-tsháu-kok**
+- 🎯 **大草董 tuā-tsháu-táng**
 - 🎯 **大紅甲箬 âng-kah-ha̍h**
 
 參考番鵑台語、[eBird 資料](https://ebird.org/species/grecou1)
@@ -30,11 +30,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **台語名**
 
-- 🎯 **草嘓 chháu-kok**
-- 🎯 **草董 chháu-táng**
+- 🎯 **草嘓 tsháu-kok**
+- 🎯 **草董 tsháu-táng**
 - 🎯 **紅甲箬 âng-kah-ha̍h**
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/lescou1)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/lescou1)
 
 ---
 
@@ -46,10 +46,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **台語名**
 
-- 🎯 **冠郭公 koan-koeh-kong**
-- 🎯 **聳毛杜鵑 chhàng-mo͘-tō͘-koan**
+- 🎯 **冠郭公 kuan-kueh-kong**
+- 🎯 **聳毛杜鵑 tshàng-moo-tōo-kuan**
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/chwcuc1)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/chwcuc1)
 
 ---
 
@@ -61,7 +61,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **台語名**
 
-🎯 **烏白冠郭公 o͘-pe̍h-koan-koeh-kong**
+🎯 **烏白冠郭公 oo-pe̍h-kuan-kueh-kong**
 
 參考日語、[eBird 資料](https://ebird.org/species/piecuc1)
 
@@ -75,10 +75,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **台語名**
 
-- 🎯 **鬼郭公 kuí-koeh-kong**
-- ✳️ 姑鳥 ko͘-chiáu
+- 🎯 **鬼郭公 kuí-kueh-kong**
+- ✳️ 姑鳥 koo-tsiáu
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/asikoe2)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/asikoe2)
 
 ---
 
@@ -90,13 +90,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **台語名**
 
-- 🎯 **八聲豆仔鳥 peh-siaⁿ-tāu-á-chiáu**
-- 🎯 **八聲客鴣 peh-siaⁿ-khek-ko͘**
-- 🎯 **八聲杜鵑 peh-siaⁿ-tō͘-koan**
-- 🎯 **八聲吐血鳥 peh-siaⁿ-thò͘-hoeh-chiáu**
-- ✳️ 杜鵑 tō͘-koan
-- ✳️ 豆仔鳥 tāu-á-chiáu
-- ✳️ 吐血鳥 thò͘-hoeh-chiáu
+- 🎯 **八聲豆仔鳥 peh-siann-tāu-á-tsiáu**
+- 🎯 **八聲客鴣 peh-siann-khik-koo**
+- 🎯 **八聲杜鵑 peh-siann-tōo-kuan**
+- 🎯 **八聲吐血鳥 peh-siann-thòo-hueh-tsiáu**
+- ✳️ 杜鵑 tōo-kuan
+- ✳️ 豆仔鳥 tāu-á-tsiáu
+- ✳️ 吐血鳥 thòo-hueh-tsiáu
 
 參考陳勁榛《臺灣民間故事選》、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/placuc1)
 
@@ -110,8 +110,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **台語名**
 
-- 🎯 **烏鶖郭公 o͘-chhiu-koeh-kong**
-- 方尾烏鵑 hong-bóe-o͘-koan
+- 🎯 **烏鶖郭公 oo-tshiu-kueh-kong**
+- 方尾烏鵑 hong-bué-oo-kuan
 
 參考日語、[eBird 資料](https://ebird.org/species/asidrc3)
 
@@ -125,9 +125,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **台語名**
 
-- 🎯 **鷹仔咕鳥 eng-á-ko͘-chiáu**
-- 鷹鵑 eng-koan
-- ✳️ 咕鳥 ko͘-chiáu
+- 🎯 **鷹仔咕鳥 ing-á-koo-tsiáu**
+- 鷹鵑 ing-kuan
+- ✳️ 咕鳥 koo-tsiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/larhac2)
 
@@ -141,8 +141,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **台語名**
 
-- 🎯 **北方鷹仔咕鳥 pak-hng-eng-á-ko͘-chiáu**
-- 北方鷹鵑 pak-hng-eng-koan
+- 🎯 **北方鷹仔咕鳥 pak-hng-ing-á-koo-tsiáu**
+- 北方鷹鵑 pak-hng-ing-kuan
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/nohcuc1)
 
@@ -156,9 +156,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **台語名**
 
-- 🎯 **赤腹鷹仔咕鳥 chhiah-pak-eng-á-ko͘-chiáu**
-- 🎯 **霍氏鷹仔咕鳥 Hok-sī-eng-á-ko͘-chiáu**
-- 赤腹鷹鵑 chhiah-pak-eng-koan
+- 🎯 **赤腹鷹仔咕鳥 tshiah-pak-ing-á-koo-tsiáu**
+- 🎯 **霍氏鷹仔咕鳥 Hok-sī-ing-á-koo-tsiáu**
+- 赤腹鷹鵑 tshiah-pak-ing-kuan
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/hodhac1)
 
@@ -172,13 +172,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **台語名**
 
-- 🎯 **小杜鵑 sió-tō͘-koan**
-- 🎯 **小郭公鳥 sió-koeh-kong-chiáu**
-- 🎯 **小豆仔鳥 sió-tāu-á-chiáu**
-- 🎯 **小吐血鳥 sió-thò͘-hoeh-chiáu**
-- ✳️ 杜鵑 tō͘-koan
-- ✳️ 豆仔鳥 tāu-á-chiáu
-- ✳️ 吐血鳥 thò͘-hoeh-chiáu
+- 🎯 **小杜鵑 sió-tōo-kuan**
+- 🎯 **小郭公鳥 sió-kueh-kong-tsiáu**
+- 🎯 **小豆仔鳥 sió-tāu-á-tsiáu**
+- 🎯 **小吐血鳥 sió-thòo-hueh-tsiáu**
+- ✳️ 杜鵑 tōo-kuan
+- ✳️ 豆仔鳥 tāu-á-tsiáu
+- ✳️ 吐血鳥 thòo-hueh-tsiáu
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/lescuc1)
 
@@ -192,12 +192,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **台語名**
 
-- 🎯 **四聲杜鵑 sì-siaⁿ-tō͘-koan**
-- 🎯 **四聲豆仔鳥 sì-siaⁿ-tāu-á-chiáu**
-- 🎯 **四聲吐血鳥 sì-siaⁿ-thò͘-hoeh-chiáu**
-- ✳️ 杜鵑 tō͘-koan
-- ✳️ 豆仔鳥 tāu-á-chiáu
-- ✳️ 吐血鳥 thò͘-hoeh-chiáu
+- 🎯 **四聲杜鵑 sì-siann-tōo-kuan**
+- 🎯 **四聲豆仔鳥 sì-siann-tāu-á-tsiáu**
+- 🎯 **四聲吐血鳥 sì-siann-thòo-hueh-tsiáu**
+- ✳️ 杜鵑 tōo-kuan
+- ✳️ 豆仔鳥 tāu-á-tsiáu
+- ✳️ 吐血鳥 thòo-hueh-tsiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/indcuc1)
 
@@ -211,16 +211,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **台語名**
 
-- 🎯 **喜馬拉雅中杜鵑 hí-má-la-ngá-tiong-tō͘-koan**
-- 🎯 **喜馬拉雅筒鳥 hí-má-la-ngá-tâng-chiáu**
-- 🎯 **喜馬拉雅中郭公鳥 hí-má-la-ngá-tiong-koeh-kong-chiáu**
-- 🎯 **喜馬拉雅中豆仔鳥 hí-má-la-ngá-tiong-tāu-á-chiáu**
-- ✳️ 杜鵑 tō͘-koan
-- ✳️ 豆仔鳥 tāu-á-chiáu
-- ✳️ 郭公鳥 koeh-kong-chiáu
-- ✳️ 豆仔鳥 tāu-á-chiáu
-- ✳️ 吐血鳥 thò͘-hoeh-chiáu
-- ✳️ 筒鳥 tâng-chiáu
+- 🎯 **喜馬拉雅中杜鵑 hí-má-la-ngá-tiong-tōo-kuan**
+- 🎯 **喜馬拉雅筒鳥 hí-má-la-ngá-tâng-tsiáu**
+- 🎯 **喜馬拉雅中郭公鳥 hí-má-la-ngá-tiong-kueh-kong-tsiáu**
+- 🎯 **喜馬拉雅中豆仔鳥 hí-má-la-ngá-tiong-tāu-á-tsiáu**
+- ✳️ 杜鵑 tōo-kuan
+- ✳️ 豆仔鳥 tāu-á-tsiáu
+- ✳️ 郭公鳥 kueh-kong-tsiáu
+- ✳️ 豆仔鳥 tāu-á-tsiáu
+- ✳️ 吐血鳥 thòo-hueh-tsiáu
+- ✳️ 筒鳥 tâng-tsiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/himcuc1)
 
@@ -234,13 +234,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **台語名**
 
-- 🎯 **大杜鵑 tōa-tō͘-koan**
-- 🎯 **大郭公鳥 tōa-koeh-kong-chiáu**
-- 🎯 **大豆仔鳥 tōa-tāu-á-chiáu**
-- ✳️ 杜鵑 tō͘-koan
-- ✳️ 豆仔鳥 tāu-á-chiáu
-- ✳️ 郭公鳥 koeh-kong-chiáu
-- ✳️ 吐血鳥 thò͘-hoeh-chiáu
+- 🎯 **大杜鵑 tuā-tōo-kuan**
+- 🎯 **大郭公鳥 tuā-kueh-kong-tsiáu**
+- 🎯 **大豆仔鳥 tuā-tāu-á-tsiáu**
+- ✳️ 杜鵑 tōo-kuan
+- ✳️ 豆仔鳥 tāu-á-tsiáu
+- ✳️ 郭公鳥 kueh-kong-tsiáu
+- ✳️ 吐血鳥 thòo-hueh-tsiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/comcuc)
 
@@ -254,14 +254,14 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **台語名**
 
-- 🎯 **北方中杜鵑 pak-hng-tiong-tō͘-koan**
-- 🎯 **北方中郭公鳥 pak-hng-tiong-koeh-kong-chiáu**
-- 🎯 **北方中豆仔鳥 pak-hng-tiong-tāu-á-chiáu**
-- 🎯 **北方筒鳥 pak-hng-tâng-chiáu**
-- ✳️ 杜鵑 tō͘-koan
-- ✳️ 豆仔鳥 tāu-á-chiáu
-- ✳️ 郭公鳥 koeh-kong-chiáu
-- ✳️ 吐血鳥 thò͘-hoeh-chiáu
-- ✳️ 筒鳥 tâng-chiáu
+- 🎯 **北方中杜鵑 pak-hng-tiong-tōo-kuan**
+- 🎯 **北方中郭公鳥 pak-hng-tiong-kueh-kong-tsiáu**
+- 🎯 **北方中豆仔鳥 pak-hng-tiong-tāu-á-tsiáu**
+- 🎯 **北方筒鳥 pak-hng-tâng-tsiáu**
+- ✳️ 杜鵑 tōo-kuan
+- ✳️ 豆仔鳥 tāu-á-tsiáu
+- ✳️ 郭公鳥 kueh-kong-tsiáu
+- ✳️ 吐血鳥 thòo-hueh-tsiáu
+- ✳️ 筒鳥 tâng-tsiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/oricuc2)

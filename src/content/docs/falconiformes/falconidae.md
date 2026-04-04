@@ -1,10 +1,10 @@
 ---
-title: 隼科 chún-kho
-description: 隼科（chún-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 隼科 tsún-kho
+description: 隼科（tsún-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "隼"]
 ---
 
-隼科（chún-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+隼科（tsún-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 黃爪隼 ヒメチョウゲンボウ Lesser Kestrel
 
@@ -14,8 +14,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "隼"]
 
 **台語名**
 
-- 🎯 **黃跤鷹 n̂g-kha-eng**
-- ✳️ 鷹仔 eng-á
+- 🎯 **黃跤鷹 n̂g-kha-ing**
+- ✳️ 鷹仔 ing-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/leskes1)
 
@@ -29,11 +29,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "隼"]
 
 **台語名**
 
-- 🎯 **紅鷹 âng-eng**
-- 紅隼 âng-chún
-- ✳️ 鷹仔 eng-á
+- 🎯 **紅鷹 âng-ing**
+- 紅隼 âng-tsún
+- ✳️ 鷹仔 ing-á
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/eurkes)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/eurkes)
 
 ---
 
@@ -45,11 +45,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "隼"]
 
 **台語名**
 
-- 🎯 **紅跤鷹 âng-kha-eng**
-- 紅跤隼 âng-kha-chún
-- 阿穆爾隼 a-bo̍k-ní-chún
-- 阿穆爾鷹 a-bo̍k-ní-eng
-- ✳️ 鷹仔 eng-á
+- 🎯 **紅跤鷹 âng-kha-ing**
+- 紅跤隼 âng-kha-tsún
+- 阿穆爾隼 a-bo̍k-ní-tsún
+- 阿穆爾鷹 a-bo̍k-ní-ing
+- ✳️ 鷹仔 ing-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/amufal1)
 
@@ -63,9 +63,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "隼"]
 
 **台語名**
 
-- 🎯 **殕色背鷹 phú-sek-pōe-eng**
-- 灰背隼 hoe-pōe-chún
-- ✳️ 鷹仔 eng-á
+- 🎯 **殕色背鷹 phú-sik-puē-ing**
+- 灰背隼 hue-puē-tsún
+- ✳️ 鷹仔 ing-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/merlin)
 
@@ -79,11 +79,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "隼"]
 
 **台語名**
 
-- 🎯 **燕仔鷹 iàn-á-eng**
-- 燕隼 iàn-chún
-- 燕仔隼 iàn-á-chún
-- 燕鷹 iàn-eng
-- ✳️ 鷹仔 eng-á
+- 🎯 **燕仔鷹 iàn-á-ing**
+- 燕隼 iàn-tsún
+- 燕仔隼 iàn-á-tsún
+- 燕鷹 iàn-ing
+- ✳️ 鷹仔 ing-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eurhob)
 
@@ -97,7 +97,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "隼"]
 
 **台語名**
 
-- 🎯 **鴨虎 ah-hó͘**
-- ✳️ 鷹仔 eng-á
+- 🎯 **鴨虎 ah-hóo**
+- ✳️ 鷹仔 ing-á
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/perfal)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/perfal)

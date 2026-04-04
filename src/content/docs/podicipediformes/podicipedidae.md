@@ -1,10 +1,10 @@
 ---
-title: 水避仔科 chuí-pī-á-kho
-description: 水避仔（chuí-pī-á，華語：鸊鷉）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 水避仔科 tsuí-pī-á-kho
+description: 水避仔（tsuí-pī-á，華語：鸊鷉）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "水避仔", "鸊鷉"]
 ---
 
-水避仔（chuí-pī-á，華語：鸊鷉）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+水避仔（tsuí-pī-á，華語：鸊鷉）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 小鸊鷉 カイツブリ Little Grebe
 
@@ -14,9 +14,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "水避仔
 
 **台語名**
 
-🎯 **水避仔 chuí-pī-á**
+🎯 **水避仔 tsuí-pī-á**
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/litgre1)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/litgre1)
 
 ---
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "水避仔
 
 **台語名**
 
-🎯 **角水避 kak-chuí-pī**
+🎯 **角水避 kak-tsuí-pī**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/horgre)
 
@@ -42,7 +42,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "水避仔
 
 **台語名**
 
-🎯 **紅頸水避 âng-kún-chuí-pī**
+🎯 **紅頸水避 âng-kún-tsuí-pī**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rengre)
 
@@ -56,9 +56,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "水避仔
 
 **台語名**
 
-🎯 **聳毛水避 chhàng-mo͘-chuí-pī**
+🎯 **聳毛水避 tshàng-moo-tsuí-pī**
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/grcgre1)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/grcgre1)
 
 ---
 
@@ -70,6 +70,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "水避仔
 
 **台語名**
 
-🎯 **烏頸水避 o͘-kún-chuí-pī**
+🎯 **烏頸水避 oo-kún-tsuí-pī**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eargre)

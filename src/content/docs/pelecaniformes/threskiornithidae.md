@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 
 **台語名**
 
-🎯 **彩䴉 chhái-hiân**
+🎯 **彩䴉 tshái-hiân**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gloibi)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 
 **台語名**
 
-🎯 **埃及聖䴉 ai-ki̍p-sèng-hiân**
+🎯 **埃及聖䴉 ai-ki̍p-sìng-hiân**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sacibi2)
 
@@ -42,8 +42,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 
 **台語名**
 
-- 🎯 **烏朱鷺 o͘-chu-lō͘**
-- 🎯 **烏頭白䴉 o͘-thâu-pe̍h-hiân**
+- 🎯 **烏朱鷺 oo-tsu-lōo**
+- 🎯 **烏頭白䴉 oo-thâu-pe̍h-hiân**
 
 參考日語、[eBird 資料](https://ebird.org/species/blhibi1)
 
@@ -57,7 +57,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 
 **台語名**
 
-🎯 **朱鷺 chu-lō͘**
+🎯 **朱鷺 tsu-lōo**
 
 參考日語、[eBird 資料](https://ebird.org/species/creibi1)
 
@@ -71,11 +71,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 
 **台語名**
 
-- 🎯 **白面抐桮 pe̍h-bīn-lā-poe**
-- ✳️ 抐桮 lā-poe
-- ✳️ 飯匙鵝 pūiⁿ-sî-gô
+- 🎯 **白面抐桮 pe̍h-bīn-lā-pue**
+- ✳️ 抐桮 lā-pue
+- ✳️ 飯匙鵝 puīnn-sî-gô
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/eurspo1)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/eurspo1)
 
 ---
 
@@ -87,8 +87,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 
 **台語名**
 
-- 🎯 **烏面抐桮 o͘-bīn-lā-poe**
-- ✳️ 抐桮 lā-poe
-- ✳️ 飯匙鵝 pūiⁿ-sî-gô
+- 🎯 **烏面抐桮 oo-bīn-lā-pue**
+- ✳️ 抐桮 lā-pue
+- ✳️ 飯匙鵝 puīnn-sî-gô
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/blfspo1)
+參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/blfspo1)

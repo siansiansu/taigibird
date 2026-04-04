@@ -15,13 +15,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 **台語名**
 
 - 🎯 **西方米雞仔 se-hong-bí-ke-á**
-- 🎯 歐洲米雞仔 au-chiu-bí-ke-á
-- ✳️ 烏水雞 o͘-súi-ke
-- ✳️ 烏雞仔 o͘-ke-á
-- ✳️ 田雞仔 chhân-ke-á
+- 🎯 歐洲米雞仔 au-tsiu-bí-ke-á
+- ✳️ 烏水雞 oo-suí-ke
+- ✳️ 烏雞仔 oo-ke-á
+- ✳️ 田雞仔 tshân-ke-á
 - ✳️ 米雞仔 bí-ke-á
-- ✳️ 紅雞 âng-koe
-- ✳️ 青跤仔 chheⁿ-kha-á
+- ✳️ 紅雞 âng-kue
+- ✳️ 青跤仔 tshenn-kha-á
 
 參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/watrai1)
 
@@ -36,12 +36,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 **台語名**
 
 - 🎯 **東亞米雞仔 tang-a-bí-ke-á**
-- ✳️ 烏水雞 o͘-súi-ke
-- ✳️ 烏雞仔 o͘-ke-á
-- ✳️ 田雞仔 chhân-ke-á
+- ✳️ 烏水雞 oo-suí-ke
+- ✳️ 烏雞仔 oo-ke-á
+- ✳️ 田雞仔 tshân-ke-á
 - ✳️ 米雞仔 bí-ke-á
-- ✳️ 紅雞 âng-koe
-- ✳️ 青跤仔 chheⁿ-kha-á
+- ✳️ 紅雞 âng-kue
+- ✳️ 青跤仔 tshenn-kha-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/bncrai1)
 
@@ -55,13 +55,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 
 **台語名**
 
-- 🎯 **殕色胸米雞仔 phú-sek-heng-sió-bí-ke-á**
-- ✳️ 烏水雞 o͘-súi-ke
-- ✳️ 烏雞仔 o͘-ke-á
-- ✳️ 田雞仔 chhân-ke-á
+- 🎯 **殕色胸米雞仔 phú-sik-hing-sió-bí-ke-á**
+- ✳️ 烏水雞 oo-suí-ke
+- ✳️ 烏雞仔 oo-ke-á
+- ✳️ 田雞仔 tshân-ke-á
 - ✳️ 米雞仔 bí-ke-á
-- ✳️ 紅雞 âng-koe
-- ✳️ 青跤仔 chheⁿ-kha-á
+- ✳️ 紅雞 âng-kue
+- ✳️ 青跤仔 tshenn-kha-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/slbrai1)
 
@@ -75,13 +75,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 
 **台語名**
 
-- 🎯 **斑胸米雞仔 pan-heng-bí-ke-á**
-- ✳️ 烏水雞 o͘-súi-ke
-- ✳️ 烏雞仔 o͘-ke-á
-- ✳️ 田雞仔 chhân-ke-á
+- 🎯 **斑胸米雞仔 pan-hing-bí-ke-á**
+- ✳️ 烏水雞 oo-suí-ke
+- ✳️ 烏雞仔 oo-ke-á
+- ✳️ 田雞仔 tshân-ke-á
 - ✳️ 米雞仔 bí-ke-á
-- ✳️ 紅雞 âng-koe
-- ✳️ 青跤仔 chheⁿ-kha-á
+- ✳️ 紅雞 âng-kue
+- ✳️ 青跤仔 tshenn-kha-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/spocra1)
 
@@ -95,18 +95,18 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 
 **台語名**
 
-- 🎯 **水鵁鴒 súi-ka-leng**
-- 紅冠水雞 âng-koan-chuí-koe
+- 🎯 **水鵁鴒 suí-ka-ling**
+- 紅冠水雞 âng-kuan-tsuí-kue
 - 紅骨頂 âng-kut-tíng
 - 過塘雞 kè-tn̂g-ke
-- ✳️ 烏水雞 o͘-súi-ke
-- ✳️ 烏雞仔 o͘-ke-á
-- ✳️ 田雞仔 chhân-ke-á
+- ✳️ 烏水雞 oo-suí-ke
+- ✳️ 烏雞仔 oo-ke-á
+- ✳️ 田雞仔 tshân-ke-á
 - ✳️ 米雞仔 bí-ke-á
-- ✳️ 紅雞 âng-koe
-- ✳️ 青跤仔 chheⁿ-kha-á
+- ✳️ 紅雞 âng-kue
+- ✳️ 青跤仔 tshenn-kha-á
 
-參考 2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/commoo3)
+參考 2002⁺ 台華線頂辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/commoo3)
 
 ---
 
@@ -118,9 +118,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 
 **台語名**
 
-- 🎯 **白冠烏雞仔 pe̍h-koan-o͘-ke-á**
-- ✳️ 烏雞仔 o͘-ke-á
-- ✳️ 烏水雞 o͘-súi-ke
+- 🎯 **白冠烏雞仔 pe̍h-kuan-oo-ke-á**
+- ✳️ 烏雞仔 oo-ke-á
+- ✳️ 烏水雞 oo-suí-ke
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eurcoo)
 
@@ -134,11 +134,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 
 **台語名**
 
-- 🎯 **殕色頭紫田雞 phú-sek-thâu-tsí-chhân-ke**
-- ✳️ 紫水雞 tsí-chuí-ke
-- ✳️ 紫田雞 tsí-chhân-ke
-- ✳️ 秧雞 iong-koe
-- ✳️ 水雞 chuí-koe
+- 🎯 **殕色頭紫田雞 phú-sik-thâu-tsí-tshân-ke**
+- ✳️ 紫水雞 tsí-tsuí-ke
+- ✳️ 紫田雞 tsí-tshân-ke
+- ✳️ 秧雞 iong-kue
+- ✳️ 水雞 tsuí-kue
 - ✳️ 米雞仔 bí-ke-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/purswa3)
@@ -167,9 +167,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 
 **台語名**
 
-🎯 **田頓 chhân-tòm**
+🎯 **田頓 tshân-tòm**
 
-參考 2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/waterc1)
+參考 2002⁺ 台華線頂辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/waterc1)
 
 ---
 
@@ -181,16 +181,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 
 **台語名**
 
-- 🎯 **苦雞母 khó͘-ke-bó**
-- 🎯 **姑惡鳥 ko͘-ok-chiáu**
-- 🎯 **白腹秧雞 pe̍h-pak-iong-koe**
-- 姑婆鳥 ko͘-pō-chiáu
+- 🎯 **苦雞母 khóo-ke-bó**
+- 🎯 **姑惡鳥 koo-ok-tsiáu**
+- 🎯 **白腹秧雞 pe̍h-pak-iong-kue**
+- 姑婆鳥 koo-pō-tsiáu
 - 白面雞 pe̍h-bīn-ke
-- 苦惡鳥 khó͘-òⁿ-chiáu
-- 白胸秧雞 pe̍h-heng-iong-koe
-- ✳️ 紅尻川仔 âng-kha-chhng-á
+- 苦惡鳥 khóo-ònn-tsiáu
+- 白胸秧雞 pe̍h-hing-iong-kue
+- ✳️ 紅尻川仔 âng-kha-tshng-á
 
-參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/whbwat1)
+參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/whbwat1)
 
 ---
 
@@ -203,8 +203,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 **台語名**
 
 - 🎯 紅跤米雞仔 âng-kha-bí-ke-á
-- ✳️ 秧雞 iong-koe
-- ✳️ 紅跤鳥 âng-kha-chiáu
+- ✳️ 秧雞 iong-kue
+- ✳️ 紅跤鳥 âng-kha-tsiáu
 - ✳️ 米雞仔 bí-ke-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/relcra1)
@@ -219,8 +219,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 
 **台語名**
 
-- 🎯 殕色跤米雞仔 phú-sek-kha-bí-ke-á
-- ✳️ 秧雞 iong-koe
+- 🎯 殕色跤米雞仔 phú-sik-kha-bí-ke-á
+- ✳️ 秧雞 iong-kue
 - ✳️ 米雞仔 bí-ke-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sllcra1)
@@ -235,16 +235,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 
 **台語名**
 
-- 🎯 **紅胸米雞仔 âng-heng-bí-ke-á**
-- 🎯 **紅胸秧雞 âng-heng-iong-koe**
-- 🎯 紅秧雞 âng-iong-koe
-- 紅胸田雞 âng-heng-chhân-koe
-- 紅跤秧雞 âng-kha-iong-koe
-- 緋秧雞 hui-iong-koe
-- ✳️ 秧雞 iong-koe
-- ✳️ 水雞 chuí-koe
+- 🎯 **紅胸米雞仔 âng-hing-bí-ke-á**
+- 🎯 **紅胸秧雞 âng-hing-iong-kue**
+- 🎯 紅秧雞 âng-iong-kue
+- 紅胸田雞 âng-hing-tshân-kue
+- 紅跤秧雞 âng-kha-iong-kue
+- 緋秧雞 hui-iong-kue
+- ✳️ 秧雞 iong-kue
+- ✳️ 水雞 tsuí-kue
 - ✳️ 米雞仔 bí-ke-á
-- ✳️ 紅跤鳥 âng-kha-chiáu
+- ✳️ 紅跤鳥 âng-kha-tsiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rubcra1)
 
@@ -258,9 +258,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 
 **台語名**
 
-- 🎯 斑胳米雞仔 pan-koeh-bí-ke-á
-- ✳️ 秧雞 iong-koe
-- ✳️ 水雞 chuí-koe
+- 🎯 斑胳米雞仔 pan-kueh-bí-ke-á
+- ✳️ 秧雞 iong-kue
+- ✳️ 水雞 tsuí-kue
 - ✳️ 米雞仔 bí-ke-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/babcra1)
@@ -275,10 +275,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 
 **台語名**
 
-- 🎯 **紅跤苦雞母 âng-kha-khó͘-ke-bó**
-- 🎯 **紅跤姑惡鳥 âng-kha-ko͘-ok-chiáu**
-- ✳️ 姑婆鳥 ko͘-pō-chiáu
-- ✳️ 苦惡鳥 khó͘-òⁿ-chiáu
+- 🎯 **紅跤苦雞母 âng-kha-khóo-ke-bó**
+- 🎯 **紅跤姑惡鳥 âng-kha-koo-ok-tsiáu**
+- ✳️ 姑婆鳥 koo-pō-tsiáu
+- ✳️ 苦惡鳥 khóo-ònn-tsiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/brocra1)
 
@@ -293,8 +293,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 **台語名**
 
 - 🎯 **小米雞仔 sió-bí-ke-á**
-- ✳️ 秧雞 iong-koe
-- ✳️ 水雞 chuí-koe
+- ✳️ 秧雞 iong-kue
+- ✳️ 水雞 tsuí-kue
 - ✳️ 米雞仔 bí-ke-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/baicra1)

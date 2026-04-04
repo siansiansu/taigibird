@@ -1,10 +1,10 @@
 ---
-title: 燕仔科 ìⁿ-á-kho
-description: 燕仔（ìⁿ-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 燕仔科 ìnn-á-kho
+description: 燕仔（ìnn-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔"]
 ---
 
-燕仔（ìⁿ-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+燕仔（ìnn-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 棕沙燕 タイワンショウドウツバメ Gray-throated Martin
 
@@ -14,8 +14,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔"]
 
 **台語名**
 
-- 🎯 **赤色沙燕仔 chhiah-sek-soa-ìⁿ-á**
-- ✳️ 燕仔 ìⁿ-á
+- 🎯 **赤色沙燕仔 tshiah-sik-sua-ìnn-á**
+- ✳️ 燕仔 ìnn-á
 
 參考華語、[eBird 資料](https://ebird.org/species/gytmar1)
 
@@ -29,8 +29,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔"]
 
 **台語名**
 
-- 🎯 **殕色沙燕仔 phú-sek-soa-ìⁿ-á**
-- ✳️ 燕仔 ìⁿ-á
+- 🎯 **殕色沙燕仔 phú-sik-sua-ìnn-á**
+- ✳️ 燕仔 ìnn-á
 
 參考華語、[eBird 資料](https://ebird.org/species/banswa)
 
@@ -44,8 +44,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔"]
 
 **台語名**
 
-- 🎯 **洋燕仔 iûnn-ìⁿ-á**
-- ✳️ 燕仔 ìⁿ-á
+- 🎯 **洋燕仔 iûnn-ìnn-á**
+- ✳️ 燕仔 ìnn-á
 
 參考華語、[eBird 資料](https://ebird.org/species/pacswa1)
 
@@ -59,8 +59,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔"]
 
 **台語名**
 
-- 🎯 **厝燕仔 chhù-ìⁿ-á**
-- ✳️ 燕仔 ìⁿ-á
+- 🎯 **厝燕仔 tshù-ìnn-á**
+- ✳️ 燕仔 ìnn-á
 
 參考華語、[eBird 資料](https://ebird.org/species/barswa)
 
@@ -74,9 +74,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔"]
 
 **台語名**
 
-- 🎯 **白腹毛跤燕仔 pe̍h-pak-mo͘-kha-iàn-á**
-- ✳️ 毛跤燕仔 mo͘-kha-iàn-á
-- ✳️ 燕仔 ìⁿ-á
+- 🎯 **白腹毛跤燕仔 pe̍h-pak-moo-kha-iàn-á**
+- ✳️ 毛跤燕仔 moo-kha-iàn-á
+- ✳️ 燕仔 ìnn-á
 
 參考華語、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/comhom2)
 
@@ -90,9 +90,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔"]
 
 **台語名**
 
-- 🎯 **東方毛跤燕仔 tong-hong-mo͘-kha-iàn-á**
-- ✳️ 毛跤燕仔 mo͘-kha-iàn-á
-- ✳️ 燕仔 ìⁿ-á
+- 🎯 **東方毛跤燕仔 tong-hong-moo-kha-iàn-á**
+- ✳️ 毛跤燕仔 moo-kha-iàn-á
+- ✳️ 燕仔 ìnn-á
 
 參考華語、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/ashmar1)
 
@@ -106,9 +106,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔"]
 
 **台語名**
 
-- 🎯 **東方金腰燕 tang-hong-kim-io-ìⁿ**
-- 花燕仔 hoe-ìⁿ-á
-- 紅腰燕 âng-io-ìⁿ
-- ✳️ 燕仔 ìⁿ-á
+- 🎯 **東方金腰燕 tang-hong-kim-io-ìnn**
+- 花燕仔 hue-ìnn-á
+- 紅腰燕 âng-io-ìnn
+- ✳️ 燕仔 ìnn-á
 
-1973 Embree台英辭典、2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/y00621)
+1973 Embree台英辭典、2002⁺ 台華線頂辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/y00621)
