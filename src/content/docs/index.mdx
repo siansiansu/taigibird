@@ -32,18 +32,17 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 4. 分類名盡量用台灣本土 ê 台語號名。
 5. 羅馬字使用白話字。
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
+import { Tabs, TabItem } from '@astrojs/starlight/components';
 
 <Tabs>
-  <TabItem value="範例 1">
+  <TabItem label="範例 1">
 **下跤 ê 物種攏是青笛仔**
   1. 斯氏繡眼 -> su-sī-chheⁿ-thî-á 斯氏青笛仔
   2. 日菲繡眼 -> ji̍t-hui-chheⁿ-thî-á 日菲青笛仔
   3. 低地繡眼 -> kē-tē-chheⁿ-thî-á 低地青笛仔
   4. 紅脇繡眼 -> chhiah-koh-chheⁿ-thî-á 赤胳青笛仔
   </TabItem>
-  <TabItem value="範例 2">
+  <TabItem label="範例 2">
   **下跤 ê 物種攏是水避仔 ê 一種**
   1. 小鸊鷉 -> chúi-pī-á 水避仔
   2. 角鸊鷉 -> kak-chúi-pī 角水避
@@ -51,20 +50,20 @@ import TabItem from '@theme/TabItem';
   4. 冠鸊鷉 -> chhàng-mo͘-chúi-pī 聳毛水避
   5. 黑頸鸊鷉 -> o͘-kún-chúi-pī 烏頸水避
   </TabItem>
-  <TabItem value="範例 3">
+  <TabItem label="範例 3">
   **下跤 ê 物種攏無佇辭典**
   1. 鐵嘴鴴仔 -> kāu-chhùi-hêng-á 厚喙鴴
   2. 赤腹鶇仔 -> âng-pak-tong-á 紅腹鶇
   3. 勘察加柳鶯 -> Kham-chhat-ka-liú-eng 勘察加柳鶯
   4. 紅喉潛鳥 -> âng-âu-chhàng-chúi-chiáu 紅喉藏水鳥
   </TabItem>
-  <TabItem value="範例四">
+  <TabItem label="範例四">
   **有 ê 物種 mā 會參考日語、英語，無一定參考華語**
   1. 褐翅鴉鵑 -> tōa-chháu-kok 大草嘓
   2. 斑背潛鴨 -> lêng-ah 鈴鴨
   3. 蠣鴴 -> chia̍h-ô-á-chiáu 食蚵仔鳥
   </TabItem>
-  <TabItem value="範例五">
+  <TabItem label="範例五">
   **分類名盡量用台灣本土 ê 台語號名**
   1. 夜鷹目 -> chio̍h-ki-á-ba̍k 石磯仔目
   2. 鸊鷉科 -> chúi-pī-á-koa 水避仔科
