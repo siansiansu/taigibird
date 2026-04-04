@@ -2,32 +2,37 @@
 
 Taiwanese (Taigi/台語) bird name reference site — maps 750+ bird species to their Taigi names with eBird links, iNaturalist photos, and cross-language references (Chinese, Japanese, English).
 
+Built with **Astro Starlight**. Requires **Node.js 22+** (managed via mise).
+
 ## Commands
 
 ```bash
-npm start          # Local dev server
-npm run build      # Production build (throws on broken links!)
-npm run serve      # Serve production build locally
+npm start          # Local dev server (alias for npm run dev)
+npm run dev        # Local dev server
+npm run build      # Production build
+npm run preview    # Serve production build locally
 npm run clear      # Clear generated files
 ```
 
-**Always run `npm run build` before committing** — Docusaurus is configured with `onBrokenLinks: "throw"`, so a single broken link fails the entire build.
+**Always run `npm run build` before committing** to catch any build errors.
 
 ## Content Architecture
 
 ```
-docs/
-├── intro.md                          # Landing page (slug: /)
+src/content/docs/
+├── index.md                          # Landing page (root /)
 ├── {order}/                          # Bird order directory (e.g. passeriformes/)
-│   ├── _category_.json               # Sidebar label and position
 │   ├── index.md                      # Order overview with family links
 │   └── {family}.md                   # Family file containing species entries
 └── references/                       # Taigi linguistic references (gitignored)
 ```
 
-- Docs route to `/` (not `/docs/`) via `routeBasePath: '/'`
-- `trailingSlash: true` — all URLs end with `/`
-- `_category_.json` controls sidebar ordering and Taigi labels
+- Content lives in `src/content/docs/` (Astro content collections)
+- Static assets live in `public/` (fonts, images, manifest)
+- Sidebar ordering is defined in `astro.config.mjs` (not filesystem-based)
+- `trailingSlash: 'always'` — all URLs end with `/`
+- Custom components: `src/components/Header.astro` (navbar links), `src/components/Footer.astro` (social links + copyright)
+- Custom CSS: `src/styles/custom.css` (grayscale Apple theme, `--sl-*` variables)
 
 ## Species Entry Format
 
@@ -55,7 +60,7 @@ Every bird species follows this exact pattern:
 
 ## Naming Rules
 
-From `docs/intro.md` — priority order for Taigi bird names:
+From `src/content/docs/index.md` — priority order for Taigi bird names:
 
 1. Use existing native Taigi names when available
 2. If the Taigi name is a generic term covering multiple species, add a descriptive prefix to distinguish
@@ -80,6 +85,8 @@ From `docs/intro.md` — priority order for Taigi bird names:
 
 - `.claude/` is gitignored — use `git add -f` for skills that should be shared
 - `references/` directory is gitignored (not deployed)
-- When renaming birds, update ALL occurrences: `##` heading, `![]()` image alt text, Taigi name section, and check `index.md` / `intro.md`
+- When renaming birds, update ALL occurrences: `##` heading, `![]()` image alt text, Taigi name section, and check `index.md`
 - Use `臺灣` (not `台灣`) in bird species names per eBird standard
 - Species entries use `鸕鷀` (not `鸕鶿`), `杓鷸` (not `勺鷸`) per eBird standard
+- Sidebar order is hardcoded in `astro.config.mjs` — add new orders there
+- Frontmatter must include `title` and `description`; `keywords` is optional (extended schema in `src/content.config.ts`)
