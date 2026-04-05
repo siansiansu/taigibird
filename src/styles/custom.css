@@ -181,6 +181,11 @@ footer {
   background-color: transparent;
 }
 
+/* Tabs */
+starlight-tabs [role='tablist'] {
+  border-bottom: none;
+}
+
 /* Responsive */
 @media (max-width: 996px) {
   .sl-markdown-content h1 {

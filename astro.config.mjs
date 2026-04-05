@@ -17,7 +17,7 @@ export default defineConfig({
       plugins: [
         starlightDocSearch({
           appId: 'VI6SD4P5S4',
-          apiKey: '641f15a0dc32483cac99847618f1ǎe̍',
+          apiKey: '641f15a0dc32483cac99847618f1a6e8',
           indexName: 'Taigichiau Website',
         }),
       ],
