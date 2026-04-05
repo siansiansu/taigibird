@@ -17,6 +17,9 @@
   --sl-color-accent: #aeaeb2;
   --sl-color-accent-high: #f5f5f7;
 
+  /* Content width */
+  --sl-content-width: 55rem;
+
   /* Dark mode grays */
   --sl-color-white: #ffffff;
   --sl-color-gray-1: #f5f5f7;
@@ -148,7 +151,8 @@ starlight-header {
 .sl-markdown-content table {
   margin: 1.5rem 0;
   border-radius: 10px;
-  overflow: hidden;
+  display: block;
+  overflow-x: auto;
 }
 
 .sl-markdown-content th {
@@ -158,8 +162,10 @@ starlight-header {
   padding: 0.75rem 1rem;
 }
 
-.sl-markdown-content td {
+.sl-markdown-content td,
+.sl-markdown-content th {
   padding: 0.75rem 1rem;
+  white-space: nowrap;
 }
 
 /* Inline code */
