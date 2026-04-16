@@ -50,7 +50,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 
 **台語名**
 
-- 🎯 **殕色雁 phú-sik-gān**
+- 🎯 **灰雁 hue-gān**
+- 🎯 **灰鵝 hue-gô**
 - ✳️ 海雁 hái-gān
 - ✳️ 海鵝 hái-gô
 - ✳️ 野鵝 iá-gô
@@ -120,14 +121,14 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 
 **台語名**
 
-- 🎯 **寒林豆雁 hân-lîm-tāu-gān**
+- 🎯 **大豆雁 tuā-lîm-tāu-gān**
 - ✳️ 豆雁 tāu-gān
 - ✳️ 海雁 hái-gān
 - ✳️ 海鵝 hái-gô
 - ✳️ 野鵝 iá-gô
 - ✳️ 雁仔 gān-á
 
-華語鳥類名錄、[eBird 資料](https://ebird.org/species/taibeg1)
+參考日本名、[eBird 資料](https://ebird.org/species/taibeg1)
 
 ---
 
@@ -139,14 +140,14 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 
 **台語名**
 
-- 🎯 **凍原豆雁 tàng-guân-tāu-gān**
+- 🎯 **豆雁 tāu-gān**
 - ✳️ 豆雁 tāu-gān
 - ✳️ 海雁 hái-gān
 - ✳️ 海鵝 hái-gô
 - ✳️ 野鵝 iá-gô
 - ✳️ 雁仔 gān-á
 
-華語鳥類名錄、[eBird 資料](https://ebird.org/species/tunbeg1)
+參考日本名、[eBird 資料](https://ebird.org/species/tunbeg1)
 
 ---
 
@@ -223,7 +224,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 
 **台語名**
 
-🎯 **黃喙天鵝 n̂g-tshuì-thian-gô**
+🎯 **大天鵝 tuā-thian-gô**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/whoswa)
 
@@ -237,13 +238,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 
 **台語名**
 
-- 🎯 **瀆鳧 to̍k-hû**
+- 🎯 **赤鴨仔 tshiah-ah-á**
 - 黃鳧 n̂g-hû
 - 黃鴨 n̂g-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-華語鳥類名錄、[eBird 資料](https://ebird.org/species/rudshe)
+依據色水、[eBird 資料](https://ebird.org/species/rudshe)
 
 ---
 
@@ -325,7 +326,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 
 **台語名**
 
-- 🎯 **白目眉鴨 pe̍h-ba̍k-bâi-ah**
+- 🎯 **白眉鴨 pe̍h-bâi-ah**
 - 巡鳧 sûn-hû
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
@@ -362,7 +363,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 **台語名**
 
 - 🎯 **紅翼鴨 âng-si̍t-ah**
-- 🎯 赤膀鴨 tshiah-pōng-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
