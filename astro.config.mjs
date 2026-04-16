@@ -82,6 +82,7 @@ export default defineConfig({
     }),
     sitemap({
       lastmod: new Date(),
+      sitemapName: 'sitemap.xml',
     }),
   ],
 });
