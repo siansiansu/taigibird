@@ -244,6 +244,25 @@ Flag these explicitly when they appear.
 - descriptive modifier chosen without evidence that it distinguishes this species from close alternatives
 - taxonomic naming inconsistent with the project's established group-name patterns
 
+## Taxonomic Standardization Versus Weak Calque
+
+The agent should distinguish carefully between:
+
+- a weak Chinese-based calque, and
+- a deliberate standardized name that respects species-level taxonomy
+
+A form should not be criticized merely because it aligns with a cross-language taxonomic label if:
+
+- the project is intentionally distinguishing species that share a broader folk umbrella term
+- the standardized form helps preserve one-name-per-species clarity
+- the form remains defensible in Taigi morphology and orthography
+
+In other words:
+
+- "not inherited as a folk name" does not automatically mean "bad"
+- some standardized species names are justified because they respect modern species classification
+- the real question is whether the standardized form is linguistically defensible and clearly better than leaving the species ambiguous
+
 ## Output Format
 
 For each reviewed entry, output the following fields in English.

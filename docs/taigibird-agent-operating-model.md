@@ -188,6 +188,7 @@ When judging whether a name is genuinely native, attested, generic, or modernly 
 
 Do not leave the naming basis implied. If a recommendation depends on an inference, say so.
 If a descriptive component comes from project-curated helper data in `src/data/`, say that it is using project-internal reference support rather than external attestation.
+If a name is being kept as a standardized species-level form out of respect for modern taxonomy, say that explicitly rather than dismissing it as merely "Chinese-style" or "Sinicized".
 
 ### Preserve Reviewability
 
