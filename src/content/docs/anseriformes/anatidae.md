@@ -383,12 +383,20 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 
 **台語名**
 
-- 🎯 **紅翼鴨 âng-si̍t-ah**
-- 🎯 赤膀鴨 tshiah-pōng-ah
+- 🎯 **赤膀鴨 tshiah-pōng-ah**
+- ◯ 紅翼鴨 âng-si̍t-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-華語鳥類名錄、[eBird 資料](https://ebird.org/species/gadwal)
+**號名理由**
+
+- `赤膀鴨` 先保留做分類名，和 eBird 華語名一致，較清楚對應這个物種。
+- `紅翼鴨` 是照外觀特徵整理 ê 名；eBird `Identification` 提著雄鳥飛翔時有細片白翼斑，整體身色偏灰，這个名目前證據無夠穩，先留做別名。
+
+**參考資料**
+
+- [eBird 資料](https://ebird.org/species/gadwal)
+- `https://ebird.org/species/gadwal`
 
 ---
 
@@ -401,11 +409,20 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 **台語名**
 
 - 🎯 **羅文鴨 lô-bûn-ah**
-- 🎯 **葦鴨 uí-ah**
+- ◯ 葦鴨 uí-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/falduc)
+**號名理由**
+
+- `羅文鴨` 先保留做分類名，和目前物種分類對應較直接。
+- `葦鴨` 有可能是日語 `ヨシガモ` 脈絡延伸出來 ê 名，`葦` 對應 `yoshi`，所以留做別名。
+- eBird `Identification` 提著雄鳥有長而且彎 ê 羽毛，嘛有鱗文感 ê 身軀紋路；目前猶無夠證據顯示 `葦鴨` 應該取代分類名做建議名。
+
+**參考資料**
+
+- [eBird 資料](https://ebird.org/species/falduc)
+- `https://ebird.org/species/falduc`
 
 ---
 
@@ -502,11 +519,19 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 **台語名**
 
 - 🎯 **花喙鴨 hue-tshuì-ah**
-- 🎯 斑喙鴨 pan-tshuì-ah
+- ◯ 斑喙鴨 pan-tshuì-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-華語鳥類名錄、[eBird 資料](https://ebird.org/species/spbduc)
+**號名理由**
+
+- `花喙鴨` 先做建議名，因為 eBird `Identification` 提著喙有明顯黃斑，面部嘛有白眉佮烏色線條，整體較符合 `花喙` 這種綜合特徵號名。
+- `斑喙鴨` 是照喙部斑點特徵整理 ê 近義形式，留做別名。
+
+**參考資料**
+
+- [eBird 資料](https://ebird.org/species/spbduc)
+- `https://ebird.org/species/spbduc`
 
 ---
 
@@ -609,11 +634,20 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 **台語名**
 
 - 🎯 **赤嘴藏水鴨 tshiah-tshuì-tshàng-tsuí-ah**
-- 🎯 紅喙藏水鴨 âng-tshuì-tshàng-tsuí-ah
+- ◯ 紅喙藏水鴨 âng-tshuì-tshàng-tsuí-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-華語鳥類名錄、特徵、[eBird 資料](https://ebird.org/species/recpoc)
+**號名理由**
+
+- eBird `Identification` 提著雄鳥有 long red bill，`赤嘴藏水鴨` 較直接對應這个明顯特徵，先做建議名。
+- `紅喙藏水鴨` 和 `赤嘴藏水鴨` 意思近，主要是色詞選擇差別，先留做別名。
+- 這个名是 `赤嘴 + 藏水鴨` ê 特徵 + 分類名構詞。
+
+**參考資料**
+
+- [eBird 資料](https://ebird.org/species/recpoc)
+- `https://ebird.org/species/recpoc`
 
 ---
 
@@ -814,10 +848,18 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 
 **台語名**
 
-- 🎯 **海秋沙 hái-tshiu-sua**
 - 🎯 **紅胸秋沙 âng-hing-tshiu-sua**
+- ◯ 海秋沙 hái-tshiu-sua
 
-參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/rebmer)
+**號名理由**
+
+- `紅胸秋沙` 先做建議名，因為 eBird `Identification` 提著 breeding male 有 brown breast，這个特徵明顯，嘛較會當和其他秋沙區分。
+- `海秋沙` 有日語 `ウミアイサ` ê 脈絡，eBird 嘛提著這種較偏好海水域，毋過若做建議名，和物種外觀特徵 ê 連結較無 `紅胸秋沙` 遐爾直接，所以先留做別名。
+
+**參考資料**
+
+- [eBird 資料](https://ebird.org/species/rebmer)
+- `https://ebird.org/species/rebmer`
 
 ---
 
