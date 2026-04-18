@@ -134,6 +134,7 @@ Practical note:
 - the eBird taxonomy API is useful for multilingual names, taxonomy, and species-code validation
 - it is not by itself a full species-description API
 - if the naming note needs actual trait prose, use eBird API output only as one supporting layer
+- the species page `https://ebird.org/species/{speciesCode}`, especially its `Identification` section, can be used as a supporting source for field-mark based naming explanations
 
 ### 5. Add Species Mode
 

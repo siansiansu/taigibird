@@ -315,6 +315,17 @@ This is especially useful for:
 
 eBird support should be treated as auxiliary evidence for species traits and taxonomy. It does not replace native-name evidence when the real question is whether a Taigi folk name already exists.
 
+In practice, distinguish between:
+
+- eBird API taxonomy data, which is useful for multilingual names and classification fields, and
+- eBird species pages such as `https://ebird.org/species/{speciesCode}`, especially the `Identification` section, which can provide trait-oriented prose useful for writing naming explanations
+
+When using the species page:
+
+- extract only the trait logic needed for the naming explanation
+- do not treat the page as a native-name authority
+- do not copy long prose into project files
+
 ## Default Review Execution
 
 When the user asks for review in the context of a branch / PR workflow, the default behavior should be:
