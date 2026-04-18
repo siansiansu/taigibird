@@ -143,4 +143,6 @@ Current concern:
 
 ## Scope Note
 
-This review was intentionally recorded as a standalone document so that the review outcome can be discussed without automatically rewriting `src/content/docs/anseriformes/anatidae.md`, which currently has existing uncommitted local changes.
+This document reflects an earlier review pass that was kept separate because `src/content/docs/anseriformes/anatidae.md` had existing uncommitted local changes at the time.
+
+Under the current workflow, review in a branch / PR context should normally be applied directly to the target file instead of creating a new standalone review document unless the user explicitly asks for review-only output.

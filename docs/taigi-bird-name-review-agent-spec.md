@@ -271,6 +271,22 @@ If reviewing a whole file, also include:
 - If inferring from references, say that it is an inference.
 - Do not upgrade a plausible constructed form to a strong recommendation unless the evidence is explicit.
 
+## Default Review Execution
+
+When the user asks for review in the context of a branch / PR workflow, the default behavior should be:
+
+- review the target file
+- edit the target file directly when justified
+- keep the reasoning inside the file through `命名理由`, `參考資料`, and `註解`
+
+Do not create a separate standalone review document by default.
+
+Create a separate review note only when:
+
+- the user explicitly asks for review-only output
+- the target file should not be edited yet
+- there is a workflow reason to keep review findings separate from content changes
+
 ## Change Review Granularity
 
 Changes should be reviewed in small decision units.

@@ -54,6 +54,11 @@ Primary checks:
 
 When review is source-sensitive, the agent must consult the required online sources described in `docs/taigi-bird-name-review-agent-spec.md`.
 
+Default action:
+
+- if the user is asking for review within an active branch / PR workflow, the agent should normally edit the target file directly rather than writing a separate standalone review document
+- create a separate review note only when the user explicitly asks for review-only output or when direct editing would be unsafe
+
 ### 2. Name Suggestion Mode
 
 Use when proposing a Taigi name for a species that lacks a settled project entry.
@@ -188,6 +193,8 @@ If a descriptive component comes from project-curated helper data in `src/data/`
 
 Prefer small, isolated edits over broad reformats. This is especially important for family-name and genus-name changes, which should remain easy to review as separate decisions.
 
+When edits are already happening on a branch intended for PR review, prefer keeping the reasoning in the edited file through `命名理由` and `註解` rather than creating an additional review artifact.
+
 ## What Was Rejected from the Original Skills
 
 Not all skill content should be carried forward unchanged.
@@ -198,6 +205,7 @@ The following patterns are intentionally not adopted as authoritative:
 - references to the wrong content path when the repository now uses `src/content/docs/`
 - build instructions that assume Docusaurus instead of Astro/Starlight
 - workflows that treat placeholder Taigi names as if they were already validated recommendations
+- workflows that default to standalone review documents when direct file edits are the clearer PR workflow
 
 ## Maintenance Rule
 
