@@ -37,7 +37,7 @@ These principles are derived from `src/content/docs/index.mdx`.
 
 1. If a native Taiwanese Taigi common name exists, prefer it.
 2. If a native Taigi term is only a generic umbrella term shared by multiple species, add a distinguishing modifier.
-3. If no native Taigi name exists, consult Chinese, English, Japanese, bird morphology, coloration, and field characteristics, but do not follow Chinese blindly.
+3. If no native Taigi name exists, first check whether the name may continue a Japanese-era naming layer or Japanese-derived transliteration. After that, consult Chinese, English, Japanese, bird morphology, coloration, and field characteristics, but do not follow Chinese blindly.
 4. Taxonomic group names should also prefer native Taiwanese Taigi nomenclature.
 5. Romanization and Hanji should follow Ministry of Education usage when applicable.
 
@@ -50,11 +50,11 @@ When evidence conflicts, prefer higher-ranked evidence unless there is a documen
 1. Native Taiwanese Taigi bird-name sources cited by the project
 2. Explicit evidence that a form is a local common name rather than a modern back-translation
 3. Project-level naming logic from `index.mdx`
-4. Cross-language taxonomic references such as eBird, Chinese name lists, Japanese names, and English names
+4. Cross-language taxonomic references such as eBird, Japanese names, Chinese name lists, and English names
 5. Morphology-, color-, behavior-, or habitat-based descriptive reasoning
 6. Phonetic transliteration systems for personal or place names
 
-When no native Taigi folk name is available, Japanese naming and Japanese-derived transliteration history should generally be checked before treating a form as merely a Chinese-side normalization.
+When no native Taigi folk name is available, Japanese naming and Japanese-derived transliteration history should generally be checked before Chinese naming is treated as the default explanation path.
 
 ## Approved Reference Classes
 

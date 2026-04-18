@@ -68,7 +68,7 @@ Suggested workflow:
 1. Read the canonical specs in `docs/`
 2. Check whether a native Taiwanese Taigi folk name already exists
 3. Check whether the apparent candidate is only a generic umbrella term
-4. If no stable native form exists, compare Chinese, English, Japanese, morphology, and existing project naming patterns
+4. If no stable native form exists, check Japanese naming continuity first, then compare Chinese, English, Japanese, morphology, and existing project naming patterns
 5. Produce one primary recommendation and, if needed, clearly separated alternates
 
 When the candidate may reflect Japanese-era naming continuity, check that path before reducing it to a Chinese-based explanation.
