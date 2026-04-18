@@ -16,18 +16,16 @@ $ARGUMENTS
 
 ## Style Guide
 
-Before any operation, read the style guide:
+Before any operation, read the shared standards through the local pointer:
 
 ```
 .claude/taigi-writing-guide.md
 ```
 
-This contains the complete reference for:
-- Tâi-lô romanization system and tone marks
-- 漢羅混寫 rules (which words use romanization vs Han characters)
-- Bird name vocabulary (colors, body parts, habitats, sizes)
-- Naming conventions and composition patterns
-- Entry format template
+This points to the canonical tracked files in `docs/`:
+- `docs/taigi-language-background.md`
+- `docs/species-markdown-template.md`
+- `docs/taigi-bird-name-review-agent-spec.md`
 
 ## Commands
 
@@ -42,7 +40,7 @@ This contains the complete reference for:
    - One based on the bird's characteristics or behavior
    - One based on existing Taigi folk names (if found in corpus)
 6. For each suggestion, explain the etymology and composition
-7. Mark the recommended name with 🎯 and alternatives with ✳️
+7. Mark the primary recommendation with `🎯`, accepted alternates with `◯`, and umbrella terms with `✳️`
 
 ### `review <file-path-or-species>` — Proofread a Species Entry
 
@@ -52,7 +50,7 @@ This contains the complete reference for:
    - Tâi-lô romanization correctness (tone marks, spelling)
    - Consistent use of Tâi-lô (not mixing with POJ)
    - Name composition follows the [Size/Color/Geographic] + [Feature] + [Category] pattern
-   - Entry format matches the template in CLAUDE.md
+   - Entry format matches `docs/species-markdown-template.md`
    - Image alt text matches `##` heading
    - eBird link present and uses correct species code
    - `臺灣` (not `台灣`) in species names
@@ -107,4 +105,4 @@ Always output Taigi text with:
 - Proper Tâi-lô tone marks (á, à, â, ā, a̍, a̋)
 - Hyphens connecting multi-syllable romanized words: `niau-thâu-tsiáu`
 - No space between Han characters and adjacent romanization
-- Clear marking of 🎯 (recommended) vs ✳️ (alternative) names
+- Clear marking of `🎯` (primary recommendation), `◯` (accepted alternate), and `✳️` (umbrella term)

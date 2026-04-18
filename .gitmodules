@@ -1,0 +1,3 @@
+[submodule "vendor/taigi-converter"]
+	path = vendor/taigi-converter
+	url = git@github.com:taigikeyboard/taigi-converter.git
