@@ -129,6 +129,12 @@ Recommended classification buckets:
 - invalid or retired code
 - heading/name drift
 
+Practical note:
+
+- the eBird taxonomy API is useful for multilingual names, taxonomy, and species-code validation
+- it is not by itself a full species-description API
+- if the naming note needs actual trait prose, use eBird API output only as one supporting layer
+
 ### 5. Add Species Mode
 
 Use when creating a new species entry.
