@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-🎯 **風暴鸌 hong-pō-hōo**
+◆ **風暴鸌 hong-pō-hōo**
 
 參考華語鳥類名錄、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/norful)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-🎯 **克島圓尾鸌 khik-tóo-înn-bué-hōo**
+◆ **克島圓尾鸌 khik-tóo-înn-bué-hōo**
 
 參考華語鳥類名錄、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/kerpet)
 
@@ -42,7 +42,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-🎯 **索氏圓尾鸌 soh-sī-înn-bué-hōo**
+◆ **索氏圓尾鸌 soh-sī-înn-bué-hōo**
 
 參考華語鳥類名錄、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/solpet1)
 
@@ -56,7 +56,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-🎯 **費島圓尾鸌 huì-tóo-înn-bué-hōo**
+◆ **費島圓尾鸌 huì-tóo-înn-bué-hōo**
 
 參考華語鳥類名錄、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/jufpet)
 
@@ -70,7 +70,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-- 🎯 **白腹穴鳥 pe̍h-pak-hia̍t-tsiáu**
+- ◆ **白腹穴鳥 pe̍h-pak-hia̍t-tsiáu**
 - 白腹水薙鳥 pe̍h-pak-tsuí-thì-tsiáu
 
 參考華語鳥類名錄、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/bonpet)
@@ -85,7 +85,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-🎯 **穴鳥 hia̍t-tsiáu**
+◆ **穴鳥 hia̍t-tsiáu**
 
 參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/bulpet)
 
@@ -99,7 +99,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-🎯 **烏背白腹穴鳥 oo-puè-pe̍h-pak-hia̍t-tsiáu**
+◆ **烏背白腹穴鳥 oo-puè-pe̍h-pak-hia̍t-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/tahpet1)
 
@@ -113,7 +113,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-🎯 **大水薙鳥 tuā-tsuí-thì-tsiáu**
+◆ **大水薙鳥 tuā-tsuí-thì-tsiáu**
 
 參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/strshe)
 
@@ -127,7 +127,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-🎯 **赤跤水薙鳥 tshiah-kha-tsuí-thì-tsiáu**
+◆ **赤跤水薙鳥 tshiah-kha-tsuí-thì-tsiáu**
 
 參考 1973 Embree台英辭典、日語、[eBird 資料](https://ebird.org/species/flfshe)
 
@@ -141,7 +141,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-🎯 **長尾水薙鳥 tn̂g-bé-tsuí-thì-tsiáu**
+◆ **長尾水薙鳥 tn̂g-bé-tsuí-thì-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/wetshe)
 
@@ -155,7 +155,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-🎯 **殕色水薙鳥 phú-sik-tsuí-thì-tsiáu**
+◆ **殕色水薙鳥 phú-sik-tsuí-thì-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sooshe)
 
@@ -169,8 +169,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-- 🎯 **短尾水薙鳥 té-bé-tsuí-thì-tsiáu**
-- 🎯 **細喙水薙鳥 iù-tshuì-tsuí-thì-tsiáu**
+- ◆ **短尾水薙鳥 té-bé-tsuí-thì-tsiáu**
+- ◆ **細喙水薙鳥 iù-tshuì-tsuí-thì-tsiáu**
 
 參考華語鳥類名錄、日語名、[eBird 資料](https://ebird.org/species/shtshe)
 
@@ -184,7 +184,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-🎯 **小水薙鳥 sió-tsuí-thì-tsiáu**
+◆ **小水薙鳥 sió-tsuí-thì-tsiáu**
 
 參考日語、[eBird 資料](https://ebird.org/species/chrshe)
 
@@ -198,7 +198,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-🎯 **所羅門鸌 sóo-lô-bûn-hōo**
+◆ **所羅門鸌 sóo-lô-bûn-hōo**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/heishe1)
 
@@ -212,7 +212,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-🎯 **邦氏細鸌 pang-sī-sè-hōo**
+◆ **邦氏細鸌 pang-sī-sè-hōo**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/troshe4)
 
@@ -226,6 +226,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "�
 
 **台語名**
 
-🎯 **熱帶細鸌 jia̍t-tài-sè-hōo**
+◆ **熱帶細鸌 jia̍t-tài-sè-hōo**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/troshe5)

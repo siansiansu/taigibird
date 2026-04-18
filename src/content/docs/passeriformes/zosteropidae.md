@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "青笛仔
 
 **台語名**
 
-🎯 **紅耳尖頭花眉 âng-hīnn-tsiam-thâu-hue-bâi**
+◆ **紅耳尖頭花眉 âng-hīnn-tsiam-thâu-hue-bâi**
 
 參考華語鳥類名錄、特徵、[eBird 資料](https://ebird.org/species/indyuh1)
 
@@ -28,9 +28,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "青笛仔
 
 **台語名**
 
-- 🎯 **尖頭花眉 tsiam-thâu-hue-bâi**
-- ✳️ 尖頭仔 tsiam-thâu-á
-- ✳️ 花眉仔 hue-bâi-á
+- ◆ **尖頭花眉 tsiam-thâu-hue-bâi**
+- ✳ 尖頭仔 tsiam-thâu-á
+- ✳ 花眉仔 hue-bâi-á
 
 參考 2002⁺ 台華線頂辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/taiyuh1)
 
@@ -44,8 +44,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "青笛仔
 
 **台語名**
 
-- 🎯 **胳紅青笛仔 koh-âng-tshenn-thî-á**
-- ✳️ 青笛仔 tshenn-thî-á
+- ◆ **胳紅青笛仔 koh-âng-tshenn-thî-á**
+- ✳ 青笛仔 tshenn-thî-á
 
 參考特徵、英語、[eBird 資料](https://ebird.org/species/cfweye1)
 
@@ -59,9 +59,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "青笛仔
 
 **台語名**
 
-- 🎯 **斯氏青笛仔 su-sī-tshenn-thî-á**
-- 🎯 **斯文豪青笛仔 su-bûn-hô-tshenn-thî-á**
-- ✳️ 青笛仔 tshenn-thî-á
+- ◆ **斯氏青笛仔 su-sī-tshenn-thî-á**
+- ◆ **斯文豪青笛仔 su-bûn-hô-tshenn-thî-á**
+- ✳ 青笛仔 tshenn-thî-á
 
 參考英語、參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/swiwhe1)
 
@@ -75,8 +75,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "青笛仔
 
 **台語名**
 
-- 🎯 **日菲青笛仔 ji̍t-hui-tshenn-thî-á**
-- ✳️ 青笛仔 tshenn-thî-á
+- ◆ **日菲青笛仔 ji̍t-hui-tshenn-thî-á**
+- ✳ 青笛仔 tshenn-thî-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/warwhe1)
 
@@ -90,7 +90,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "青笛仔
 
 **台語名**
 
-- 🎯 **低地青笛仔 kē-tē-tshenn-thî-á**
-- ✳️ 青笛仔 tshenn-thî-á
+- ◆ **低地青笛仔 kē-tē-tshenn-thî-á**
+- ✳ 青笛仔 tshenn-thî-á
 
 參考英語、[eBird 資料](https://ebird.org/species/loweye2)

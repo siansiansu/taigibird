@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄花"]
 
 **台語名**
 
-🎯 **青啄花 tshenn-tok-hue**
+◆ **青啄花 tshenn-tok-hue**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/plaflo2)
 
@@ -28,6 +28,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄花"]
 
 **台語名**
 
-🎯 **紅胸啄花 âng-hing-tok-hue**
+◆ **紅胸啄花 âng-hing-tok-hue**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/fibflo1)

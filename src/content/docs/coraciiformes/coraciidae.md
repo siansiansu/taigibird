@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "山鸚哥
 
 **台語名**
 
-- 🎯 **山鸚哥 suann-ing-ko**
+- ◆ **山鸚哥 suann-ing-ko**
 - 山布鳥 san-pòo-tsiáu
 - 佛法僧 hu̍t-huat-tsing
 

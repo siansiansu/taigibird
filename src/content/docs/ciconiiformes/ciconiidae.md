@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸛"]
 
 **台語名**
 
-🎯 **烏鸛 oo-kuàn**
+◆ **烏鸛 oo-kuàn**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/blasto1)
 
@@ -28,6 +28,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸛"]
 
 **台語名**
 
-🎯 **東方白鸛 tong-hong-pe̍h-kuàn**
+◆ **東方白鸛 tong-hong-pe̍h-kuàn**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/oristo1)

@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵯仔", 
 
 **台語名**
 
-🎯 **栗背短跤鵯 lik-puè-té-kha-pi**
+◆ **栗背短跤鵯 lik-puè-té-kha-pi**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chebul1)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵯仔", 
 
 **台語名**
 
-🎯 **棕耳鵯 tsang-hīnn-pi**
+◆ **棕耳鵯 tsang-hīnn-pi**
 
 參考英語、[eBird 資料](https://ebird.org/species/brebul1)
 
@@ -42,7 +42,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵯仔", 
 
 **台語名**
 
-- 🎯 **紅喙烏鶖 âng-tshuì-oo-tshiu**
+- ◆ **紅喙烏鶖 âng-tshuì-oo-tshiu**
 - 紅喙鶖仔 âng-tshuì-tshiu-á
 - 紅喙烏鵯 âng-tshuì-oo-pi
 - 烏鵯 oo-pi
@@ -59,7 +59,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵯仔", 
 
 **台語名**
 
-- 🎯 **石鸚哥 tsio̍h-ing-ko**
+- ◆ **石鸚哥 tsio̍h-ing-ko**
 - 林投雞 nâ-tâu-ke
 - 林投公 nâ-tâu-kong
 - 圓嘴鵯 înn-tshuì-pi
@@ -77,7 +77,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-- 🎯 **白頭鵠仔 pe̍h-thâu-khok-á**
+- ◆ **白頭鵠仔 pe̍h-thâu-khok-á**
 - 白頭翁 pe̍h-thâu-ong
 - [雜] 白頭烏頭半仿種 pe̍h-thâu-oo-thâu-puànn-hóng-tsíng
 
@@ -93,7 +93,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-- 🎯 **烏頭鵠仔 oo-thâu-khok-á**
+- ◆ **烏頭鵠仔 oo-thâu-khok-á**
 - 烏頭翁 oo-thâu-ong
 - [雜] 白頭烏頭半仿種 pe̍h-thâu-oo-thâu-puànn-hóng-tsíng
 
@@ -109,7 +109,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **紅耳鵯 âng-hīnn-pi**
+◆ **紅耳鵯 âng-hīnn-pi**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rewbul)
 
@@ -123,7 +123,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **白喉紅臀鵯 pe̍h-âu-âng-tûn-pi**
+◆ **白喉紅臀鵯 pe̍h-âu-âng-tûn-pi**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sohbul1)
 
@@ -137,8 +137,8 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-- 🎯 **橄欖褐鵯 kan-ná-hat-pi**
-- 🎯 **紅目橄欖鵯 âng-ba̍k-kan-ná-pi**
+- ◆ **橄欖褐鵯 kan-ná-hat-pi**
+- ◆ **紅目橄欖鵯 âng-ba̍k-kan-ná-pi**
 
 參考華語、日語、[eBird 資料](https://ebird.org/species/olwbul1)
 
@@ -152,7 +152,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-🎯 **橄欖鵯 kan-ná-pi**
+◆ **橄欖鵯 kan-ná-pi**
 
 參考華語、[eBird 資料](https://ebird.org/species/olibul1)
 
@@ -166,7 +166,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-- 🎯 **紅目茶色鵯 âng-ba̍k-tê-sik-pi**
-- 🎯 **紅目鵯 âng-ba̍k-pi**
+- ◆ **紅目茶色鵯 âng-ba̍k-tê-sik-pi**
+- ◆ **紅目鵯 âng-ba̍k-pi**
 
 參考華語、日語、[eBird 資料](https://ebird.org/species/reebul1)

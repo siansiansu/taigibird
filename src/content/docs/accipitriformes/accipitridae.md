@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-🎯 **烏翼鷹 oo-si̍t-ing**
+◆ **烏翼鷹 oo-si̍t-ing**
 
 [《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/bkskit1)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-🎯 **烏冠鵑鷹 oo-kuàn-kuan-ing**
+◆ **烏冠鵑鷹 oo-kuàn-kuan-ing**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/blabaz1)
 
@@ -42,10 +42,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **東方蜂鷹 tong-hong-phang-ing**
-- 🎯 **東方食蜂鷹 tong-hong-tsia̍h-phang-ing**
-- 🎯 **蜂鷹 phang-ing**
-- 🎯 **食蜂鷹 tsia̍h-phang-ing**
+- ◆ **東方蜂鷹 tong-hong-phang-ing**
+- ◆ **東方食蜂鷹 tong-hong-tsia̍h-phang-ing**
+- ◆ **蜂鷹 phang-ing**
+- ◆ **食蜂鷹 tsia̍h-phang-ing**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/orihob2)
 
@@ -59,8 +59,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **臭頭鷹 tshàu-thâu-ing**
-- 🎯 **臭頭鳥 tshàu-thâu-tiau**
+- ◆ **臭頭鷹 tshàu-thâu-ing**
+- ◆ **臭頭鳥 tshàu-thâu-tiau**
 
 1973 Embree台英辭典、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/cinvul1)
 
@@ -74,7 +74,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **蛇鷹 tsuâ-ing**
+- ◆ **蛇鷹 tsuâ-ing**
 - **蛇鵰 tsuâ-tiau**
 
 2002⁺ 台華線頂辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/crseag1)
@@ -89,10 +89,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **熊鷹 hîm-ing**
-- 🎯 **白毛跤鷹 pe̍h-moo-kha-ing**
-- 🎯 **角鷹 kak-ing**
-- 🎯 **大花鵰 tuā-hue-tiau**
+- ◆ **熊鷹 hîm-ing**
+- ◆ **白毛跤鷹 pe̍h-moo-kha-ing**
+- ◆ **角鷹 kak-ing**
+- ◆ **大花鵰 tuā-hue-tiau**
 
 2002⁺ 台華線頂辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/mouhae1)
 
@@ -105,10 +105,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **林鷹 lîm-ing**
-- 🎯 **烏毛跤鷹 pe̍h-moo-kha-ing**
+- ◆ **林鷹 lîm-ing**
+- ◆ **烏毛跤鷹 pe̍h-moo-kha-ing**
 - 林鵰 lîm-tiau
-- ✳️ 鷹仔 ing-á
+- ✳ 鷹仔 ing-á
 
 [《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/blaeag1)
 
@@ -122,8 +122,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **花鷹 hue-ing**
-- 🎯 **花鵰 hue-tiau**
+- ◆ **花鷹 hue-ing**
+- ◆ **花鵰 hue-tiau**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/grseag1)
 
@@ -137,7 +137,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-🎯 **靴管鷹 hia-kóng-ing**
+◆ **靴管鷹 hia-kóng-ing**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/booeag1)
 
@@ -151,7 +151,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **白肩鷹 pe̍h-king-ing**
+- ◆ **白肩鷹 pe̍h-king-ing**
 - 白肩鵰 pe̍h-king-tiau
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/impeag1)
@@ -166,7 +166,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-🎯 **金鷹 kim-ing**
+◆ **金鷹 kim-ing**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/goleag)
 
@@ -180,7 +180,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **白腹鷹 pe̍h-pak-ing**
+- ◆ **白腹鷹 pe̍h-pak-ing**
 - 白腹鵰 pe̍h-pak-tiau
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/boneag2)
@@ -195,9 +195,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **粉鳥鷹 hún-tsiáu-ing**
-- 🎯 **鴿鷹 kap-ing**
-- 🎯 **斑鴿鷹 pang-kah-ing**
+- ◆ **粉鳥鷹 hún-tsiáu-ing**
+- ◆ **鴿鷹 kap-ing**
+- ◆ **斑鴿鷹 pang-kah-ing**
 
 2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/cregos1)
 
@@ -211,9 +211,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **鷹仔虎 ing-á-hóo**
-- 🎯 **雀鷹 tshiok-ing**
-- 🎯 **雀賊 tshiok-tsha̍t**
+- ◆ **鷹仔虎 ing-á-hóo**
+- ◆ **雀鷹 tshiok-ing**
+- ◆ **雀賊 tshiok-tsha̍t**
 - 松雀鷹 siông-tshiok-ing
 
 2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/besra1)
@@ -228,9 +228,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **日本鷹仔虎 ji̍t-pún-ing-á-hóo**
-- 🎯 **日本雀鷹 ji̍t-pún-tshiok-ing**
-- 🎯 **日本雀賊 ji̍t-pún-tshiok-tsha̍t**
+- ◆ **日本鷹仔虎 ji̍t-pún-ing-á-hóo**
+- ◆ **日本雀鷹 ji̍t-pún-tshiok-ing**
+- ◆ **日本雀賊 ji̍t-pún-tshiok-tsha̍t**
 - 日本松雀鷹 ji̍t-pún-siông-tshiok-ing
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/japspa1)
@@ -245,7 +245,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **赤耳鷹 tshiah-hīnn-ing**
+- ◆ **赤耳鷹 tshiah-hīnn-ing**
 - 褐耳鷹 hat-hīnn-ing
 
 **註解**
@@ -262,11 +262,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **鷹柱鳥 ing-thiāu-tsiáu**
-- 🎯 紅肚鷹 âng-tóo-ing
-- 🎯 紅腹鷹 âng-pak-ing
+- ◆ **鷹柱鳥 ing-thiāu-tsiáu**
+- ◆ 紅肚鷹 âng-tóo-ing
+- ◆ 紅腹鷹 âng-pak-ing
 - 赤腹鷹 tshiah-pak-ing
-- ✳️ 鷹仔 ing-á
+- ✳ 鷹仔 ing-á
 
 2002⁺ 台華線頂辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/grfhaw1)
 
@@ -280,8 +280,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **北雀鷹 pak-tshiok-ing**
-- 🎯 歐洲雀鷹 au-tsiu-tshiok-ing
+- ◆ **北雀鷹 pak-tshiok-ing**
+- ◆ 歐洲雀鷹 au-tsiu-tshiok-ing
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/eurspa1)
 
@@ -295,7 +295,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-🎯 **蒼鷹 tshong-ing**
+◆ **蒼鷹 tshong-ing**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/norgos1)
 
@@ -309,7 +309,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-🎯 **西方湳仔鷹 se-hong-làm-á-ing**
+◆ **西方湳仔鷹 se-hong-làm-á-ing**
 
 辭典查到的白頭鷂為中國慣用的稱呼，，台灣華語通常叫澤鵟，源自日語 チュウヒ
 
@@ -327,7 +327,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-🎯 **東方湳仔鷹 tong-hong-làm-á-ing**
+◆ **東方湳仔鷹 tong-hong-làm-á-ing**
 
 2002⁺ 台華線頂辭典查到的白腹鷂為中國慣用的稱呼，台灣華語通常叫澤鵟，源自日語 チュウヒ
 
@@ -345,7 +345,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-🎯 **殕色湳仔鷹 phú-sik-làm-á-ing**
+◆ **殕色湳仔鷹 phú-sik-làm-á-ing**
 
 2002⁺ 台華線頂辭典查到的白尾鷂為中國慣用的稱呼，，台灣華語通常叫澤鵟，源自日語 チュウヒ
 
@@ -362,7 +362,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 (c) Wich’yanan L, some rights reserved (CC BY)
 
 **台語名**
-🎯 **烏白湳仔鷹 oo-pe̍h-làm-á-ing**
+◆ **烏白湳仔鷹 oo-pe̍h-làm-á-ing**
 
 **註解**
 
@@ -382,8 +382,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **鶆鴞 lāi-hio̍h**
-- 🎯 **鴟鴞 bā-hio̍h**
+- ◆ **鶆鴞 lāi-hio̍h**
+- ◆ **鴟鴞 bā-hio̍h**
 
 [《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/blakit1)
 
@@ -397,10 +397,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **赤鶆鴞 tshiah-lāi-hio̍h**
-- 🎯 **赤鴟鴞 tshiah-bā-hio̍h**
-- 🎯 **白頭鶆鴞 pe̍h-thâu-lāi-hio̍h**
-- 🎯 **白頭鴟鴞 pe̍h-thâu-bā-hio̍h**
+- ◆ **赤鶆鴞 tshiah-lāi-hio̍h**
+- ◆ **赤鴟鴞 tshiah-bā-hio̍h**
+- ◆ **白頭鶆鴞 pe̍h-thâu-lāi-hio̍h**
+- ◆ **白頭鴟鴞 pe̍h-thâu-bā-hio̍h**
 
 參考特徵、[eBird 資料](https://ebird.org/species/brakit1)
 
@@ -414,7 +414,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-🎯 **白尾海鷹 pe̍h-bué-hái-ing**
+◆ **白尾海鷹 pe̍h-bué-hái-ing**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/whteag)
 
@@ -428,7 +428,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-🎯 **白腹海鷹 pe̍h-pak-hái-ing**
+◆ **白腹海鷹 pe̍h-pak-hái-ing**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/wbseag1)
 
@@ -442,8 +442,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **山後鳥 suann-āu-tsiáu**
-- 🎯 **南路鷹 lâm-lōo-ing**
+- ◆ **山後鳥 suann-āu-tsiáu**
+- ◆ **南路鷹 lâm-lōo-ing**
 
 [《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[教育部臺灣台語常用詞辭典](https://sutian.mue.edu.tw/zh-hant/)、[eBird 資料](https://ebird.org/species/gyfbuz1)
 
@@ -457,9 +457,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-- 🎯 **毛跤鵟 moo-kha-kông**
-- 🎯 **毛跤鷹 moo-kha-ing**
-- ✳️ 鷹仔 ing-á
+- ◆ **毛跤鵟 moo-kha-kông**
+- ◆ **毛跤鷹 moo-kha-ing**
+- ✳ 鷹仔 ing-á
 
 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/rolhaw)
 
@@ -473,7 +473,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-🎯 **歐亞鵟 au-a-kông**
+◆ **歐亞鵟 au-a-kông**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/combuz1)
 
@@ -487,7 +487,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-🎯 **大鵟 tuā-kông**
+◆ **大鵟 tuā-kông**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/uplbuz1)
 
@@ -501,7 +501,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-🎯 **東方鵟 tong-hong-kông**
+◆ **東方鵟 tong-hong-kông**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/combuz6)
 
@@ -515,7 +515,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-🎯 **虎頭海鷹 hóo-thâu-hái-ing**
+◆ **虎頭海鷹 hóo-thâu-hái-ing**
 
 華語鳥類名錄、[eBird 資料](https://ebird.org/species/stseag)
 
@@ -529,6 +529,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **台語名**
 
-🎯 **灰頭魚鷹 hue-thâu-hî-ing**
+◆ **灰頭魚鷹 hue-thâu-hî-ing**
 
 參考英語、[eBird 資料](https://ebird.org/species/gyhfie1)

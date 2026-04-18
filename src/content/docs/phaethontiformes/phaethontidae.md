@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "熱帶鳥
 
 **台語名**
 
-🎯 **白尾熱帶鳥 pe̍h-bué-jia̍t-tài-tsiáu**
+◆ **白尾熱帶鳥 pe̍h-bué-jia̍t-tài-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/whttro)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "熱帶鳥
 
 **台語名**
 
-🎯 **紅喙熱帶鳥 âng-tshuì-jia̍t-tài-tsiáu**
+◆ **紅喙熱帶鳥 âng-tshuì-jia̍t-tài-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rebtro)
 
@@ -42,6 +42,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "熱帶鳥
 
 **台語名**
 
-🎯 **紅尾熱帶鳥 âng-bé-jia̍t-tài-tsiáu**
+◆ **紅尾熱帶鳥 âng-bé-jia̍t-tài-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rettro)

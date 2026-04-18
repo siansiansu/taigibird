@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **山牛屎鳥 suann-gû-sái-tsiáu**
+◆ **山牛屎鳥 suann-gû-sái-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/forwag1)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **殕色牛屎鳥 phú-sik-gû-sái-tsiáu**
+◆ **殕色牛屎鳥 phú-sik-gû-sái-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/grywag)
 
@@ -42,7 +42,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **西方黃牛屎鳥 se-hong-n̂g-gû-sái-tsiáu**
+◆ **西方黃牛屎鳥 se-hong-n̂g-gû-sái-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eaywag1)
 
@@ -56,7 +56,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **東方黃牛屎鳥 tong-hong-n̂g-gû-sái-tsiáu**
+◆ **東方黃牛屎鳥 tong-hong-n̂g-gû-sái-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eaywag)
 
@@ -70,7 +70,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **黃頭牛屎鳥 n̂g-thâu-gû-sái-tsiáu**
+◆ **黃頭牛屎鳥 n̂g-thâu-gû-sái-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/citwag)
 
@@ -84,7 +84,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **日本牛屎鳥 ji̍t-pún-gû-sái-tsiáu**
+◆ **日本牛屎鳥 ji̍t-pún-gû-sái-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/japwag1)
 
@@ -98,7 +98,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **白牛屎鳥仔 pe̍h-gû-sái-tsiáu-á**
+◆ **白牛屎鳥仔 pe̍h-gû-sái-tsiáu-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/whiwag)
 
@@ -112,7 +112,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **大花鷚 tuā-hue-liù**
+◆ **大花鷚 tuā-hue-liù**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/ricpip1)
 
@@ -126,7 +126,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **田鷚仔 tshân-liù-á**
+◆ **田鷚仔 tshân-liù-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/oripip1)
 
@@ -140,7 +140,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **布萊氏鷚仔 Blyth's liù-á**
+◆ **布萊氏鷚仔 Blyth's liù-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/blypip1)
 
@@ -154,7 +154,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **草埔鷚 tsháu-poo-liù-á**
+◆ **草埔鷚 tsháu-poo-liù-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/meapip1)
 
@@ -168,7 +168,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **粉紅胸鷚仔 hún-âng-hing-liù-á**
+◆ **粉紅胸鷚仔 hún-âng-hing-liù-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rospip1)
 
@@ -182,7 +182,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **林鷚仔 lîm-liù-á**
+◆ **林鷚仔 lîm-liù-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/trepip)
 
@@ -196,7 +196,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **樹鷚仔 tshiū-liù-á**
+◆ **樹鷚仔 tshiū-liù-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/olbpip)
 
@@ -210,7 +210,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **白背鷚仔 pe̍h-puē-liù-á**
+◆ **白背鷚仔 pe̍h-puē-liù-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/pecpip)
 
@@ -224,7 +224,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **紅喉鷚仔 âng-âu-liû-á**
+◆ **紅喉鷚仔 âng-âu-liû-á**
 
 [eBird 資料](https://ebird.org/species/retpip)
 
@@ -238,7 +238,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **水鷚仔 tsuí-liù-á**
+◆ **水鷚仔 tsuí-liù-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/watpip1)
 
@@ -252,6 +252,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-🎯 **黃腹鷚仔 n̂g-pak-liù-á**
+◆ **黃腹鷚仔 n̂g-pak-liù-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sibpip1)

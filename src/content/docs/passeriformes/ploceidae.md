@@ -14,6 +14,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "織布筆
 
 **台語名**
 
-🎯 **烏頭織布鳥 oo-thâu-tsit-pòo-tsiáu**
+◆ **烏頭織布鳥 oo-thâu-tsit-pòo-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/vilwea1)

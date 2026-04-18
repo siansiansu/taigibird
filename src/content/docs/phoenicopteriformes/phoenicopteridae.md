@@ -14,6 +14,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "紅鸛"]
 
 **台語名**
 
-🎯 **大紅鸛 tuā-âng-ho̍h**
+◆ **大紅鸛 tuā-âng-ho̍h**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/grefla3)

@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "連雀"]
 
 **台語名**
 
-🎯 **紅連雀 âng-liân-tshiok**
+◆ **紅連雀 âng-liân-tshiok**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/japwax1)
 
@@ -28,6 +28,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "連雀"]
 
 **台語名**
 
-🎯 **黃連雀 n̂g-liân-tshiok**
+◆ **黃連雀 n̂g-liân-tshiok**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/bohwax)

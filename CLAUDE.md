@@ -60,9 +60,9 @@ Minimum structure:
 
 **台語名**
 
-- 🎯 **RecommendedTaigiName romanization**
-- ◯ AlternateName romanization
-- ✳️ GenericName romanization
+- ◆ **RecommendedTaigiName romanization**
+- ◇ AlternateName romanization
+- ✳ GenericName romanization
 
 **號名理由**
 
@@ -74,13 +74,13 @@ Minimum structure:
 - [eBird 資料](https://ebird.org/species/CODE)
 ```
 
-- `🎯` = primary recommended name for this species
-- `◯` = accepted alternate / regional / historical / secondary candidate
-- `✳️` = generic/umbrella term shared across species
+- `◆` = primary recommended name for this species
+- `◇` = accepted alternate / regional / historical / secondary candidate
+- `✳` = generic/umbrella term shared across species
 - Image alt text must match the `##` heading exactly
 - eBird link is required for every species
 - `**號名理由**` and `**參考資料**` are required
-- Use `**註解**` when the entry keeps multiple `🎯` items or remains source-sensitive
+- Use `**註解**` when the entry keeps multiple `◆` items or remains source-sensitive
 
 ## Naming Rules
 

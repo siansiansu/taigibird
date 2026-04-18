@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 **台語名**
 
-🎯 **亞洲輝椋鳥 a-tsiu-hui-liông-tsiáu**
+◆ **亞洲輝椋鳥 a-tsiu-hui-liông-tsiáu**
 
 參考英語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/asgsta1)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 **台語名**
 
-🎯 **歐洲椋鳥 au-tsiu-liông-tsiáu**
+◆ **歐洲椋鳥 au-tsiu-liông-tsiáu**
 
 參考英語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/eursta)
 
@@ -42,7 +42,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 **台語名**
 
-🎯 **粉紅椋鳥 hún-âng-liông-tsiáu**
+◆ **粉紅椋鳥 hún-âng-liông-tsiáu**
 
 參考英語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/rossta2)
 
@@ -56,7 +56,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 **台語名**
 
-🎯 **北椋鳥 pak-liông-tsiáu**
+◆ **北椋鳥 pak-liông-tsiáu**
 
 參考華語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/dausta1)
 
@@ -70,7 +70,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 **台語名**
 
-🎯 **小椋鳥 sió-liông-tsiáu**
+◆ **小椋鳥 sió-liông-tsiáu**
 
 參考華語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/chcsta1)
 
@@ -84,7 +84,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 **台語名**
 
-- 🎯 **烏領椋鳥 oo-niá-liông-tsiáu**
+- ◆ **烏領椋鳥 oo-niá-liông-tsiáu**
 
 參考英語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/bkcsta1)
 
@@ -98,7 +98,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 **台語名**
 
-🎯 **殕色背椋鳥 phú-sik-puē-liông-tsiáu**
+◆ **殕色背椋鳥 phú-sik-puē-liông-tsiáu**
 
 參考英語、特徵、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/whssta2)
 
@@ -112,7 +112,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 **台語名**
 
-- 🎯 **殕色頭椋鳥 hue-thâu-liông-tsiáu**
+- ◆ **殕色頭椋鳥 hue-thâu-liông-tsiáu**
 
 參考華語、英語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/chtsta2)
 
@@ -126,7 +126,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 **台語名**
 
-🎯 **紅喙椋鳥 âng-tshuì-liông-tsiáu**
+◆ **紅喙椋鳥 âng-tshuì-liông-tsiáu**
 
 參考英語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/rebsta1)
 
@@ -140,7 +140,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 **台語名**
 
-🎯 **殕色椋鳥 phú-sik-liông-tsiáu**
+◆ **殕色椋鳥 phú-sik-liông-tsiáu**
 
 參考英語、特徵、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/whcsta1)
 
@@ -154,7 +154,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 **台語名**
 
-🎯 **目鏡鵁鴒 tshù-ka-līng**
+◆ **目鏡鵁鴒 tshù-ka-līng**
 
 遮 ê「家」和「厝鳥仔」的「厝」意義無仝，建議用台語 ê 方式依外觀特徵命名
 
@@ -170,7 +170,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 **台語名**
 
-🎯 **葡萄色胸椋鳥 phû-tô-sik-hing-liông-tsiáu**
+◆ **葡萄色胸椋鳥 phû-tô-sik-hing-liông-tsiáu**
 
 參考英語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/vibsta4)
 
@@ -184,7 +184,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 **台語名**
 
-🎯 **白尾鵁鴒 pe̍h-bué-ka-līn**
+◆ **白尾鵁鴒 pe̍h-bué-ka-līn**
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/whvmyn)
 
@@ -198,8 +198,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 **台語名**
 
-- 🎯 **台灣鵁鴒 tâi-uân-ka-līng**
-- 🎯 **聳毛鵁鴒 tshàng-thâu-ka-līng**
+- ◆ **台灣鵁鴒 tâi-uân-ka-līng**
+- ◆ **聳毛鵁鴒 tshàng-thâu-ka-līng**
 
 參考特徵、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/cremyn)
 
@@ -213,6 +213,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", 
 
 **台語名**
 
-🎯 **林鵁鴒 nâ-ka-līng**
+◆ **林鵁鴒 nâ-ka-līng**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/junmyn1)

@@ -14,6 +14,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "方尾鶲
 
 **台語名**
 
-🎯 **方尾鶲 hong-bué-ong**
+◆ **方尾鶲 hong-bué-ong**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gyhcaf1)

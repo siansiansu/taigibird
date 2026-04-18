@@ -14,8 +14,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "軍艦鳥
 
 **台語名**
 
-- 🎯 **白斑軍艦鳥 pe̍h-pan-kun-lām-tsiáu**
-- 🎯 **小軍艦鳥 sió-kun-lām-tsiáu**
+- ◆ **白斑軍艦鳥 pe̍h-pan-kun-lām-tsiáu**
+- ◆ **小軍艦鳥 sió-kun-lām-tsiáu**
 
 參考英語、1973 Embree台英辭典、華語鳥類名錄、[eBird 資料](https://ebird.org/species/lesfri)
 
@@ -29,8 +29,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "軍艦鳥
 
 **台語名**
 
-- 🎯 **軍艦鳥 kun-lām-tsiáu**
-- 🎯 **大軍艦鳥 tuā-kun-lām-tsiáu**
+- ◆ **軍艦鳥 kun-lām-tsiáu**
+- ◆ **大軍艦鳥 tuā-kun-lām-tsiáu**
 
 參考英語、1973 Embree台英辭典、華語鳥類名錄、[eBird 資料](https://ebird.org/species/grefri)
 
@@ -44,6 +44,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "軍艦鳥
 
 **台語名**
 
-🎯 **聖誕島軍艦鳥 sìng-tàn-tó-kun-lām-tsiáu**
+◆ **聖誕島軍艦鳥 sìng-tàn-tó-kun-lām-tsiáu**
 
 參考英語、1973 Embree台英辭典、華語鳥類名錄、[eBird 資料](https://ebird.org/species/chifri1)

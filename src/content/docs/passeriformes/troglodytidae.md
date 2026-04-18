@@ -14,6 +14,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷦鷯"]
 
 **台語名**
 
-🎯 **鷦鷯 tsiau-liâu**
+◆ **鷦鷯 tsiau-liâu**
 
 參考 2002⁺ 台華線頂辭典、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/winwre4)

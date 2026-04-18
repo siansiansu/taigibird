@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鐵爪鵐
 
 **台語名**
 
-🎯 **鐵爪鵐仔 thih-jiáu-bû-á**
+◆ **鐵爪鵐仔 thih-jiáu-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/laplon)
 
@@ -28,6 +28,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鐵爪鵐
 
 **台語名**
 
-🎯 **雪鵐仔 seh-bû-á**
+◆ **雪鵐仔 seh-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/snobun)

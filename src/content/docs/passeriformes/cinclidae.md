@@ -14,6 +14,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "水叮噹
 
 **台語名**
 
-🎯 **水叮噹 tsuí-tin-tang**
+◆ **水叮噹 tsuí-tin-tang**
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/brodip1)

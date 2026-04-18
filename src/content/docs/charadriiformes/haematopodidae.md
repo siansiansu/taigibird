@@ -14,8 +14,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蚵仔
 
 **台語名**
 
-- 🎯 **食蚵仔鳥 tsia̍h-ô-á-tsiáu**
-- 🎯 **蚵仔師 ô-á-sai**
-- 🎯 **蠣鴴 lē-hing**
+- ◆ **食蚵仔鳥 tsia̍h-ô-á-tsiáu**
+- ◆ **蚵仔師 ô-á-sai**
+- ◆ **蠣鴴 lē-hing**
 
 參考英語名字、[eBird 資料](https://ebird.org/species/euroys1)

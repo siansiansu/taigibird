@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 
 **台語名**
 
-🎯 **紅喉藏水鳥 âng-âu-tshàng-tsuí-tsiáu**
+◆ **紅喉藏水鳥 âng-âu-tshàng-tsuí-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/retloo)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 
 **台語名**
 
-🎯 **烏喉藏水鳥 oo-âu-tshàng-tsuí-tsiáu**
+◆ **烏喉藏水鳥 oo-âu-tshàng-tsuí-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/arcloo)
 
@@ -42,7 +42,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 
 **台語名**
 
-🎯 **太平洋藏水鳥 thài-pîng-iûnn-tshàng-tsuí-tsiáu**
+◆ **太平洋藏水鳥 thài-pîng-iûnn-tshàng-tsuí-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/pacloo)
 
@@ -56,6 +56,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 
 **台語名**
 
-🎯 **白喙藏水鳥 pe̍h-tshuì-tshàng-tsuí-tsiáu**
+◆ **白喙藏水鳥 pe̍h-tshuì-tshàng-tsuí-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/yebloo)

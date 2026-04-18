@@ -14,8 +14,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "圓頭仔
 
 **台語名**
 
-- 🎯 **赤頭圓頭仔 tshiah-thâu-înn-thâu-á**
-- ✳️ 花眉仔 hue-bâi-á
+- ◆ **赤頭圓頭仔 tshiah-thâu-înn-thâu-á**
+- ✳ 花眉仔 hue-bâi-á
 
 參考 2002⁺ 台華線頂辭典、日語、華語、特徵、[eBird 資料](https://ebird.org/species/taiful1)
 
@@ -29,8 +29,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "圓頭仔
 
 **台語名**
 
-- 🎯 **黃毛圓頭仔 n̂g-moo-înn-thâu-á**
-- ✳️ 圓頭仔 înn-thâu-á
+- ◆ **黃毛圓頭仔 n̂g-moo-înn-thâu-á**
+- ✳ 圓頭仔 înn-thâu-á
 
 參考 1973 Embree台英辭典、英語、[eBird 資料](https://ebird.org/species/golpar2)
 
@@ -44,7 +44,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "圓頭仔
 
 **台語名**
 
-- 🎯 **粉紅圓頭仔 hún-âng-înn-thâu-á**
-- ✳️ 圓頭仔 înn-thâu-á
+- ◆ **粉紅圓頭仔 hún-âng-înn-thâu-á**
+- ✳ 圓頭仔 înn-thâu-á
 
 參考 1973 Embree台英辭典、英語、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/vitpar1)

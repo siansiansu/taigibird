@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **林柳鶯 lîn-liú-ing**
+◆ **林柳鶯 lîn-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/woowar)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **黃眉柳鶯 n̂g-bâi-liú-ing**
+◆ **黃眉柳鶯 n̂g-bâi-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/yebwar3)
 
@@ -42,7 +42,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **淺眉柳鶯 tshián-bâi-liú-ing**
+◆ **淺眉柳鶯 tshián-bâi-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/humwar1)
 
@@ -56,7 +56,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **雲南柳鶯 hûn-lâm-liú-ing**
+◆ **雲南柳鶯 hûn-lâm-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chilew1)
 
@@ -70,7 +70,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **黃腰柳鶯 n̂g-io-liú-ing**
+◆ **黃腰柳鶯 n̂g-io-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/palwar5)
 
@@ -84,7 +84,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **大喙柳鶯 tuā-tshuì-liú-ing**
+◆ **大喙柳鶯 tuā-tshuì-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/radwar1)
 
@@ -98,7 +98,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **赤眉柳鶯 tshiah-bâi-liú-ing**
+◆ **赤眉柳鶯 tshiah-bâi-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/yeswar1)
 
@@ -112,7 +112,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **黃腹柳鶯 n̂g-pak-liú-ing**
+◆ **黃腹柳鶯 n̂g-pak-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/y00989)
 
@@ -126,7 +126,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **褐色柳鶯 hat-sik-liú-ing**
+◆ **褐色柳鶯 hat-sik-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/duswar)
 
@@ -140,7 +140,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **赤腹柳鶯 tshiah-pak-liú-ing**
+◆ **赤腹柳鶯 tshiah-pak-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/butwar1)
 
@@ -154,7 +154,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **歐亞柳鶯 au-a-liú-ing**
+◆ **歐亞柳鶯 au-a-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/wlwwar)
 
@@ -168,7 +168,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **嘰喳柳鶯 ki-kia̍uh-liú-ing**
+◆ **嘰喳柳鶯 ki-kia̍uh-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/comchi1)
 
@@ -182,7 +182,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **聳毛柳鶯 tshàng-moo-liú-ing**
+◆ **聳毛柳鶯 tshàng-moo-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eacwar1)
 
@@ -196,7 +196,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **飯島柳鶯 ijima-liú-ing**
+◆ **飯島柳鶯 ijima-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/ijlwar1)
 
@@ -210,7 +210,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **白目箍鶲鶯 pe̍h-ba̍k-khoo-ong-ing**
+◆ **白目箍鶲鶯 pe̍h-ba̍k-khoo-ong-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/whswar1)
 
@@ -224,7 +224,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **比氏鶲鶯 pí-sī-ong-ing**
+◆ **比氏鶲鶯 pí-sī-ong-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/biawar1)
 
@@ -238,7 +238,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **峨眉鶲鶯 ngôo-bî-ong-ing**
+◆ **峨眉鶲鶯 ngôo-bî-ong-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/marwar4)
 
@@ -252,7 +252,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **淺尾鶲鶯 tshián-bué-ong-ing**
+◆ **淺尾鶲鶯 tshián-bué-ong-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/pltwar1)
 
@@ -266,7 +266,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **暗綠柳鶯 àm-li̍k-liú-ing**
+◆ **暗綠柳鶯 àm-li̍k-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/grewar3)
 
@@ -280,7 +280,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **雙斑綠柳鶯 siang-pan-li̍k-liú-ing**
+◆ **雙斑綠柳鶯 siang-pan-li̍k-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/grewar2)
 
@@ -294,7 +294,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **白跤柳鶯 pe̍h-kha-liú-ing**
+◆ **白跤柳鶯 pe̍h-kha-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/pllwar1)
 
@@ -308,7 +308,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **庫頁島柳鶯 khòo-ia̍h-tó-liú-ing**
+◆ **庫頁島柳鶯 khòo-ia̍h-tó-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/salwar1)
 
@@ -322,7 +322,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **日本柳鶯 ji̍t-pún-liú-ing**
+◆ **日本柳鶯 ji̍t-pún-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/arcwar3)
 
@@ -336,7 +336,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **極北柳鶯 ki̍k-pak-liú-ing**
+◆ **極北柳鶯 ki̍k-pak-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/arcwar1)
 
@@ -350,7 +350,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **勘察加柳鶯 kham-tshâ-tsham-liú-ing**
+◆ **勘察加柳鶯 kham-tshâ-tsham-liú-ing**
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/arcwar2)
 
@@ -364,7 +364,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **栗頭鶲鶯 li̍k-thâu-ong-ing**
+◆ **栗頭鶲鶯 li̍k-thâu-ong-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chcwar2)
 
@@ -378,7 +378,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **烏眉柳鶯 oo-bâi-liú-ing**
+◆ **烏眉柳鶯 oo-bâi-liú-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/subwar3)
 
@@ -392,7 +392,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **克氏冠紋柳鶯 khik-sī-kuan-bûn-liú-ing**
+◆ **克氏冠紋柳鶯 khik-sī-kuan-bûn-liú-ing**
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/clalew1)
 
@@ -406,6 +406,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "柳鶯"]
 
 **台語名**
 
-🎯 **哈氏冠紋柳鶯 ha-sī-kuan-bûn-liú-ing**
+◆ **哈氏冠紋柳鶯 ha-sī-kuan-bûn-liú-ing**
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/harlew1)

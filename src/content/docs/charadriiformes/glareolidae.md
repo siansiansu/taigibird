@@ -14,6 +14,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "草埔燕
 
 **台語名**
 
-🎯 **草埔燕仔 tsháu-poo-iàn-á**
+◆ **草埔燕仔 tsháu-poo-iàn-á**
 
 [《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/oripra)

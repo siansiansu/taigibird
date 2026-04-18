@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "葵花鳳
 
 **台語名**
 
-- 🎯 **黃巴丹 n̂g-pa-tan**
-- ✳️ 鸚哥 ing-ko
+- ◆ **黃巴丹 n̂g-pa-tan**
+- ✳ 鸚哥 ing-ko
 
 參考日語、[eBird 資料](https://ebird.org/species/succoc)

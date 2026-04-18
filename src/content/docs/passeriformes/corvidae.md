@@ -14,9 +14,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 **台語名**
 
-- 🎯 **八萬仔 peh-bān-á**
+- ◆ **八萬仔 peh-bān-á**
 - 松仔 siông-á
-- ✳️ 烏鴉 oo-a
+- ✳ 烏鴉 oo-a
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/eurjay1)
 
@@ -30,7 +30,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 **台語名**
 
-🎯 **殕色客鳥 phú-sik-kheh-tsiáu**
+◆ **殕色客鳥 phú-sik-kheh-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/azwmag2)
 
@@ -44,8 +44,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 **台語名**
 
-- 🎯 **長尾山娘 tn̂g-bué-suann-niû**
-- 🎯 **山娘仔 suann-niû-á**
+- ◆ **長尾山娘 tn̂g-bué-suann-niû**
+- ◆ **山娘仔 suann-niû-á**
 - 長尾津仔 tn̂g-bué-tin-á
 - 長尾竹 tn̂g-bué-tik
 - 臺灣藍鵲 tâi-uân-nâ-tshiok
@@ -63,7 +63,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 **台語名**
 
-🎯 **咖咖仔 ka-ka-á**
+◆ **咖咖仔 ka-ka-á**
 
 參考 2002⁺ 台華線頂辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/grytre1)
 
@@ -77,7 +77,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 **台語名**
 
-- 🎯 **客鳥 kheh-tsiáu**
+- ◆ **客鳥 kheh-tsiáu**
 - 喜鵲 hí-tshiok
 - 飛北鳥 hui-pak-tsiáu
 - 烏鵲 oo-tshiok
@@ -94,7 +94,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 **台語名**
 
-🎯 **松柏仔 tshîng-peh-á**
+◆ **松柏仔 tshîng-peh-á**
 
 參考 2002⁺ 台華線頂辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/eurnut4)
 
@@ -108,7 +108,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 **台語名**
 
-🎯 **東方寒鴉 tang-hong-hân-a**
+◆ **東方寒鴉 tang-hong-hân-a**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/daujac1)
 
@@ -122,8 +122,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 **台語名**
 
-- 🎯 **厝烏鴉 tshù-oo-a**
-- ✳️ 烏鴉 oo-a
+- ◆ **厝烏鴉 tshù-oo-a**
+- ✳ 烏鴉 oo-a
 
 參考英語、[eBird 資料](https://ebird.org/species/houcro1)
 
@@ -137,11 +137,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 **台語名**
 
-- 🎯 **深山烏 tshim-suann-oo**
+- ◆ **深山烏 tshim-suann-oo**
 - 山烏鴉 suann-oo-a
 - 禿鼻鴉 thut-phīnn-a
 - 山老公 suann-lāu-kong
-- ✳️ 烏鴉 oo-a
+- ✳ 烏鴉 oo-a
 
 參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/rook1)
 
@@ -155,8 +155,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 **台語名**
 
-- 🎯 **小喙烏鴉 sió-tshuì-oo-a**
-- ✳️ 烏鴉 oo-a
+- ◆ **小喙烏鴉 sió-tshuì-oo-a**
+- ✳ 烏鴉 oo-a
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/carcro1)
 
@@ -170,10 +170,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 **台語名**
 
-- 🎯 **大喙烏鴉 tuā-tshì-oo-a**
+- ◆ **大喙烏鴉 tuā-tshì-oo-a**
 - 巨喙鴉 kū-tshuì-a
 - 孝鳥 hàu-tsiáu
-- ✳️ 烏鴉 oo-a
+- ✳ 烏鴉 oo-a
 
 參考英語、[eBird 資料](https://ebird.org/species/labcro1)
 
@@ -187,9 +187,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 **台語名**
 
-- 🎯 白頸烏鴉 pe̍h-kún-oo-a
+- ◆ 白頸烏鴉 pe̍h-kún-oo-a
 - 玉頸鴉 gio̍k-kún-a
-- ✳️ 烏鴉 oo-a
+- ✳ 烏鴉 oo-a
 
 參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/colcro1)
 
@@ -203,6 +203,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鴉"]
 
 **台語名**
 
-🎯 **紅喙山鴉 âng-tshuì-suann-a**
+◆ **紅喙山鴉 âng-tshuì-suann-a**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rebcho1)

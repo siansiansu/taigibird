@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鶖", 
 
 **台語名**
 
-🎯 **烏鶖 oo-tshiu**
+◆ **烏鶖 oo-tshiu**
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/bladro1)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鶖", 
 
 **台語名**
 
-🎯 **殕色烏鶖 phú-sik-oo-tshiu**
+◆ **殕色烏鶖 phú-sik-oo-tshiu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/ashdro1)
 
@@ -42,7 +42,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鶖", 
 
 **台語名**
 
-🎯 **鴉喙烏鶖 a-tshuì-oo-tshiu**
+◆ **鴉喙烏鶖 a-tshuì-oo-tshiu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/crbdro1)
 
@@ -56,7 +56,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鶖", 
 
 **台語名**
 
-🎯 **山烏鶖 suann-oo-tshiu**
+◆ **山烏鶖 suann-oo-tshiu**
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/brodro1)
 
@@ -70,7 +70,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鶖", 
 
 **台語名**
 
-- 🎯 **聳毛烏鶖 tshàng-moo-oo-tshiu**
+- ◆ **聳毛烏鶖 tshàng-moo-oo-tshiu**
 - 髮冠烏鶖 huat-kuan-oo-tshiu
 - 冠烏鶖 huat-kuan-oo-tshiu
 - 聳頭烏鶖 tshàng-thâu-oo-tshiu
@@ -87,6 +87,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鶖", 
 
 **台語名**
 
-🎯 **雙尾烏鶖 siang-bué-oo-tshiu**
+◆ **雙尾烏鶖 siang-bué-oo-tshiu**
 
 參考特徵、[eBird 資料](https://ebird.org/species/grtdro1)

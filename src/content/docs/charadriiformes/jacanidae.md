@@ -14,6 +14,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "菱角鳥
 
 **台語名**
 
-🎯 **菱角鳥 lîng-kak-tsiáu**
+◆ **菱角鳥 lîng-kak-tsiáu**
 
 [《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/phtjac1)

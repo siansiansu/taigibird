@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海燕"]
 
 **台語名**
 
-🎯 **黃扒洋海燕仔 n̂g-pê-iûnn-hái-iàn-á**
+◆ **黃扒洋海燕仔 n̂g-pê-iûnn-hái-iàn-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/wispet)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海燕"]
 
 **台語名**
 
-🎯 **白腰叉尾海燕仔 pe̍h-io-tshe-bé-hái-iàn-á**
+◆ **白腰叉尾海燕仔 pe̍h-io-tshe-bé-hái-iàn-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lcspet)
 
@@ -42,7 +42,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海燕"]
 
 **台語名**
 
-🎯 **烏叉尾海燕仔 oo-tshe-bé-hái-iàn-á**
+◆ **烏叉尾海燕仔 oo-tshe-bé-hái-iàn-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/swspet)
 
@@ -56,7 +56,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海燕"]
 
 **台語名**
 
-🎯 **日本叉尾海燕仔 ji̍t-pún-tshe-bé-hái-iàn-á**
+◆ **日本叉尾海燕仔 ji̍t-pún-tshe-bé-hái-iàn-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/maspet2)
 
@@ -70,6 +70,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海燕"]
 
 **台語名**
 
-🎯 **赤翅叉尾海燕仔 tshiah-tshì-tshe-bé-hái-iàn-á**
+◆ **赤翅叉尾海燕仔 tshiah-tshì-tshe-bé-hái-iàn-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/trspet)

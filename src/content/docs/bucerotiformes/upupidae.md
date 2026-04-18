@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戴勝", 
 
 **台語名**
 
-- 🎯 **墓壙鳥 bōng-khòng-tsiáu**
+- ◆ **墓壙鳥 bōng-khòng-tsiáu**
 - 墓坑鳥 bōng-khenn-tsiáu
 - 臭鳥 tshàu-tsiáu
 - 呼鵓鵓 hoo-pu̍t-pu̍t

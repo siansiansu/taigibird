@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **厚喙蘆荻仔 kāu-tshuì-lôo-tik-á**
+◆ **厚喙蘆荻仔 kāu-tshuì-lôo-tik-á**
 
 參考蘆荻仔鳥 lôo-tik-á-tsiáu + 英語、[eBird 資料](https://ebird.org/species/thbwar1)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **靴管鶯 hia-kóng-ing**
+◆ **靴管鶯 hia-kóng-ing**
 
 參考英語、[eBird 資料](https://ebird.org/species/boowar1)
 
@@ -42,7 +42,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **雙眉蘆荻仔 siang-bâi-lôo-tik-á**
+◆ **雙眉蘆荻仔 siang-bâi-lôo-tik-á**
 
 參考蘆荻仔鳥 lôo-tik-á-tsiáu + 特徵、[eBird 資料](https://ebird.org/species/bbrwar1)
 
@@ -56,7 +56,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **細紋蘆荻仔 suè-bûn-lôo-tik-á**
+◆ **細紋蘆荻仔 suè-bûn-lôo-tik-á**
 
 參考蘆荻仔鳥 lôo-tik-á-tsiáu + 特徵、[eBird 資料](https://ebird.org/species/strwar1)
 
@@ -70,7 +70,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **田蘆荻仔 tshân-lôo-tik-á**
+◆ **田蘆荻仔 tshân-lôo-tik-á**
 
 參考蘆荻仔鳥 lôo-tik-á-tsiáu + 英語、[eBird 資料](https://ebird.org/species/padwar1)
 
@@ -84,7 +84,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **鈍翅蘆荻仔鳥 tùn-tshì-lôo-tik-á**
+◆ **鈍翅蘆荻仔鳥 tùn-tshì-lôo-tik-á**
 
 參考蘆荻仔鳥 lôo-tik-á-tsiáu + 英語、[eBird 資料](https://ebird.org/species/blwwar1)
 
@@ -98,7 +98,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **遠東蘆荻仔鳥 uán-tong-lôo-tik-á**
+◆ **遠東蘆荻仔鳥 uán-tong-lôo-tik-á**
 
 參考蘆荻仔鳥 lôo-tik-á-tsiáu + 華語、[eBird 資料](https://ebird.org/species/manrew1)
 
@@ -112,7 +112,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-🎯 **布萊氏蘆荻仔 pòo-lâi-sī-lôo-tik-á**
+◆ **布萊氏蘆荻仔 pòo-lâi-sī-lôo-tik-á**
 
 參考蘆荻仔鳥 lôo-tik-á-tsiáu + 英語、[eBird 資料](https://ebird.org/species/blrwar1)
 
@@ -126,8 +126,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-- 🎯 **蘆趵 lôo-tà**
-- 🎯 **蘆荻仔鳥 lôo-tik-á-tsiáu**
-- 🎯 **東方荻仔鳥 tang-hong-lôo-tik-á-tsiáu**
+- ◆ **蘆趵 lôo-tà**
+- ◆ **蘆荻仔鳥 lôo-tik-á-tsiáu**
+- ◆ **東方荻仔鳥 tang-hong-lôo-tik-á-tsiáu**
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、頭前加上東方 tang-hong 區分、[eBird 資料](https://ebird.org/species/orrwar1)

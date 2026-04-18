@@ -14,6 +14,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "五色鳥
 
 **台語名**
 
-🎯 **花仔和尚 hue-á-huê-siūnn**
+◆ **花仔和尚 hue-á-huê-siūnn**
 
 參考 1973 Embree台英辭典、2016⁺ iTaigi、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/taibar2)

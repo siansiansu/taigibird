@@ -14,13 +14,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔
 
 **台語名**
 
-- 🎯 **釣龜 tiò-ku**
-- 🎯 **紅跤竹雞 âng-kha-tik-ke**
-- 🎯 **報時鳥 pò-sî-tsiáu**
-- 🎯 **時鐘鳥 sî-tsing-tsiáu**
+- ◆ **釣龜 tiò-ku**
+- ◆ **紅跤竹雞 âng-kha-tik-ke**
+- ◆ **報時鳥 pò-sî-tsiáu**
+- ◆ **時鐘鳥 sî-tsing-tsiáu**
 - 臺灣山鷓鴣 tâi-uân-suann-tsià-koo
 - 深山鷓鴣 tshim-suann-tsià-koo
-- ✳️ 紅跤仔 âng-kha-á
+- ✳ 紅跤仔 âng-kha-á
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、玉山國家公園鳥類資訊系統、[eBird 資料](https://ebird.org/species/taipar1)
 
@@ -34,10 +34,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔
 
 **台語名**
 
-- 🎯 **烏雉 oo-thī**
-- 🎯 **烏雉雞 oo-thī-ke**
-- 🎯 **帝雉 tè-thī**
-- 🎯 烏長尾雉 oo-tng-bué-thī
+- ◆ **烏雉 oo-thī**
+- ◆ **烏雉雞 oo-thī-ke**
+- ◆ **帝雉 tè-thī**
+- ◆ 烏長尾雉 oo-tng-bué-thī
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/mikphe1)
 
@@ -51,9 +51,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔
 
 **台語名**
 
-- 🎯 **啼雞 thî-ke**
+- ◆ **啼雞 thî-ke**
 - 環頸雉 khuân-kīng-thī
-- ✳️ 野雞 iá-ke
+- ✳ 野雞 iá-ke
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/rinphe1)
 
@@ -67,13 +67,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔
 
 **台語名**
 
-- 🎯 **哇雞 ua-ke**
-- 🎯 **華雞 huâ-ke**
-- 🎯 **烏尾雞 oo-bué-ke**
+- ◆ **哇雞 ua-ke**
+- ◆ **華雞 huâ-ke**
+- ◆ **烏尾雞 oo-bué-ke**
 - 藍腹鷴 nâ-pak-hiân
-- ✳️ 山雞 suann-ke
-- ✳️ 紅跤仔 âng-kha-á
-- ✳️ 雉雞 thī-ke
+- ✳ 山雞 suann-ke
+- ✳ 紅跤仔 âng-kha-á
+- ✳ 雉雞 thī-ke
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/swiphe1)
 
@@ -87,8 +87,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔
 
 **台語名**
 
-- 🎯 **藍孔雀 nâ-khóng-tshiok**
-- 🎯 **印度孔雀 ìn-tōo-khóng-tshiok**
+- ◆ **藍孔雀 nâ-khóng-tshiok**
+- ◆ **印度孔雀 ìn-tōo-khóng-tshiok**
 
 參考[教育部臺灣台語常用詞辭典](https://sutian.mue.edu.tw/)、英語、[eBird 資料](https://ebird.org/species/compea)
 
@@ -102,8 +102,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔
 
 **台語名**
 
-- 🎯 **臺灣竹雞 tâi-uân-tik-ke**
-- 🎯 竹雞 tik-ke
+- ◆ **臺灣竹雞 tâi-uân-tik-ke**
+- ◆ 竹雞 tik-ke
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/taibap1)
 
@@ -117,12 +117,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔
 
 **台語名**
 
-- 🎯 **五鳴雞 ngóo-bîng-ke**
-- 🎯 **五更雞 gōo-kenn-ke**
-- 🎯 **小鵪鶉 sió-ian-thun**
-- 🎯 **小無尾鵪鶉 sió-bô-bué-ian-thun**
-- ✳️ 無尾鵪鶉 bô-bué-ian-thun
-- ✳️ **紅腹鶉 âng-hôo-tshun
+- ◆ **五鳴雞 ngóo-bîng-ke**
+- ◆ **五更雞 gōo-kenn-ke**
+- ◆ **小鵪鶉 sió-ian-thun**
+- ◆ **小無尾鵪鶉 sió-bô-bué-ian-thun**
+- ✳ 無尾鵪鶉 bô-bué-ian-thun
+- ✳ **紅腹鶉 âng-hôo-tshun
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、2016⁺ iTaigi、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/blbqua1)
 
@@ -136,9 +136,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔
 
 **台語名**
 
-- 🎯 **鵪鶉 ian-thun**
-- 🎯 **紅腹鶉 âng-hôo-tshun
-- 🎯 無尾鵪鶉 bô-bué-ian-thun
+- ◆ **鵪鶉 ian-thun**
+- ◆ **紅腹鶉 âng-hôo-tshun
+- ◆ 無尾鵪鶉 bô-bué-ian-thun
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、2016⁺ iTaigi、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/japqua)
 
@@ -152,8 +152,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔
 
 **台語名**
 
-- 🎯 **lài-tsiáu**
-- 🎯 **雷鳥 lûi-tsiáu**
-- 🎯 **雷公鳥 lûi-kong-tsiáu**
+- ◆ **lài-tsiáu**
+- ◆ **雷鳥 lûi-tsiáu**
+- ◆ **雷公鳥 lûi-kong-tsiáu**
 
 參考日語、英語、[eBird 資料](https://ebird.org/species/rocpta1)

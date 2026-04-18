@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **花鳥仔 hue-tsiáu-á**
+◆ **花鳥仔 hue-tsiáu-á**
 
 參考日語、[eBird 資料](https://ebird.org/species/brambl)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **臘喙雀 la̍h-tshuì-tshiok**
+◆ **臘喙雀 la̍h-tshuì-tshiok**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/hawfin)
 
@@ -42,7 +42,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **小桑鳲 sió-sáng-si**
+◆ **小桑鳲 sió-sáng-si**
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/yebgro1)
 
@@ -56,7 +56,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **桑鳲 sáng-si**
+◆ **桑鳲 sáng-si**
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/japgro1)
 
@@ -70,7 +70,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **普通紅鳥仔 phóo-thong-âng-tsiáu-á**
+◆ **普通紅鳥仔 phóo-thong-âng-tsiáu-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/comros)
 
@@ -84,7 +84,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **酒紅紅鳥仔 tsiú-âng-âng-tsiáu-á**
+◆ **酒紅紅鳥仔 tsiú-âng-âng-tsiáu-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/vinros2)
 
@@ -98,7 +98,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **台灣紅鳥仔 tâi-uân-âng-tsiáu-á**
+◆ **台灣紅鳥仔 tâi-uân-âng-tsiáu-á**
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/vinros3)
 
@@ -112,7 +112,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **北紅鳥仔 pak-âng-tsiáu-á**
+◆ **北紅鳥仔 pak-âng-tsiáu-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/palros2)
 
@@ -126,7 +126,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **赤面猴 tshiah-bīn-kâu**
+◆ **赤面猴 tshiah-bīn-kâu**
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/brobul1)
 
@@ -140,7 +140,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **烏面猴 oo-bīn-kâu**
+◆ **烏面猴 oo-bīn-kâu**
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/gyhbul5)
 
@@ -154,7 +154,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **歐亞烏面猴 au-a-oo-bīn-kâu**
+◆ **歐亞烏面猴 au-a-oo-bīn-kâu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eurbul)
 
@@ -168,7 +168,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **金翼雀 kim-tshì-tshiok**
+◆ **金翼雀 kim-tshì-tshiok**
 
 參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/origre)
 
@@ -182,7 +182,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **紅胸紅頂雀 âng-hing-âng-tíng-tshiok**
+◆ **紅胸紅頂雀 âng-hing-âng-tíng-tshiok**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eurlin1)
 
@@ -196,7 +196,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **普通紅頂雀 phóo-thong-âng-tíng-tshiok**
+◆ **普通紅頂雀 phóo-thong-âng-tíng-tshiok**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/redpol1)
 
@@ -210,7 +210,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **紅必叉喙鳥 âng-pit-tshe-tshuì-tsiáu**
+◆ **紅必叉喙鳥 âng-pit-tshe-tshuì-tsiáu**
 
 參考英語、[eBird 資料](https://ebird.org/species/redcro)
 
@@ -224,7 +224,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **黃雀 n̂g-tshiok**
+◆ **黃雀 n̂g-tshiok**
 
 參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/eursis)
 
@@ -238,6 +238,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀仔"]
 
 **台語名**
 
-🎯 **長尾紅鳥仔 tn̂g-bué-âng-tsiáu-á**
+◆ **長尾紅鳥仔 tn̂g-bué-âng-tsiáu-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lotros1)

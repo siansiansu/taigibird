@@ -14,6 +14,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕鵙"]
 
 **台語名**
 
-🎯 **白胸燕鵙 pe̍h-hing-ìnn-kio̍k**
+◆ **白胸燕鵙 pe̍h-hing-ìnn-kio̍k**
 
 參考特徵、華語、[eBird 資料](https://ebird.org/species/whbwoo4)

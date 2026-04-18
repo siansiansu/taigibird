@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷦眉"]
 
 **台語名**
 
-🎯 **臺灣鷦眉 tâi-uân-tsiau-bâi**
+◆ **臺灣鷦眉 tâi-uân-tsiau-bâi**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/taiwrb1)
 
@@ -28,6 +28,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷦眉"]
 
 **台語名**
 
-🎯 **小鷦眉 sió-tsiau-bâi**
+◆ **小鷦眉 sió-tsiau-bâi**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/pywbab1)

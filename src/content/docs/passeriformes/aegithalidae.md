@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "長尾山
 
 **台語名**
 
-- 🎯 **紅頭山雀 âng-thâu-suann-tshiok**
-- ✳️ 紅頭仔 âng-thâu-á
+- ◆ **紅頭山雀 âng-thâu-suann-tshiok**
+- ✳ 紅頭仔 âng-thâu-á
 
 1973 Embree台英辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/blttit2)

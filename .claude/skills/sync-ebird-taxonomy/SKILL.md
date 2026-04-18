@@ -38,7 +38,7 @@ Extract species info from all Markdown files in `docs/`:
 - **Species heading**: `## ChineseName JapaneseName English Name`
 - **Image alt text**: matches heading — `![ChineseName JapaneseName English Name](url)`
 - **eBird link**: `[eBird 資料](https://ebird.org/species/{CODE})`
-- **Taiwanese name section**: `🎯 **TaiwaneseName romanization**`
+- **Taiwanese name section**: `◆ **TaiwaneseName romanization**`
 
 Use a Python script to extract:
 - Chinese name (first CJK character group from `##` heading)
@@ -113,7 +113,7 @@ Each step gets its own commit.
 
 **台語名**
 
-🎯 **TaiwaneseName romanization**
+◆ **TaiwaneseName romanization**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/CODE)
 ```

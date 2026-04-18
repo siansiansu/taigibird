@@ -40,7 +40,7 @@ This points to the canonical tracked files in `docs/`:
    - One based on the bird's characteristics or behavior
    - One based on existing Taigi folk names (if found in corpus)
 6. For each suggestion, explain the etymology and composition
-7. Mark the primary recommendation with `🎯`, accepted alternates with `◯`, and umbrella terms with `✳️`
+7. Mark the primary recommendation with `◆`, accepted alternates with `◇`, and umbrella terms with `✳`
 
 ### `review <file-path-or-species>` — Proofread a Species Entry
 
@@ -105,4 +105,4 @@ Always output Taigi text with:
 - Proper Tâi-lô tone marks (á, à, â, ā, a̍, a̋)
 - Hyphens connecting multi-syllable romanized words: `niau-thâu-tsiáu`
 - No space between Han characters and adjacent romanization
-- Clear marking of `🎯` (primary recommendation), `◯` (accepted alternate), and `✳️` (umbrella term)
+- Clear marking of `◆` (primary recommendation), `◇` (accepted alternate), and `✳` (umbrella term)

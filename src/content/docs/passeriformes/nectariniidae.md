@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜜鳥
 
 **台語名**
 
-🎯 **黃腹花蜜鳥 n̂g-pak-hue-bi̍t-tsiáu**
+◆ **黃腹花蜜鳥 n̂g-pak-hue-bi̍t-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/olbsun4)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜜鳥
 
 **台語名**
 
-🎯 **藍喉太陽鳥 nâ-âu-thài-iông-tsiáu**
+◆ **藍喉太陽鳥 nâ-âu-thài-iông-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gousun1)
 
@@ -42,6 +42,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜜鳥
 
 **台語名**
 
-🎯 **攕仔尾太陽鳥 tshiám-á-bué-thài-iông-tsiáu**
+◆ **攕仔尾太陽鳥 tshiám-á-bué-thài-iông-tsiáu**
 
 參考英語、[eBird 資料](https://ebird.org/species/fotsun1)

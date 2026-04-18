@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶯科", 
 
 **台語名**
 
-🎯 **白喉林鶯 pe̍h-âu-lîm-ing**
+◆ **白喉林鶯 pe̍h-âu-lîm-ing**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/leswhi4)
 
@@ -28,6 +28,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶯科", 
 
 **台語名**
 
-🎯 **沙漠林鶯 sua-bôo-lîm-ing**
+◆ **沙漠林鶯 sua-bôo-lîm-ing**
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/asdwar1)

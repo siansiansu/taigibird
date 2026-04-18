@@ -224,7 +224,7 @@ After incorporating this background, the review agent should assume:
 This background should make the agent more conservative in the following cases:
 
 - a Chinese-looking form is recommended without a note
-- multiple `🎯` names are listed without clarifying status
+- multiple `◆` names are listed without clarifying status
 - a place-name or nationality label is used as a species name with only weak support
 - the Tâi-lô looks internally inconsistent
 - the entry gives references but no reasoning

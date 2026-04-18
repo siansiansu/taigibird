@@ -136,7 +136,7 @@ If a candidate looks like it may preserve a Japanese-era bird name or a Japanese
 Typical required-check cases:
 
 - an entry recommends one or more names as native or inherited forms
-- an entry has multiple `🎯` names and the distinction between primary and alternate is unclear
+- an entry has multiple `◆` names and the distinction between primary and alternate is unclear
 - a candidate may be a generic umbrella term rather than a species-specific name
 - the file appears to choose a constructed form even though a curated native-name source may already contain a local term
 
@@ -152,7 +152,7 @@ When the review depends on attestation, native usage, lexical meaning, source-sp
 This rule applies especially when:
 
 - a name is presented as native or inherited
-- more than one `🎯` appears in the same entry
+- more than one `◆` appears in the same entry
 - the difference between recommended name, alternate name, and umbrella term is unclear
 - a form may be a Chinese-based calque
 - a Hanji choice or reading is uncertain
@@ -247,7 +247,7 @@ Flag these explicitly when they appear.
 - native name ignored without explanation
 - generic term promoted to species-level recommendation without a disambiguating modifier
 - Chinese calque accepted where Taigi morphology or local naming logic would differ
-- multiple `🎯` names presented without explaining whether they are coequal, regional, historical, or fallback forms
+- multiple `◆` names presented without explaining whether they are coequal, regional, historical, or fallback forms
 - Hanji and Tâi-lô not aligned
 - transliteration used where descriptive naming would be more defensible
 - descriptive modifier chosen without evidence that it distinguishes this species from close alternatives
@@ -358,7 +358,7 @@ The goal is to keep the diff small enough that the naming logic is easy to inspe
 
 ## Handling Multiple Recommended Names
 
-If an entry contains more than one `🎯` name, do not assume that is wrong by itself. Instead determine:
+If an entry contains more than one `◆` name, do not assume that is wrong by itself. Instead determine:
 
 - whether they are genuinely coequal attested names
 - whether one is native and the other is a modern constructed form
@@ -388,6 +388,6 @@ If none of these are met, the recommendation should not be treated as strong.
 ## Example File-Level Summary
 
 - strong native-name coverage
-- moderate ambiguity in multiple-`🎯` entries
-- good use of umbrella markers `✳️`
+- moderate ambiguity in multiple-`◆` entries
+- good use of umbrella markers `✳`
 - weak evidence notes where a constructed species-level recommendation appears without a stated reason

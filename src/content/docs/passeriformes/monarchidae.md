@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "王鶲", 
 
 **台語名**
 
-- 🎯 **染布鳥 ní-pòo-tsiá**
+- ◆ **染布鳥 ní-pòo-tsiá**
 - 烏枕藍鶲 oo-tsím-nâ-ong
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/blnmon1)
@@ -29,9 +29,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "王鶲", 
 
 **台語名**
 
-- 🎯 **紫色綬帶 tsí-sik-siū-tuà**
-- ✳️ 青目孔仔 tshenn-ba̍k-khóng-á
-- ✳️ 綬帶 siū-tuà
+- ◆ **紫色綬帶 tsí-sik-siū-tuà**
+- ✳ 青目孔仔 tshenn-ba̍k-khóng-á
+- ✳ 綬帶 siū-tuà
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/japfly1)
 
@@ -45,8 +45,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "王鶲", 
 
 **台語名**
 
-- 🎯 **阿穆爾綬帶 a-bo̍k-nī-siū-tuà**
-- ✳️ 綬帶 siū-tuà
-- ✳️ 青目孔仔 tshenn-ba̍k-khóng-á
+- ◆ **阿穆爾綬帶 a-bo̍k-nī-siū-tuà**
+- ✳ 綬帶 siū-tuà
+- ✳ 青目孔仔 tshenn-ba̍k-khóng-á
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/amupaf1)

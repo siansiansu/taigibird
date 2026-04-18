@@ -14,9 +14,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "猴面鷹
 
 **台語名**
 
-- 🎯 **猴面鷹 kâu-bīn-ing**
-- 🎯 猴面鴞 kâu-bīn-hiau
-- 🎯 草鴞 tsháu-hiau
-- 🎯 面鴞 bīn-hiau
+- ◆ **猴面鷹 kâu-bīn-ing**
+- ◆ 猴面鴞 kâu-bīn-hiau
+- ◆ 草鴞 tsháu-hiau
+- ◆ 面鴞 bīn-hiau
 
 參考 2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/ausgro1)

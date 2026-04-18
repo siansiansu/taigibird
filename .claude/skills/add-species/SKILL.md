@@ -65,7 +65,7 @@ Format:
 
 **台語名**
 
-🎯 **TaiwaneseName romanization**
+◆ **TaiwaneseName romanization**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/CODE)
 ```

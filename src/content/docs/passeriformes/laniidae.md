@@ -14,8 +14,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 
 **台語名**
 
-- 🎯 **虎紋伯勞 hóo-bûn-pik-lô**
-- ✳️ 伯勞仔 pik-lô-á
+- ◆ **虎紋伯勞 hóo-bûn-pik-lô**
+- ✳ 伯勞仔 pik-lô-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/tigshr1)
 
@@ -29,8 +29,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 
 **台語名**
 
-- 🎯 **紅頭伯勞 âng-thâu-pik-lô**
-- ✳️ 伯勞仔 pik-lô-á
+- ◆ **紅頭伯勞 âng-thâu-pik-lô**
+- ✳ 伯勞仔 pik-lô-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/buhshr1)
 
@@ -44,8 +44,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 
 **台語名**
 
-- 🎯 **紅背伯勞 âng-puè-pik-lô**
-- ✳️ 伯勞仔 pik-lô-á
+- ◆ **紅背伯勞 âng-puè-pik-lô**
+- ✳ 伯勞仔 pik-lô-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rebshr1)
 
@@ -59,9 +59,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 
 **台語名**
 
-- 🎯 **蒙古赤色伯勞 bông-kóo-tshiah-sik-pik-lô**
-- 🎯 **沙漠伯勞 sua-bo̍k-pik-lô**
-- ✳️ 伯勞仔 pik-lô-á
+- ◆ **蒙古赤色伯勞 bông-kóo-tshiah-sik-pik-lô**
+- ◆ **沙漠伯勞 sua-bo̍k-pik-lô**
+- ✳ 伯勞仔 pik-lô-á
 
 參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/isashr1)
 
@@ -75,9 +75,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 
 **台語名**
 
-- 🎯 **紅尾伯勞 âng-bué-pik-lô**
-- 🎯 **赤色伯勞 tshiah-sik-pik-lô**
-- ✳️ 伯勞仔 pik-lô-á
+- ◆ **紅尾伯勞 âng-bué-pik-lô**
+- ◆ **赤色伯勞 tshiah-sik-pik-lô**
+- ✳ 伯勞仔 pik-lô-á
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/brnshr)
 
@@ -91,9 +91,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 
 **台語名**
 
-- 🎯 **茶色背伯勞 tê-sik-puē-pik-lô**
-- 🎯 **殕色頭伯勞 phú-sik-thâu-pik-lô**
-- ✳️ 伯勞仔 pik-lô-á
+- ◆ **茶色背伯勞 tê-sik-puē-pik-lô**
+- ◆ **殕色頭伯勞 phú-sik-thâu-pik-lô**
+- ✳ 伯勞仔 pik-lô-á
 
 參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/burshr1)
 
@@ -107,9 +107,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 
 **台語名**
 
-- 🎯 **長尾伯勞 tn̂g-bué-pik-lô**
+- ◆ **長尾伯勞 tn̂g-bué-pik-lô**
 - 棕背伯勞 tsang-puē-pik-lô
-- ✳️ 伯勞仔 pik-lô-á
+- ✳ 伯勞仔 pik-lô-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lotshr1)
 
@@ -123,8 +123,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 
 **台語名**
 
-- 🎯 **殕色背伯勞 phú-sik-puē-pik-lô**
-- ✳️ 伯勞仔 pik-lô-á
+- ◆ **殕色背伯勞 phú-sik-puē-pik-lô**
+- ✳ 伯勞仔 pik-lô-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gybshr1)
 
@@ -138,9 +138,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 
 **台語名**
 
-- 🎯 **西方殕色伯勞 se-hong-phú-sik-pik-lô**
-- 🎯 **大殕色伯勞 tuā-phú-sik-pik-lô**
-- ✳️ 伯勞仔 pik-lô-á
+- ◆ **西方殕色伯勞 se-hong-phú-sik-pik-lô**
+- ◆ **大殕色伯勞 tuā-phú-sik-pik-lô**
+- ✳ 伯勞仔 pik-lô-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/norshr1)
 
@@ -154,8 +154,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 
 **台語名**
 
-- 🎯 **楔尾伯勞 khuè-bé-pik-lô**
-- 🎯 **中國殕色伯勞 tiong-kok-phú-sik-pik-lô**
-- ✳️ 伯勞仔 pik-lô-á
+- ◆ **楔尾伯勞 khuè-bé-pik-lô**
+- ◆ **中國殕色伯勞 tiong-kok-phú-sik-pik-lô**
+- ✳ 伯勞仔 pik-lô-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chgshr1)

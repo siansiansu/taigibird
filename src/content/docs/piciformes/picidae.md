@@ -14,14 +14,14 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄樹鳥
 
 **台語名**
 
-- 🎯 **鯪鯉鳥 lâ-lí-tsiáu**
+- ◆ **鯪鯉鳥 lâ-lí-tsiáu**
 - 地啄樹鳥 tē-tok-tshiū-tsiáu
 - 地啄木 tē-tok-bo̍k
 - 地啄木鳥 tē-tok-bo̍k-tsiáu
 - 蟻吸 hiā-khip
 - 蟻鴷 hiā-lia̍t
-- ✳️ 啄木鳥 tok-bo̍k-tsiáu
-- ✳️ 啄樹鳥 tok-tshiū-tsiáu
+- ✳ 啄木鳥 tok-bo̍k-tsiáu
+- ✳ 啄樹鳥 tok-tshiū-tsiáu
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/eurwry)
 
@@ -35,12 +35,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄樹鳥
 
 **台語名**
 
-- 🎯 **小啄樹鳥 sió-tok-tshiū-tsiáu**
+- ◆ **小啄樹鳥 sió-tok-tshiū-tsiáu**
 - 小啄木鳥 sió-tok-bo̍k-tsiáu
 - 灰頭小啄木鳥 hue-thâu-sió-tok-bo̍k-tsiáu
 - 灰頭小啄樹鳥 hue-thâu-sió-tok-tshiū-tsiáu
-- ✳️ 啄木鳥 tok-bo̍k-tsiáu
-- ✳️ 啄樹鳥 tok-tshiū-tsiáu
+- ✳ 啄木鳥 tok-bo̍k-tsiáu
+- ✳ 啄樹鳥 tok-tshiū-tsiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gycwoo1)
 
@@ -54,10 +54,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄樹鳥
 
 **台語名**
 
-- 🎯 **大紅啄樹鳥 tuā-âng-tok-tshiū-tsiáu**
+- ◆ **大紅啄樹鳥 tuā-âng-tok-tshiū-tsiáu**
 - 大紅啄木鳥 tuā-âng-tok-bo̍k-tsiáu
-- ✳️ 啄木鳥 tok-bo̍k-tsiáu
-- ✳️ 啄樹鳥 tok-tshiū-tsiáu
+- ✳ 啄木鳥 tok-bo̍k-tsiáu
+- ✳ 啄樹鳥 tok-tshiū-tsiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/whbwoo1)
 
@@ -71,12 +71,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄樹鳥
 
 **台語名**
 
-- 🎯 **山啄樹鳥 suann-tok-tshiū-tsiáu**
+- ◆ **山啄樹鳥 suann-tok-tshiū-tsiáu**
 - 山啄木鳥 suann-tok-bo̍k-tsiáu
 - 青啄樹鳥 tshenn-tok-tshiū-tsiáu
 - 青啄木鳥 tshenn-tok-bo̍k-tsiáu
-- ✳️ 啄木鳥 tok-bo̍k-tsiáu
-- ✳️ 啄樹鳥 tok-tshiū-tsiáu
+- ✳ 啄木鳥 tok-bo̍k-tsiáu
+- ✳ 啄樹鳥 tok-tshiū-tsiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gyfwoo1)
 
@@ -90,10 +90,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄樹鳥
 
 **台語名**
 
-- 🎯 **大斑啄樹鳥 tuā-pan tok-tshiū-tsiáu**
+- ◆ **大斑啄樹鳥 tuā-pan tok-tshiū-tsiáu**
 - 大斑啄木鳥 tuā-pan tok-bo̍k-tsiáu
-- ✳️ 啄木鳥 tok-bo̍k-tsiáu
-- ✳️ 啄樹鳥 tok-tshiū-tsiáu
+- ✳ 啄木鳥 tok-bo̍k-tsiáu
+- ✳ 啄樹鳥 tok-tshiū-tsiáu
 
 參考英語、[eBird 資料](https://ebird.org/species/grswoo)
 
@@ -107,12 +107,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄樹鳥
 
 **台語名**
 
-- 🎯 **花腹啄樹鳥 hue-pak-tok-tshiū-tsiáu**
+- ◆ **花腹啄樹鳥 hue-pak-tok-tshiū-tsiáu**
 - 花腹啄木鳥 hue-pak-tok-bo̍k-tsiáu
 - 竹青啄木鳥 tik-tshenn-tok-bo̍k-tsiáu
 - 竹青啄樹鳥 tik-tshenn-tok-tshiū-tsiáu
-- ✳️ 啄木鳥 tok-bo̍k-tsiáu
-- ✳️ 啄樹鳥 tok-tshiū-tsiáu
+- ✳ 啄木鳥 tok-bo̍k-tsiáu
+- ✳ 啄樹鳥 tok-tshiū-tsiáu
 
 參考華語、[eBird 資料](https://ebird.org/species/lacwoo1)
 
@@ -126,6 +126,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄樹鳥
 
 **台語名**
 
-🎯 **赤腹啄樹鳥 tshiah-pak-tok-tshiū-tsiáu**
+◆ **赤腹啄樹鳥 tshiah-pak-tok-tshiū-tsiáu**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rubwoo1)

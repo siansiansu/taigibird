@@ -14,6 +14,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蛇鵜"]
 
 **台語名**
 
-🎯 **烏腹蛇鵜 oo-pak-tsuâ-thê**
+◆ **烏腹蛇鵜 oo-pak-tsuâ-thê**
 
 參考華語、[eBird 資料](https://ebird.org/species/darter2)

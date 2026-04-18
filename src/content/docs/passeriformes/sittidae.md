@@ -14,6 +14,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "茶腹鳾
 
 **台語名**
 
-🎯 **茶腹鳾 tê-pak-si**
+◆ **茶腹鳾 tê-pak-si**
 
 參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/eurnut2)

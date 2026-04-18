@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "犀鳥"]
 
 **台語名**
 
-🎯 **聳毛犀鳥 tshàng-mn̂g-sai-tsiáu**
+◆ **聳毛犀鳥 tshàng-mn̂g-sai-tsiáu**
 
 參考特徵、日語、英語、[eBird 資料](https://ebird.org/species/whchor2)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "犀鳥"]
 
 **台語名**
 
-🎯 **馬來犀鳥 Má-lâi-sai-tsiáu**
+◆ **馬來犀鳥 Má-lâi-sai-tsiáu**
 
 參考特徵、日語、英語、[eBird 資料](https://ebird.org/species/rhihor1)
 
@@ -42,7 +42,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "犀鳥"]
 
 **台語名**
 
-🎯 **皺喙犀鳥 jiâu-tshuì-sai-tsiáu**
+◆ **皺喙犀鳥 jiâu-tshuì-sai-tsiáu**
 
 參考特徵、日語、英語、[eBird 資料](https://ebird.org/species/wrihor1)
 
@@ -56,7 +56,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "犀鳥"]
 
 **台語名**
 
-🎯 **烏犀鳥 oo-sai-tsiáu**
+◆ **烏犀鳥 oo-sai-tsiáu**
 
 參考特徵、日語、英語、[eBird 資料](https://ebird.org/species/blahor1)
 
@@ -70,6 +70,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "犀鳥"]
 
 **台語名**
 
-🎯 **斑犀鳥 pan-sai-tsiáu**
+◆ **斑犀鳥 pan-sai-tsiáu**
 
 參考特徵、日語、英語、[eBird 資料](https://ebird.org/species/orphor1)

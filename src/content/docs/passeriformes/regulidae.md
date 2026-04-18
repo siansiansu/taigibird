@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杉仔鳥
 
 **台語名**
 
-- 🎯 **杉仔鳥 sam-á-tsiáu**
+- ◆ **杉仔鳥 sam-á-tsiáu**
 - 戴菊 tè-kiok
 
 參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/goldcr1)
@@ -29,8 +29,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杉仔鳥
 
 **台語名**
 
-- 🎯 **火冠杉仔鳥 hué-kuan-sam-á-tsiáu**
-- 🎯 **火冠戴菊 hué-kuan-tè-kiok**
-- ✳️ 杉仔鳥 sam-á-tsiáu
+- ◆ **火冠杉仔鳥 hué-kuan-sam-á-tsiáu**
+- ◆ **火冠戴菊 hué-kuan-tè-kiok**
+- ✳ 杉仔鳥 sam-á-tsiáu
 
 參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/flamec1)

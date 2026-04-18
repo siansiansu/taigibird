@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "岩鷚"]
 
 **台語名**
 
-🎯 **岩鷚 gâm-liù**
+◆ **岩鷚 gâm-liù**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/alpacc1)
 
@@ -28,6 +28,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "岩鷚"]
 
 **台語名**
 
-🎯 **山岩鷚 suann-gān-liù**
+◆ **山岩鷚 suann-gān-liù**
 
 參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/sibacc)

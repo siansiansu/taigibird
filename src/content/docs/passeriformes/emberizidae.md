@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **聳毛鵐仔 tshàng-moo-bû-á**
+◆ **聳毛鵐仔 tshàng-moo-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/crebun1)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **烏頭鵐仔 oo-thâu-bû-á**
+◆ **烏頭鵐仔 oo-thâu-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/blhbun1)
 
@@ -42,7 +42,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **赤頭鵐仔 tshiah-thâu-bû-á**
+◆ **赤頭鵐仔 tshiah-thâu-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rehbun1)
 
@@ -56,7 +56,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **紅胸鵐 âng-hing-bû-á**
+◆ **紅胸鵐 âng-hing-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chebun2)
 
@@ -70,7 +70,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **草鵐仔 tsháu-bû-á**
+◆ **草鵐仔 tsháu-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/meabun1)
 
@@ -84,7 +84,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **白頂鵐仔 pe̍h-tíng-bû-á**
+◆ **白頂鵐仔 pe̍h-tíng-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chbbun1)
 
@@ -98,7 +98,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **白頭鵐仔 pe̍h-thâu-bû-á**
+◆ **白頭鵐仔 pe̍h-thâu-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/pinbun)
 
@@ -112,7 +112,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **圃鵐仔 phóo-bû-á**
+◆ **圃鵐仔 phóo-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/ortbun1)
 
@@ -126,7 +126,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **黃喉鵐仔 n̂g-âu-bû-á**
+◆ **黃喉鵐仔 n̂g-âu-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/yetbun1)
 
@@ -140,7 +140,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **紅頸蘆竹鵐仔 âng-kún-lôo-tik-bû-á**
+◆ **紅頸蘆竹鵐仔 âng-kún-lôo-tik-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/ocrbun1)
 
@@ -154,7 +154,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **帕拉斯蘆竹鵐仔 Pallas-lôo-tik-bû-á**
+◆ **帕拉斯蘆竹鵐仔 Pallas-lôo-tik-bû-á**
 
 參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/palbun)
 
@@ -168,7 +168,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **蘆竹鵐仔 lôo-tik-bû-á**
+◆ **蘆竹鵐仔 lôo-tik-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/reebun)
 
@@ -182,7 +182,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **金鵐仔 kim-bû-á**
+◆ **金鵐仔 kim-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/yebbun)
 
@@ -196,7 +196,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **小鵐 sió-bû-á**
+◆ **小鵐 sió-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/litbun)
 
@@ -210,7 +210,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **田鵐仔 tshân-bû-á**
+◆ **田鵐仔 tshân-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rusbun)
 
@@ -224,7 +224,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **野鵐仔 iá-bû-á**
+◆ **野鵐仔 iá-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/yelbun1)
 
@@ -238,7 +238,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **灰頭烏面鵐仔 hue-thâu-oo-bīn-bû-á**
+◆ **灰頭烏面鵐仔 hue-thâu-oo-bīn-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/bkfbun1)
 
@@ -252,7 +252,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **黃喉烏面鵐仔 n̂g-âu-oo-bīn-bû-á**
+◆ **黃喉烏面鵐仔 n̂g-âu-oo-bīn-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/bkfbun2)
 
@@ -266,7 +266,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **紅鉎鵐 âng-sian-bû-á**
+◆ **紅鉎鵐 âng-sian-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chebun1)
 
@@ -280,7 +280,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **黃眉鵐仔 n̂g-bâi-bû-á**
+◆ **黃眉鵐仔 n̂g-bâi-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/yebbun1)
 
@@ -294,7 +294,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **白眉鵐仔 pe̍h-bâi-bû-á**
+◆ **白眉鵐仔 pe̍h-bâi-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/tribun1)
 
@@ -308,7 +308,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **殕色鵐仔 phú-sik-bû-á**
+◆ **殕色鵐仔 phú-sik-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/grybun)
 
@@ -322,6 +322,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵐"]
 
 **台語名**
 
-🎯 **殕色頷頸鵐仔 phú-sik-ām-kún-bû-á**
+◆ **殕色頷頸鵐仔 phú-sik-ām-kún-bû-á**
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gyhbun1)

@@ -14,7 +14,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "百靈", 
 
 **台語名**
 
-🎯 **歐亞半天鳥 au-a-puànn-thinn-tsiáu**
+◆ **歐亞半天鳥 au-a-puànn-thinn-tsiáu**
 
 參考華語、英語、小雲雀台語、[eBird 資料](https://ebird.org/species/skylar)
 
@@ -28,7 +28,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "百靈", 
 
 **台語名**
 
-- 🎯 **半天鳥 puànn-thinn-tsiáu**
+- ◆ **半天鳥 puànn-thinn-tsiáu**
 - 叫天鳥 kiò-thinn-tsiáu
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/orisky1)
@@ -43,7 +43,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "百靈", 
 
 **台語名**
 
-**🎯 蒙古短爪百靈 bông-kóo-té-jiáu-pik-lîng**
+**◆ 蒙古短爪百靈 bông-kóo-té-jiáu-pik-lîng**
 
 參考英語、[eBird 資料](https://ebird.org/species/sstlar4)
 
@@ -57,7 +57,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "百靈", 
 
 **台語名**
 
-🎯 **蒙古百靈 bông-kóo-pik-lîng**
+◆ **蒙古百靈 bông-kóo-pik-lîng**
 
 參考英語、[eBird 資料](https://ebird.org/species/monlar1)
 
@@ -71,6 +71,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "百靈", 
 
 **台語名**
 
-🎯 **亞洲短爪百靈 a-tsiu-té-jiáu-pik-lîng**
+◆ **亞洲短爪百靈 a-tsiu-té-jiáu-pik-lîng**
 
 參考英語、[eBird 資料](https://ebird.org/species/lstlar2)
