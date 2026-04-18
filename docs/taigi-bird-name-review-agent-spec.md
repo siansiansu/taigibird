@@ -41,6 +41,8 @@ These principles are derived from `src/content/docs/index.mdx`.
 4. Taxonomic group names should also prefer native Taiwanese Taigi nomenclature.
 5. Romanization and Hanji should follow Ministry of Education usage when applicable.
 
+Because Taiwan bird naming has historical overlap with Japanese-era usage, the agent should also check whether a candidate form may reflect an older Japanese naming layer rather than assuming it is simply derived from modern Chinese.
+
 ## Evidence Hierarchy
 
 When evidence conflicts, prefer higher-ranked evidence unless there is a documented reason to override it.
@@ -51,6 +53,8 @@ When evidence conflicts, prefer higher-ranked evidence unless there is a documen
 4. Cross-language taxonomic references such as eBird, Chinese name lists, Japanese names, and English names
 5. Morphology-, color-, behavior-, or habitat-based descriptive reasoning
 6. Phonetic transliteration systems for personal or place names
+
+When no native Taigi folk name is available, Japanese naming and Japanese-derived transliteration history should generally be checked before treating a form as merely a Chinese-side normalization.
 
 ## Approved Reference Classes
 
@@ -125,6 +129,8 @@ This includes, at minimum:
 - other project-cited native-name compilations that have already been curated or adopted by the project
 
 The agent should not rely only on a local note such as "參考某來源". When native-name evidence is source-sensitive, it must consult the cited source directly if available.
+
+If a candidate looks like it may preserve a Japanese-era bird name or a Japanese-derived pronunciation layer, the agent should also check the Japanese bird name shown in the entry and related Japanese naming logic before labeling the form as a Chinese-style construction.
 
 Typical required-check cases:
 
@@ -262,6 +268,7 @@ In other words:
 - "not inherited as a folk name" does not automatically mean "bad"
 - some standardized species names are justified because they respect modern species classification
 - the real question is whether the standardized form is linguistically defensible and clearly better than leaving the species ambiguous
+- some names may also be justified because they preserve Japanese-era naming continuity rather than merely following modern Chinese wording
 
 ## Output Format
 

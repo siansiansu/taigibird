@@ -71,6 +71,8 @@ Suggested workflow:
 4. If no stable native form exists, compare Chinese, English, Japanese, morphology, and existing project naming patterns
 5. Produce one primary recommendation and, if needed, clearly separated alternates
 
+When the candidate may reflect Japanese-era naming continuity, check that path before reducing it to a Chinese-based explanation.
+
 Expected output shape:
 
 - `🎯` for the primary recommendation
@@ -184,11 +186,22 @@ This keeps diffs reviewable.
 
 When judging whether a name is genuinely native, attested, generic, or modernly constructed, prioritize the project-cited native-name sources and search them directly when needed.
 
+### Check Japanese Naming Continuity
+
+Because many Taiwan bird names passed through the Japanese era, a name that looks non-native is not automatically a modern Chinese-side construction.
+
+When relevant, the agent should check:
+
+- the Japanese bird name shown in the entry
+- whether the Taigi form may preserve a Japanese naming layer or Japanese-derived pronunciation
+- whether the candidate is better explained through Japanese continuity than through Chinese normalization
+
 ### Make Evidence Explicit
 
 Do not leave the naming basis implied. If a recommendation depends on an inference, say so.
 If a descriptive component comes from project-curated helper data in `src/data/`, say that it is using project-internal reference support rather than external attestation.
 If a name is being kept as a species-level classification name, say that explicitly rather than dismissing it as merely "Chinese-style" or "Sinicized".
+If a name is being kept because it preserves Japanese-era naming continuity, say that explicitly too.
 
 ### Preserve Reviewability
 
