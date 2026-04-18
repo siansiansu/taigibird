@@ -74,6 +74,7 @@ The agent should treat the following as core reference classes already endorsed 
 - `vendor/taigi-converter` as a technical reference for Tâi-lô / POJ conversion behavior, tone parsing, and orthographic normalization
 - `docs/dictionary-reference/` as a local reference corpus drawn from the taigikeyboard dictionary raw data
 - `src/data/` as project-curated structured helper data for colors, anatomy, appearance, ecology, person names, place names, and sound-based wording
+- eBird API metadata and eBird-provided species materials as supporting references for taxonomy and visible species traits when available
 
 ## Language Baseline
 
@@ -224,6 +225,7 @@ For every recommended name, ask these questions in order:
 7. Is the reasoning traceable from the note or cited references?
 8. Does the chosen recommendation create avoidable confusion with another nearby species in the same family or order?
 9. If the name is a compound or an expanded form, does the note explain how the components are built and why that structure was chosen?
+10. If the name is based on visible traits, does the note explain which species traits support that naming choice?
 
 ## Decision Rubric
 
@@ -298,6 +300,20 @@ If reviewing a whole file, also include:
 - If inferring from references, say that it is an inference.
 - Do not upgrade a plausible constructed form to a strong recommendation unless the evidence is explicit.
 - Do not use vague naming notes when the decision depends on component structure; explain the construction directly.
+- Prefer entries that include an actual naming explanation for each species, not just a list of references.
+
+## eBird Trait Support
+
+When a naming explanation depends on visible species traits or modern taxonomic distinction, the agent may use eBird API metadata and other eBird-provided species information as supporting evidence when available.
+
+This is especially useful for:
+
+- color-based names
+- body-part based names
+- sex-specific or plumage-specific names
+- names that distinguish close relatives by a diagnostic field mark
+
+eBird support should be treated as auxiliary evidence for species traits and taxonomy. It does not replace native-name evidence when the real question is whether a Taigi folk name already exists.
 
 ## Default Review Execution
 

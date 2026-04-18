@@ -82,6 +82,7 @@ Guidelines:
 ### `**命名理由**`
 
 This section is required. Do not leave the evidence implicit.
+As a project rule, every species entry should try to include a naming explanation, not just a bare source list.
 
 State briefly:
 
@@ -89,6 +90,7 @@ State briefly:
 - why this form is preferred over competing candidates
 - whether the form is supported by native-name sources, dictionary evidence, or cross-linguistic comparison
 - how the form is morphologically built when that structure matters to the naming decision
+- which visible or taxonomically relevant feature supports the name when the form is feature-based
 
 Suggested format:
 
@@ -99,6 +101,7 @@ Suggested format:
 - Selection reason: brief explanation of why `🎯` is preferred.
 - Distinction: explain how this avoids confusion with nearby species if relevant.
 - Component breakdown: explain how the name is built if it includes an added classification label or descriptive compound.
+- Feature basis: explain which trait, field mark, or species-level distinction supports the name when relevant.
 ```
 
 ### `**參考資料**`

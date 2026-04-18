@@ -45,6 +45,7 @@ Primary checks:
 - entry structure matches `docs/species-markdown-template.md`
 - `台語名` section clearly distinguishes `🎯`, `◯`, and `✳️`
 - `命名理由` is present and explicit
+- every species entry should try to include a naming explanation rather than only a source label
 - `參考資料` lists the sources actually used
 - `註解` exists when ambiguity or source sensitivity remains
 - Tâi-lô is internally consistent
@@ -80,6 +81,7 @@ Expected output shape:
 - `✳️` for generic labels
 
 Do not promote a weakly supported constructed name to `🎯` without an explicit rationale.
+When the final name depends on visible bird traits, explain those traits directly in the naming note.
 
 ### 3. Romanization / Language Check Mode
 
@@ -203,6 +205,7 @@ If a descriptive component comes from project-curated helper data in `src/data/`
 If a name is being kept as a species-level classification name, say that explicitly rather than dismissing it as merely "Chinese-style" or "Sinicized".
 If a name is being kept because it preserves Japanese-era naming continuity, say that explicitly too.
 If a form is morphologically built from a folk name plus an added classification label, explain that structure explicitly instead of using only broad summary wording.
+If a feature-based name depends on visible field marks, explain which field marks support it. eBird API metadata or other eBird species materials may be used as supporting references when available.
 
 ### Preserve Reviewability
 
