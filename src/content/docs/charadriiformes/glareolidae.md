@@ -1,12 +1,12 @@
 ---
 title: 草埔燕仔科 tsháu-poo-iàn-á-kho
-description: 草埔燕仔（tsháu-poo-iàn-á，華語：燕鴴）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄草埔燕仔科 tsháu-poo-iàn-á-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "草埔燕仔", "燕鴴"]
 ---
 
-草埔燕仔（tsháu-poo-iàn-á，華語：燕鴴）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄草埔燕仔科 tsháu-poo-iàn-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 燕鴴 ツバメチドリ Oriental Pratincole
+## 燕鴴 ツバメチドリ Oriental Pratincole [[eBird](https://ebird.org/species/oripra)]
 
 ![燕鴴 ツバメチドリ Oriental Pratincole](https://inaturalist-open-data.s3.amazonaws.com/photos/85972402/medium.jpeg)
 
@@ -14,6 +14,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "草埔燕
 
 **台語名**
 
-◆ **草埔燕仔 tsháu-poo-iàn-á**
+- ◆ **草埔燕仔 tsháu-poo-iàn-á**
 
-[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/oripra)
+**號名理路**
+
+- `草埔燕仔 tsháu-poo-iàn-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。

@@ -1,12 +1,12 @@
 ---
 title: 鶇仔科 tang-á-kho
-description: 鶇仔（tang-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄鶇仔科 tang-á-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 ---
 
-鶇仔（tang-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄鶇仔科 tang-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 白氏地鶇 トラツグミ White's Thrush
+## 白氏地鶇 トラツグミ White's Thrush [[eBird](https://ebird.org/species/scathr2)]
 
 ![白氏地鶇 トラツグミ White's Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/60311795/medium.jpg)
 
@@ -18,11 +18,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 - △ 花柿仔 hue-khī-á
 - △ 鶇仔 tang-á
 
-[《台灣野鳥鄉土名》](https://www.oocities.org/~smewmao/taiwan/twnname.html) 稱作花柿仔 hue-khī-á，但是目前揣無其他參考資料、華語、英語、[eBird 資料](https://ebird.org/species/scathr2)
+**號名理路**
+
+- `白氏鶇仔 pe̍h-sī-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 虎斑地鶇 ミナミトラツグミ Scaly Thrush
+## 虎斑地鶇 ミナミトラツグミ Scaly Thrush [[eBird](https://ebird.org/species/scathr8)]
 
 ![虎斑地鶇 ミナミトラツグミ Scaly Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/38397378/medium.jpg)
 
@@ -34,11 +38,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 - △ 花柿仔 hue-khī-á
 - △ 鶇仔 tang-á
 
-[《台灣野鳥鄉土名》](https://www.oocities.org/~smewmao/taiwan/twnname.html) 稱作花柿仔 hue-khī-á，但是目前揣無其他參考資料、華語、英語、[eBird 資料](https://ebird.org/species/scathr8/)
+**號名理路**
+
+- `虎皮鶇仔 hóo-phuê-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 白眉地鶇 マミジロ Siberian Thrush
+## 白眉地鶇 マミジロ Siberian Thrush [[eBird](https://ebird.org/species/sibthr1)]
 
 ![白眉地鶇 マミジロ Siberian Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/3847465/medium.jpg)
 
@@ -49,11 +57,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 - ◆ **白眉鶇仔 pe̍h-bâi-tang-á**
 - △ 鶇仔 tang-á
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sibthr1)
+**號名理路**
+
+- `白眉鶇仔 pe̍h-bâi-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 橙頭地鶇 オレンジジツグミ Orange-headed Thrush
+## 橙頭地鶇 オレンジジツグミ Orange-headed Thrush [[eBird](https://ebird.org/species/orhthr1)]
 
 ![橙頭地鶇 オレンジジツグミ Orange-headed Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/106096330/medium.jpg)
 
@@ -61,13 +73,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-◆ **柑仔頭鶇仔 kam-á-thâu-tang-á**
+- ◆ **柑仔頭鶇仔 kam-á-thâu-tang-á**
 
-參考英語、特徵、[eBird 資料](https://ebird.org/species/orhthr1)
+**號名理路**
+
+- `柑仔頭鶇仔 kam-á-thâu-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 寶興歌鶇 チベットウタツグミ Chinese Thrush
+## 寶興歌鶇 チベットウタツグミ Chinese Thrush [[eBird](https://ebird.org/species/chithr2)]
 
 ![寶興歌鶇 チベットウタツグミ Chinese Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/424401565/medium.jpg)
 
@@ -75,13 +90,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-◆ **中國鶇仔 tiong-kok-tang-á**
+- ◆ **中國鶇仔 tiong-kok-tang-á**
 
-參考英語、[eBird 資料](https://ebird.org/species/chithr2)
+**號名理路**
+
+- `中國鶇仔 tiong-kok-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 槲鶇 ヤドリギツグミ Mistle Thrush
+## 槲鶇 ヤドリギツグミ Mistle Thrush [[eBird](https://ebird.org/species/misthr1)]
 
 ![槲鶇 ヤドリギツグミ Mistle Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/461132142/medium.jpg)
 
@@ -89,13 +107,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-◆ **槲寄生鶇仔 hôo-kià-senn-tang-á**
+- ◆ **槲寄生鶇仔 hôo-kià-senn-tang-á**
 
-參考英語、[eBird 資料](https://ebird.org/species/misthr1)
+**號名理路**
+
+- `槲寄生鶇仔 hôo-kià-senn-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 中國黑鶇 クロウタドリ Chinese Blackbird
+## 中國黑鶇 クロウタドリ Chinese Blackbird [[eBird](https://ebird.org/species/chibla1)]
 
 ![中國黑鶇 クロウタドリ Chinese Blackbird](https://inaturalist-open-data.s3.amazonaws.com/photos/68305720/medium.jpg)
 
@@ -103,13 +124,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-◆ **中國烏鶇仔 tiong-kok-oo-tang-á**
+- ◆ **中國烏鶇仔 tiong-kok-oo-tang-á**
 
-參考英語、[eBird 資料](https://ebird.org/species/chibla1)
+**號名理路**
+
+- `中國烏鶇仔 tiong-kok-oo-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 白頭鶇 タイワンツグミ Taiwan Thrush
+## 白頭鶇 タイワンツグミ Taiwan Thrush [[eBird](https://ebird.org/species/islthr24)]
 
 ![白頭鶇 タイワンツグミ Taiwan Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/88811191/medium.jpg)
 
@@ -122,11 +146,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 - △ 白頭仔 pe̍h-thâu-á
 - △ 鶇仔 tang-á
 
-參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/islthr24)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 烏灰鶇 クロツグミ Japanese Thrush
+## 烏灰鶇 クロツグミ Japanese Thrush [[eBird](https://ebird.org/species/japthr1)]
 
 ![烏灰鶇 クロツグミ Japanese Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/366389332/medium.jpg)
 
@@ -137,11 +165,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 - ◆ **日本烏鶇仔 ji̍t-pún-oo-tang-á**
 - △ 鶇仔 tang-á
 
-參考日語、英語、[eBird 資料](https://ebird.org/species/japthr1)
+**號名理路**
+
+- `日本烏鶇仔 ji̍t-pún-oo-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 灰背鶇 カラアカハラ Gray-backed Thrush
+## 灰背鶇 カラアカハラ Gray-backed Thrush [[eBird](https://ebird.org/species/gybthr1)]
 
 ![灰背鶇 カラアカハラ Gray-backed Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/459838494/medium.jpg)
 
@@ -149,13 +181,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-◆ **殕背鶇仔 phú-puē-tang-á**
+- ◆ **殕背鶇仔 phú-puē-tang-á**
 
-參考英語、[eBird 資料](https://ebird.org/species/gybthr1)
+**號名理路**
+
+- `殕背鶇仔 phú-puē-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 白腹鶇 シロハラ Pale Thrush
+## 白腹鶇 シロハラ Pale Thrush [[eBird](https://ebird.org/species/palthr1)]
 
 ![白腹鶇 シロハラ Pale Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/20690/medium.jpg)
 
@@ -166,11 +201,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 - ◆ **白腹鶇仔 pe̍h-pak-tang-á**
 - △ 鶇仔 tang-á
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/palthr1)
+**號名理路**
+
+- `白腹鶇仔 pe̍h-pak-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 褐頭鶇 カキイロツグミ Gray-sided Thrush
+## 褐頭鶇 カキイロツグミ Gray-sided Thrush [[eBird](https://ebird.org/species/gysthr1)]
 
 ![褐頭鶇 カキイロツグミ Gray-sided Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/182169242/medium.jpg)
 
@@ -178,13 +217,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-◆ **赤頭鶇仔 tshiah-thâu-tang-á**
+- ◆ **赤頭鶇仔 tshiah-thâu-tang-á**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gysthr1)
+**號名理路**
+
+- `赤頭鶇仔 tshiah-thâu-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 白眉鶇 マミチャジナイ Eyebrowed Thrush
+## 白眉鶇 マミチャジナイ Eyebrowed Thrush [[eBird](https://ebird.org/species/eyethr)]
 
 ![白眉鶇 マミチャジナイ Eyebrowed Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/173473959/medium.jpg)
 
@@ -192,13 +234,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-◆ **白眉鶇仔 pe̍h-bâi-tang-á**
+- ◆ **白眉鶇仔 pe̍h-bâi-tang-á**
 
-參考特徵、[eBird 資料](https://ebird.org/species/eyethr)
+**號名理路**
+
+- `白眉鶇仔 pe̍h-bâi-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 赤腹鶇 アカハラ Brown-headed Thrush
+## 赤腹鶇 アカハラ Brown-headed Thrush [[eBird](https://ebird.org/species/brhthr1)]
 
 ![赤腹鶇 アカハラ Brown-headed Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/2740964/medium.jpg)
 
@@ -206,13 +251,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-◆ **紅腹鶇 âng-pak-tong**
+- ◆ **紅腹鶇 âng-pak-tong**
 
-參考特徵、[eBird 資料](https://ebird.org/species/brhthr1)
+**號名理路**
+
+- `紅腹鶇 âng-pak-tong` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 黑頸鶇 ノドグロツグミ Black-throated Thrush
+## 黑頸鶇 ノドグロツグミ Black-throated Thrush [[eBird](https://ebird.org/species/datthr1)]
 
 ![黑頸鶇 ノドグロツグミ Black-throated Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/454179349/medium.jpg)
 
@@ -220,13 +268,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-◆ **烏頸鶇仔 oo-kún-tang-á**
+- ◆ **烏頸鶇仔 oo-kún-tang-á**
 
-參考英語、特徵、[eBird 資料](https://ebird.org/species/datthr1)
+**號名理路**
+
+- `烏頸鶇仔 oo-kún-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 赤頸鶇 ノドアカツグミ Red-throated Thrush
+## 赤頸鶇 ノドアカツグミ Red-throated Thrush [[eBird](https://ebird.org/species/retthr1)]
 
 ![赤頸鶇 ノドアカツグミ Red-throated Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/453922882/medium.jpeg)
 
@@ -234,13 +285,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-◆ **赤頸鶇仔 oo-kún-tang-á**
+- ◆ **赤頸鶇仔 oo-kún-tang-á**
 
-參考英語、特徵、[eBird 資料](https://ebird.org/species/retthr1)
+**號名理路**
+
+- `赤頸鶇仔 oo-kún-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 斑點鶇 ツグミ Dusky Thrush
+## 斑點鶇 ツグミ Dusky Thrush [[eBird](https://ebird.org/species/dusthr2)]
 
 ![斑點鶇 ツグミ Dusky Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/13458116/medium.jpeg)
 
@@ -248,13 +302,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-◆ **斑點鶇仔 pan-tiám-tang-á**
+- ◆ **斑點鶇仔 pan-tiám-tang-á**
 
-參考特徵、[eBird 資料](https://ebird.org/species/dusthr2)
+**號名理路**
+
+- `斑點鶇仔 pan-tiám-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 紅尾鶇 ハチジョウツグミ Naumann's Thrush
+## 紅尾鶇 ハチジョウツグミ Naumann's Thrush [[eBird](https://ebird.org/species/dusthr1)]
 
 ![紅尾鶇 ハチジョウツグミ Naumann's Thrush](https://inaturalist-open-data.s3.amazonaws.com/photos/57172003/medium.jpeg)
 
@@ -262,6 +319,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **台語名**
 
-◆ **紅尾鶇仔 âng-bué-tang-á**
+- ◆ **紅尾鶇仔 âng-bué-tang-á**
 
-參考華語鳥類名錄、特徵、[eBird 資料](https://ebird.org/species/dusthr1)
+**號名理路**
+
+- `紅尾鶇仔 âng-bué-tang-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。

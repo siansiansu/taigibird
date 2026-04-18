@@ -1,12 +1,12 @@
 ---
 title: 紅鸛科 âng-kuàn-kho
-description: 紅鸛（âng-kuàn）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄紅鸛科 âng-kuàn-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "紅鸛"]
 ---
 
-紅鸛（âng-kuàn）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄紅鸛科 âng-kuàn-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 大紅鸛 ヨーロッパフラミンゴ Greater Flamingo
+## 大紅鸛 ヨーロッパフラミンゴ Greater Flamingo [[eBird](https://ebird.org/species/grefla3)]
 
 ![大紅鸛 ヨーロッパフラミンゴ Greater Flamingo](https://inaturalist-open-data.s3.amazonaws.com/photos/187242272/medium.jpg)
 
@@ -14,6 +14,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "紅鸛"]
 
 **台語名**
 
-◆ **大紅鸛 tuā-âng-ho̍h**
+- ◆ **大紅鸛 tuā-âng-ho̍h**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/grefla3)
+**號名理路**
+
+- `大紅鸛 tuā-âng-ho̍h` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。

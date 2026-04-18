@@ -1,12 +1,12 @@
 ---
 title: 信天翁科 sìn-thian-ang-kho
-description: 信天翁（sìn-thian-ang）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄信天翁科 sìn-thian-ang-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "信天翁"]
 ---
 
-信天翁（sìn-thian-ang）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄信天翁科 sìn-thian-ang-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 黑背信天翁 コアホウドリ Laysan Albatross
+## 黑背信天翁 コアホウドリ Laysan Albatross [[eBird](https://ebird.org/species/layalb)]
 
 ![黑背信天翁 コアホウドリ Laysan Albatross](https://inaturalist-open-data.s3.amazonaws.com/photos/12671058/medium.jpeg)
 
@@ -20,11 +20,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "信天翁
 - △ 信天翁 sìn-thian-ang
 - △ 海鵝 hái-gô
 
-參考華語鳥類名錄、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/layalb)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 黑腳信天翁 クロアシアホウドリ Black-footed Albatross
+## 黑腳信天翁 クロアシアホウドリ Black-footed Albatross [[eBird](https://ebird.org/species/bkfalb)]
 
 ![黑腳信天翁 クロアシアホウドリ Black-footed Albatross](https://inaturalist-open-data.s3.amazonaws.com/photos/4767337/medium.jpeg)
 
@@ -38,11 +42,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "信天翁
 - △ 信天翁 sìn-thian-ang
 - △ 海鵝 hái-gô
 
-參考華語鳥類名錄、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/bkfalb)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 短尾信天翁 アホウドリ Short-tailed Albatross
+## 短尾信天翁 アホウドリ Short-tailed Albatross [[eBird](https://ebird.org/species/shtalb)]
 
 ![短尾信天翁 アホウドリ Short-tailed Albatross](https://inaturalist-open-data.s3.amazonaws.com/photos/186779763/medium.jpg)
 
@@ -56,4 +64,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "信天翁
 - △ 信天翁 sìn-thian-ang
 - △ 海鵝 hái-gô
 
-參考華語鳥類名錄、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/shtalb)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。

@@ -1,12 +1,12 @@
 ---
 title: 蘆荻仔鳥科 lôo-tik-á-tsiáu-kho
-description: 蘆荻仔鳥（lôo-tik-á-tsiáu，華語：葦鶯）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄蘆荻仔鳥科 lôo-tik-á-tsiáu-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔鳥", "葦鶯"]
 ---
 
-蘆荻仔鳥（lôo-tik-á-tsiáu，華語：葦鶯）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄蘆荻仔鳥科 lôo-tik-á-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 厚嘴葦鶯 ハシブトオオヨシキリ Thick-billed Warbler
+## 厚嘴葦鶯 ハシブトオオヨシキリ Thick-billed Warbler [[eBird](https://ebird.org/species/thbwar1)]
 
 ![厚嘴葦鶯 ハシブトオオヨシキリ Thick-billed Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/103338390/medium.jpg)
 
@@ -14,13 +14,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-◆ **厚喙蘆荻仔 kāu-tshuì-lôo-tik-á**
+- ◆ **厚喙蘆荻仔 kāu-tshuì-lôo-tik-á**
 
-參考蘆荻仔鳥 lôo-tik-á-tsiáu + 英語、[eBird 資料](https://ebird.org/species/thbwar1)
+**號名理路**
+
+- `厚喙蘆荻仔 kāu-tshuì-lôo-tik-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 靴籬鶯 ヒメウタイムシクイ Booted Warbler
+## 靴籬鶯 ヒメウタイムシクイ Booted Warbler [[eBird](https://ebird.org/species/boowar1)]
 
 ![靴籬鶯 ヒメウタイムシクイ Booted Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/90118879/medium.jpg)
 
@@ -28,13 +31,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-◆ **靴管鶯 hia-kóng-ing**
+- ◆ **靴管鶯 hia-kóng-ing**
 
-參考英語、[eBird 資料](https://ebird.org/species/boowar1)
+**號名理路**
+
+- `靴管鶯 hia-kóng-ing` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 雙眉葦鶯 コヨシキリ Black-browed Reed Warbler
+## 雙眉葦鶯 コヨシキリ Black-browed Reed Warbler [[eBird](https://ebird.org/species/bbrwar1)]
 
 ![雙眉葦鶯 コヨシキリ Black-browed Reed Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/2742851/medium.jpg)
 
@@ -42,13 +48,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-◆ **雙眉蘆荻仔 siang-bâi-lôo-tik-á**
+- ◆ **雙眉蘆荻仔 siang-bâi-lôo-tik-á**
 
-參考蘆荻仔鳥 lôo-tik-á-tsiáu + 特徵、[eBird 資料](https://ebird.org/species/bbrwar1)
+**號名理路**
+
+- `雙眉蘆荻仔 siang-bâi-lôo-tik-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 細紋葦鶯 セスジコヨシキリ Streaked Reed Warbler
+## 細紋葦鶯 セスジコヨシキリ Streaked Reed Warbler [[eBird](https://ebird.org/species/strwar1)]
 
 ![細紋葦鶯 セスジコヨシキリ Streaked Reed Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/250146/medium.jpg)
 
@@ -56,13 +65,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-◆ **細紋蘆荻仔 suè-bûn-lôo-tik-á**
+- ◆ **細紋蘆荻仔 suè-bûn-lôo-tik-á**
 
-參考蘆荻仔鳥 lôo-tik-á-tsiáu + 特徵、[eBird 資料](https://ebird.org/species/strwar1)
+**號名理路**
+
+- `細紋蘆荻仔 suè-bûn-lôo-tik-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 稻田葦鶯 イナダヨシキリ Paddyfield Warbler
+## 稻田葦鶯 イナダヨシキリ Paddyfield Warbler [[eBird](https://ebird.org/species/padwar1)]
 
 ![稻田葦鶯 イナダヨシキリ Paddyfield Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/130475682/medium.jpg)
 
@@ -70,13 +82,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-◆ **田蘆荻仔 tshân-lôo-tik-á**
+- ◆ **田蘆荻仔 tshân-lôo-tik-á**
 
-參考蘆荻仔鳥 lôo-tik-á-tsiáu + 英語、[eBird 資料](https://ebird.org/species/padwar1)
+**號名理路**
+
+- `田蘆荻仔 tshân-lôo-tik-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 鈍翅葦鶯 コバネヨシキリ Blunt-winged Warbler
+## 鈍翅葦鶯 コバネヨシキリ Blunt-winged Warbler [[eBird](https://ebird.org/species/blwwar1)]
 
 ![鈍翅葦鶯 コバネヨシキリ Blunt-winged Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/116598968/medium.jpg)
 
@@ -84,13 +99,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-◆ **鈍翅蘆荻仔鳥 tùn-tshì-lôo-tik-á**
+- ◆ **鈍翅蘆荻仔鳥 tùn-tshì-lôo-tik-á**
 
-參考蘆荻仔鳥 lôo-tik-á-tsiáu + 英語、[eBird 資料](https://ebird.org/species/blwwar1)
+**號名理路**
+
+- `鈍翅蘆荻仔鳥 tùn-tshì-lôo-tik-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 遠東葦鶯 マンシュウイナダヨシキリ Manchurian Reed Warbler
+## 遠東葦鶯 マンシュウイナダヨシキリ Manchurian Reed Warbler [[eBird](https://ebird.org/species/manrew1)]
 
 ![遠東葦鶯 マンシュウイナダヨシキリ Manchurian Reed Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/133528335/medium.jpg)
 
@@ -98,13 +116,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-◆ **遠東蘆荻仔鳥 uán-tong-lôo-tik-á**
+- ◆ **遠東蘆荻仔鳥 uán-tong-lôo-tik-á**
 
-參考蘆荻仔鳥 lôo-tik-á-tsiáu + 華語、[eBird 資料](https://ebird.org/species/manrew1)
+**號名理路**
+
+- `遠東蘆荻仔鳥 uán-tong-lôo-tik-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 布氏葦鶯 ヤブヨシキリ Blyth's Reed Warbler
+## 布氏葦鶯 ヤブヨシキリ Blyth's Reed Warbler [[eBird](https://ebird.org/species/blrwar1)]
 
 ![布氏葦鶯 ヤブヨシキリ Blyth's Reed Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/79630739/medium.jpeg)
 
@@ -112,13 +133,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 
 **台語名**
 
-◆ **布萊氏蘆荻仔 pòo-lâi-sī-lôo-tik-á**
+- ◆ **布萊氏蘆荻仔 pòo-lâi-sī-lôo-tik-á**
 
-參考蘆荻仔鳥 lôo-tik-á-tsiáu + 英語、[eBird 資料](https://ebird.org/species/blrwar1)
+**號名理路**
+
+- `布萊氏蘆荻仔 pòo-lâi-sī-lôo-tik-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 東方大葦鶯 オオヨシキリ Oriental Reed Warbler
+## 東方大葦鶯 オオヨシキリ Oriental Reed Warbler [[eBird](https://ebird.org/species/orrwar1)]
 
 ![東方大葦鶯 オオヨシキリ Oriental Reed Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/12577895/medium.jpeg)
 
@@ -130,4 +154,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蘆荻仔
 - ◆ **蘆荻仔鳥 lôo-tik-á-tsiáu**
 - ◆ **東方荻仔鳥 tang-hong-lôo-tik-á-tsiáu**
 
-參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、頭前加上東方 tang-hong 區分、[eBird 資料](https://ebird.org/species/orrwar1)
+**號名理路**
+
+- 這條目前保留 3 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。

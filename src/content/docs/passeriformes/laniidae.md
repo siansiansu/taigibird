@@ -1,12 +1,12 @@
 ---
 title: 伯勞科 pik-lô-kho
-description: 伯勞（pik-lô）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄伯勞科 pik-lô-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 ---
 
-伯勞（pik-lô）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄伯勞科 pik-lô-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 虎紋伯勞 チゴモズ Tiger Shrike
+## 虎紋伯勞 チゴモズ Tiger Shrike [[eBird](https://ebird.org/species/tigshr1)]
 
 ![虎紋伯勞 チゴモズ Tiger Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/2741359/medium.jpg)
 
@@ -17,11 +17,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 - ◆ **虎紋伯勞 hóo-bûn-pik-lô**
 - △ 伯勞仔 pik-lô-á
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/tigshr1)
+**號名理路**
+
+- `虎紋伯勞 hóo-bûn-pik-lô` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 紅頭伯勞 モズ Bull-headed Shrike
+## 紅頭伯勞 モズ Bull-headed Shrike [[eBird](https://ebird.org/species/buhshr1)]
 
 ![紅頭伯勞 モズ Bull-headed Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/12428902/medium.jpg)
 
@@ -32,11 +36,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 - ◆ **紅頭伯勞 âng-thâu-pik-lô**
 - △ 伯勞仔 pik-lô-á
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/buhshr1)
+**號名理路**
+
+- `紅頭伯勞 âng-thâu-pik-lô` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 紅背伯勞 セアカモズ Red-backed Shrike
+## 紅背伯勞 セアカモズ Red-backed Shrike [[eBird](https://ebird.org/species/rebshr1)]
 
 ![紅背伯勞 セアカモズ Red-backed Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/13160268/medium.jpg)
 
@@ -47,11 +55,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 - ◆ **紅背伯勞 âng-puè-pik-lô**
 - △ 伯勞仔 pik-lô-á
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rebshr1)
+**號名理路**
+
+- `紅背伯勞 âng-puè-pik-lô` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 荒漠伯勞 モウコアカモズ Isabelline Shrike
+## 荒漠伯勞 モウコアカモズ Isabelline Shrike [[eBird](https://ebird.org/species/isashr1)]
 
 ![荒漠伯勞 モウコアカモズ Isabelline Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/459956441/medium.jpg)
 
@@ -63,11 +75,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 - ◆ **沙漠伯勞 sua-bo̍k-pik-lô**
 - △ 伯勞仔 pik-lô-á
 
-參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/isashr1)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 紅尾伯勞 アカモズ Brown Shrike
+## 紅尾伯勞 アカモズ Brown Shrike [[eBird](https://ebird.org/species/brnshr)]
 
 ![紅尾伯勞 アカモズ Brown Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/209577632/medium.jpeg)
 
@@ -79,11 +95,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 - ◆ **赤色伯勞 tshiah-sik-pik-lô**
 - △ 伯勞仔 pik-lô-á
 
-參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/brnshr)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 栗背伯勞 ハイガシラモズ Burmese Shrike
+## 栗背伯勞 ハイガシラモズ Burmese Shrike [[eBird](https://ebird.org/species/burshr1)]
 
 ![栗背伯勞 ハイガシラモズ Burmese Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/448840434/medium.jpg)
 
@@ -95,11 +115,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 - ◆ **殕色頭伯勞 phú-sik-thâu-pik-lô**
 - △ 伯勞仔 pik-lô-á
 
-參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/burshr1)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 棕背伯勞 タカサゴモズ Long-tailed Shrike
+## 棕背伯勞 タカサゴモズ Long-tailed Shrike [[eBird](https://ebird.org/species/lotshr1)]
 
 ![棕背伯勞 タカサゴモズ Long-tailed Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/60942640/medium.jpg)
 
@@ -108,14 +132,19 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 **台語名**
 
 - ◆ **長尾伯勞 tn̂g-bué-pik-lô**
-- 棕背伯勞 tsang-puē-pik-lô
+- ◇ 棕背伯勞 tsang-puē-pik-lô
 - △ 伯勞仔 pik-lô-á
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lotshr1)
+**號名理路**
+
+- `長尾伯勞 tn̂g-bué-pik-lô` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 其他 `◇` 形式先留做別名、異名抑是保留稱呼，後續若有較強證據才閣調整主次。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 灰背伯勞 チベットモズ Gray-backed Shrike
+## 灰背伯勞 チベットモズ Gray-backed Shrike [[eBird](https://ebird.org/species/gybshr1)]
 
 ![灰背伯勞 チベットモズ Gray-backed Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/457844807/medium.jpeg)
 
@@ -126,11 +155,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 - ◆ **殕色背伯勞 phú-sik-puē-pik-lô**
 - △ 伯勞仔 pik-lô-á
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gybshr1)
+**號名理路**
+
+- `殕色背伯勞 phú-sik-puē-pik-lô` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 西方灰伯勞 ヨーロッパオオモズ Great Gray Shrike
+## 西方灰伯勞 ヨーロッパオオモズ Great Gray Shrike [[eBird](https://ebird.org/species/norshr1)]
 
 ![西方灰伯勞 ヨーロッパオオモズ Great Gray Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/459263045/medium.jpeg)
 
@@ -142,11 +175,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 - ◆ **大殕色伯勞 tuā-phú-sik-pik-lô**
 - △ 伯勞仔 pik-lô-á
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/norshr1)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 楔尾伯勞 オオカラモズ Chinese Gray Shrike
+## 楔尾伯勞 オオカラモズ Chinese Gray Shrike [[eBird](https://ebird.org/species/chgshr1)]
 
 ![楔尾伯勞 オオカラモズ Chinese Gray Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/27959717/medium.jpeg)
 
@@ -158,4 +195,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 - ◆ **中國殕色伯勞 tiong-kok-phú-sik-pik-lô**
 - △ 伯勞仔 pik-lô-á
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chgshr1)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。

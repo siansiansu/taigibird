@@ -1,12 +1,12 @@
 ---
 title: 軍艦鳥科 kun-lām-tsiáu-kho
-description: 軍艦鳥（kun-lām-tsiáu）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄軍艦鳥科 kun-lām-tsiáu-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "軍艦鳥"]
 ---
 
-軍艦鳥（kun-lām-tsiáu）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄軍艦鳥科 kun-lām-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 白斑軍艦鳥 コグンカンドリ Lesser Frigatebird
+## 白斑軍艦鳥 コグンカンドリ Lesser Frigatebird [[eBird](https://ebird.org/species/lesfri)]
 
 ![白斑軍艦鳥 コグンカンドリ Lesser Frigatebird](https://inaturalist-open-data.s3.amazonaws.com/photos/258323439/medium.jpg)
 
@@ -17,11 +17,14 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "軍艦鳥
 - ◆ **白斑軍艦鳥 pe̍h-pan-kun-lām-tsiáu**
 - ◆ **小軍艦鳥 sió-kun-lām-tsiáu**
 
-參考英語、1973 Embree台英辭典、華語鳥類名錄、[eBird 資料](https://ebird.org/species/lesfri)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 軍艦鳥 オオグンカンドリ Great Frigatebird
+## 軍艦鳥 オオグンカンドリ Great Frigatebird [[eBird](https://ebird.org/species/grefri)]
 
 ![軍艦鳥 オオグンカンドリ Great Frigatebird](https://inaturalist-open-data.s3.amazonaws.com/photos/111687382/medium.jpg)
 
@@ -32,11 +35,14 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "軍艦鳥
 - ◆ **軍艦鳥 kun-lām-tsiáu**
 - ◆ **大軍艦鳥 tuā-kun-lām-tsiáu**
 
-參考英語、1973 Embree台英辭典、華語鳥類名錄、[eBird 資料](https://ebird.org/species/grefri)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 聖誕島軍艦鳥 シロハラグンカンドリ Christmas Island Frigatebird
+## 聖誕島軍艦鳥 シロハラグンカンドリ Christmas Island Frigatebird [[eBird](https://ebird.org/species/chifri1)]
 
 ![聖誕島軍艦鳥 シロハラグンカンドリ Christmas Island Frigatebird](https://inaturalist-open-data.s3.amazonaws.com/photos/429660920/medium.jpeg)
 
@@ -44,6 +50,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "軍艦鳥
 
 **台語名**
 
-◆ **聖誕島軍艦鳥 sìng-tàn-tó-kun-lām-tsiáu**
+- ◆ **聖誕島軍艦鳥 sìng-tàn-tó-kun-lām-tsiáu**
 
-參考英語、1973 Embree台英辭典、華語鳥類名錄、[eBird 資料](https://ebird.org/species/chifri1)
+**號名理路**
+
+- `聖誕島軍艦鳥 sìng-tàn-tó-kun-lām-tsiáu` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。

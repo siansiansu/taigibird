@@ -1,12 +1,12 @@
 ---
 title: 連雀科 liân-tshiok-kho
-description: 連雀科（liân-tshiok-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄連雀科 liân-tshiok-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "連雀"]
 ---
 
-連雀科（liân-tshiok-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄連雀科 liân-tshiok-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 朱連雀 ヒレンジャク Japanese Waxwing
+## 朱連雀 ヒレンジャク Japanese Waxwing [[eBird](https://ebird.org/species/japwax1)]
 
 ![朱連雀 ヒレンジャク Japanese Waxwing](https://static.inaturalist.org/photos/363330481/medium.jpeg)
 
@@ -14,13 +14,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "連雀"]
 
 **台語名**
 
-◆ **紅連雀 âng-liân-tshiok**
+- ◆ **紅連雀 âng-liân-tshiok**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/japwax1)
+**號名理路**
+
+- `紅連雀 âng-liân-tshiok` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 黃連雀 キレンジャク Bohemian Waxwing
+## 黃連雀 キレンジャク Bohemian Waxwing [[eBird](https://ebird.org/species/bohwax)]
 
 ![黃連雀 キレンジャク Bohemian Waxwing](https://inaturalist-open-data.s3.amazonaws.com/photos/59611753/medium.jpeg)
 
@@ -28,6 +31,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "連雀"]
 
 **台語名**
 
-◆ **黃連雀 n̂g-liân-tshiok**
+- ◆ **黃連雀 n̂g-liân-tshiok**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/bohwax)
+**號名理路**
+
+- `黃連雀 n̂g-liân-tshiok` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。

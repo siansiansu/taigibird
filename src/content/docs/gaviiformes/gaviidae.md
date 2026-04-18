@@ -1,12 +1,12 @@
 ---
 title: 藏水鳥科 tshàng-tsuí-tsiáu-kho
-description: 藏水鳥（tshàng-tsuí-tsiáu，華語：潛鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄藏水鳥科 tshàng-tsuí-tsiáu-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 ---
 
-藏水鳥（tshàng-tsuí-tsiáu，華語：潛鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄藏水鳥科 tshàng-tsuí-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 紅喉潛鳥 アビ Red-throated Loon
+## 紅喉潛鳥 アビ Red-throated Loon [[eBird](https://ebird.org/species/retloo)]
 
 ![紅喉潛鳥 アビ Red-throated Loon](https://inaturalist-open-data.s3.amazonaws.com/photos/11359986/medium.jpeg)
 
@@ -14,13 +14,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 
 **台語名**
 
-◆ **紅喉藏水鳥 âng-âu-tshàng-tsuí-tsiáu**
+- ◆ **紅喉藏水鳥 âng-âu-tshàng-tsuí-tsiáu**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/retloo)
+**號名理路**
+
+- `紅喉藏水鳥 âng-âu-tshàng-tsuí-tsiáu` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 黑喉潛鳥 オオハム Arctic Loon
+## 黑喉潛鳥 オオハム Arctic Loon [[eBird](https://ebird.org/species/arcloo)]
 
 ![黑喉潛鳥 オオハム Arctic Loon](https://inaturalist-open-data.s3.amazonaws.com/photos/215165039/medium.jpeg)
 
@@ -28,13 +31,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 
 **台語名**
 
-◆ **烏喉藏水鳥 oo-âu-tshàng-tsuí-tsiáu**
+- ◆ **烏喉藏水鳥 oo-âu-tshàng-tsuí-tsiáu**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/arcloo)
+**號名理路**
+
+- `烏喉藏水鳥 oo-âu-tshàng-tsuí-tsiáu` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 太平洋潛鳥 シロエリオオハム Pacific Loon
+## 太平洋潛鳥 シロエリオオハム Pacific Loon [[eBird](https://ebird.org/species/pacloo)]
 
 ![太平洋潛鳥 シロエリオオハム Pacific Loon](https://inaturalist-open-data.s3.amazonaws.com/photos/49759011/medium.jpg)
 
@@ -42,13 +48,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 
 **台語名**
 
-◆ **太平洋藏水鳥 thài-pîng-iûnn-tshàng-tsuí-tsiáu**
+- ◆ **太平洋藏水鳥 thài-pîng-iûnn-tshàng-tsuí-tsiáu**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/pacloo)
+**號名理路**
+
+- `太平洋藏水鳥 thài-pîng-iûnn-tshàng-tsuí-tsiáu` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 白嘴潛鳥 ハシジロアビ Yellow-billed Loon
+## 白嘴潛鳥 ハシジロアビ Yellow-billed Loon [[eBird](https://ebird.org/species/yebloo)]
 
 ![白嘴潛鳥 ハシジロアビ Yellow-billed Loon](https://inaturalist-open-data.s3.amazonaws.com/photos/99941538/medium.jpeg)
 
@@ -56,6 +65,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 
 **台語名**
 
-◆ **白喙藏水鳥 pe̍h-tshuì-tshàng-tsuí-tsiáu**
+- ◆ **白喙藏水鳥 pe̍h-tshuì-tshàng-tsuí-tsiáu**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/yebloo)
+**號名理路**
+
+- `白喙藏水鳥 pe̍h-tshuì-tshàng-tsuí-tsiáu` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。

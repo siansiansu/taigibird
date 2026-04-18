@@ -1,12 +1,12 @@
 ---
 title: 牛屎鳥科 gû-sái-tsiáu-kho
-description: 牛屎鳥科（gû-sái-tsiáu-kho，華語：鶺鴒）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄牛屎鳥科 gû-sái-tsiáu-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥", "鶺鴒"]
 ---
 
-牛屎鳥科（gû-sái-tsiáu-kho，華語：鶺鴒）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄牛屎鳥科 gû-sái-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 山鶺鴒 イワミセキレイ Forest Wagtail
+## 山鶺鴒 イワミセキレイ Forest Wagtail [[eBird](https://ebird.org/species/forwag1)]
 
 ![山鶺鴒 イワミセキレイ Forest Wagtail](https://inaturalist-open-data.s3.amazonaws.com/photos/297755310/medium.jpg)
 
@@ -14,13 +14,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **山牛屎鳥 suann-gû-sái-tsiáu**
+- ◆ **山牛屎鳥 suann-gû-sái-tsiáu**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/forwag1)
+**號名理路**
+
+- `山牛屎鳥 suann-gû-sái-tsiáu` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 灰鶺鴒 キセキレイ Gray Wagtail
+## 灰鶺鴒 キセキレイ Gray Wagtail [[eBird](https://ebird.org/species/grywag)]
 
 ![灰鶺鴒 キセキレイ Gray Wagtail](https://inaturalist-open-data.s3.amazonaws.com/photos/849468/medium.jpg)
 
@@ -28,13 +31,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **殕色牛屎鳥 phú-sik-gû-sái-tsiáu**
+- ◆ **殕色牛屎鳥 phú-sik-gû-sái-tsiáu**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/grywag)
+**號名理路**
+
+- `殕色牛屎鳥 phú-sik-gû-sái-tsiáu` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 西方黃鶺鴒 ニシツメナガセキレイ Western Yellow Wagtail
+## 西方黃鶺鴒 ニシツメナガセキレイ Western Yellow Wagtail [[eBird](https://ebird.org/species/eaywag1)]
 
 ![西方黃鶺鴒 ニシツメナガセキレイ Western Yellow Wagtail](https://inaturalist-open-data.s3.amazonaws.com/photos/275920424/medium.jpeg)
 
@@ -42,13 +48,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **西方黃牛屎鳥 se-hong-n̂g-gû-sái-tsiáu**
+- ◆ **西方黃牛屎鳥 se-hong-n̂g-gû-sái-tsiáu**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eaywag1)
+**號名理路**
+
+- `西方黃牛屎鳥 se-hong-n̂g-gû-sái-tsiáu` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 東方黃鶺鴒 ツメナガセキレイ Eastern Yellow Wagtail
+## 東方黃鶺鴒 ツメナガセキレイ Eastern Yellow Wagtail [[eBird](https://ebird.org/species/eaywag)]
 
 ![東方黃鶺鴒 ツメナガセキレイ Eastern Yellow Wagtail](https://inaturalist-open-data.s3.amazonaws.com/photos/30334980/medium.jpg)
 
@@ -56,13 +65,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **東方黃牛屎鳥 tong-hong-n̂g-gû-sái-tsiáu**
+- ◆ **東方黃牛屎鳥 tong-hong-n̂g-gû-sái-tsiáu**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eaywag)
+**號名理路**
+
+- `東方黃牛屎鳥 tong-hong-n̂g-gû-sái-tsiáu` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 黃頭鶺鴒 キガシラセキレイ Citrine Wagtail
+## 黃頭鶺鴒 キガシラセキレイ Citrine Wagtail [[eBird](https://ebird.org/species/citwag)]
 
 ![黃頭鶺鴒 キガシラセキレイ Citrine Wagtail](https://inaturalist-open-data.s3.amazonaws.com/photos/133584329/medium.jpeg)
 
@@ -70,13 +82,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **黃頭牛屎鳥 n̂g-thâu-gû-sái-tsiáu**
+- ◆ **黃頭牛屎鳥 n̂g-thâu-gû-sái-tsiáu**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/citwag)
+**號名理路**
+
+- `黃頭牛屎鳥 n̂g-thâu-gû-sái-tsiáu` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 日本鶺鴒 セグロセキレイ Japanese Wagtail
+## 日本鶺鴒 セグロセキレイ Japanese Wagtail [[eBird](https://ebird.org/species/japwag1)]
 
 ![日本鶺鴒 セグロセキレイ Japanese Wagtail](https://inaturalist-open-data.s3.amazonaws.com/photos/2674294/medium.jpg)
 
@@ -84,13 +99,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **日本牛屎鳥 ji̍t-pún-gû-sái-tsiáu**
+- ◆ **日本牛屎鳥 ji̍t-pún-gû-sái-tsiáu**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/japwag1)
+**號名理路**
+
+- `日本牛屎鳥 ji̍t-pún-gû-sái-tsiáu` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 白鶺鴒 ハクセキレイ White Wagtail
+## 白鶺鴒 ハクセキレイ White Wagtail [[eBird](https://ebird.org/species/whiwag)]
 
 ![白鶺鴒 ハクセキレイ White Wagtail](https://inaturalist-open-data.s3.amazonaws.com/photos/3330790/medium.jpg)
 
@@ -98,13 +116,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **白牛屎鳥仔 pe̍h-gû-sái-tsiáu-á**
+- ◆ **白牛屎鳥仔 pe̍h-gû-sái-tsiáu-á**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/whiwag)
+**號名理路**
+
+- `白牛屎鳥仔 pe̍h-gû-sái-tsiáu-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 大花鷚 マミジロタヒバリ Richard's Pipit
+## 大花鷚 マミジロタヒバリ Richard's Pipit [[eBird](https://ebird.org/species/ricpip1)]
 
 ![大花鷚 マミジロタヒバリ Richard's Pipit](https://inaturalist-open-data.s3.amazonaws.com/photos/2678325/medium.jpg)
 
@@ -112,13 +133,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **大花鷚 tuā-hue-liù**
+- ◆ **大花鷚 tuā-hue-liù**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/ricpip1)
+**號名理路**
+
+- `大花鷚 tuā-hue-liù` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 稻田鷚 ヒメマミジロタヒバリ Paddyfield Pipit
+## 稻田鷚 ヒメマミジロタヒバリ Paddyfield Pipit [[eBird](https://ebird.org/species/oripip1)]
 
 ![稻田鷚 ヒメマミジロタヒバリ Paddyfield Pipit](https://inaturalist-open-data.s3.amazonaws.com/photos/461374511/medium.jpeg)
 
@@ -126,13 +150,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **田鷚仔 tshân-liù-á**
+- ◆ **田鷚仔 tshân-liù-á**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/oripip1)
+**號名理路**
+
+- `田鷚仔 tshân-liù-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 布萊氏鷚 コマミジロタヒバリ Blyth's Pipit
+## 布萊氏鷚 コマミジロタヒバリ Blyth's Pipit [[eBird](https://ebird.org/species/blypip1)]
 
 ![布萊氏鷚 コマミジロタヒバリ Blyth's Pipit](https://inaturalist-open-data.s3.amazonaws.com/photos/63474295/medium.jpg)
 
@@ -140,13 +167,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **布萊氏鷚仔 Blyth's liù-á**
+- ◆ **布萊氏鷚仔 Blyth's liù-á**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/blypip1)
+**號名理路**
+
+- `布萊氏鷚仔 Blyth's liù-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 草地鷚 マキバタヒバリ Meadow Pipit
+## 草地鷚 マキバタヒバリ Meadow Pipit [[eBird](https://ebird.org/species/meapip1)]
 
 ![草地鷚 マキバタヒバリ Meadow Pipit](https://inaturalist-open-data.s3.amazonaws.com/photos/187679983/medium.jpg)
 
@@ -154,13 +184,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **草埔鷚 tsháu-poo-liù-á**
+- ◆ **草埔鷚 tsháu-poo-liù-á**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/meapip1)
+**號名理路**
+
+- `草埔鷚 tsháu-poo-liù-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 粉紅胸鷚 ウスベニタヒバリ Rosy Pipit
+## 粉紅胸鷚 ウスベニタヒバリ Rosy Pipit [[eBird](https://ebird.org/species/rospip1)]
 
 ![粉紅胸鷚 ウスベニタヒバリ Rosy Pipit](https://inaturalist-open-data.s3.amazonaws.com/photos/370528644/medium.jpeg)
 
@@ -168,13 +201,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **粉紅胸鷚仔 hún-âng-hing-liù-á**
+- ◆ **粉紅胸鷚仔 hún-âng-hing-liù-á**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rospip1)
+**號名理路**
+
+- `粉紅胸鷚仔 hún-âng-hing-liù-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 林鷚 ヨーロッパビンズイ Tree Pipit
+## 林鷚 ヨーロッパビンズイ Tree Pipit [[eBird](https://ebird.org/species/trepip)]
 
 ![林鷚 ヨーロッパビンズイ Tree Pipit](https://inaturalist-open-data.s3.amazonaws.com/photos/329702724/medium.jpg)
 
@@ -182,13 +218,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **林鷚仔 lîm-liù-á**
+- ◆ **林鷚仔 lîm-liù-á**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/trepip)
+**號名理路**
+
+- `林鷚仔 lîm-liù-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 樹鷚 ビンズイ Olive-backed Pipit
+## 樹鷚 ビンズイ Olive-backed Pipit [[eBird](https://ebird.org/species/olbpip)]
 
 ![樹鷚 ビンズイ Olive-backed Pipit](https://inaturalist-open-data.s3.amazonaws.com/photos/366802056/medium.jpeg)
 
@@ -196,13 +235,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **樹鷚仔 tshiū-liù-á**
+- ◆ **樹鷚仔 tshiū-liù-á**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/olbpip)
+**號名理路**
+
+- `樹鷚仔 tshiū-liù-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 白背鷚 セジロタヒバリ Pechora Pipit
+## 白背鷚 セジロタヒバリ Pechora Pipit [[eBird](https://ebird.org/species/pecpip)]
 
 ![白背鷚 セジロタヒバリ Pechora Pipit](https://inaturalist-open-data.s3.amazonaws.com/photos/2724687/medium.jpg)
 
@@ -210,13 +252,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **白背鷚仔 pe̍h-puē-liù-á**
+- ◆ **白背鷚仔 pe̍h-puē-liù-á**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/pecpip)
+**號名理路**
+
+- `白背鷚仔 pe̍h-puē-liù-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 赤喉鷚 ムネアカタヒバリ Red-throated Pipit
+## 赤喉鷚 ムネアカタヒバリ Red-throated Pipit [[eBird](https://ebird.org/species/retpip)]
 
 ![赤喉鷚 ムネアカタヒバリ Red-throated Pipit](https://inaturalist-open-data.s3.amazonaws.com/photos/239814/medium.jpg)
 
@@ -224,13 +269,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **紅喉鷚仔 âng-âu-liû-á**
+- ◆ **紅喉鷚仔 âng-âu-liû-á**
 
-[eBird 資料](https://ebird.org/species/retpip)
+**號名理路**
+
+- `紅喉鷚仔 âng-âu-liû-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 水鷚 ヒガシヨーロッパタヒバリ Water Pipit
+## 水鷚 ヒガシヨーロッパタヒバリ Water Pipit [[eBird](https://ebird.org/species/watpip1)]
 
 ![水鷚 ヒガシヨーロッパタヒバリ Water Pipit](https://inaturalist-open-data.s3.amazonaws.com/photos/60500389/medium.jpg)
 
@@ -238,13 +286,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **水鷚仔 tsuí-liù-á**
+- ◆ **水鷚仔 tsuí-liù-á**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/watpip1)
+**號名理路**
+
+- `水鷚仔 tsuí-liù-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 黃腹鷚 タヒバリ Siberian Pipit
+## 黃腹鷚 タヒバリ Siberian Pipit [[eBird](https://ebird.org/species/sibpip1)]
 
 ![黃腹鷚 タヒバリ Siberian Pipit](https://inaturalist-open-data.s3.amazonaws.com/photos/193729/medium.jpg)
 
@@ -252,6 +303,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥
 
 **台語名**
 
-◆ **黃腹鷚仔 n̂g-pak-liù-á**
+- ◆ **黃腹鷚仔 n̂g-pak-liù-á**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sibpip1)
+**號名理路**
+
+- `黃腹鷚仔 n̂g-pak-liù-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。

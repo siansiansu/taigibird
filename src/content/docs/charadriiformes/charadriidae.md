@@ -1,12 +1,12 @@
 ---
 title: 鴴仔科 hîng-á-kho
-description: 鴴仔（hîng-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄鴴仔科 hîng-á-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 ---
 
-鴴仔（hîng-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄鴴仔科 hîng-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 灰斑鴴 ダイゼン Black-bellied Plover
+## 灰斑鴴 ダイゼン Black-bellied Plover [[eBird](https://ebird.org/species/bkbplo)]
 
 ![灰斑鴴 ダイゼン Black-bellied Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/5468412/medium.jpeg)
 
@@ -19,11 +19,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 - △ 水尖仔 tsuí-tsiam-á
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
-參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/bkbplo)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 太平洋金斑鴴 ムナグロ Pacific Golden-Plover
+## 太平洋金斑鴴 ムナグロ Pacific Golden-Plover [[eBird](https://ebird.org/species/pagplo)]
 
 ![太平洋金斑鴴 ムナグロ Pacific Golden-Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/43835792/medium.jpg)
 
@@ -35,11 +39,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 - △ 水尖仔 tsuí-tsiam-á
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
-參考華語鳥類名錄、英語名稱、[eBird 資料](https://ebird.org/species/pagplo)
+**號名理路**
+
+- `太平洋金斑鴴 thài-pîng-iûnn-kim-pan-hîng` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 環頸鴴 ハジロコチドリ Common Ringed Plover
+## 環頸鴴 ハジロコチドリ Common Ringed Plover [[eBird](https://ebird.org/species/corplo)]
 
 ![環頸鴴 ハジロコチドリ Common Ringed Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/8956/medium.jpg)
 
@@ -51,13 +59,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 - △ 水尖仔 tsuí-tsiam-á
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
-頷箍 ām-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
+**號名理路**
 
-參考華語鳥類名錄、英語名稱、[eBird 資料](https://ebird.org/species/corplo)。
+- `頷箍鴴 ām-khoo-hîng` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 小環頸鴴 コチドリ Little Ringed Plover
+## 小環頸鴴 コチドリ Little Ringed Plover [[eBird](https://ebird.org/species/lirplo)]
 
 ![小環頸鴴 コチドリ Little Ringed Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/28895106/medium.jpg)
 
@@ -70,13 +80,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 - △ 水尖仔 tsuí-tsiam-á
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
-頷箍 ām-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
+**號名理路**
 
-參考華語鳥類名錄、英語名稱、[eBird 資料](https://ebird.org/species/lirplo)。
+- `小頷箍鴴 sió-ām-khoo-hîng` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 劍鴴 イカルチドリ Long-billed Plover
+## 劍鴴 イカルチドリ Long-billed Plover [[eBird](https://ebird.org/species/lobplo1)]
 
 ![劍鴴 イカルチドリ Long-billed Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/173683293/medium.jpg)
 
@@ -89,11 +101,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 - △ 水尖仔 tsuí-tsiam-á
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
-參考華語鳥類名錄、英語名稱、[eBird 資料](https://ebird.org/species/lobplo1)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 小辮鴴 タゲリ Northern Lapwing
+## 小辮鴴 タゲリ Northern Lapwing [[eBird](https://ebird.org/species/norlap)]
 
 ![小辮鴴 タゲリ Northern Lapwing](https://inaturalist-open-data.s3.amazonaws.com/photos/189856988/medium.jpg)
 
@@ -106,11 +122,14 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 - ◆ **哇仔 ua-á**
 - ◆ **豆仔鳥 tāu-á-tsiáu**
 
-參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2016⁺ iTaigi、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/norlap)
+**號名理路**
+
+- 這條目前保留 4 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 跳鴴 ケリ Gray-headed Lapwing
+## 跳鴴 ケリ Gray-headed Lapwing [[eBird](https://ebird.org/species/gyhlap1)]
 
 ![跳鴴 ケリ Gray-headed Lapwing](https://inaturalist-open-data.s3.amazonaws.com/photos/2544894/medium.jpg)
 
@@ -118,13 +137,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-◆ **跳鴴 thiàu-hîng**
+- ◆ **跳鴴 thiàu-hîng**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gyhlap1)
+**號名理路**
+
+- `跳鴴 thiàu-hîng` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 東方紅胸鴴 オオチドリ Oriental Plover
+## 東方紅胸鴴 オオチドリ Oriental Plover [[eBird](https://ebird.org/species/oriplo1)]
 
 ![東方紅胸鴴 オオチドリ Oriental Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/64412807/medium.jpeg)
 
@@ -132,13 +154,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-◆ **東方紅胸鴴 tong-hong-âng-hing-hîng**
+- ◆ **東方紅胸鴴 tong-hong-âng-hing-hîng**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/oriplo1)
+**號名理路**
+
+- `東方紅胸鴴 tong-hong-âng-hing-hîng` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 蒙古鴴 メダイチドリ Siberian Sand-Plover
+## 蒙古鴴 メダイチドリ Siberian Sand-Plover [[eBird](https://ebird.org/species/lessap2)]
 
 ![蒙古鴴 メダイチドリ Siberian Sand-Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/17506363/medium.jpeg)
 
@@ -150,11 +175,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 - △ 水尖仔 tsuí-tsiam-á
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lessap2)
+**號名理路**
+
+- `蒙古鴴 bông-kóo-hîng` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 青藏鴴 チベットメダイチドリ Tibetan Sand-Plover
+## 青藏鴴 チベットメダイチドリ Tibetan Sand-Plover [[eBird](https://ebird.org/species/lessap1)]
 
 ![青藏鴴 チベットメダイチドリ Tibetan Sand-Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/132569111/medium.jpg)
 
@@ -166,11 +195,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 - △ 水尖仔 tsuí-tsiam-á
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lessap1)
+**號名理路**
+
+- `青藏鴴 tshenn-tsōng-hîng` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 鐵嘴鴴 オオメダイチドリ Greater Sand-Plover
+## 鐵嘴鴴 オオメダイチドリ Greater Sand-Plover [[eBird](https://ebird.org/species/grsplo)]
 
 ![鐵嘴鴴 オオメダイチドリ Greater Sand-Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/1935738/medium.jpg)
 
@@ -182,11 +215,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 - △ 水尖仔 tsuí-tsiam-á
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/grsplo)
+**號名理路**
+
+- `厚喙鴴 kāu-tshuì-hîng` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 東方環頸鴴 シロチドリ Kentish Plover
+## 東方環頸鴴 シロチドリ Kentish Plover [[eBird](https://ebird.org/species/kenplo1)]
 
 ![東方環頸鴴 シロチドリ Kentish Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/162627410/medium.jpg)
 
@@ -198,13 +235,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 - △ 水尖仔 tsuí-tsiam-á
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
-頷箍 ām-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
+**號名理路**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/kenplo1)。
+- `東方頷箍鴴 tong-hong-ām-khoo-hîng` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 白臉鴴 カオジロシロチドリ White-faced Plover
+## 白臉鴴 カオジロシロチドリ White-faced Plover [[eBird](https://ebird.org/species/whfplo2)]
 
 ![白臉鴴 カオジロシロチドリ White-faced Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/3886993/medium.jpg)
 
@@ -216,4 +255,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 - △ 水尖仔 tsuí-tsiam-á
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/whfplo2)
+**號名理路**
+
+- `白面鴴 pe̍h-bīn-hîng` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。

@@ -1,12 +1,12 @@
 ---
 title: 樹鶯科 tshiū-ing-kho
-description: 樹鶯科（tshiū-ing-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄樹鶯科 tshiū-ing-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "樹鶯"]
 ---
 
-樹鶯科（tshiū-ing-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄樹鶯科 tshiū-ing-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 短尾鶯 ヤブサメ Asian Stubtail
+## 短尾鶯 ヤブサメ Asian Stubtail [[eBird](https://ebird.org/species/asistu1)]
 
 ![短尾鶯 ヤブサメ Asian Stubtail](https://inaturalist-open-data.s3.amazonaws.com/photos/306929514/medium.jpg)
 
@@ -14,13 +14,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "樹鶯"]
 
 **台語名**
 
-◆ **短尾鶯 té-bué-ing**
+- ◆ **短尾鶯 té-bué-ing**
 
-參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/asistu1)
+**號名理路**
+
+- `短尾鶯 té-bué-ing` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 棕面鶯 コシジロムシクイ Rufous-faced Warbler
+## 棕面鶯 コシジロムシクイ Rufous-faced Warbler [[eBird](https://ebird.org/species/rufwar1)]
 
 ![棕面鶯 コシジロムシクイ Rufous-faced Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/12865244/medium.jpg)
 
@@ -28,13 +31,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "樹鶯"]
 
 **台語名**
 
-◆ **赤面鶯 tshiah-bīn-ing**
+- ◆ **赤面鶯 tshiah-bīn-ing**
 
-參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/rufwar1)
+**號名理路**
+
+- `赤面鶯 tshiah-bīn-ing` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 日本樹鶯 ウグイス Japanese Bush Warbler
+## 日本樹鶯 ウグイス Japanese Bush Warbler [[eBird](https://ebird.org/species/jabwar)]
 
 ![日本樹鶯 ウグイス Japanese Bush Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/112707405/medium.jpg)
 
@@ -42,13 +48,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "樹鶯"]
 
 **台語名**
 
-◆ **日本樹鶯 ji̍t-pún-tshiū-ing**
+- ◆ **日本樹鶯 ji̍t-pún-tshiū-ing**
 
-參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/jabwar)
+**號名理路**
+
+- `日本樹鶯 ji̍t-pún-tshiū-ing` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 遠東樹鶯 チョウセンウグイス Manchurian Bush Warbler
+## 遠東樹鶯 チョウセンウグイス Manchurian Bush Warbler [[eBird](https://ebird.org/species/manbuw1)]
 
 ![遠東樹鶯 チョウセンウグイス Manchurian Bush Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/137092803/medium.jpg)
 
@@ -56,13 +65,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "樹鶯"]
 
 **台語名**
 
-◆ **遠東樹鶯 uán-tong-tshiū-ing**
+- ◆ **遠東樹鶯 uán-tong-tshiū-ing**
 
-參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/manbuw1)
+**號名理路**
+
+- `遠東樹鶯 uán-tong-tshiū-ing` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 小鶯 タイワンコウグイス Brownish-flanked Bush Warbler
+## 小鶯 タイワンコウグイス Brownish-flanked Bush Warbler [[eBird](https://ebird.org/species/bfbwar1)]
 
 ![小鶯 タイワンコウグイス Brownish-flanked Bush Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/24590989/medium.jpeg)
 
@@ -73,11 +85,14 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "樹鶯"]
 - ◆ **小鶯 sió-ing**
 - ◆ **台灣小鶯 tâi-uân-sió-ing**
 
-參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/bfbwar1)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 深山鶯 ミヤマウグイス Yellowish-bellied Bush Warbler
+## 深山鶯 ミヤマウグイス Yellowish-bellied Bush Warbler [[eBird](https://ebird.org/species/ybbwar1)]
 
 ![深山鶯 ミヤマウグイス Yellowish-bellied Bush Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/89035943/medium.jpg)
 
@@ -85,6 +100,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "樹鶯"]
 
 **台語名**
 
-◆ **深山鶯 tshim-suann-ing**
+- ◆ **深山鶯 tshim-suann-ing**
 
-參考 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/ybbwar1)
+**號名理路**
+
+- `深山鶯 tshim-suann-ing` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。

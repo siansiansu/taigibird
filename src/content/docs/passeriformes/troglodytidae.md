@@ -1,12 +1,12 @@
 ---
 title: 鷦鷯科 tsiau-liâu-kho
-description: 鷦鷯科（tsiau-liâu-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄鷦鷯科 tsiau-liâu-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷦鷯"]
 ---
 
-鷦鷯科（tsiau-liâu-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄鷦鷯科 tsiau-liâu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 鷦鷯 ミソサザイ Eurasian Wren
+## 鷦鷯 ミソサザイ Eurasian Wren [[eBird](https://ebird.org/species/winwre4)]
 
 ![鷦鷯 ミソサザイ Eurasian Wren](https://inaturalist-open-data.s3.amazonaws.com/photos/113892317/medium.jpg)
 
@@ -14,6 +14,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷦鷯"]
 
 **台語名**
 
-◆ **鷦鷯 tsiau-liâu**
+- ◆ **鷦鷯 tsiau-liâu**
 
-參考 2002⁺ 台華線頂辭典、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/winwre4)
+**號名理路**
+
+- `鷦鷯 tsiau-liâu` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。

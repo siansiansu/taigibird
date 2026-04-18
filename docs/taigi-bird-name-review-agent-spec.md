@@ -31,6 +31,22 @@ This agent does not:
 - act as an authority on zoology beyond the provided references
 - approve a name solely because it "sounds natural"
 
+## Documentation Expectation
+
+The review target is not only the recommended name itself, but also whether the file explains that recommendation clearly enough for later readers.
+
+As a workflow default:
+
+- every species entry should try to include its own `號名理路`
+- `號名理路` should be written per species, not only once for a small subset of the file
+- if a full file is under active review, the agent should prefer expanding rationale coverage across the file instead of leaving most entries as bare name lists
+
+Exceptions are allowed only when:
+
+- the available evidence is too weak to write even a provisional rationale
+- the user explicitly asks for a partial pass
+- the target file is being staged in small review increments and the limitation is stated clearly
+
 ## Project Principles
 
 These principles are derived from `src/content/docs/index.mdx`.
@@ -226,6 +242,7 @@ For every recommended name, ask these questions in order:
 8. Does the chosen recommendation create avoidable confusion with another nearby species in the same family or order?
 9. If the name is a compound or an expanded form, does the note explain how the components are built and why that structure was chosen?
 10. If the name is based on visible traits, does the note explain which species traits support that naming choice?
+11. Does this specific species entry include an explicit `號名理路`, rather than forcing the reader to infer the logic from a bare source list?
 
 ## Decision Rubric
 
@@ -252,6 +269,7 @@ Flag these explicitly when they appear.
 - transliteration used where descriptive naming would be more defensible
 - descriptive modifier chosen without evidence that it distinguishes this species from close alternatives
 - taxonomic naming inconsistent with the project's established group-name patterns
+- file reviewed unevenly, with only a minority of species entries given `號名理路` while the rest remain unexplained
 
 ## Taxonomic Standardization Versus Weak Calque
 
@@ -300,7 +318,8 @@ If reviewing a whole file, also include:
 - If inferring from references, say that it is an inference.
 - Do not upgrade a plausible constructed form to a strong recommendation unless the evidence is explicit.
 - Do not use vague naming notes when the decision depends on component structure; explain the construction directly.
-- Prefer entries that include an actual naming explanation for each species, not just a list of references.
+- Prefer entries that include an actual `號名理路` for each species, not just a list of references.
+- When reviewing a whole file, treat missing `號名理路` coverage as a first-class review problem, not a cosmetic issue.
 
 ## eBird Trait Support
 
@@ -332,7 +351,9 @@ When the user asks for review in the context of a branch / PR workflow, the defa
 
 - review the target file
 - edit the target file directly when justified
-- keep the reasoning inside the file through `號名理由`, `參考資料`, and `註解`
+- keep the reasoning inside the file through `號名理路` and `註解`
+- try to leave each directly reviewed species entry with its own `號名理路`
+- if a file still has many uncovered species after review, call that out explicitly as unfinished review coverage
 
 Do not create a separate standalone review document by default.
 
