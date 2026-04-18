@@ -305,13 +305,22 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 
 **台語名**
 
-- 🎯 **巴鴨 pa-ah**
 - 🎯 **丑鴨 thiú-ah**
-- 🎯 **花面仔 hue-bâin-á**
+- ◯ 巴鴨 pa-ah
+- ◯ 花面仔 hue-bâin-á
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/baitea)
+**命名理由**
+
+- 《還我台灣鳥á名》雁鴨科列 `Thiú-ah（丑鴨）`，先用做這个物種 ê 主推名。
+- `巴鴨` 是照華語整理 ê 形式，留做別名。
+- `花面仔` 較像描寫性號名，暫時留做可接受別名。
+
+**參考資料**
+
+- [《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)
+- [eBird 資料](https://ebird.org/species/baitea)
 
 ---
 
@@ -340,14 +349,27 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 
 **台語名**
 
-- 🎯 **大喙爬仔 tuā-tshuì-pê-á**
-- 🎯 **湯匙仔鴨 thng-sî-á-ah**
-- 🎯 闊喙仔鴨 khuah-tshuì-á-ah
-- 琵嘴鴨 pî-tshuì-ah
+- 🎯 **湯匙仔 thng-sî-á**
+- ◯ 大喙爬仔 tuā-tshuì-pê-á
+- ◯ 湯匙仔鴨 thng-sî-á-ah
+- ◯ 闊喙仔鴨 khuah-tshuì-á-ah
+- ◯ 琵嘴鴨 pî-tshuì-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-[台灣野鳥鄉土名](https://www.oocities.org/~smewmao/taiwan/twnname.html)、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/norsho)
+**命名理由**
+
+- 《還我台灣鳥á名》列 `Thng-sî-á（湯匙á）`，本條目照彼个形式主推 `湯匙仔`。
+- 《台灣野鳥鄉土名》有 `大嘴爬仔`，是有力 ê 本土別名，保留做 `◯`。
+- `湯匙仔鴨`、`闊喙仔鴨`、`琵嘴鴨` 較偏整理後 ê 對應形式，暫留做次要別名。
+
+**參考資料**
+
+- [台灣野鳥鄉土名](https://www.oocities.org/~smewmao/taiwan/twnname.html)
+- [《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)
+- [教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/zh-hant/)
+- [ChhoeTaigi](https://chhoe.taigi.info/)
+- [eBird 資料](https://ebird.org/species/norsho)
 
 ---
 
@@ -394,11 +416,20 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 **台語名**
 
 - 🎯 **火燒仔 hué-sio-á**
-- 🎯 **紅頸鴨 âng-kīng-ah**
+- ◯ 紅頸鴨 âng-kīng-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、特徵、[eBird 資料](https://ebird.org/species/eurwig)
+**命名理由**
+
+- 《還我台灣鳥á名》雁鴨科列 `Hóe-sio-á（火燒á）`，先用做主推名。
+- `紅頸鴨` 是照外觀整理 ê 對應形式，留做別名。
+
+**參考資料**
+
+- [《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)
+- `docs/dictionary-reference/5_台華線頂對照典/data/02_selected/taihoa.csv`
+- [eBird 資料](https://ebird.org/species/eurwig)
 
 ---
 
@@ -410,12 +441,23 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 
 **台語名**
 
-- 🎯 葡萄胸鴨 phû-tô-hing-ah
 - 🎯 美國鴨 bí-kok-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-華語鳥類名錄、[eBird 資料](https://ebird.org/species/amewig)
+**命名理由**
+
+- 目前猶無查著較穩陣 ê 本土俗稱，先暫照英語地名式構詞用 `美國鴨`。
+- 這个名目前是暫定用法，後擺若揣著較好 ê 本土號名抑是較清楚 ê 命名理路，應該優先調整。
+
+**參考資料**
+
+- [eBird 資料](https://ebird.org/species/amewig)
+- [eBird Taiwan 鳥類名錄 2025.10](https://docs.google.com/spreadsheets/d/1PnZ2V8jMjw9MvGLlXNs05gSz43sigs-tewDdx19YebA/edit?usp=sharing)
+
+**註解**
+
+- 這條目前證據較弱，較適合看做暫定主推名，後續需要補較完整 ê 命名證據。
 
 ---
 
@@ -427,14 +469,25 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 
 **台語名**
 
-- 🎯 **菲律賓鴨 hui-lu̍t-pin-ah**
-- 🎯 呂宋鴨 lū-sòng-ah
+- 🎯 **呂宋鴨 lū-sòng-ah**
+- ◯ 菲律賓鴨 hui-lu̍t-pin-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
+**命名理由**
+
+- 這个物種目前先用 `呂宋鴨` 做主推名，較會當直接指向 Philippine Duck。
+- `菲律賓鴨` 雖然照華語、英語講是自然，毋過《台灣野鳥鄉土名》已經用佇 `白眉鴨` ê 鄉土名，若直接升做主推名，較容易衝突。
+
+**參考資料**
+
+- [台灣野鳥鄉土名](https://www.oocities.org/~smewmao/taiwan/twnname.html)
+- [eBird 資料](https://ebird.org/species/phiduc1)
+- [eBird Taiwan 鳥類名錄 2025.10](https://docs.google.com/spreadsheets/d/1PnZ2V8jMjw9MvGLlXNs05gSz43sigs-tewDdx19YebA/edit?usp=sharing)
+
 **註解**
 
-華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/phiduc1)
+- `菲律賓鴨` 暫留做別名，毋是主推名，主要是為著閃 `白眉鴨 -> 菲律賓鴨` 這个既有鄉土名衝突。
 
 ---
 
@@ -464,13 +517,23 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 **台語名**
 
 - 🎯 **綠頭公 li̍k-thâu-kong**
-- 🎯 金頭鴨 kim-thâu-ah
-- 🎯 綠頭鴨 li̍k-thâu-ah
+- ◯ 金頭仔 kim-thâu-á
+- ◯ 綠頭鴨 li̍k-thâu-ah
 - ✳️ 紅腿仔 âng-thuí-á
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[台灣野鳥鄉土名](https://www.oocities.org/~smewmao/taiwan/twnname.html)、[eBird 資料](https://ebird.org/species/mallar3)
+**命名理由**
+
+- 《台灣野鳥鄉土名》列 `綠頭公`，《還我台灣鳥á名》列 `Kim-thâu-á（金頭á）`，本條目先用較常見、較直接 ê `綠頭公` 做主推名。
+- `金頭仔` 是另外一个有來源 ê 本土號名，保留做 `◯`。
+- `綠頭鴨` 較偏整理後 ê 華語對應形式，留做別名。
+
+**參考資料**
+
+- [《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)
+- [台灣野鳥鄉土名](https://www.oocities.org/~smewmao/taiwan/twnname.html)
+- [eBird 資料](https://ebird.org/species/mallar3)
 
 ---
 
@@ -482,11 +545,23 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 
 **台語名**
 
-- 🎯 **尖尾鴨 tsiam-bué-ah**
+- 🎯 **尖尾仔 tsiam-bué-á**
+- ◯ 尖尾鴨 tsiam-bué-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/norpin)
+**命名理由**
+
+- 《還我台灣鳥á名》列 `Chiam-bóe-á（尖尾á）`，《台灣野鳥鄉土名》嘛有 `尖尾仔`，所以先用 `尖尾仔` 做主推名。
+- `尖尾鴨` 保留做較華語化 ê 對應形式。
+
+**參考資料**
+
+- [《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)
+- [台灣野鳥鄉土名](https://www.oocities.org/~smewmao/taiwan/twnname.html)
+- `src/data/anatomy.csv`
+- `docs/dictionary-reference/5_台華線頂對照典/data/02_selected/taihoa.csv`
+- [eBird 資料](https://ebird.org/species/norpin)
 
 ---
 
@@ -498,14 +573,28 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 
 **台語名**
 
-- 🎯 **金翅鴨 kim-tshì-ah**
-- 🎯 **水薸鴨 tsuí-phiô-ah**
-- 小水鴨 sió-tsuí-ah
-- 小鳧 sió-hû
+- 🎯 **水薸仔 tsuí-phiô-á**
+- ◯ 金翅仔 kim-tshì-á
+- ◯ 金翅鴨 kim-tshì-ah
+- ◯ 水薸鴨 tsuí-phiô-ah
+- ◯ 小水鴨 sió-tsuí-ah
+- ◯ 小鳧 sió-hû
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[台灣野鳥鄉土名](https://www.oocities.org/~smewmao/taiwan/twnname.html)、[eBird 資料](https://ebird.org/species/gnwtea)
+**命名理由**
+
+- 《還我台灣鳥á名》列 `Chúi-phiô-á（水薸á）`，《台灣野鳥鄉土名》列 `金翅仔`，這兩个攏是有來源 ê 本土號名。
+- 本條目先用 `水薸仔` 做主推名，`金翅仔` 留做平行來源 ê 別名。
+- `金翅鴨`、`水薸鴨`、`小水鴨`、`小鳧` 較偏整理後或華語對應形式，攏降做 `◯`。
+
+**參考資料**
+
+- [《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)
+- [台灣野鳥鄉土名](https://www.oocities.org/~smewmao/taiwan/twnname.html)
+- [教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/zh-hant/)
+- `docs/dictionary-reference/5_台華線頂對照典/data/02_selected/taihoa.csv`
+- [eBird 資料](https://ebird.org/species/gnwtea)
 
 ---
 
