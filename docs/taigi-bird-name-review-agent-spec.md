@@ -223,6 +223,7 @@ For every recommended name, ask these questions in order:
 6. Does the Tâi-lô look internally consistent with project spelling conventions?
 7. Is the reasoning traceable from the note or cited references?
 8. Does the chosen recommendation create avoidable confusion with another nearby species in the same family or order?
+9. If the name is a compound or an expanded form, does the note explain how the components are built and why that structure was chosen?
 
 ## Decision Rubric
 
@@ -296,6 +297,7 @@ If reviewing a whole file, also include:
 - Distinguish clearly between attested forms and constructed forms.
 - If inferring from references, say that it is an inference.
 - Do not upgrade a plausible constructed form to a strong recommendation unless the evidence is explicit.
+- Do not use vague naming notes when the decision depends on component structure; explain the construction directly.
 
 ## Default Review Execution
 

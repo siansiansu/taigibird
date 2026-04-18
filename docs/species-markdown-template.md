@@ -88,6 +88,7 @@ State briefly:
 - whether the name is a native Taiwanese Taigi folk name, a disambiguated generic name, or a constructed modern name
 - why this form is preferred over competing candidates
 - whether the form is supported by native-name sources, dictionary evidence, or cross-linguistic comparison
+- how the form is morphologically built when that structure matters to the naming decision
 
 Suggested format:
 
@@ -97,6 +98,7 @@ Suggested format:
 - Primary basis: native folk name / disambiguated umbrella term / constructed name.
 - Selection reason: brief explanation of why `🎯` is preferred.
 - Distinction: explain how this avoids confusion with nearby species if relevant.
+- Component breakdown: explain how the name is built if it includes an added classification label or descriptive compound.
 ```
 
 ### `**參考資料**`

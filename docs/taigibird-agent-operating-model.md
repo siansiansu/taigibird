@@ -202,6 +202,7 @@ Do not leave the naming basis implied. If a recommendation depends on an inferen
 If a descriptive component comes from project-curated helper data in `src/data/`, say that it is using project-internal reference support rather than external attestation.
 If a name is being kept as a species-level classification name, say that explicitly rather than dismissing it as merely "Chinese-style" or "Sinicized".
 If a name is being kept because it preserves Japanese-era naming continuity, say that explicitly too.
+If a form is morphologically built from a folk name plus an added classification label, explain that structure explicitly instead of using only broad summary wording.
 
 ### Preserve Reviewability
 
