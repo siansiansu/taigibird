@@ -64,7 +64,7 @@ Minimum structure:
 - ◯ AlternateName romanization
 - ✳️ GenericName romanization
 
-**命名理由**
+**號名理由**
 
 - Primary basis:
 - Selection reason:
@@ -79,7 +79,7 @@ Minimum structure:
 - `✳️` = generic/umbrella term shared across species
 - Image alt text must match the `##` heading exactly
 - eBird link is required for every species
-- `**命名理由**` and `**參考資料**` are required
+- `**號名理由**` and `**參考資料**` are required
 - Use `**註解**` when the entry keeps multiple `🎯` items or remains source-sensitive
 
 ## Naming Rules

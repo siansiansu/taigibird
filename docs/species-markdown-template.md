@@ -17,7 +17,7 @@ Each species entry should use the following section order:
 2. Image
 3. Image credit
 4. `**台語名**`
-5. `**命名理由**`
+5. `**號名理由**`
 6. `**參考資料**`
 7. `**註解**` (optional)
 8. Horizontal rule `---`
@@ -79,7 +79,7 @@ Guidelines:
 - Use `◯` for forms that are attested but not selected as the primary recommendation.
 - Use `✳️` only for names that genuinely apply to multiple species.
 
-### `**命名理由**`
+### `**號名理由**`
 
 This section is required. Do not leave the evidence implicit.
 As a project rule, every species entry should try to include a naming explanation, not just a bare source list.
@@ -95,7 +95,7 @@ State briefly:
 Suggested format:
 
 ```md
-**命名理由**
+**號名理由**
 
 - Primary basis: native folk name / disambiguated umbrella term / constructed name.
 - Selection reason: brief explanation of why `🎯` is preferred.
@@ -165,7 +165,7 @@ Suggested format:
 - ◯ Hanji Tâi-lô
 - ✳️ Hanji Tâi-lô
 
-**命名理由**
+**號名理由**
 
 - Primary basis:
 - Selection reason:
@@ -191,7 +191,7 @@ Before a species entry is treated as complete, it should satisfy the following:
 - The entry uses the standard section order.
 - `**台語名**` uses list bullets consistently.
 - The role of each candidate name is clear.
-- `**命名理由**` is present and non-empty.
+- `**號名理由**` is present and non-empty.
 - `**參考資料**` lists the sources actually used.
 - `**註解**` is present when ambiguity remains.
 

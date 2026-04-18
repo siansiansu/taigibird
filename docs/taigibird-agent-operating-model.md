@@ -44,7 +44,7 @@ Primary checks:
 
 - entry structure matches `docs/species-markdown-template.md`
 - `台語名` section clearly distinguishes `🎯`, `◯`, and `✳️`
-- `命名理由` is present and explicit
+- `號名理由` is present and explicit
 - every species entry should try to include a naming explanation rather than only a source label
 - `參考資料` lists the sources actually used
 - `註解` exists when ambiguity or source sensitivity remains
@@ -218,7 +218,7 @@ If a feature-based name depends on visible field marks, explain which field mark
 
 Prefer small, isolated edits over broad reformats. This is especially important for family-name and genus-name changes, which should remain easy to review as separate decisions.
 
-When edits are already happening on a branch intended for PR review, prefer keeping the reasoning in the edited file through `命名理由` and `註解` rather than creating an additional review artifact.
+When edits are already happening on a branch intended for PR review, prefer keeping the reasoning in the edited file through `號名理由` and `註解` rather than creating an additional review artifact.
 
 ## What Was Rejected from the Original Skills
 
@@ -226,7 +226,7 @@ Not all skill content should be carried forward unchanged.
 
 The following patterns are intentionally not adopted as authoritative:
 
-- outdated entry formats that omit `命名理由` and `參考資料`
+- outdated entry formats that omit `號名理由` and `參考資料`
 - references to the wrong content path when the repository now uses `src/content/docs/`
 - build instructions that assume Docusaurus instead of Astro/Starlight
 - workflows that treat placeholder Taigi names as if they were already validated recommendations

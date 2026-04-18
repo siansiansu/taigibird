@@ -332,7 +332,7 @@ When the user asks for review in the context of a branch / PR workflow, the defa
 
 - review the target file
 - edit the target file directly when justified
-- keep the reasoning inside the file through `命名理由`, `參考資料`, and `註解`
+- keep the reasoning inside the file through `號名理由`, `參考資料`, and `註解`
 
 Do not create a separate standalone review document by default.
 
