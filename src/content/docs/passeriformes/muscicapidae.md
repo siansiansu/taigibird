@@ -709,7 +709,7 @@ no rights reserved, uploaded by 葉子
 **台語名**
 
 - ◆ **藍磯鶇仔 nâ-ki-tang-á**
-- ✳ 厝角鳥 tshù-kak-tsiáu
+- △ 厝角鳥 tshù-kak-tsiáu
 
 參考英語、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/burthr)
 

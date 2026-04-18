@@ -28,7 +28,7 @@ Use the symbols below consistently.
 
 - `◆`: Primary recommended name for this species entry. In principle, keep this to one item. If more than one `◆` is kept, the note must explain why they are coequal.
 - `◇`: Accepted alternate name, regional variant, historical form, or secondary candidate that should be preserved but is not the primary recommendation.
-- `✳`: Generic or umbrella term that can refer to more than one species.
+- `△`: Generic or umbrella term that can refer to more than one species.
 
 Do not use multiple `◆` items without explanation. If a name is retained for documentation but is not the main recommendation, use `◇` instead.
 
@@ -62,14 +62,14 @@ Recommended order:
 
 1. `◆` primary recommended name
 2. `◇` alternate names
-3. `✳` umbrella terms
+3. `△` umbrella terms
 
 Preferred format:
 
 ```md
 - ◆ **Hanji Tâi-lô**
 - ◇ **Hanji Tâi-lô**
-- ✳ Hanji Tâi-lô
+- △ Hanji Tâi-lô
 ```
 
 Guidelines:
@@ -77,7 +77,7 @@ Guidelines:
 - Bold the primary recommended name.
 - Prefer one `◆` per entry.
 - Use `◇` for forms that are attested but not selected as the primary recommendation.
-- Use `✳` only for names that genuinely apply to multiple species.
+- Use `△` only for names that genuinely apply to multiple species.
 
 ### `**號名理由**`
 
@@ -163,7 +163,7 @@ Suggested format:
 
 - ◆ **Hanji Tâi-lô**
 - ◇ Hanji Tâi-lô
-- ✳ Hanji Tâi-lô
+- △ Hanji Tâi-lô
 
 **號名理由**
 

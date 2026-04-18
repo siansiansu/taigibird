@@ -62,7 +62,7 @@ Minimum structure:
 
 - ◆ **RecommendedTaigiName romanization**
 - ◇ AlternateName romanization
-- ✳ GenericName romanization
+- △ GenericName romanization
 
 **號名理由**
 
@@ -76,7 +76,7 @@ Minimum structure:
 
 - `◆` = primary recommended name for this species
 - `◇` = accepted alternate / regional / historical / secondary candidate
-- `✳` = generic/umbrella term shared across species
+- `△` = generic/umbrella term shared across species
 - Image alt text must match the `##` heading exactly
 - eBird link is required for every species
 - `**號名理由**` and `**參考資料**` are required

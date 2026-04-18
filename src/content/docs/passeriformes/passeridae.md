@@ -19,10 +19,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "粟鳥仔
 - 灰頭粟鳥仔 hue-thâu-tshik-tsiáu-á
 - 灰頭厝鳥仔 hue-thâu-tshù-tsiáu-á
 - 灰頭厝角鳥仔 hue-thâu-tshù-kak-tsiáu-á
-- ✳ 厝角鳥仔 tshù-kak-tsiáu-á
-- ✳ 厝鳥仔 tshù-tsiáu-á
-- ✳ 粟鳥仔 tshik-tsiáu-á
-- ✳ 雀鳥仔 tshiok-tsiáu-á
+- △ 厝角鳥仔 tshù-kak-tsiáu-á
+- △ 厝鳥仔 tshù-tsiáu-á
+- △ 粟鳥仔 tshik-tsiáu-á
+- △ 雀鳥仔 tshiok-tsiáu-á
 
 家麻雀 House Sparrow 若用台語講已經有厝鳥仔 tshù-tsiáu-á ê 意思，叫伊「厝厝鳥仔 tshù-tshù-tsiáu-á」嘛誠奇怪。若依伊 ê 外觀叫「灰頭厝鳥仔 hue-thâu-tshù-tsiáu-á」，可能有人嘛毋捌，建議叫伊「外國 ê 厝鳥仔 guā-kok-ê-tshù-tsiáu-á」，無熟似的人可能聽較有，按呢嘛較會使用台語區別一般講 ê「厝鳥仔 tshù-tsiáu-á」。
 

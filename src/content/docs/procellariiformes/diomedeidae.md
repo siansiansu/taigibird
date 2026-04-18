@@ -16,9 +16,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "信天翁
 
 - ◆ **烏背信天翁 oo-puè-sìn-thian-ang**
 - ◆ **烏背海南戇 oo-puè-hái-lâm-gōng**
-- ✳ 海南戇 hái-lâm-gōng
-- ✳ 信天翁 sìn-thian-ang
-- ✳ 海鵝 hái-gô
+- △ 海南戇 hái-lâm-gōng
+- △ 信天翁 sìn-thian-ang
+- △ 海鵝 hái-gô
 
 參考華語鳥類名錄、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/layalb)
 
@@ -34,9 +34,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "信天翁
 
 - ◆ **烏跤信天翁 oo-kha-sìn-thian-ang**
 - ◆ **烏跤海南戇 oo-kha-hái-lâm-gōng**
-- ✳ 海南戇 hái-lâm-gōng
-- ✳ 信天翁 sìn-thian-ang
-- ✳ 海鵝 hái-gô
+- △ 海南戇 hái-lâm-gōng
+- △ 信天翁 sìn-thian-ang
+- △ 海鵝 hái-gô
 
 參考華語鳥類名錄、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/bkfalb)
 
@@ -52,8 +52,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "信天翁
 
 - ◆ **短尾信天翁 té-bué-sìn-thian-ang**
 - ◆ **短尾海南戇 té-bué-hái-lâm-gōng**
-- ✳ 海南戇 hái-lâm-gōng
-- ✳ 信天翁 sìn-thian-ang
-- ✳ 海鵝 hái-gô
+- △ 海南戇 hái-lâm-gōng
+- △ 信天翁 sìn-thian-ang
+- △ 海鵝 hái-gô
 
 參考華語鳥類名錄、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/shtalb)

@@ -16,6 +16,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "骨簪鷸
 
 - ◆ **骨簪鷸仔 kut-tsiam-lu̍t-á**
 - ◆ **骨簪仔 kut-tsiam-á**
-- ✳ 塗礱鉤仔 thôo-lâng-kau-á
+- △ 塗礱鉤仔 thôo-lâng-kau-á
 
 [《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/grpsni1)

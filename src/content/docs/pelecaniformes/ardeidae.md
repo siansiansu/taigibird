@@ -72,7 +72,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷺", "�
 
 - ◆ **黃田隙仔 n̂g-tshân-khiah-á**
 - 黃小鷺 n̂g-sió-lōo
-- ✳ 田隙仔 tshân-khiah-á
+- △ 田隙仔 tshân-khiah-á
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/yelbit)
 
@@ -87,7 +87,7 @@ no rights reserved, uploaded by Kyle Nessen
 **台語名**
 
 - ◆ **暗光鳥 àm-kong-tsiáu**
-- ✳ 暗光鳥 àm-kong-tsiáu
+- △ 暗光鳥 àm-kong-tsiáu
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/bcnher)
 
@@ -103,7 +103,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 - ◆ **赤色暗光鳥 tshiah-sin-àm-kong-tsiáu**
 - ◆ 棕夜鷺 tsang-iā-lōo
-- ✳ 暗光鳥 àm-kong-tsiáu
+- △ 暗光鳥 àm-kong-tsiáu
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/runher1)
 
@@ -153,7 +153,7 @@ no rights reserved, uploaded by 葉子
 - ◆ **烏翎鷥 oo-līng-si**
 - ◆ 烏鷺 oo-lōo
 - ◆ 烏鷺仔 oo-lōo-á
-- ✳ 翎鷥 līng-si
+- △ 翎鷥 līng-si
 
 頭前加上烏 oo 區分其他翎鷥 līng-si、[eBird 資料](https://ebird.org/species/pacreh1)
 
@@ -170,9 +170,9 @@ no rights reserved, uploaded by 葉子
 - ◆ **唐白翎鷥 tn̂g-pe̍h-līng-si**
 - 中國白鷺 tiong-kok-pe̍h-lōo
 - 黃喙白翎鷥 n̂g-tshuì-pe̍h-līng-si
-- ✳ 白翎鷥 pe̍h-līng-si
-- ✳ 白鷺仔 pe̍h-lōo-á
-- ✳ 翎鷥 līng-si
+- △ 白翎鷥 pe̍h-līng-si
+- △ 白鷺仔 pe̍h-lōo-á
+- △ 翎鷥 līng-si
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chiegr)
 
@@ -189,11 +189,11 @@ no rights reserved, uploaded by 葉子
 - ◆ **小白翎鷥 sió-pe̍h-līng-si**
 - 小白鷺 sió-pe̍h-lōo
 - 小鷺 sió-lōo
-- ✳ 白翎鷥 pe̍h-līng-si
-- ✳ 白鷺 pe̍h-lōo
-- ✳ 白鷺仔 pe̍h-lōo-á
-- ✳ 翎鷥 līng-si
-- ✳ 鷺仔 lōo-á
+- △ 白翎鷥 pe̍h-līng-si
+- △ 白鷺 pe̍h-lōo
+- △ 白鷺仔 pe̍h-lōo-á
+- △ 翎鷥 līng-si
+- △ 鷺仔 lōo-á
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/litegr)
 
@@ -211,8 +211,8 @@ no rights reserved, uploaded by 葉子
 - ◆ **白頸烏翎鷥 pe̍h-kún-oo-līng-si**
 - 白胸烏鷺 pe̍h-hing-oo-lōo
 - 白頸烏鷺 pe̍h-kún-oo-lōo
-- ✳ 翎鷥 līng-si
-- ✳ 鷺仔 lōo-á
+- △ 翎鷥 līng-si
+- △ 鷺仔 lōo-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/pieher2)
 
@@ -227,8 +227,8 @@ no rights reserved, uploaded by 葉子
 **台語名**
 
 - ◆ **白面翎鷥 pe̍h-bīn-līng-si**
-- ✳ 翎鷥 līng-si
-- ✳ 鷺仔 lōo-á
+- △ 翎鷥 līng-si
+- △ 鷺仔 lōo-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/whfher1)
 
@@ -247,9 +247,9 @@ no rights reserved, uploaded by 葉子
 - ◆ 青簑鷺 tshenn-sui-lōo
 - 綠鷺 li̍k-lōo
 - 綠簑鷺 li̍k-sui-lōo
-- ✳ 打魚郎 phah-hî-lông
-- ✳ 翎鷥 līng-si
-- ✳ 鷺仔 lōo-á
+- △ 打魚郎 phah-hî-lông
+- △ 翎鷥 līng-si
+- △ 鷺仔 lōo-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/strher1)
 
@@ -315,11 +315,11 @@ no rights reserved, uploaded by 葉子
 - ◆ **黃白翎鷥 n̂g-pe̍h-līng-si**
 - 黃頭鷺 n̂g-thâu-lōo
 - 牛鷺仔 gû-lōo-á
-- ✳ 白翎鷥 pe̍h-līng-si
-- ✳ 白鷺 pe̍h-lōo
-- ✳ 白鷺仔 pe̍h-lōo-á
-- ✳ 翎鷥 līng-si
-- ✳ 鷺仔 lōo-á
+- △ 白翎鷥 pe̍h-līng-si
+- △ 白鷺 pe̍h-lōo
+- △ 白鷺仔 pe̍h-lōo-á
+- △ 翎鷥 līng-si
+- △ 鷺仔 lōo-á
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/categr2)
 
@@ -335,11 +335,11 @@ no rights reserved, uploaded by 葉子
 
 - ◆ **大白翎鷥 tuā-pe̍h-līng-si**
 - 大白鷺 tuā-pe̍h-lōo
-- ✳ 白翎鷥 pe̍h-līng-si
-- ✳ 白鷺 pe̍h-lōo
-- ✳ 白鷺仔 pe̍h-lōo-á
-- ✳ 翎鷥 līng-si
-- ✳ 鷺仔 lōo-á
+- △ 白翎鷥 pe̍h-līng-si
+- △ 白鷺 pe̍h-lōo
+- △ 白鷺仔 pe̍h-lōo-á
+- △ 翎鷥 līng-si
+- △ 鷺仔 lōo-á
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/greegr)
 
@@ -355,11 +355,11 @@ no rights reserved, uploaded by 葉子
 
 - ◆ **中白翎鷥 tshun-pe̍h-līng-si**
 - 中白鷺 tshun-pe̍h-lōo
-- ✳ 白翎鷥 pe̍h-līng-si
-- ✳ 白鷺 pe̍h-lōo
-- ✳ 白鷺仔 pe̍h-lōo-á
-- ✳ 翎鷥 līng-si
-- ✳ 鷺仔 lōo-á
+- △ 白翎鷥 pe̍h-līng-si
+- △ 白鷺 pe̍h-lōo
+- △ 白鷺仔 pe̍h-lōo-á
+- △ 翎鷥 līng-si
+- △ 鷺仔 lōo-á
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/integr1)
 

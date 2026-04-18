@@ -101,7 +101,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶴"]
 **台語名**
 
 - ◆ **紅頭鶴 âng-thâu-ho̍h**
-- ✳ 仙鶴 sian-ho̍h
-- ✳ 鶴 ho̍h
+- △ 仙鶴 sian-ho̍h
+- △ 鶴 ho̍h
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/reccra1)

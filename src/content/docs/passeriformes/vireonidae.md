@@ -15,6 +15,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "青花眉
 **台語名**
 
 - ◆ **青花眉 tshenn-hue-bâi**
-- ✳ 花眉仔 hue-bâi-á
+- △ 花眉仔 hue-bâi-á
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、華語鳥類名錄、[eBird 資料](https://ebird.org/species/whbyuh1)

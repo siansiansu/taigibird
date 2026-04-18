@@ -72,8 +72,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 **台語名**
 
 - ◆ **白面抐桮 pe̍h-bīn-lā-pue**
-- ✳ 抐桮 lā-pue
-- ✳ 飯匙鵝 puīnn-sî-gô
+- △ 抐桮 lā-pue
+- △ 飯匙鵝 puīnn-sî-gô
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/eurspo1)
 
@@ -88,7 +88,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 **台語名**
 
 - ◆ **烏面抐桮 oo-bīn-lā-pue**
-- ✳ 抐桮 lā-pue
-- ✳ 飯匙鵝 puīnn-sî-gô
+- △ 抐桮 lā-pue
+- △ 飯匙鵝 puīnn-sî-gô
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/blfspo1)

@@ -15,8 +15,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戲班仔
 **台語名**
 
 - ◆ **戲班仔 hì-pan-á**
-- ✳ 戲班仔 hì-pan-á
-- ✳ 山椒鳥 suann-tsiau-tsiáu
+- △ 戲班仔 hì-pan-á
+- △ 山椒鳥 suann-tsiau-tsiáu
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/gycmin1)
 
@@ -31,8 +31,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戲班仔
 **台語名**
 
 - ◆ **長尾戲班仔 tn̂g-bué-hì-pan-á**
-- ✳ 戲班仔 hì-pan-á
-- ✳ 山椒鳥 suann-tsiau-tsiáu
+- △ 戲班仔 hì-pan-á
+- △ 山椒鳥 suann-tsiau-tsiáu
 
 參考英語、[eBird 資料](https://ebird.org/species/lotmin1)
 
@@ -47,8 +47,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戲班仔
 **台語名**
 
 - ◆ **赤紅戲班仔 tshiah-âng-hì-pan-á**
-- ✳ 戲班仔 hì-pan-á
-- ✳ 山椒鳥 suann-tsiau-tsiáu
+- △ 戲班仔 hì-pan-á
+- △ 山椒鳥 suann-tsiau-tsiáu
 
 參考特徵、[eBird 資料](https://ebird.org/species/scamin1)
 
@@ -63,8 +63,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戲班仔
 **台語名**
 
 - ◆ **琉球戲班仔 liû-khiû-hì-pan-á**
-- ✳ 戲班仔 hì-pan-á
-- ✳ 山椒鳥 suann-tsiau-tsiáu
+- △ 戲班仔 hì-pan-á
+- △ 山椒鳥 suann-tsiau-tsiáu
 
 參考英語、[eBird 資料](https://ebird.org/species/ryumin1)
 
@@ -79,8 +79,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戲班仔
 **台語名**
 
 - ◆ **殕色戲班仔 phú-sik-hì-pan-á**
-- ✳ 戲班仔 hì-pan-á
-- ✳ 山椒鳥 suann-tsiau-tsiáu
+- △ 戲班仔 hì-pan-á
+- △ 山椒鳥 suann-tsiau-tsiáu
 
 參考英語、[eBird 資料](https://ebird.org/species/ashmin1/)
 
@@ -96,7 +96,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戲班仔
 
 - ◆ 小殕色戲班仔 sió-phú-sik-hì-pan-á
 - 茶色戲班仔 tê-sik-hì-pan-á
-- ✳ 戲班仔 hì-pan-á
+- △ 戲班仔 hì-pan-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/brrmin1)
 
@@ -111,7 +111,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戲班仔
 **台語名**
 
 - ◆ **粉紅戲班仔 hún-âng-hì-pan-á**
-- ✳ 戲班仔 hì-pan-á
+- △ 戲班仔 hì-pan-á
 
 參考英語、[eBird 資料](https://ebird.org/species/rosmin1)
 
@@ -126,7 +126,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戲班仔
 **台語名**
 
 - ◆ **花翼戲班仔 hue-tshì-hì-pan-á**
-- ✳ 戲班仔 hì-pan-á
+- △ 戲班仔 hì-pan-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/larcuc11)
 
@@ -141,7 +141,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戲班仔
 **台語名**
 
 - ◆ **烏白戲班仔 oo-pe̍h-tshì-hì-pan-á**
-- ✳ 戲班仔 hì-pan-á
+- △ 戲班仔 hì-pan-á
 
 參考特徵、[eBird 資料](https://ebird.org/species/pietri1)
 
@@ -156,6 +156,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戲班仔
 **台語名**
 
 - ◆ **烏翅戲班仔 oo-tshì-hì-pan-á**
-- ✳ 戲班仔 hì-pan-á
+- △ 戲班仔 hì-pan-á
 
 參考英語、[eBird 資料](https://ebird.org/species/bkwcus1)

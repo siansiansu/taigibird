@@ -15,7 +15,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "賊鷗"]
 **台語名**
 
 - ◆ **長尾賊仔鷗 tn̂g-bué-tsha̍t-á-oo**
-- ✳ 賊仔鷗 tsha̍t-á-oo
+- △ 賊仔鷗 tsha̍t-á-oo
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lotjae)
 
@@ -30,7 +30,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "賊鷗"]
 **台語名**
 
 - ◆ **短尾賊仔鷗 té-bé-tsha̍t-á-oo**
-- ✳ 賊仔鷗 tsha̍t-á-oo
+- △ 賊仔鷗 tsha̍t-á-oo
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/parjae)
 
@@ -45,7 +45,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "賊鷗"]
 **台語名**
 
 - ◆ **中賊仔鷗 tiong-tsha̍t-á-oo**
-- ✳ 賊仔鷗 tsha̍t-á-oo
+- △ 賊仔鷗 tsha̍t-á-oo
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/pomjae)
 
@@ -60,6 +60,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "賊鷗"]
 **台語名**
 
 - ◆ **殕色賊仔鷗 phú-sik-tsha̍t-á-oo**
-- ✳ 賊仔鷗 tsha̍t-á-oo
+- △ 賊仔鷗 tsha̍t-á-oo
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sopsku1)

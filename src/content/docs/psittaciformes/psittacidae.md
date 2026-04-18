@@ -15,7 +15,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸚哥", 
 **台語名**
 
 - ◆ **紅領鸚哥 âng-niá-ing-ko**
-- ✳ 鸚哥 ing-ko
+- △ 鸚哥 ing-ko
 
 參考英語、[eBird 資料](https://ebird.org/species/rorpar)
 
@@ -30,6 +30,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸚哥", 
 **台語名**
 
 - ◆ **和尚鸚哥 huê-siūnn-ing-ko**
-- ✳ 鸚哥 ing-ko
+- △ 鸚哥 ing-ko
 
 參考英語、[eBird 資料](https://ebird.org/species/monpar)

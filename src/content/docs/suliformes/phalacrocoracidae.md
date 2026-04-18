@@ -15,9 +15,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸕鷀"]
 **台語名**
 
 - ◆ **海鸕鷀 hái-lôo-tsî**
-- ✳ 老仔 lāu-á
-- ✳ 鶿鸕 tsû-lôo
-- ✳ 烏魚郎 oo-hî-lông
+- △ 老仔 lāu-á
+- △ 鶿鸕 tsû-lôo
+- △ 烏魚郎 oo-hî-lông
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、華語鳥類名錄、[eBird 資料](https://ebird.org/species/pelcor)
 
@@ -32,9 +32,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸕鷀"]
 **台語名**
 
 - ◆ **鸕鷀 lôo-tsî**
-- ✳ 老仔 lāu-á
-- ✳ 鶿鸕 tsû-lôo
-- ✳ 烏魚郎 oo-hî-lông
+- △ 老仔 lāu-á
+- △ 鶿鸕 tsû-lôo
+- △ 烏魚郎 oo-hî-lông
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、華語鳥類名錄、[eBird 資料](https://ebird.org/species/grecor)
 
@@ -50,8 +50,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸕鷀"]
 
 - ◆ **丹氏鸕鷀 tan-sī-lôo-tsî**
 - ◆ **日本鸕鷀 ji̍t-pún-lôo-tsî**
-- ✳ 老仔 lāu-á
-- ✳ 鶿鸕 tsû-lôo
-- ✳ 烏魚郎 oo-hî-lông
+- △ 老仔 lāu-á
+- △ 鶿鸕 tsû-lôo
+- △ 烏魚郎 oo-hî-lông
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、華語鳥類名錄、[eBird 資料](https://ebird.org/species/japcor1)

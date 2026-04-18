@@ -15,6 +15,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "布袋鵝
 **台語名**
 
 - ◆ **虯毛布袋鵝 khiû-moo-pòo-tē-gô**
-- ✳ 布袋鵝 pòo-tē-gô
+- △ 布袋鵝 pòo-tē-gô
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/dalpel1)

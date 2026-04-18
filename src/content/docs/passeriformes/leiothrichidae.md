@@ -16,7 +16,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "噪眉", 
 
 - ◆ **大目框仔 tuā-ba̍k-khing-á**
 - ◆ **大目花眉 tuā-ba̍k-hue-bâi**
-- ✳ 花眉仔 hue-bâi-á
+- △ 花眉仔 hue-bâi-á
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/gycful1)
 
@@ -31,7 +31,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "噪眉", 
 **台語名**
 
 - ◆ **四眉 sì-bâi**
-- ✳ 花眉仔 hue-bâi-á
+- △ 花眉仔 hue-bâi-á
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/whwlau1)
 
@@ -47,7 +47,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "噪眉", 
 
 - ◆ **白耳仔 pe̍h-hīnn-á**
 - ◆ **白耳花眉 pe̍h-hīnn-hue-bâi**
-- ✳ 花眉仔 hue-bâi-á
+- △ 花眉仔 hue-bâi-á
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/whesib1)
 
@@ -63,7 +63,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "噪眉", 
 
 - ◆ **嬌嬌 kiau-kiau**
 - ◆ **紋翼花眉 bûn-i̍k-hue-bâi**
-- ✳ 花眉仔 hue-bâi-á
+- △ 花眉仔 hue-bâi-á
 
 參考 1973 Embree台英辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/taibar1)
 
@@ -93,7 +93,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "噪眉", 
 **台語名**
 
 - ◆ **中國花眉 tiong-ko-hue-bâi**
-- ✳ 花眉仔 hue-bâi-á
+- △ 花眉仔 hue-bâi-á
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/melthr)
 
@@ -108,7 +108,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "噪眉", 
 **台語名**
 
 - ◆ **台灣花眉 tâi-uân-hue-bâi**
-- ✳ 花眉仔 hue-bâi-á
+- △ 花眉仔 hue-bâi-á
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/taihwa1)
 
@@ -123,7 +123,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "噪眉", 
 **台語名**
 
 - ◆ **烏喉花眉 oo-âu-hue-bâi**
-- ✳ 花眉仔 hue-bâi-á
+- △ 花眉仔 hue-bâi-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/bltlau1)
 
@@ -138,7 +138,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "噪眉", 
 **台語名**
 
 - ◆ **白面花眉 pe̍h-bīn-hue-bâi**
-- ✳ 花眉仔 hue-bâi-á
+- △ 花眉仔 hue-bâi-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/whblau1)
 
@@ -153,7 +153,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "噪眉", 
 **台語名**
 
 - ◆ **烏面花眉 oo-bīn-hue-bâi**
-- ✳ 花眉仔 hue-bâi-á
+- △ 花眉仔 hue-bâi-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/maslau1)
 
@@ -168,7 +168,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "噪眉", 
 **台語名**
 
 - ◆ **台灣白喉花眉 tâi-uân-pe̍h-âu-hue-bâi**
-- ✳ 花眉仔 hue-bâi-á
+- △ 花眉仔 hue-bâi-á
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/ruclau2)
 
@@ -183,6 +183,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "噪眉", 
 **台語名**
 
 - ◆ **竹林花眉 tik-lîm-hue-bâi**
-- ✳ 花眉仔 hue-bâi-á
+- △ 花眉仔 hue-bâi-á
 
 參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/ruslau1)

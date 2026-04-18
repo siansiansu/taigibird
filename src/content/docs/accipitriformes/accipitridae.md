@@ -108,7 +108,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - ◆ **林鷹 lîm-ing**
 - ◆ **烏毛跤鷹 pe̍h-moo-kha-ing**
 - 林鵰 lîm-tiau
-- ✳ 鷹仔 ing-á
+- △ 鷹仔 ing-á
 
 [《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/blaeag1)
 
@@ -266,7 +266,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - ◆ 紅肚鷹 âng-tóo-ing
 - ◆ 紅腹鷹 âng-pak-ing
 - 赤腹鷹 tshiah-pak-ing
-- ✳ 鷹仔 ing-á
+- △ 鷹仔 ing-á
 
 2002⁺ 台華線頂辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/grfhaw1)
 
@@ -459,7 +459,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 - ◆ **毛跤鵟 moo-kha-kông**
 - ◆ **毛跤鷹 moo-kha-ing**
-- ✳ 鷹仔 ing-á
+- △ 鷹仔 ing-á
 
 1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/rolhaw)
 

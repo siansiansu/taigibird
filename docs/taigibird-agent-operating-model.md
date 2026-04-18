@@ -43,7 +43,7 @@ Use when checking an existing entry or family document.
 Primary checks:
 
 - entry structure matches `docs/species-markdown-template.md`
-- `台語名` section clearly distinguishes `◆`, `◇`, and `✳`
+- `台語名` section clearly distinguishes `◆`, `◇`, and `△`
 - `號名理由` is present and explicit
 - every species entry should try to include a naming explanation rather than only a source label
 - `參考資料` lists the sources actually used
@@ -78,7 +78,7 @@ Expected output shape:
 
 - `◆` for the primary recommendation
 - `◇` for accepted alternates
-- `✳` for generic labels
+- `△` for generic labels
 
 Do not promote a weakly supported constructed name to `◆` without an explicit rationale.
 When the final name depends on visible bird traits, explain those traits directly in the naming note.

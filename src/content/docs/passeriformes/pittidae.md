@@ -16,9 +16,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "抾箬仔
 
 - ◆ **青翼抾箬仔 tshenn-si̍t-khioh-ha̍h-á**
 - 藍翼八色鳥 lâm-si̍t-peh-sik-tsiáu
-- ✳ 青翼仔 tshenn-si̍t-á
-- ✳ 抾箬仔 khioh-ha̍h-á
-- ✳ 八色鳥 peh-sik-tsiáu
+- △ 青翼仔 tshenn-si̍t-á
+- △ 抾箬仔 khioh-ha̍h-á
+- △ 八色鳥 peh-sik-tsiáu
 
 參考英語、[eBird 資料](https://ebird.org/species/blwpit1)
 
@@ -50,8 +50,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "抾箬仔
 
 - ◆ **青胸抾箬仔 tshenn-hing-khioh-ha̍h-á**
 - 青胸八色鳥 tshenn-hing-peh-sik-tsiáu
-- ✳ 青翼仔 tshenn-si̍t-á
-- ✳ 抾箬仔 khioh-ha̍h-á
-- ✳ 八色鳥 peh-sik-tsiáu
+- △ 青翼仔 tshenn-si̍t-á
+- △ 抾箬仔 khioh-ha̍h-á
+- △ 八色鳥 peh-sik-tsiáu
 
 參考特徵、[eBird 資料](https://ebird.org/species/wehpit1)

@@ -389,5 +389,5 @@ If none of these are met, the recommendation should not be treated as strong.
 
 - strong native-name coverage
 - moderate ambiguity in multiple-`◆` entries
-- good use of umbrella markers `✳`
+- good use of umbrella markers `△`
 - weak evidence notes where a constructed species-level recommendation appears without a stated reason
