@@ -1,12 +1,12 @@
 ---
 title: 鸕鷀科 lôo-tsî-kho
-description: 鸕鷀（lôo-tsî）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄鸕鷀科 lôo-tsî-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸕鷀"]
 ---
 
-鸕鷀（lôo-tsî）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄鸕鷀科 lôo-tsî-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 海鸕鷀 ヒメウ Pelagic Cormorant
+## 海鸕鷀 ヒメウ Pelagic Cormorant [[eBird](https://ebird.org/species/pelcor)]
 
 ![海鸕鷀 ヒメウ Pelagic Cormorant](https://inaturalist-open-data.s3.amazonaws.com/photos/12228141/medium.jpg)
 
@@ -14,16 +14,20 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸕鷀"]
 
 **台語名**
 
-- 🎯 **海鸕鷀 hái-lôo-tsî**
-- ✳️ 老仔 lāu-á
-- ✳️ 鶿鸕 tsû-lôo
-- ✳️ 烏魚郎 oo-hî-lông
+- ◆ **海鸕鷀 hái-lôo-tsî**
+- △ 老仔 lāu-á
+- △ 鶿鸕 tsû-lôo
+- △ 烏魚郎 oo-hî-lông
 
-參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、華語鳥類名錄、[eBird 資料](https://ebird.org/species/pelcor)
+**號名理路**
+
+- `海鸕鷀 hái-lôo-tsî` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 鸕鷀 カワウ Great Cormorant
+## 鸕鷀 カワウ Great Cormorant [[eBird](https://ebird.org/species/grecor)]
 
 ![鸕鷀 カワウ Great Cormorant](https://inaturalist-open-data.s3.amazonaws.com/photos/141367445/medium.jpg)
 
@@ -31,16 +35,20 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸕鷀"]
 
 **台語名**
 
-- 🎯 **鸕鷀 lôo-tsî**
-- ✳️ 老仔 lāu-á
-- ✳️ 鶿鸕 tsû-lôo
-- ✳️ 烏魚郎 oo-hî-lông
+- ◆ **鸕鷀 lôo-tsî**
+- △ 老仔 lāu-á
+- △ 鶿鸕 tsû-lôo
+- △ 烏魚郎 oo-hî-lông
 
-參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、華語鳥類名錄、[eBird 資料](https://ebird.org/species/grecor)
+**號名理路**
+
+- `鸕鷀 lôo-tsî` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 丹氏鸕鷀 ウミウ Japanese Cormorant
+## 丹氏鸕鷀 ウミウ Japanese Cormorant [[eBird](https://ebird.org/species/japcor1)]
 
 ![丹氏鸕鷀 ウミウ Japanese Cormorant](https://inaturalist-open-data.s3.amazonaws.com/photos/2744316/medium.jpg)
 
@@ -48,10 +56,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸕鷀"]
 
 **台語名**
 
-- 🎯 **丹氏鸕鷀 tan-sī-lôo-tsî**
-- 🎯 **日本鸕鷀 ji̍t-pún-lôo-tsî**
-- ✳️ 老仔 lāu-á
-- ✳️ 鶿鸕 tsû-lôo
-- ✳️ 烏魚郎 oo-hî-lông
+- ◆ **丹氏鸕鷀 tan-sī-lôo-tsî**
+- ◆ **日本鸕鷀 ji̍t-pún-lôo-tsî**
+- △ 老仔 lāu-á
+- △ 鶿鸕 tsû-lôo
+- △ 烏魚郎 oo-hî-lông
 
-參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、華語鳥類名錄、[eBird 資料](https://ebird.org/species/japcor1)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。

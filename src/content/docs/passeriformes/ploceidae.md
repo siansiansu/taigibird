@@ -1,12 +1,12 @@
 ---
 title: 織布筆仔科 tsit-pòo-pit-á-kho
-description: 織布筆仔科（tsit-pòo-pit-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄織布筆仔科 tsit-pòo-pit-á-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "織布筆仔", "黑頭織雀"]
 ---
 
-織布筆仔科（tsit-pòo-pit-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄織布筆仔科 tsit-pòo-pit-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 黑頭織雀 ズグロウロコハタオリ Village Weaver
+## 黑頭織雀 ズグロウロコハタオリ Village Weaver [[eBird](https://ebird.org/species/vilwea1)]
 
 ![黑頭織雀 ズグロウロコハタオリ Village Weaver](https://inaturalist-open-data.s3.amazonaws.com/photos/454393323/medium.jpg)
 
@@ -14,6 +14,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "織布筆
 
 **台語名**
 
-🎯 **烏頭織布鳥 oo-thâu-tsit-pòo-tsiáu**
+- ◆ **烏頭織布鳥 oo-thâu-tsit-pòo-tsiáu**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/vilwea1)
+**號名理路**
+
+- `烏頭織布鳥 oo-thâu-tsit-pòo-tsiáu` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。

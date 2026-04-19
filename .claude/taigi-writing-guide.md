@@ -1,187 +1,27 @@
-# 台語文書寫風格指南 — taigibird 專案
+# Taigibird Writing Guide Pointer
 
-基於台文通訊 BONG 報 1,942 篇語料分析，搭配 taigibird 專案現有內容整理。
+This file is a thin pointer for Claude-facing workflows.
 
-## 拼音系統
+Canonical project writing and naming standards live in:
 
-本專案使用 **Tâi-lô（臺灣閩南語羅馬字拼音方案）** 做標準：
+- `docs/taigi-language-background.md`
+- `docs/species-markdown-template.md`
+- `docs/taigi-bird-name-review-agent-spec.md`
 
-| 聲調 | 符號 | 範例 |
-|------|------|------|
-| 第 1 聲（高平） | 無標 | a, e, i, o, u |
-| 第 2 聲（上升） | á | tsiáu, suá |
-| 第 3 聲（低降） | à | àm, bàng |
-| 第 4 聲（低入） | -h | tsia̍h, pe̍h |
-| 第 5 聲（高升） | â | thâu, n̂g |
-| 第 7 聲（中平） | ā | ē, tsū |
-| 第 8 聲（高入） | -̍h | tsa̍p, si̍t |
+Use those files as the primary source of truth.
 
-### Tâi-lô vs POJ 對照
+## Why this file exists
 
-| Tâi-lô | POJ | 說明 |
-|--------|-----|------|
-| ts | ch | 舌尖塞擦音 |
-| tsh | chh | 送氣舌尖塞擦音 |
-| j | j/l | 濁音 |
-| ua | oa | 雙元音 |
-| ue | oe | 雙元音 |
-| ik | ek | 韻母 |
-| inn | iⁿ | 鼻化元音 |
-| unn | oaⁿ | 鼻化元音 |
+- `.claude/` is where Claude-specific skills look for local guidance.
+- `docs/` is tracked and should hold the actual shared standards.
+- This avoids maintaining two divergent copies of the same rules.
 
-## 漢羅混寫規則
+## Read Order
 
-### 必須用羅馬字的詞
+1. `docs/taigi-language-background.md`
+2. `docs/species-markdown-template.md`
+3. `docs/taigi-bird-name-review-agent-spec.md`
 
-根據語料頻率分析，以下功能詞一律使用羅馬字：
+## Local Reminder
 
-**助詞/語尾詞：**
-- ê（的/个）— 使用頻率最高
-- ah（矣，表完成/感嘆）
-- lah（啦，表強調）
-- neh（呢，表疑問）
-- ooh（喔，表驚嘆）
-
-**否定詞：**
-- m̄（毋，否定）
-- bē / buē（袂，表無能力）
-- bô（無）
-
-**動詞助詞/時態標記：**
-- beh（欲，表未來/意願）
-- leh（咧，表進行）
-- koh（閣，表再次）
-- tio̍h（著，表完成/必須）
-- thang（通，表可以）
-
-**連接詞/介詞：**
-- kap（佮，和/跟）
-- iah（抑，或）
-- tī（佇，在）
-- hōo（予，給）
-
-**指示詞：**
-- tsit（這）
-- hit（彼）
-- tsia（遮，這裡）
-- hia（遐，那裡）
-
-**副詞/程度詞：**
-- khah（較，比較）
-- tsiok（足，很）
-- kan-na（干焦，只有）
-- siōng（上，最）
-
-### 用漢字的詞
-
-- 名詞/實詞：鳥、山、水、林、頭、尾
-- 正式/文學用語
-- 專有名詞（地名、人名）
-- 抽象概念
-
-### 混寫原則
-
-1. 自然流暢為主，無嚴格界線
-2. 同一篇文章內拼音系統要一致（用 Tâi-lô）
-3. 連字號 `-` 連接多音節羅馬字詞：`niau-thâu-tsiáu`
-4. 漢字佮羅馬字中間免加空白：`食老khah無力`
-
-## 鳥仔名命名規則
-
-### 組合結構
-
-台語鳥名遵循：**[大小/色彩/地理] + [特徵] + [類別]**
-
-**範例：**
-- 色彩 + 身體 + 類別：紅頭山雀 âng-thâu-suann-tshiok
-- 大小 + 特徵 + 類別：小喙烏鴉 sió-tshuì-oo-a
-- 地理 + 描述 + 類別：蘭嶼貓頭鳥 lân-sū-niau-thâu-tsiáu
-
-### 常用鳥類詞彙
-
-**色彩：**
-| 漢字 | Tâi-lô | 意思 |
-|------|--------|------|
-| 烏 | oo | 黑 |
-| 紅 | âng | 紅（鮮） |
-| 赤 | tshiah | 紅（暗） |
-| 白 | pe̍h | 白 |
-| 黃 | n̂g | 黃 |
-| 藍 | nâ | 藍 |
-| 殕色 | phú-sik | 灰 |
-
-**身體部位：**
-| 漢字 | Tâi-lô | 意思 |
-|------|--------|------|
-| 喙 | tshuì | 嘴/喙 |
-| 頭 | thâu | 頭 |
-| 尾 | bué | 尾 |
-| 耳 | hīnn | 耳 |
-| 胸 | hing | 胸 |
-| 頸 | kún | 頸 |
-| 跤 | kha | 腳 |
-
-**大小：**
-| 漢字 | Tâi-lô | 意思 |
-|------|--------|------|
-| 大 | tuā | 大 |
-| 小/細 | sió/sè | 小 |
-| 長 | tn̂g | 長 |
-| 短 | té | 短 |
-
-**棲地：**
-| 漢字 | Tâi-lô | 意思 |
-|------|--------|------|
-| 山 | suann | 山 |
-| 林 | lîm | 林 |
-| 水 | tsuí | 水 |
-| 海 | hái | 海 |
-| 溪 | khe | 溪 |
-| 田 | tshân | 田 |
-
-**鳥類通稱：**
-| 漢字 | Tâi-lô | 意思 |
-|------|--------|------|
-| 鳥/鳥仔 | tsiáu/tsiáu-á | 鳥（仔 = 小稱） |
-| 鴞 | hiau | 貓頭鷹類 |
-| 鷹 | ing | 鷹/鸇類 |
-| 鴉 | a | 烏鴉類 |
-| 鵐仔 | bû-á | 鵐類 |
-| 鶲仔 | ong-á | 鶲類 |
-
-### 命名優先順序
-
-1. 有現成台語名就用現成的
-2. 若台語名是通稱（共用佇多種），加描述性前綴區分
-3. 若無現成台語名，參考華語/英語/日語名佮鳥仔特徵
-4. 分類群名使用台語固有名稱
-5. 羅馬字用 Tâi-lô
-
-## 條目格式
-
-```markdown
-## 華語名 日語名 English Name
-
-![華語名 日語名 English Name](iNaturalist 相片網址)
-
-(c) 作者
-
-**台語名**
-
-- 🎯 **推薦台語名 tâi-lô-phing-im**
-- ✳️ 通稱台語名 tâi-lô-phing-im
-
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/CODE)
-```
-
-**符號說明：**
-- 🎯 = 推薦名（特有/首選）
-- ✳️ = 通稱（多種共用）
-
-## 書寫風格注意事項
-
-- 用 `臺灣`（毋是 `台灣`）佇鳥種名
-- 用 `鸕鷀`（毋是 `鸕鶿`）
-- 用 `杓鷸`（毋是 `勺鷸`）
-- 圖片 alt text 愛佮 `##` 標題完全一致
-- 逐種鳥仔攏愛有 eBird 連結
+If a Claude skill or note in `.claude/` conflicts with the files above, update the `.claude/` reference and follow the `docs/` version.

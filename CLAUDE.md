@@ -34,9 +34,22 @@ src/content/docs/
 - Custom components: `src/components/Header.astro` (navbar links), `src/components/Footer.astro` (social links + copyright)
 - Custom CSS: `src/styles/custom.css` (grayscale Apple theme, `--sl-*` variables)
 
+## Canonical Specs
+
+Use `docs/` as the single source of truth for project standards.
+
+- `docs/species-markdown-template.md` — canonical species entry template
+- `docs/taigi-bird-name-review-agent-spec.md` — naming review workflow and evidence rules
+- `docs/taigi-language-background.md` — Taigi language baseline and lookup guidance
+- `docs/taigibird-agent-operating-model.md` — shared agent workflow distilled from `.claude/skills/`
+
+If a summary in `CLAUDE.md` or `.claude/` differs from these files, follow the `docs/` version.
+
 ## Species Entry Format
 
-Every bird species follows this exact pattern:
+Every bird species should follow the canonical template in `docs/species-markdown-template.md`.
+
+Minimum structure:
 
 ```markdown
 ## ChineseName JapaneseName English Name
@@ -47,16 +60,27 @@ Every bird species follows this exact pattern:
 
 **台語名**
 
-- 🎯 **RecommendedTaigiName romanization**
-- ✳️ GenericName romanization
+- ◆ **RecommendedTaigiName romanization**
+- ◇ AlternateName romanization
+- △ GenericName romanization
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/CODE)
+**號名理由**
+
+- Primary basis:
+- Selection reason:
+
+**參考資料**
+
+- [eBird 資料](https://ebird.org/species/CODE)
 ```
 
-- `🎯` = recommended Taigi name
-- `✳️` = generic/umbrella term shared across species
+- `◆` = primary recommended name for this species
+- `◇` = accepted alternate / regional / historical / secondary candidate
+- `△` = generic/umbrella term shared across species
 - Image alt text must match the `##` heading exactly
 - eBird link is required for every species
+- `**號名理由**` and `**參考資料**` are required
+- Use `**註解**` when the entry keeps multiple `◆` items or remains source-sensitive
 
 ## Naming Rules
 

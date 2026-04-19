@@ -1,12 +1,12 @@
 ---
 title: 細喙鶲科 suè-tshuì-ong-kho
-description: 方尾鶲（hong-bué-ong）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄細喙鶲科 suè-tshuì-ong-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "方尾鶲"]
 ---
 
-方尾鶲（hong-bué-ong）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄細喙鶲科 suè-tshuì-ong-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 方尾鶲 ハイガシラヒタキ Gray-headed Canary-Flycatcher
+## 方尾鶲 ハイガシラヒタキ Gray-headed Canary-Flycatcher [[eBird](https://ebird.org/species/gyhcaf1)]
 
 ![方尾鶲 ハイガシラヒタキ Gray-headed Canary-Flycatcher](https://inaturalist-open-data.s3.amazonaws.com/photos/233959471/medium.jpeg)
 
@@ -14,6 +14,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "方尾鶲
 
 **台語名**
 
-🎯 **方尾鶲 hong-bué-ong**
+- ◆ **方尾鶲 hong-bué-ong**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gyhcaf1)
+**號名理路**
+
+- `方尾鶲 hong-bué-ong` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。

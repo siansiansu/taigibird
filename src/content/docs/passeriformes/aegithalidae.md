@@ -1,12 +1,12 @@
 ---
 title: 長尾山雀科 tn̂g-bué-suann-tshiok-kho
-description: 長尾山雀科（tn̂g-bué-suann-tshiok-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄長尾山雀科 tn̂g-bué-suann-tshiok-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "長尾山雀", "紅頭山雀"]
 ---
 
-長尾山雀科（tn̂g-bué-suann-tshiok-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄長尾山雀科 tn̂g-bué-suann-tshiok-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 紅頭山雀 ズアカエナガ Black-throated Tit
+## 紅頭山雀 ズアカエナガ Black-throated Tit [[eBird](https://ebird.org/species/blttit2)]
 
 ![紅頭山雀 ズアカエナガ Black-throated Tit](https://inaturalist-open-data.s3.amazonaws.com/photos/57372256/medium.jpeg)
 
@@ -14,7 +14,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "長尾山
 
 **台語名**
 
-- 🎯 **紅頭山雀 âng-thâu-suann-tshiok**
-- ✳️ 紅頭仔 âng-thâu-á
+- ◆ **紅頭山雀 âng-thâu-suann-tshiok**
+- △ 紅頭仔 âng-thâu-á
 
-1973 Embree台英辭典、[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/blttit2)
+**號名理路**
+
+- `紅頭山雀 âng-thâu-suann-tshiok` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。

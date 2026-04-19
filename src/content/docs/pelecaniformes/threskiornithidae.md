@@ -1,12 +1,12 @@
 ---
 title: 䴉科 hiân-kho
-description: 䴉科（hiân-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄䴉科 hiân-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "琵鷺"]
 ---
 
-䴉科（hiân-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄䴉科 hiân-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 彩䴉 ブロンズトキ Glossy Ibis
+## 彩䴉 ブロンズトキ Glossy Ibis [[eBird](https://ebird.org/species/gloibi)]
 
 ![彩䴉 ブロンズトキ Glossy Ibis](https://inaturalist-open-data.s3.amazonaws.com/photos/29367762/medium.jpg)
 
@@ -14,13 +14,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 
 **台語名**
 
-🎯 **彩䴉 tshái-hiân**
+- ◆ **彩䴉 tshái-hiân**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gloibi)
+**號名理路**
+
+- `彩䴉 tshái-hiân` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 埃及聖䴉 African Sacred Ibis
+## 埃及聖䴉 African Sacred Ibis [[eBird](https://ebird.org/species/sacibi2)]
 
 ![埃及聖䴉 African Sacred Ibis](https://inaturalist-open-data.s3.amazonaws.com/photos/358607580/medium.jpg)
 
@@ -28,13 +31,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 
 **台語名**
 
-🎯 **埃及聖䴉 ai-ki̍p-sìng-hiân**
+- ◆ **埃及聖䴉 ai-ki̍p-sìng-hiân**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sacibi2)
+**號名理路**
+
+- `埃及聖䴉 ai-ki̍p-sìng-hiân` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 黑頭白䴉 クロトキ Black-headed Ibis
+## 黑頭白䴉 クロトキ Black-headed Ibis [[eBird](https://ebird.org/species/blhibi1)]
 
 ![黑頭白䴉 クロトキ Black-headed Ibis](https://inaturalist-open-data.s3.amazonaws.com/photos/482243533/large.jpeg)
 
@@ -42,14 +48,17 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 
 **台語名**
 
-- 🎯 **烏朱鷺 oo-tsu-lōo**
-- 🎯 **烏頭白䴉 oo-thâu-pe̍h-hiân**
+- ◆ **烏朱鷺 oo-tsu-lōo**
+- ◆ **烏頭白䴉 oo-thâu-pe̍h-hiân**
 
-參考日語、[eBird 資料](https://ebird.org/species/blhibi1)
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 朱鷺 トキ Crested Ibis
+## 朱鷺 トキ Crested Ibis [[eBird](https://ebird.org/species/creibi1)]
 
 ![朱鷺 トキ Crested Ibis](https://inaturalist-open-data.s3.amazonaws.com/photos/85404012/medium.jpeg)
 
@@ -57,13 +66,16 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 
 **台語名**
 
-🎯 **朱鷺 tsu-lōo**
+- ◆ **朱鷺 tsu-lōo**
 
-參考日語、[eBird 資料](https://ebird.org/species/creibi1)
+**號名理路**
+
+- `朱鷺 tsu-lōo` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 白琵鷺 ヘラサギ Eurasian Spoonbill
+## 白琵鷺 ヘラサギ Eurasian Spoonbill [[eBird](https://ebird.org/species/eurspo1)]
 
 ![白琵鷺 ヘラサギ Eurasian Spoonbill](https://inaturalist-open-data.s3.amazonaws.com/photos/166959755/medium.jpg)
 
@@ -71,15 +83,19 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 
 **台語名**
 
-- 🎯 **白面抐桮 pe̍h-bīn-lā-pue**
-- ✳️ 抐桮 lā-pue
-- ✳️ 飯匙鵝 puīnn-sî-gô
+- ◆ **白面抐桮 pe̍h-bīn-lā-pue**
+- △ 抐桮 lā-pue
+- △ 飯匙鵝 puīnn-sî-gô
 
-參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/eurspo1)
+**號名理路**
+
+- `白面抐桮 pe̍h-bīn-lā-pue` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## 黑面琵鷺 クロツラヘラサギ Black-faced Spoonbill
+## 黑面琵鷺 クロツラヘラサギ Black-faced Spoonbill [[eBird](https://ebird.org/species/blfspo1)]
 
 ![黑面琵鷺 クロツラヘラサギ Black-faced Spoonbill](https://inaturalist-open-data.s3.amazonaws.com/photos/178839289/medium.jpeg)
 
@@ -87,8 +103,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 
 **台語名**
 
-- 🎯 **烏面抐桮 oo-bīn-lā-pue**
-- ✳️ 抐桮 lā-pue
-- ✳️ 飯匙鵝 puīnn-sî-gô
+- ◆ **烏面抐桮 oo-bīn-lā-pue**
+- △ 抐桮 lā-pue
+- △ 飯匙鵝 puīnn-sî-gô
 
-參考[《Hîng guá Tâi-uân Tsiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/blfspo1)
+**號名理路**
+
+- `烏面抐桮 oo-bīn-lā-pue` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。

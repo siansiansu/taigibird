@@ -1,12 +1,12 @@
 ---
 title: 攀雀科 phan-tshiok-kho
-description: 攀雀科（phan-tshiok-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+description: 收錄攀雀科 phan-tshiok-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "攀雀"]
 ---
 
-攀雀科（phan-tshiok-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+這頁收錄攀雀科 phan-tshiok-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
 
-## 攀雀 ツリスガラ Chinese Penduline-Tit
+## 攀雀 ツリスガラ Chinese Penduline-Tit [[eBird](https://ebird.org/species/chptit1)]
 
 ![攀雀 ツリスガラ Chinese Penduline-Tit](https://inaturalist-open-data.s3.amazonaws.com/photos/2744070/medium.jpg)
 
@@ -14,6 +14,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "攀雀"]
 
 **台語名**
 
-🎯 **攀雀 phan-tshiok**
+- ◆ **攀雀 phan-tshiok**
 
-參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chptit1)
+**號名理路**
+
+- `攀雀 phan-tshiok` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
