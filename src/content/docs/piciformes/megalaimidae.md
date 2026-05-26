@@ -4,7 +4,7 @@ description: 收錄鬚鴷科 tshuì-lia̍t-kho ê 台語號名，做未來命名
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "五色鳥"]
 ---
 
-這頁收錄鬚鴷科 tshuì-lia̍t-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄鬚鴷科 tshuì-lia̍t-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 五色鳥 タイワンゴシキドリ Taiwan Barbet [[eBird](https://ebird.org/species/taibar2)]
 

@@ -4,7 +4,7 @@ description: 收錄鶯科 ing-kho ê 台語號名，做未來命名討論 ê 參
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶯科", "林鶯"]
 ---
 
-這頁收錄鶯科 ing-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄鶯科 ing-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 白喉林鶯 コノドジロムシクイ Lesser Whitethroat [[eBird](https://ebird.org/species/leswhi4)]
 

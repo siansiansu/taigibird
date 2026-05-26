@@ -4,7 +4,7 @@ description: 收錄雀眉科 tshiok-bâi-kho ê 台語號名，做未來命名�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雀眉", "頭烏線"]
 ---
 
-這頁收錄雀眉科 tshiok-bâi-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄雀眉科 tshiok-bâi-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 頭烏線 チメドリ Dusky Fulvetta [[eBird](https://ebird.org/species/dusful1)]
 

@@ -4,7 +4,7 @@ description: 收錄椋鳥科 liông-tsiáu-kho ê 台語號名，做未來命名
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", "椋鳥", "鵁鴒"]
 ---
 
-這頁收錄椋鳥科 liông-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄椋鳥科 liông-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 亞洲輝椋鳥 ミドリカラスモドキ Asian Glossy Starling [[eBird](https://ebird.org/species/asgsta1)]
 

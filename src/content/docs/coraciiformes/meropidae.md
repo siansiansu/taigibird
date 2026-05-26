@@ -4,7 +4,7 @@ description: 收錄食蜂鳥科 tsia̍h-phang-tsiáu-kho ê 台語號名，做�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜂鳥", "蜂虎"]
 ---
 
-這頁收錄食蜂鳥科 tsia̍h-phang-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄食蜂鳥科 tsia̍h-phang-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 藍喉蜂虎 ルリノドハチクイ Blue-throated Bee-eater [[eBird](https://ebird.org/species/btbeat2)]
 

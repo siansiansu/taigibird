@@ -4,7 +4,7 @@ description: 收錄長尾山雀科 tn̂g-bué-suann-tshiok-kho ê 台語號名�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "長尾山雀", "紅頭山雀"]
 ---
 
-這頁收錄長尾山雀科 tn̂g-bué-suann-tshiok-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄長尾山雀科 tn̂g-bué-suann-tshiok-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 紅頭山雀 ズアカエナガ Black-throated Tit [[eBird](https://ebird.org/species/blttit2)]
 
@@ -20,4 +20,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "長尾山
 **號名理路**
 
 - `紅頭山雀 âng-thâu-suann-tshiok` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
-- `△` 形式屬較闊 ê 統稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- △ 形式屬較闊 ê 通稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。

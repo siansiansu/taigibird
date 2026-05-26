@@ -4,7 +4,7 @@ description: 收錄水叮噹科 tsuí-tin-tang-kho ê 台語號名，做未來�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "水叮噹", "河烏"]
 ---
 
-這頁收錄水叮噹科 tsuí-tin-tang-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄水叮噹科 tsuí-tin-tang-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 河烏 カワガラス Brown Dipper [[eBird](https://ebird.org/species/brodip1)]
 

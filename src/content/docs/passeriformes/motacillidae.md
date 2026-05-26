@@ -4,7 +4,7 @@ description: 收錄牛屎鳥科 gû-sái-tsiáu-kho ê 台語號名，做未來�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "牛屎鳥", "鶺鴒"]
 ---
 
-這頁收錄牛屎鳥科 gû-sái-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄牛屎鳥科 gû-sái-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 山鶺鴒 イワミセキレイ Forest Wagtail [[eBird](https://ebird.org/species/forwag1)]
 

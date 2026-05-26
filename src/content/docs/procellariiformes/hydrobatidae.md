@@ -4,7 +4,7 @@ description: 收錄海燕仔科 hái-iàn-á-kho ê 台語號名，做未來命�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海燕"]
 ---
 
-這頁收錄海燕仔科 hái-iàn-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄海燕仔科 hái-iàn-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 黃蹼洋海燕 アシナガウミツバメ Wilson's Storm-Petrel [[eBird](https://ebird.org/species/wispet)]
 

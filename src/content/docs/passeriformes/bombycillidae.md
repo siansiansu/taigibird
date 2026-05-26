@@ -4,7 +4,7 @@ description: 收錄連雀科 liân-tshiok-kho ê 台語號名，做未來命名�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "連雀"]
 ---
 
-這頁收錄連雀科 liân-tshiok-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄連雀科 liân-tshiok-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 朱連雀 ヒレンジャク Japanese Waxwing [[eBird](https://ebird.org/species/japwax1)]
 

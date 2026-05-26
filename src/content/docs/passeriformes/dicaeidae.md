@@ -4,7 +4,7 @@ description: 收錄啄花科 tok-hue-kho ê 台語號名，做未來命名討論
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄花"]
 ---
 
-這頁收錄啄花科 tok-hue-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄啄花科 tok-hue-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 綠啄花 ムジハナドリ Plain Flowerpecker [[eBird](https://ebird.org/species/plaflo2)]
 

@@ -4,7 +4,7 @@ description: 收錄鳩鴿科 khiu-kah-kho ê 台語號名，做未來命名討�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", "鴿子"]
 ---
 
-這頁收錄鳩鴿科 khiu-kah-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄鳩鴿科 khiu-kah-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 野鴿(野化) カワラバト Rock Pigeon (Feral Pigeon) [[eBird](https://ebird.org/species/rocpig1)]
 

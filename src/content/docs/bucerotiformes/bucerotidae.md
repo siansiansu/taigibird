@@ -4,7 +4,7 @@ description: 收錄犀鳥科 sai-tsiáu-kho ê 台語號名，做未來命名討
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "犀鳥"]
 ---
 
-這頁收錄犀鳥科 sai-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄犀鳥科 sai-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## シロクロサイチョウ White-crowned Hornbill [[eBird](https://ebird.org/species/whchor2)]
 

@@ -4,7 +4,7 @@ description: 收錄熱帶鳥科 jia̍t-tài-tsiáu-kho ê 台語號名，做未�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "熱帶鳥"]
 ---
 
-這頁收錄熱帶鳥科 jia̍t-tài-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄熱帶鳥科 jia̍t-tài-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 白尾熱帶鳥 シラオネッタイチョウ White-tailed Tropicbird [[eBird](https://ebird.org/species/whttro)]
 

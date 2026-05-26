@@ -4,7 +4,7 @@ description: 收錄鸌科 hōo-kho ê 台語號名，做未來命名討論 ê �
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸌", "穴鳥"]
 ---
 
-這頁收錄鸌科 hōo-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄鸌科 hōo-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 暴風鸌 フルマカモメ Northern Fulmar [[eBird](https://ebird.org/species/norful)]
 

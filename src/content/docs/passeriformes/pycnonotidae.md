@@ -4,7 +4,7 @@ description: 收錄鵯仔科 pi-á-kho ê 台語號名，做未來命名討論 �
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵯仔", "白頭翁"]
 ---
 
-這頁收錄鵯仔科 pi-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄鵯仔科 pi-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 栗背短腳鵯 クリイロヒヨドリ Chestnut Bulbul [[eBird](https://ebird.org/species/chebul1)]
 

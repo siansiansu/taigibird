@@ -4,7 +4,7 @@ description: 收錄織布筆仔科 tsit-pòo-pit-á-kho ê 台語號名，做未
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "織布筆仔", "黑頭織雀"]
 ---
 
-這頁收錄織布筆仔科 tsit-pòo-pit-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄織布筆仔科 tsit-pòo-pit-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 黑頭織雀 ズグロウロコハタオリ Village Weaver [[eBird](https://ebird.org/species/vilwea1)]
 

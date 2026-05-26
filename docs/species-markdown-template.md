@@ -28,7 +28,7 @@ Use the symbols below consistently.
 
 - `◆`: Primary recommended name for this species entry. In principle, keep this to one item. If more than one `◆` is kept, the note must explain why they are coequal.
 - `◇`: Accepted alternate name, regional variant, historical form, or secondary candidate that should be preserved but is not the primary recommendation.
-- `△`: Generic or umbrella term that can refer to more than one species.
+- △: Generic or umbrella term that can refer to more than one species.
 
 Do not use multiple `◆` items without explanation. If a name is retained for documentation but is not the main recommendation, use `◇` instead.
 
@@ -44,7 +44,7 @@ This paragraph should do two jobs at once:
 Recommended pattern:
 
 ```md
-這頁收錄這个分類或物種 ê 台語號名，並列對照相關語言資料做命名討論參考。`◆` 表示建議用名，`◇` 表示別名或保留用法，`△` 表示統稱。
+這頁收錄這个分類或物種 ê 台語號名，並列對照相關語言資料做命名討論參考。`◆` 表示建議用名，`◇` 表示別名或保留用法，△ 表示通稱。
 ```
 
 Keep this paragraph short. Avoid splitting content scope and symbol explanation into two separate introductory notes unless there is a strong reason.
@@ -78,7 +78,7 @@ Place one short intro paragraph after the frontmatter and before the first speci
 Guidelines:
 
 - explain what material the page collects
-- mention symbol usage once if the page uses `◆` / `◇` / `△`
+- mention symbol usage once if the page uses `◆` / `◇` / △
 - avoid repeating the same idea in multiple paragraphs
 - keep it shorter than a normal section body
 
@@ -90,7 +90,7 @@ Recommended order:
 
 1. `◆` primary recommended name
 2. `◇` alternate names
-3. `△` umbrella terms
+3. △ umbrella terms
 
 Preferred format:
 
@@ -105,7 +105,7 @@ Guidelines:
 - Bold the primary recommended name.
 - Prefer one `◆` per entry.
 - Use `◇` for forms that are attested but not selected as the primary recommendation.
-- Use `△` only for names that genuinely apply to multiple species.
+- Use △ only for names that genuinely apply to multiple species.
 
 ### `**號名理路**`
 
@@ -169,7 +169,7 @@ Suggested format:
 ## Copy-Paste Template
 
 ```md
-這頁收錄這个分類或物種 ê 台語號名，並列對照相關語言資料做命名討論參考。`◆` 表示建議用名，`◇` 表示別名或保留用法，`△` 表示統稱。
+這頁收錄這个分類或物種 ê 台語號名，並列對照相關語言資料做命名討論參考。`◆` 表示建議用名，`◇` 表示別名或保留用法，△ 表示通稱。
 
 ## 華語名 日語名 English name [[eBird](E_BIRD_URL)]
 

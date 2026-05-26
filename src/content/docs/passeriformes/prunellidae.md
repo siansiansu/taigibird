@@ -4,7 +4,7 @@ description: 收錄岩鷚科 gān-liù-kho ê 台語號名，做未來命名討�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "岩鷚"]
 ---
 
-這頁收錄岩鷚科 gān-liù-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄岩鷚科 gān-liù-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 岩鷚 イワヒバリ Alpine Accentor [[eBird](https://ebird.org/species/alpacc1)]
 

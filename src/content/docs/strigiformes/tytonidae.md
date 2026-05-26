@@ -4,7 +4,7 @@ description: 收錄猴面鷹科 kâu-bīn-ing-kho ê 台語號名，做未來命
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "猴面鷹", "草鴞"]
 ---
 
-這頁收錄猴面鷹科 kâu-bīn-ing-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄猴面鷹科 kâu-bīn-ing-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 草鴞 ヒガシメンフクロウ Australasian Grass-Owl [[eBird](https://ebird.org/species/ausgro1)]
 

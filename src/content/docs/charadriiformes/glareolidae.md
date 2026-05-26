@@ -4,7 +4,7 @@ description: 收錄草埔燕仔科 tsháu-poo-iàn-á-kho ê 台語號名，做�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "草埔燕仔", "燕鴴"]
 ---
 
-這頁收錄草埔燕仔科 tsháu-poo-iàn-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄草埔燕仔科 tsháu-poo-iàn-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 燕鴴 ツバメチドリ Oriental Pratincole [[eBird](https://ebird.org/species/oripra)]
 

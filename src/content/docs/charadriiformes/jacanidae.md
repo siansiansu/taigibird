@@ -4,7 +4,7 @@ description: 收錄菱角鳥科 lîng-kak-tsiáu-kho ê 台語號名，做未來
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "菱角鳥", "水雉"]
 ---
 
-這頁收錄菱角鳥科 lîng-kak-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示統稱。
+這頁收錄菱角鳥科 lîng-kak-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
 
 ## 水雉 レンカク Pheasant-tailed Jacana [[eBird](https://ebird.org/species/phtjac1)]
 
