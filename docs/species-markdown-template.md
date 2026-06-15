@@ -44,7 +44,7 @@ This paragraph should do two jobs at once:
 Recommended pattern:
 
 ```md
-這頁收錄這个分類或物種 ê 台語號名，並列對照相關語言資料做命名討論參考。`◆` 表示建議用名，`◇` 表示別名或保留用法，△ 表示通稱。
+這頁收錄這个分類或物種 ê 台語號名，並列對照相關語言資料做命名討論參考。`◆` 表示建議號名，`◇` 表示其他號名，△ 表示通稱。
 ```
 
 Keep this paragraph short. Avoid splitting content scope and symbol explanation into two separate introductory notes unless there is a strong reason.
@@ -169,7 +169,7 @@ Suggested format:
 ## Copy-Paste Template
 
 ```md
-這頁收錄這个分類或物種 ê 台語號名，並列對照相關語言資料做命名討論參考。`◆` 表示建議用名，`◇` 表示別名或保留用法，△ 表示通稱。
+這頁收錄這个分類或物種 ê 台語號名，並列對照相關語言資料做命名討論參考。`◆` 表示建議號名，`◇` 表示其他號名，△ 表示通稱。
 
 ## 華語名 日語名 English name [[eBird](E_BIRD_URL)]
 

@@ -4,7 +4,7 @@ description: 收錄貓頭鳥科 niau-thâu-tsiáu-kho ê 台語號名，做未�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "貓頭鳥", "貓頭鷹"]
 ---
 
-這頁收錄貓頭鳥科 niau-thâu-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄貓頭鳥科 niau-thâu-tsiáu-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 黃嘴角鴞 タイワンコノハズク Mountain Scops-Owl [[eBird](https://ebird.org/species/mosowl2)]
 

@@ -4,7 +4,7 @@ description: 收錄鸛科 kuàn-kho ê 台語號名，做未來命名討論 ê �
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸛"]
 ---
 
-這頁收錄鸛科 kuàn-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄鸛科 kuàn-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 黑鸛 ナベコウ Black Stork [[eBird](https://ebird.org/species/blasto1)]
 

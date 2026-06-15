@@ -4,7 +4,7 @@ description: 收錄王鶲科 ông-ong-kho ê 台語號名，做未來命名討�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "王鶲", "黑枕藍鶲", "綬帶"]
 ---
 
-這頁收錄王鶲科 ông-ong-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄王鶲科 ông-ong-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 黑枕藍鶲 クロエリヒタキ Black-naped Monarch [[eBird](https://ebird.org/species/blnmon1)]
 

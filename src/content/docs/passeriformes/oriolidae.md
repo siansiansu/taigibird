@@ -4,7 +4,7 @@ description: 收錄黃鶯科 hông-ing-kho ê 台語號名，做未來命名討�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "黃鶯", "黃鸝", "朱鸝"]
 ---
 
-這頁收錄黃鶯科 hông-ing-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄黃鶯科 hông-ing-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 黃鸝 コウライウグイス Black-naped Oriole [[eBird](https://ebird.org/species/blnori1)]
 

@@ -4,7 +4,7 @@ description: 收錄百靈科 pik-lîng-kho ê 台語號名，做未來命名討�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "百靈", "雲雀"]
 ---
 
-這頁收錄百靈科 pik-lîng-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄百靈科 pik-lîng-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 歐亞雲雀 ヒバリ Eurasian Skylark [[eBird](https://ebird.org/species/skylar)]
 

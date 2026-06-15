@@ -4,7 +4,7 @@ description: 收錄燕鵙科 ìnn-kio̍k-kho ê 台語號名，做未來命名�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕鵙"]
 ---
 
-這頁收錄燕鵙科 ìnn-kio̍k-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄燕鵙科 ìnn-kio̍k-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 白胸燕鵙 モリツバメ White-breasted Woodswallow [[eBird](https://ebird.org/species/whbwoo4)]
 

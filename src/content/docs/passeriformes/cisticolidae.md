@@ -4,7 +4,7 @@ description: 收錄扇尾鶯科 sìnn-bué-ing-kho ê 台語號名，做未來�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "扇尾鶯", "鷦鶯"]
 ---
 
-這頁收錄扇尾鶯科 sìnn-bué-ing-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄扇尾鶯科 sìnn-bué-ing-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 斑紋鷦鶯 Striped Prinia [[eBird](https://ebird.org/species/strpri8)]
 

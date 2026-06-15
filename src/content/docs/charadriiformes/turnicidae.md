@@ -4,7 +4,7 @@ description: 收錄三爪鵪鶉科 sann-jiáu-ian-thun-kho ê 台語號名，做
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵪鶉", "三趾鶉"]
 ---
 
-這頁收錄三爪鵪鶉科 sann-jiáu-ian-thun-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄三爪鵪鶉科 sann-jiáu-ian-thun-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 黃腳三趾鶉 チョウセンミフウズラ Yellow-legged Buttonquail [[eBird](https://ebird.org/species/yelbut1)]
 

@@ -4,7 +4,7 @@ description: 收錄海雞母科 hái-ke-bó-kho ê 台語號名，做未來命�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海雞母", "鰹鳥"]
 ---
 
-這頁收錄海雞母科 hái-ke-bó-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄海雞母科 hái-ke-bó-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 紅腳鰹鳥 アカアシカツオドリ Red-footed Booby [[eBird](https://ebird.org/species/refboo)]
 

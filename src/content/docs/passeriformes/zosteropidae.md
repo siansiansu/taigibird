@@ -4,7 +4,7 @@ description: 收錄青笛仔科 tshenn-thî-á-kho ê 台語號名，做未來�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "青笛仔", "綠繡眼"]
 ---
 
-這頁收錄青笛仔科 tshenn-thî-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄青笛仔科 tshenn-thî-á-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 栗耳鳳眉 インドシナミミチメドリ Indochinese Yuhina [[eBird](https://ebird.org/species/indyuh1)]
 

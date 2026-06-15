@@ -4,7 +4,7 @@ description: 收錄鐵爪鵐仔科 thih-jiáu-bû-á-kho ê 台語號名，做�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鐵爪鵐"]
 ---
 
-這頁收錄鐵爪鵐仔科 thih-jiáu-bû-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄鐵爪鵐仔科 thih-jiáu-bû-á-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 鐵爪鵐 ツメナガホオジロ Lapland Longspur [[eBird](https://ebird.org/species/laplon)]
 

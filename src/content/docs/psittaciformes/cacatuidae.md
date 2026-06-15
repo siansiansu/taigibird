@@ -4,7 +4,7 @@ description: 收錄巴丹科 pa-tan-kho ê 台語號名，做未來命名討論 
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "葵花鳳頭鸚鵡", "巴丹"]
 ---
 
-這頁收錄巴丹科 pa-tan-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄巴丹科 pa-tan-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 葵花鳳頭鸚鵡 キバタン Sulphur-crested Cockatoo [[eBird](https://ebird.org/species/succoc)]
 

@@ -4,7 +4,7 @@ description: 收錄筆仔科 pit-á-kho ê 台語號名，做未來命名討論 
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "文鳥", "筆仔"]
 ---
 
-這頁收錄筆仔科 pit-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄筆仔科 pit-á-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 白喉文鳥 ギンバシ Indian Silverbill [[eBird](https://ebird.org/species/indsil)]
 

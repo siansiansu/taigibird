@@ -4,7 +4,7 @@ description: 收錄鶲仔科 ong-á-kho ê 台語號名，做未來命名討論 
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶲仔"]
 ---
 
-這頁收錄鶲仔科 ong-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄鶲仔科 ong-á-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 灰斑鶲 エゾビタキ Gray-streaked Flycatcher [[eBird](https://ebird.org/species/gysfly1)]
 

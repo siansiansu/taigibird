@@ -4,7 +4,7 @@ description: 收錄鴞科 hiau-kho ê 台語號名，做未來命名討論 ê �
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", "鳶", "鴞", "魚鷹"]
 ---
 
-這頁收錄鴞科 hiau-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄鴞科 hiau-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 魚鷹 ミサゴ Osprey [[eBird](https://ebird.org/species/osprey)]
 

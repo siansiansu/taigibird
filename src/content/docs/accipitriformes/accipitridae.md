@@ -4,7 +4,7 @@ description: 收錄鷹仔科 ing-á-kho ê 台語號名，做未來命名討論 
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", "鳶"]
 ---
 
-這頁收錄鷹仔科 ing-á-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄鷹仔科 ing-á-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 黑翅鳶 カタグロトビ Black-winged Kite [[eBird](https://ebird.org/species/bkskit1)]
 

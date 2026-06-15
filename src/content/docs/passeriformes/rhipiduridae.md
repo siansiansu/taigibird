@@ -4,7 +4,7 @@ description: 收錄扇尾鶲科 sìnn-bué-ong-kho ê 台語號名，做未來�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "扇尾鶲"]
 ---
 
-這頁收錄扇尾鶲科 sìnn-bué-ong-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄扇尾鶲科 sìnn-bué-ong-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 菲律賓扇尾鶲 フィリピンオビオウギビタキ Philippine Pied-Fantail [[eBird](https://ebird.org/species/phipif1)]
 

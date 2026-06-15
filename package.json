@@ -12,10 +12,13 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",
-    "@astrojs/starlight": "^0.39.2",
+    "@astrojs/starlight": "^0.40.0",
     "@astrojs/starlight-docsearch": "^0.7.0",
-    "astro": "^6.4.2",
+    "astro": "^6.4.6",
     "sharp": "^0.34.5"
+  },
+  "overrides": {
+    "esbuild": "0.28.1"
   },
   "engines": {
     "node": ">=22.12.0"

@@ -4,7 +4,7 @@ description: 收錄墓壙鳥科 bōng-khòng-tsiáu-kho ê 台語號名，做未
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戴勝", "墓壙鳥科"]
 ---
 
-這頁收錄墓壙鳥科 bōng-khòng-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄墓壙鳥科 bōng-khòng-tsiáu-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 戴勝 ヤツガシラ Common Hoopoe [[eBird](https://ebird.org/species/hoopoe)]
 

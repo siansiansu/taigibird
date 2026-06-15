@@ -4,7 +4,7 @@ description: 收錄翎鷥科 līng-si-kho ê 台語號名，做未來命名討�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷺", "暗光鳥"]
 ---
 
-這頁收錄翎鷥科 līng-si-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄翎鷥科 līng-si-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 大麻鷺 サンカノゴイ Eurasian Bittern [[eBird](https://ebird.org/species/grebit1)]
 

@@ -4,7 +4,7 @@ description: 收錄蛇鵜科 tsuâ-thê-kho ê 台語號名，做未來命名討
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "蛇鵜"]
 ---
 
-這頁收錄蛇鵜科 tsuâ-thê-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄蛇鵜科 tsuâ-thê-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 黑腹蛇鵜 アジアヘビウ Oriental Darter [[eBird](https://ebird.org/species/darter2)]
 

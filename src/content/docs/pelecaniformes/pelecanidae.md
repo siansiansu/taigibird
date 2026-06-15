@@ -4,7 +4,7 @@ description: 收錄布袋鵝科 pòo-tē-gô-kho ê 台語號名，做未來命�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "布袋鵝", "鵜鶘"]
 ---
 
-這頁收錄布袋鵝科 pòo-tē-gô-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄布袋鵝科 pòo-tē-gô-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 卷羽鵜鶘 ハイイロペリカン Dalmatian Pelican [[eBird](https://ebird.org/species/dalpel1)]
 

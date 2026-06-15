@@ -4,7 +4,7 @@ description: 收錄啄樹鳥科 tok-tshiū-tsiáu-kho ê 台語號名，做未�
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄樹鳥", "啄木鳥"]
 ---
 
-這頁收錄啄樹鳥科 tok-tshiū-tsiáu-kho ê 台語號名，◆ 表示建議用名，◇ 表示別名或保留用法，△ 表示通稱。
+這頁收錄啄樹鳥科 tok-tshiū-tsiáu-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 地啄木 アリスイ Eurasian Wryneck [[eBird](https://ebird.org/species/eurwry)]
 
