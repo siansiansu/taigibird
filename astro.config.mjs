@@ -9,7 +9,7 @@ export default defineConfig({
   trailingSlash: 'always',
   integrations: [
     starlight({
-      title: '現代鳥仔名台語新詞討論',
+      title: '鳥仔 ê 名',
       defaultLocale: 'root',
       locales: {
         root: { label: '繁體中文', lang: 'zh-TW' },
@@ -44,7 +44,7 @@ export default defineConfig({
           content: JSON.stringify({
             '@context': 'https://schema.org',
             '@type': 'WebSite',
-            name: '現代鳥仔名台語新詞討論',
+            name: '鳥仔 ê 名',
             url: 'https://taigichiau.pages.dev',
             description: '為著予大家認捌鳥仔 ê 台語，我整理了這个清單，予大家方便揣鳥仔 ê 台語名。',
             inLanguage: 'zh-TW',
