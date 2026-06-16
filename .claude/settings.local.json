@@ -24,7 +24,11 @@
       "WebFetch(domain:github.com)",
       "WebFetch(domain:api.github.com)",
       "WebSearch",
-      "Bash(npx ctx7@latest:*)"
+      "Bash(npx ctx7@latest:*)",
+      "Bash(npm view *)",
+      "Bash(npm outdated *)",
+      "Bash(npm install *)",
+      "Bash(npm ls *)"
     ]
   },
   "hooks": {
