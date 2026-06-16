@@ -28,7 +28,8 @@
       "Bash(npm view *)",
       "Bash(npm outdated *)",
       "Bash(npm install *)",
-      "Bash(npm ls *)"
+      "Bash(npm ls *)",
+      "Bash(gh repo *)"
     ]
   },
   "hooks": {

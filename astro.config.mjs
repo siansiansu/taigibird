@@ -9,7 +9,7 @@ export default defineConfig({
   trailingSlash: 'always',
   integrations: [
     starlight({
-      title: '鳥仔 ê 名',
+      title: '鳥仔 ê 名 - 認捌鳥仔 ê 台語',
       defaultLocale: 'root',
       locales: {
         root: { label: '繁體中文', lang: 'zh-TW' },
