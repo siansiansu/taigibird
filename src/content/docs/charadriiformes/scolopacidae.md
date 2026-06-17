@@ -6,6 +6,31 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 這頁收錄鷸仔科 lu̍t-á-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
+## 美洲中杓鷸 アメリカチュウシャクシギ Hudsonian Whimbrel [[eBird](https://ebird.org/species/whimbr3)]
+
+![美洲中杓鷸 アメリカチュウシャクシギ Hudsonian Whimbrel](https://inaturalist-open-data.s3.amazonaws.com/photos/98022688/medium.jpg)
+
+(c) Bert Harris, some rights reserved (CC BY-NC)
+
+**台語名**
+
+- ◆ **美洲中土礱鉤仔 bí-tsiu-tiong-thôo-lâng-kau-á**
+- ◆ **美洲中土礱鉤鷸 bí-tsiu-tiong-thôo-lâng-kau-lu̍t**
+- ◇ 美洲中杓鷸 bí-tsiu-tiong-sia̍h-lu̍t
+- △ 土礱鉤仔 thôo-lâng-kau-á
+- △ 水尖仔 tsuí-tsiam-á
+- △ 海滑溜仔 hái-ku̍t-liu-á
+
+**號名理路**
+
+- 這條目前保留 2 个 `◆`，表示檔內整理仍保留多个主要候選，暫時無強制收斂做單一主名。
+- 其他 `◇` 形式先留做別名、異名抑是保留稱呼，後續若有較強證據才閣調整主次。
+- △ 形式屬較闊 ê 通稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條 American 變異是 ùi 中杓鷸 (Eurasian Whimbrel) 拆分出來 ê 物種，先用 `美洲` 做區別詞，承接母種 ê 號名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
+
+---
+
 ## 中杓鷸 チュウシャクシギ Eurasian Whimbrel [[eBird](https://ebird.org/species/whimbr5)]
 
 ![中杓鷸 チュウシャクシギ Eurasian Whimbrel](https://inaturalist-open-data.s3.amazonaws.com/photos/1940369/medium.jpg)
@@ -191,13 +216,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **台語名**
 
-- ◆ **長喙半扒鷸 tng-tshuì-puànn-pê-lu̍t**
+- ◆ **長喙半扒鷸 tn̂g-tshuì-puànn-pê-lu̍t**
 - △ 水尖仔 Tsuí-tsiam-á
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
 
-- `長喙半扒鷸 tng-tshuì-puànn-pê-lu̍t` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `長喙半扒鷸 tn̂g-tshuì-puànn-pê-lu̍t` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
 - △ 形式屬較闊 ê 通稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
 - 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 

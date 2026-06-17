@@ -44,6 +44,25 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海雞母
 
 ---
 
+## 灰頭鰹鳥 シロガシラカツオドリ Cocos Booby [[eBird](https://ebird.org/species/cocboo1)]
+
+![灰頭鰹鳥 シロガシラカツオドリ Cocos Booby](https://inaturalist-open-data.s3.amazonaws.com/photos/200627644/medium.jpeg)
+
+(c) Ryan Rash, some rights reserved (CC BY-NC)
+
+**台語名**
+
+- ◆ **殕頭海雞母 phú-thâu-hái-ke-bó**
+- △ 海雞母 hái-ke-bó
+
+**號名理路**
+
+- `殕頭海雞母 phú-thâu-hái-ke-bó` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- △ 形式屬較闊 ê 通稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
+
+---
+
 ## 藍臉鰹鳥 アオツラカツオドリ Masked Booby [[eBird](https://ebird.org/species/masboo)]
 
 ![藍臉鰹鳥 アオツラカツオドリ Masked Booby](https://inaturalist-open-data.s3.amazonaws.com/photos/214608110/medium.jpg)
@@ -59,3 +78,22 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海雞母
 
 - `青面海雞母 tshenn-bīn-hái-ke-bó` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
 - △ 形式屬較闊 ê 通稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+
+---
+
+## 納茲卡鰹鳥 ナスカカツオドリ Nazca Booby [[eBird](https://ebird.org/species/nazboo1)]
+
+![納茲卡鰹鳥 ナスカカツオドリ Nazca Booby](https://inaturalist-open-data.s3.amazonaws.com/photos/45599772/medium.jpeg)
+
+(c) Douglas J. Long, some rights reserved (CC BY-NC)
+
+**台語名**
+
+- ◆ **納茲卡海雞母 la̍p-tsu-kha-hái-ke-bó**
+- △ 海雞母 hái-ke-bó
+
+**號名理路**
+
+- `納茲卡海雞母 la̍p-tsu-kha-hái-ke-bó` 先保留做這个物種 ê 建議名；納茲卡 (Nazca) 是地名譯音，先承接華語名。
+- △ 形式屬較闊 ê 通稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。

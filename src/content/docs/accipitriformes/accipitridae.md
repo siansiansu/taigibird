@@ -69,7 +69,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 **台語名**
 
 - ◆ **臭頭鷹 tshàu-thâu-ing**
-- ◆ **臭頭鳥 tshàu-thâu-tiau**
+- ◆ **臭頭鳥 tshàu-thâu-tsiáu**
 
 **號名理路**
 
@@ -126,7 +126,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 **台語名**
 
 - ◆ **林鷹 lîm-ing**
-- ◆ **烏毛跤鷹 pe̍h-moo-kha-ing**
+- ◆ **烏毛跤鷹 oo-moo-kha-ing**
 - ◇ 林鵰 lîm-tiau
 - △ 鷹仔 ing-á
 

@@ -48,11 +48,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷺", "�
 
 **台語名**
 
-- ◆ **栗色田隙仔 lik-sik-tshân-khiah-á**
+- ◆ **栗色田隙仔 li̍k-sik-tshân-khiah-á**
 
 **號名理路**
 
-- `栗色田隙仔 lik-sik-tshân-khiah-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `栗色田隙仔 li̍k-sik-tshân-khiah-á` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
 - 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
@@ -122,7 +122,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 **台語名**
 
-- ◆ **赤色暗光鳥 tshiah-sin-àm-kong-tsiáu**
+- ◆ **赤色暗光鳥 tshiah-sik-àm-kong-tsiáu**
 - ◆ **棕夜鷺 tsang-iā-lōo**
 - △ 暗光鳥 àm-kong-tsiáu
 

@@ -6,6 +6,26 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜂鳥
 
 這頁收錄食蜂鳥科 tsia̍h-phang-tsiáu-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
+## 綠喉蜂虎 ミドリハチクイ Asian Green Bee-eater [[eBird](https://ebird.org/species/grnbee3)]
+
+![綠喉蜂虎 ミドリハチクイ Asian Green Bee-eater](https://inaturalist-open-data.s3.amazonaws.com/photos/175410867/medium.jpeg)
+
+(c) Afzal Hossain Khan, some rights reserved (CC BY-NC)
+
+**台語名**
+
+- ◆ **綠喉食蜂鳥 le̍k-âu-tsia̍h-phang-tsiáu**
+- ◇ 綠喉蜂虎 le̍k-âu-phang-hóo
+
+**號名理路**
+
+- `綠喉食蜂鳥 le̍k-âu-tsia̍h-phang-tsiáu` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 用 `綠 le̍k` 區別 `青喉食蜂鳥` (Blue-throated Bee-eater)，因為台語 `青` 藍、綠相濫，這條用 `綠` 較分明。
+- 其他 `◇` 形式先留做別名、異名抑是保留稱呼，後續若有較強證據才閣調整主次。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
+
+---
+
 ## 藍喉蜂虎 ルリノドハチクイ Blue-throated Bee-eater [[eBird](https://ebird.org/species/btbeat2)]
 
 ![藍喉蜂虎 ルリノドハチクイ Blue-throated Bee-eater](https://inaturalist-open-data.s3.amazonaws.com/photos/85045627/medium.jpeg)
@@ -53,7 +73,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜂鳥
 **台語名**
 
 - ◆ **青尾食蜂鳥 tshenn-bué-tsia̍h-phang-tsiáu**
-- ◇ 栗喉蜂虎 lik-âu-phang-hóo
+- ◇ 栗喉蜂虎 li̍k-âu-phang-hóo
 
 **號名理路**
 

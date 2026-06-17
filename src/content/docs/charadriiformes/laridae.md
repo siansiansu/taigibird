@@ -27,6 +27,29 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 ---
 
+## 楔尾鷗 ヒメクビワカモメ Ross's Gull [[eBird](https://ebird.org/species/rosgul)]
+
+![楔尾鷗 ヒメクビワカモメ Ross's Gull](https://inaturalist-open-data.s3.amazonaws.com/photos/195607089/medium.jpg)
+
+(c) Leon van der Noll, some rights reserved (CC BY-NC-ND)
+
+**台語名**
+
+- ◆ **尖尾鷗 tsiam-bué-oo**
+- ◇ 楔尾鷗 siat-bué-oo
+- △ 海鷗 hái-oo
+- △ 海鳥 hái-tsiáu
+- △ カモメ ka-mo-me
+
+**號名理路**
+
+- `尖尾鷗 tsiam-bué-oo` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 其他 `◇` 形式先留做別名、異名抑是保留稱呼，後續若有較強證據才閣調整主次。
+- △ 形式屬較闊 ê 通稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
+
+---
+
 ## 三趾鷗 ミツユビカモメ Black-legged Kittiwake [[eBird](https://ebird.org/species/bklkit)]
 
 ![三趾鷗 ミツユビカモメ Black-legged Kittiwake](https://inaturalist-open-data.s3.amazonaws.com/photos/156155653/medium.jpg)
@@ -396,7 +419,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 ---
 
-## [灰背鷗 オオセグロカモメ Slaty-backed Gull](https://ebird.org/species/slbgul) [[eBird](https://ebird.org/species/slbgul)]
+## 灰背鷗 オオセグロカモメ Slaty-backed Gull [[eBird](https://ebird.org/species/slbgul)]
 
 ![灰背鷗 オオセグロカモメ Slaty-backed Gull](https://inaturalist-open-data.s3.amazonaws.com/photos/102493122/medium.jpeg)
 
@@ -442,7 +465,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 ---
 
-## [黑玄燕鷗 ヒメクロアジサシ Black Noddy](https://ebird.org/species/blknod) [[eBird](https://ebird.org/species/blknod)]
+## 黑玄燕鷗 ヒメクロアジサシ Black Noddy [[eBird](https://ebird.org/species/blknod)]
 
 ![黑玄燕鷗 ヒメクロアジサシ Black Noddy](https://inaturalist-open-data.s3.amazonaws.com/photos/60534938/medium.jpeg)
 
@@ -450,7 +473,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **台語名**
 
-- ◆ **烏色燕仔鷗 tê-sik-iàn-á-oo**
+- ◆ **烏色燕仔鷗 oo-sik-iàn-á-oo**
 - ◇ 烏玄燕鷗 oo-hiân-iàn-oo
 - △ 燕鷗 iàn-oo
 - △ 燕仔鷗 iàn-á-oo
@@ -459,14 +482,14 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海鷗"]
 
 **號名理路**
 
-- `烏色燕仔鷗 tê-sik-iàn-á-oo` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- `烏色燕仔鷗 oo-sik-iàn-á-oo` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
 - 其他 `◇` 形式先留做別名、異名抑是保留稱呼，後續若有較強證據才閣調整主次。
 - △ 形式屬較闊 ê 通稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
 - 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
 
 ---
 
-## [白腰燕鷗 コシジロアジサシ Aleutian Tern](https://ebird.org/species/aleter1) [[eBird](https://ebird.org/species/aleter1)]
+## 白腰燕鷗 コシジロアジサシ Aleutian Tern [[eBird](https://ebird.org/species/aleter1)]
 
 ![白腰燕鷗 コシジロアジサシ Aleutian Tern](https://inaturalist-open-data.s3.amazonaws.com/photos/8136949/medium.jpg)
 
