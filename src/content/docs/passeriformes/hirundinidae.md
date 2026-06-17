@@ -44,6 +44,27 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "燕仔"]
 
 ---
 
+## 岩燕 チャイロツバメ Eurasian Crag-Martin [[eBird](https://ebird.org/species/eurcrm1)]
+
+![岩燕 チャイロツバメ Eurasian Crag-Martin](https://inaturalist-open-data.s3.amazonaws.com/photos/295447150/medium.jpg)
+
+(c) Q. Scouflaire, some rights reserved (CC BY-NC)
+
+**台語名**
+
+- ◆ **石壁燕仔 tsio̍h-piah-ìnn-á**
+- ◇ 岩燕 giâm-iàn
+- △ 燕仔 ìnn-á
+
+**號名理路**
+
+- `石壁燕仔 tsio̍h-piah-ìnn-á` 先保留做這个物種 ê 建議名，岩燕慣勢踮山崁石壁做岫，用習性做區別詞。
+- 其他 `◇` 形式先留做別名、異名抑是保留稱呼，後續若有較強證據才閣調整主次。
+- △ 形式屬較闊 ê 通稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
+
+---
+
 ## 洋燕 リュウキュウツバメ Pacific Swallow [[eBird](https://ebird.org/species/pacswa1)]
 
 ![洋燕 リュウキュウツバメ Pacific Swallow](https://inaturalist-open-data.s3.amazonaws.com/photos/21313086/medium.jpeg)

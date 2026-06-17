@@ -208,6 +208,26 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔
 
 ---
 
+## 菲律賓秧雞 バンクイナ Plain Bush-hen [[eBird](https://ebird.org/species/plabuh1)]
+
+![菲律賓秧雞 バンクイナ Plain Bush-hen](https://inaturalist-open-data.s3.amazonaws.com/photos/366875370/medium.jpeg)
+
+(c) kenny_well, some rights reserved (CC BY-NC)
+
+**台語名**
+
+- ◆ **菲律賓秧雞 hui-lu̍t-pin-iong-kue**
+- △ 秧雞 iong-kue
+- △ 米雞仔 bí-ke-á
+
+**號名理路**
+
+- `菲律賓秧雞 hui-lu̍t-pin-iong-kue` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- △ 形式屬較闊 ê 通稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
+
+---
+
 ## 白腹秧雞 シロハラクイナ White-breasted Waterhen [[eBird](https://ebird.org/species/whbwat1)]
 
 ![白腹秧雞 シロハラクイナ White-breasted Waterhen](https://inaturalist-open-data.s3.amazonaws.com/photos/70658386/medium.jpeg)

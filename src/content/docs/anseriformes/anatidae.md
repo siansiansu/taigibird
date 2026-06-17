@@ -760,6 +760,28 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", 
 - 這个 naming strategy 雖然偏標準化，毋過有助維持相關近似物種 ê 系統一致性。
 ---
 
+## 斑臉海番鴨 ビロードキンクロ Stejneger's Scoter [[eBird](https://ebird.org/species/whwsco1)]
+
+![斑臉海番鴨 ビロードキンクロ Stejneger's Scoter](https://inaturalist-open-data.s3.amazonaws.com/photos/385142493/medium.jpg)
+
+(c) 김대환, 이선미, some rights reserved (CC BY-NC)
+
+**台語名**
+
+- ◆ **斑面海鴨 pan-bīn-hái-ah**
+- ◇ 海番鴨 hái-huan-ah
+- △ 海鴨 hái-ah
+- △ 鴨仔 ah-á
+
+**號名理路**
+
+- `斑面海鴨 pan-bīn-hái-ah` 先保留做這个物種 ê 建議名，作為目前檔內整理後 ê 主推形式。
+- 其他 `◇` 形式先留做別名、異名抑是保留稱呼，後續若有較強證據才閣調整主次。
+- △ 形式屬較闊 ê 通稱抑是上位稱呼，保留做 umbrella term，毋直接升做物種主名。
+- 這條目前主要是承接檔內既有整理脈絡；若後續補著較完整 ê 本土來源，猶會使再收斂號名理路。
+
+---
+
 ## 長尾鴨 コオリガモ Long-tailed Duck [[eBird](https://ebird.org/species/lotduc)]
 
 ![長尾鴨 コオリガモ Long-tailed Duck](https://inaturalist-open-data.s3.amazonaws.com/photos/230873602/medium.jpg)
