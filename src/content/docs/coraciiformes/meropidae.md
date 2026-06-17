@@ -73,7 +73,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜂鳥
 **台語名**
 
 - ◆ **青尾食蜂鳥 tshenn-bué-tsia̍h-phang-tsiáu**
-- ◇ 栗喉蜂虎 lik-âu-phang-hóo
+- ◇ 栗喉蜂虎 li̍k-âu-phang-hóo
 
 **號名理路**
 

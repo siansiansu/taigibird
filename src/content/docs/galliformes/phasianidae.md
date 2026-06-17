@@ -146,7 +146,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔
 - ◆ **小鵪鶉 sió-ian-thun**
 - ◆ **小無尾鵪鶉 sió-bô-bué-ian-thun**
 - △ 無尾鵪鶉 bô-bué-ian-thun
-- △ 紅腹鶉 âng-hôo-tshun
+- △ 紅腹鶉 âng-pak-tshun
 
 **號名理路**
 
@@ -165,7 +165,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔
 **台語名**
 
 - ◆ **鵪鶉 ian-thun**
-- ◆ **紅腹鶉 âng-hôo-tshun**
+- ◆ **紅腹鶉 âng-pak-tshun**
 - ◆ **無尾鵪鶉 bô-bué-ian-thun**
 
 **號名理路**
@@ -184,8 +184,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔
 **台語名**
 
 - ◆ **lài-tsiáu**
-- ◆ **雷鳥 lûi-tsiáu**
-- ◆ **雷公鳥 lûi-kong-tsiáu**
+- ◆ **雷鳥 luî-tsiáu**
+- ◆ **雷公鳥 luî-kong-tsiáu**
 
 **號名理路**
 

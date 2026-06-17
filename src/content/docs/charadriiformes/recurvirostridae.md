@@ -15,7 +15,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "躼跤鷸
 **台語名**
 
 - ◆ **躼跤鴴 lò-kha-hîng**
-- ◆ **長跤鴴 tng-kha-hîng**
+- ◆ **長跤鴴 tn̂g-kha-hîng**
 - ◇ 高蹺鴴 ko-khiau-hîng
 - △ 躼跤仔 lò-kha-á
 
@@ -37,7 +37,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "躼跤鷸
 **台語名**
 
 - ◆ **烏領躼跤鴴 oo-niá-lò-kha-hîng**
-- ◆ **烏領長跤鴴 oo-niá-tng-kha-hîng**
+- ◆ **烏領長跤鴴 oo-niá-tn̂g-kha-hîng**
 - △ 躼跤仔 lò-kha-á
 
 **號名理路**
