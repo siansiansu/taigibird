@@ -9,7 +9,7 @@ export default defineConfig({
   trailingSlash: 'always',
   integrations: [
     starlight({
-      title: '鳥仔 ê 名 - 認捌鳥仔 ê 台語',
+      title: '線頂台語鳥仔名冊',
       defaultLocale: 'root',
       locales: {
         root: { label: '繁體中文', lang: 'zh-TW' },
@@ -35,7 +35,7 @@ export default defineConfig({
         { tag: 'meta', attrs: { property: 'og:type', content: 'website' } },
         { tag: 'meta', attrs: { name: 'twitter:card', content: 'summary_large_image' } },
         { tag: 'meta', attrs: { name: 'twitter:image', content: 'https://taigichiau.pages.dev/img/profile.jpg' } },
-        { tag: 'meta', attrs: { name: 'keywords', content: '台語, 鳥, 鳥仔, 台語鳥名, 鳥類, 鳥類台語, 鳥名, 鳥仔 ê 名, 台語教學, 認識鳥類, 台語動物名' } },
+        { tag: 'meta', attrs: { name: 'keywords', content: '台語, 鳥, 鳥仔, 台語鳥名, 鳥類, 鳥類台語, 鳥名, 線頂台語鳥仔名冊, 鳥仔 ê 名, 台語教學, 認識鳥類, 台語動物名' } },
         { tag: 'link', attrs: { rel: 'apple-touch-icon', sizes: '180x180', href: '/img/apple-touch-icon.png' } },
         { tag: 'link', attrs: { rel: 'manifest', href: '/manifest.json' } },
         {
@@ -44,7 +44,7 @@ export default defineConfig({
           content: JSON.stringify({
             '@context': 'https://schema.org',
             '@type': 'WebSite',
-            name: '鳥仔 ê 名',
+            name: '線頂台語鳥仔名冊',
             url: 'https://taigichiau.pages.dev',
             description: '為著予大家認捌鳥仔 ê 台語，我整理了這个清單，予大家方便揣鳥仔 ê 台語名。',
             inLanguage: 'zh-TW',
