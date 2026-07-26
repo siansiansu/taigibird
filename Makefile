@@ -1,4 +1,6 @@
-.PHONY: install start build preview clean clear
+.PHONY: all install start build preview clean clear
+
+all: build
 
 install:
 	npm install
