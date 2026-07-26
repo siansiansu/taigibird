@@ -1,6 +1,6 @@
 ---
-name: sync-ebird-taxonomy
-description: Sync the site's bird species against a yearly eBird Taiwan checklist CSV. Diffs species by eBird code, reconciles site-only entries by scientific name via the eBird API, scaffolds add/remove changes, and audits Tâi-lô romanization against the project dictionaries to catch hanji↔reading mismatches. Use when a new annual eBird Taiwan 名錄 drops or bird species data needs auditing.
+name: ebird-sync
+description: Sync the site's bird species against a yearly eBird Taiwan checklist CSV. Diffs by eBird code, reconciles code changes via the eBird API, scaffolds additions, reports off-list species, and verifies the build. Use when a new annual eBird Taiwan 名錄 drops or bird species data needs auditing.
 argument-hint: [csv-path]
 effort: max
 ---
@@ -162,65 +162,18 @@ npm run build   # Astro, NOT docusaurus. Always pass before committing.
 
 Verify with a script: no duplicate codes, all ADD codes present, `site_codes ⊇ csv_codes` (superset — every checklist species is on the site; extras are the kept off-list ones).
 
-## Step 7b — Tâi-lô romanization audit
+## Step 7b — Optional Tâi-lô romanization review
 
-Catch hanji↔romanization mismatches — where a name's Tâi-lô syllable does not correspond to its hanji character (e.g. `烏色 tê-sik`: 烏 reads `oo`/`u`, not `tê` — `tê` is a reading of 茶, copy-paste residue). Runs over ALL entries (new + pre-existing), so it doubles as a site-wide audit.
+The repository no longer keeps a local dictionary corpus, so annual taxonomy sync should not depend on one. Treat Tâi-lô review as optional and separate from the mechanical checklist pass.
 
-Build a per-character reading map from the project's dictionary data and compare each `◆/◇/△` name's syllables against it:
+For names touched during the sync:
 
-```python
-import csv, re, glob, unicodedata as ud
-from collections import Counter
-def norm(s): return ud.normalize('NFC', s).strip()
-def detone(s): return ''.join(c for c in ud.normalize('NFD', s.lower()) if ud.category(c) != 'Mn')
+- compare against sibling entries in `src/content/docs/`
+- use `src/data/` helper tables when the name uses a known project term
+- check `ChhoeTaigi` and `教育部臺灣台語常用詞辭典` for source-sensitive readings
+- use `vendor/taigi-converter` only for technical spelling-system checks, not as a naming authority
 
-tone, notone = {}, {}
-def add(ch, roma):
-    ch = norm(ch); r = norm(roma).lower().lstrip('-')
-    if len(ch) == 1 and r and re.fullmatch(r'[a-zà-ÿ̀-ͯ]+', r):
-        tone.setdefault(ch, set()).add(r); notone.setdefault(ch, set()).add(detone(r))
-
-DREF = 'docs/dictionary-reference/'
-# primary: 教育部 per-char correspondence (col0=漢字, col1=羅馬字)
-for row in list(csv.reader(open(DREF + '1_教育部臺灣台語常用詞辭典/data/02_extracted/漢字羅馬字對應.csv', encoding='utf-8')))[1:]:
-    if len(row) >= 2: add(row[0], row[1])
-# coverage boost: single-char rows from other dicts (col0=tl, col1=hanzi)
-for src in ['1_教育部臺灣台語常用詞辭典/data/12_source/kautian.csv', '6_台日大辭典/data/10_source/taijit.csv',
-            '3_iTaigi華台對照典/data/10_source/itaigi.csv', '5_台華線頂對照典/data/10_source/taihoa.csv']:
-    for row in list(csv.reader(open(DREF + src, encoding='utf-8')))[1:]:
-        if len(row) >= 2 and len(norm(row[1])) == 1: add(row[1], row[0])
-
-nameline = re.compile(r'^-\s*[◆◇△]\s*\*{0,2}([^\s*]+)\s+(.+?)\*{0,2}\s*$')
-kata = re.compile(r'[゠-ヿ]')
-reading, tonew = [], []
-for md in glob.glob('src/content/docs/**/*.md', recursive=True):
-    for ln, line in enumerate(open(md, encoding='utf-8'), 1):
-        m = nameline.match(line.rstrip())
-        if not m: continue
-        hanji = norm(m.group(1)); roma = norm(m.group(2)).lower()
-        if kata.search(hanji) or not re.fullmatch(r'[㐀-鿿㐀-䶿]+', hanji): continue   # skip katakana / mixed-latin names
-        if not re.fullmatch(r"[a-zà-ÿ̀-ͯ\-]+", roma): continue
-        chars = list(hanji); syl = [s for s in roma.split('-') if s]
-        if len(syl) != len(chars): continue   # 合音 / borrowing -> skip (count mismatch is not a reading error)
-        for ch, s in zip(chars, syl):
-            if ch not in tone or s in tone[ch]: continue
-            (tonew if detone(s) in notone[ch] else reading).append((md.replace('src/content/docs/',''), ln, ch, s, hanji, roma, sorted(tone[ch])[:4]))
-
-freq = Counter((r[2], r[3]) for r in reading)
-high = [r for r in reading if freq[(r[2], r[3])] <= 2]   # rare reading mismatch = likely a real error
-print(f"READING mismatches {len(reading)} (HIGH/rare {len(high)}) | TONE-mark nits {len(tonew)}")
-for r in high: print(f"  HIGH {r[0]}:{r[1]}  {r[4]} {r[5]}  「{r[2]}」='{r[3]}' dict={r[6]}")
-for r in tonew: print(f"  TONE {r[0]}:{r[1]}  {r[4]} {r[5]}  「{r[2]}」='{r[3]}' dict={r[6]}")
-```
-
-How to read the output (this is a REVIEW aid, not auto-fix — STOP gate, present to user):
-
-- **HIGH (rare reading mismatch, ≤2 occurrences)** — most likely real errors. e.g. `烏='tê'`, `烏='pe̍h'`, `色='sin'`, `鳥='tsiá'` (missing the `u` in `tsiáu`). Eyeball each.
-- **TONE — same letters, different tone mark** — often a missing/wrong tone diacritic (`荻 tik` vs dict `ti̍k`). Medium priority.
-- **LOW (a `(char, syllable)` mismatch repeating many times, e.g. `鴝 kî`×16)** — almost always a bird-specific colloquial reading the dictionary lacks, used consistently across the site. NOT an error; ignore or note for the dictionary.
-- **Expected non-matches**: place-name borrowings (`勘察加` Kamchatka, `納茲卡` Nazca), 訓讀, and文白 variants the 教育部 set omits (`綠 le̍k` is valid colloquial though dict lists `lio̍k/li̍k`). Do not "correct" these blindly — verify against the actual character reading first.
-
-Never auto-edit on a flag. Confirm the correct reading (check the dictionary CSVs or the canonical name source) before changing any romanization, since the dictionary map has real coverage gaps.
+Never auto-edit romanization from a heuristic flag. Confirm the correct reading from a source or an established project pattern, then report the proposed change for user review.
 
 ## Step 8 — Commit (English, caveman-lite)
 
@@ -233,7 +186,7 @@ Check identity first: `git config user.email`. If `minsiansu@gmail.com` (persona
 
 1. **Deleting off-list species** — keep by default; ask.
 2. **Finalizing Taigi names** — scaffold + flag low-confidence; user reviews.
-3. **Fixing romanization flags** — Step 7b is a review aid; the dictionary has coverage gaps. Present HIGH/TONE flags, confirm the correct reading, then ask before editing.
+3. **Fixing romanization issues** — Step 7b is a review aid. Confirm the correct reading, then ask before editing.
 4. **`git push` + `gh pr create`** — outward actions, user-gated. Stop after commit + clean build; report and wait.
 
 ## Key principles

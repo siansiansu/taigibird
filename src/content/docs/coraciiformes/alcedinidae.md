@@ -25,6 +25,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "釣魚翁
 
 **號名理路**
 
+- `釣魚翁 tiò-hî-ang` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `釣魚翁 tiò-hî-ang` 收錄佇《台灣野鳥鄉土名》。
+
 ---
 
 ## 黑背三趾翠鳥 ミツユビカワセミ Black-backed Dwarf-Kingfisher [[eBird](https://ebird.org/species/bkbkin1)]
@@ -73,6 +76,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "釣魚翁
 
 **號名理路**
 
+- `釣魚翁 tiò-hî-ang` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 蒼翡翠 アオショウビン White-throated Kingfisher [[eBird](https://ebird.org/species/whtkin2)]
@@ -95,6 +100,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "釣魚翁
 - △ 翡翠 huí-tshuì
 
 **號名理路**
+
+- `釣魚翁 tiò-hî-ang` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -119,6 +126,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "釣魚翁
 
 **號名理路**
 
+- `釣魚翁 tiò-hî-ang` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 白領翡翠 ナンヨウショウビン Collared Kingfisher [[eBird](https://ebird.org/species/colkin1)]
@@ -141,6 +150,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "釣魚翁
 - △ 翡翠 huí-tshuì
 
 **號名理路**
+
+- `釣魚翁 tiò-hî-ang` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -165,3 +176,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "釣魚翁
 
 **號名理路**
 
+- `釣魚翁 tiò-hî-ang` 收錄佇【蕭平治】《還我台灣鳥á名》。

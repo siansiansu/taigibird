@@ -29,6 +29,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "貓頭鳥
 
 **號名理路**
 
+- `貓頭鳥 niau-thâu-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 領角鴞 ヒガシオオコノハズク Collared Scops-Owl [[eBird](https://ebird.org/species/cosowl1)]
@@ -52,6 +54,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "貓頭鳥
 - △ 鴟鴞 tshi-hiau
 
 **號名理路**
+
+- `貓頭鳥 niau-thâu-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -77,6 +81,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "貓頭鳥
 
 **號名理路**
 
+- `貓頭鳥 niau-thâu-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 東方角鴞 コノハズク Oriental Scops-Owl [[eBird](https://ebird.org/species/orsowl)]
@@ -101,6 +107,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "貓頭鳥
 
 **號名理路**
 
+- `貓頭鳥 niau-thâu-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 黃魚鴞 ウオミミズク Tawny Fish-Owl [[eBird](https://ebird.org/species/tafowl1)]
@@ -124,6 +132,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "貓頭鳥
 - △ 鴟鴞 tshi-hiau
 
 **號名理路**
+
+- `貓頭鳥 niau-thâu-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -150,6 +160,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "貓頭鳥
 
 **號名理路**
 
+- `貓頭鳥 niau-thâu-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `鵂鶹 hiu-liû` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 縱紋腹小鴞 コキンメフクロウ Little Owl [[eBird](https://ebird.org/species/litowl1)]
@@ -174,6 +187,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "貓頭鳥
 
 **號名理路**
 
+- `貓頭鳥 niau-thâu-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 褐林鴞 オオフクロウ Brown Wood-Owl [[eBird](https://ebird.org/species/brwowl1)]
@@ -197,6 +212,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "貓頭鳥
 - △ 鴟鴞 tshi-hiau
 
 **號名理路**
+
+- `貓頭鳥 niau-thâu-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -223,6 +240,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "貓頭鳥
 
 **號名理路**
 
+- `貓頭鳥 niau-thâu-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 長耳鴞 トラフズク Long-eared Owl [[eBird](https://ebird.org/species/loeowl)]
@@ -246,6 +265,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "貓頭鳥
 - △ 鴟鴞 tshi-hiau
 
 **號名理路**
+
+- `貓頭鳥 niau-thâu-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -271,6 +292,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "貓頭鳥
 
 **號名理路**
 
+- `貓頭鳥 niau-thâu-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 褐鷹鴞 アオバズク Northern Boobook [[eBird](https://ebird.org/species/norboo1)]
@@ -294,6 +317,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "貓頭鳥
 - △ 鴟鴞 tshi-hiau
 
 **號名理路**
+
+- `貓頭鳥 niau-thâu-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 

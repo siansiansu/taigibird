@@ -33,6 +33,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "百靈", 
 
 **號名理路**
 
+- `半天鳥 puànn-thinn-tsiáu` 收錄佇《台灣野鳥鄉土名》。
+
 ---
 
 ## 賽氏短趾百靈 ヒメコウテンシ Mongolian Short-toed Lark [[eBird](https://ebird.org/species/sstlar4)]

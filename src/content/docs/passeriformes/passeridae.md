@@ -25,6 +25,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "粟鳥仔
 
 **號名理路**
 
+- `粟鳥仔 tshik-tsiáu-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 山麻雀 ニュウナイスズメ Russet Sparrow [[eBird](https://ebird.org/species/russpa2)]
@@ -45,6 +47,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "粟鳥仔
 
 **號名理路**
 
+- `粟鳥仔 tshik-tsiáu-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 麻雀 スズメ Eurasian Tree Sparrow [[eBird](https://ebird.org/species/eutspa)]
@@ -61,6 +65,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "粟鳥仔
 - ◆ **厝角鳥仔 tshù-kak-tsiáu-á**
 
 **號名理路**
+
+- `粟鳥仔 tshik-tsiáu-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 

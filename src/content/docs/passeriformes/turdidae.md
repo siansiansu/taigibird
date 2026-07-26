@@ -124,6 +124,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶇仔"]
 
 **號名理路**
 
+- `白頭仔 pe̍h-thâu-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 烏灰鶇 クロツグミ Japanese Thrush [[eBird](https://ebird.org/species/japthr1)]

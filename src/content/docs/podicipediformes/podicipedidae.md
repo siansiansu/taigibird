@@ -18,6 +18,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "水避仔
 
 **號名理路**
 
+- `水避仔 tsuí-pī-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 角鸊鷉 ミミカイツブリ Horned Grebe [[eBird](https://ebird.org/species/horgre)]

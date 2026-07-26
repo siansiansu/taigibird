@@ -23,6 +23,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `土礱鉤仔 thôo-lâng-kau-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `水尖仔 tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 中杓鷸 チュウシャクシギ Eurasian Whimbrel [[eBird](https://ebird.org/species/whimbr5)]
@@ -42,6 +45,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `土礱鉤仔 thôo-lâng-kau-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 小杓鷸 コシャクシギ Little Curlew [[eBird](https://ebird.org/species/litcur)]
@@ -60,6 +66,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `土礱鉤仔 thôo-lâng-kau-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -81,6 +90,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `土礱鉤仔 thôo-lâng-kau-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 大杓鷸 ダイシャクシギ Eurasian Curlew [[eBird](https://ebird.org/species/eurcur)]
@@ -100,6 +112,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `土礱鉤仔 thôo-lâng-kau-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 斑尾鷸 オオソリハシシギ Bar-tailed Godwit [[eBird](https://ebird.org/species/batgod)]
@@ -115,6 +130,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -132,6 +149,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 半蹼鷸 シベリアオオハシシギ Asian Dowitcher [[eBird](https://ebird.org/species/asidow1)]
@@ -147,6 +166,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -164,6 +185,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 長嘴半蹼鷸 オオハシシギ Long-billed Dowitcher [[eBird](https://ebird.org/species/lobdow)]
@@ -179,6 +202,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -240,6 +265,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `田鑽仔 tshân-tsǹg-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 針尾鷸 ハリオシギ Pin-tailed Snipe [[eBird](https://ebird.org/species/pitsni)]
@@ -257,6 +285,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `田鑽仔 tshân-tsǹg-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -276,6 +307,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `田鑽仔 tshân-tsǹg-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 田鷸 タシギ Common Snipe [[eBird](https://ebird.org/species/comsni)]
@@ -293,6 +327,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `田鑽仔 tshân-tsǹg-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `田鑽仔 tshân-tsǹg-á` 收錄佇《台灣野鳥鄉土名》。
+
 ---
 
 ## 灰瓣足鷸 ハイイロヒレアシシギ Red Phalarope [[eBird](https://ebird.org/species/redpha1)]
@@ -308,6 +346,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -326,6 +366,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 反嘴鷸 ソリハシシギ Terek Sandpiper [[eBird](https://ebird.org/species/tersan)]
@@ -343,6 +385,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 磯鷸 イソシギ Common Sandpiper [[eBird](https://ebird.org/species/comsan)]
@@ -358,6 +402,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -376,6 +422,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 黃足鷸 キアシシギ Gray-tailed Tattler [[eBird](https://ebird.org/species/gyttat1)]
@@ -392,6 +440,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 美洲黃足鷸 メリケンキアシシギ Wandering Tattler [[eBird](https://ebird.org/species/wantat1)]
@@ -407,6 +457,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -438,6 +490,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 赤足鷸 アカアシシギ Common Redshank [[eBird](https://ebird.org/species/comred1)]
@@ -454,6 +508,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 小黃腳鷸 コキアシシギ Lesser Yellowlegs [[eBird](https://ebird.org/species/lesyel)]
@@ -469,6 +525,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -488,6 +546,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 鶴鷸 ツルシギ Spotted Redshank [[eBird](https://ebird.org/species/spored)]
@@ -504,6 +564,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 青足鷸 アオアシシギ Common Greenshank [[eBird](https://ebird.org/species/comgre)]
@@ -519,6 +581,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -537,6 +601,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `石獅 tsio̍h-sai` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 大濱鷸 オバシギ Great Knot [[eBird](https://ebird.org/species/grekno)]
@@ -553,6 +620,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -572,6 +641,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 流蘇鷸 エリマキシギ Ruff [[eBird](https://ebird.org/species/ruff)]
@@ -589,6 +660,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 寬嘴鷸 キリアイ Broad-billed Sandpiper [[eBird](https://ebird.org/species/brbsan)]
@@ -604,6 +677,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -621,6 +696,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 彎嘴濱鷸 サルハマシギ Curlew Sandpiper [[eBird](https://ebird.org/species/cursan)]
@@ -636,6 +713,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -653,6 +732,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 丹氏濱鷸 オジロトウネン Temminck’s Stint [[eBird](https://ebird.org/species/temsti)]
@@ -668,6 +749,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -686,6 +769,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 紅胸濱鷸 トウネン Red-necked Stint [[eBird](https://ebird.org/species/rensti)]
@@ -701,6 +786,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -719,6 +806,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 黃胸鷸 コモンシギ Buff-breasted Sandpiper [[eBird](https://ebird.org/species/bubsan)]
@@ -734,6 +823,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -751,6 +842,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -770,6 +863,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 小濱鷸 ヨーロッパトウネン Little Stint [[eBird](https://ebird.org/species/litsti)]
@@ -785,6 +880,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -802,6 +899,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 西濱鷸 ヒメハマシギ Western Sandpiper [[eBird](https://ebird.org/species/wessan)]
@@ -818,3 +917,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **號名理路**
 
+- `水尖仔 Tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。

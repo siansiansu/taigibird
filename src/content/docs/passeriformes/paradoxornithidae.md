@@ -34,6 +34,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "圓頭仔
 
 **號名理路**
 
+- `圓頭仔 înn-thâu-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 粉紅鸚嘴 ダルマエナガ Vinous-throated Parrotbill [[eBird](https://ebird.org/species/vitpar1)]
@@ -49,3 +51,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "圓頭仔
 
 **號名理路**
 
+- `圓頭仔 înn-thâu-á` 收錄佇【蕭平治】《還我台灣鳥á名》。

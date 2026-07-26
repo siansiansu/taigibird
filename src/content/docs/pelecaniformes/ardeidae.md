@@ -76,6 +76,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷺", "�
 
 **號名理路**
 
+- `田隙仔 tshân-khiah-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 夜鷺 ゴイサギ Black-crowned Night Heron [[eBird](https://ebird.org/species/bcnher)]
@@ -196,6 +198,8 @@ no rights reserved, uploaded by 葉子
 - △ 鷺仔 lōo-á
 
 **號名理路**
+
+- `小白翎鷥 sió-pe̍h-līng-si` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -323,6 +327,8 @@ no rights reserved, uploaded by 葉子
 
 **號名理路**
 
+- `黃白翎鷥 n̂g-pe̍h-līng-si` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 大白鷺 ダイサギ Great Egret [[eBird](https://ebird.org/species/greegr)]
@@ -342,6 +348,8 @@ no rights reserved, uploaded by 葉子
 - △ 鷺仔 lōo-á
 
 **號名理路**
+
+- `大白翎鷥 tuā-pe̍h-līng-si` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -363,6 +371,8 @@ no rights reserved, uploaded by 葉子
 
 **號名理路**
 
+- `中白翎鷥 tshun-pe̍h-līng-si` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 蒼鷺 アオサギ Gray Heron [[eBird](https://ebird.org/species/graher1)]
@@ -378,6 +388,8 @@ no rights reserved, uploaded by 葉子
 - ◆ **殕色鷺 phú-sik-lōo**
 
 **號名理路**
+
+- `海徛仔 hái-khiā-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 

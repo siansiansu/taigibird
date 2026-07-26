@@ -38,6 +38,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸕鷀"]
 
 **號名理路**
 
+- `鸕鷀 lôo-tsî` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 丹氏鸕鷀 ウミウ Japanese Cormorant [[eBird](https://ebird.org/species/japcor1)]

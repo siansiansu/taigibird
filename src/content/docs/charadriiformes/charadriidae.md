@@ -21,6 +21,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **號名理路**
 
+- `水尖仔 tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 太平洋金斑鴴 ムナグロ Pacific Golden-Plover [[eBird](https://ebird.org/species/pagplo)]
@@ -37,6 +39,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **號名理路**
 
+- `水尖仔 tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 環頸鴴 ハジロコチドリ Common Ringed Plover [[eBird](https://ebird.org/species/corplo)]
@@ -52,6 +56,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -70,6 +76,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **號名理路**
 
+- `水尖仔 tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `金眼 kim-gán` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 劍鴴 イカルチドリ Long-billed Plover [[eBird](https://ebird.org/species/lobplo1)]
@@ -87,6 +96,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **號名理路**
 
+- `水尖仔 tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 小辮鴴 タゲリ Northern Lapwing [[eBird](https://ebird.org/species/norlap)]
@@ -103,6 +114,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 - ◆ **豆仔鳥 tāu-á-tsiáu**
 
 **號名理路**
+
+- `田貓仔 tshân-niau-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -148,6 +161,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **號名理路**
 
+- `水尖仔 tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 青藏鴴 チベットメダイチドリ Tibetan Sand-Plover [[eBird](https://ebird.org/species/lessap1)]
@@ -163,6 +178,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -180,6 +197,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **號名理路**
 
+- `水尖仔 tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 東方環頸鴴 シロチドリ Kentish Plover [[eBird](https://ebird.org/species/kenplo1)]
@@ -195,6 +214,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 - △ 海滑溜仔 hái-ku̍t-liu-á
 
 **號名理路**
+
+- `水尖仔 tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -212,3 +233,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **號名理路**
 
+- `水尖仔 tsuí-tsiam-á` 收錄佇【蕭平治】《還我台灣鳥á名》。

@@ -1,6 +1,6 @@
 {
-  "name": "線頂台語鳥仔名冊",
-  "short_name": "台語鳥仔名冊",
+  "name": "鳥仔 ê 名：線頂台語鳥仔名冊",
+  "short_name": "鳥仔 ê 名",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",

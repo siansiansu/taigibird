@@ -32,6 +32,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **號名理路**
 
+- `山粉鳥 suann-hún-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `山粉鳥 suann-hún-tsiáu` 收錄佇《台灣野鳥鄉土名》。
+
 ---
 
 ## 黑林鴿 カラスバト Black Wood-Pigeon [[eBird](https://ebird.org/species/jawpig1)]
@@ -76,6 +79,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **號名理路**
 
+- `大花斑 tuā-hue-pan` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 灰斑鳩 シラコバト Eurasian Collared-Dove [[eBird](https://ebird.org/species/eucdov)]
@@ -106,6 +111,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **號名理路**
 
+- `火鵻仔 hué-tsui-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 珠頸斑鳩 カノコバト Spotted Dove [[eBird](https://ebird.org/species/spodov)]
@@ -120,6 +127,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 - ◆ **數珠仔 sòo-tsu-á**
 
 **號名理路**
+
+- `數珠仔 sòo-tsu-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -164,6 +173,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 - ◆ **林跤鳥 nâ-kha-tsiáu**
 
 **號名理路**
+
+- `金鵻 kim-tsui` 收錄佇《台灣野鳥鄉土名》。
 
 ---
 
@@ -223,6 +234,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 
 **號名理路**
 
+- `青鵻 tshenn-tsui` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `青鵻 tshenn-tsui` 收錄佇《台灣野鳥鄉土名》。
+
 ---
 
 ## 紅頭綠鳩 ズアカアオバト Whistling Green-Pigeon [[eBird](https://ebird.org/species/whgpig1)]
@@ -236,6 +250,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鳩鴿", 
 - ◆ **紅頭青鵻 âng-thâu-tshenn-tsui**
 
 **號名理路**
+
+- `紅頭青鵻 âng-thâu-tshenn-tsui` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 

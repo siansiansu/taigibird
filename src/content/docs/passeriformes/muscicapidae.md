@@ -711,6 +711,9 @@ no rights reserved, uploaded by 葉子
 
 **號名理路**
 
+- `厝角鳥 tshù-kak-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `厝角鳥 tshù-kak-tsiáu` 收錄佇《台灣野鳥鄉土名》。
+
 ---
 
 ## 黑喉鴝 ノビタキ Amur Stonechat [[eBird](https://ebird.org/species/stonec7)]

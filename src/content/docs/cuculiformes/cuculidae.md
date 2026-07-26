@@ -51,6 +51,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **號名理路**
 
+- `聳毛杜鵑 tshàng-moo-tōo-kuan` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 斑翅鳳頭鵑 クロシロカンムリカッコウ Pied Cuckoo [[eBird](https://ebird.org/species/piecuc1)]
@@ -80,6 +82,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **號名理路**
 
+- `姑鳥 koo-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 八聲杜鵑 ヒメカッコウ Plaintive Cuckoo [[eBird](https://ebird.org/species/placuc1)]
@@ -99,6 +103,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 - △ 吐血鳥 thòo-hueh-tsiáu
 
 **號名理路**
+
+- `杜鵑 tōo-kuan` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -182,6 +188,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **號名理路**
 
+- `杜鵑 tōo-kuan` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 四聲杜鵑 セグロカッコウ Indian Cuckoo [[eBird](https://ebird.org/species/indcuc1)]
@@ -200,6 +208,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 - △ 吐血鳥 thòo-hueh-tsiáu
 
 **號名理路**
+
+- `杜鵑 tōo-kuan` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -224,6 +234,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **號名理路**
 
+- `杜鵑 tōo-kuan` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 大杜鵑 カッコウ Common Cuckoo [[eBird](https://ebird.org/species/comcuc)]
@@ -243,6 +255,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 - △ 吐血鳥 thòo-hueh-tsiáu
 
 **號名理路**
+
+- `杜鵑 tōo-kuan` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -266,3 +280,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "杜鵑", 
 
 **號名理路**
 
+- `杜鵑 tōo-kuan` 收錄佇【蕭平治】《還我台灣鳥á名》。

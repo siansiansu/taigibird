@@ -34,6 +34,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "青笛仔
 
 **號名理路**
 
+- `尖頭仔 tsiam-thâu-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 紅脇繡眼 チョウセンメジロ Chestnut-flanked White-eye [[eBird](https://ebird.org/species/cfweye1)]

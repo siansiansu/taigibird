@@ -18,6 +18,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鶖", 
 
 **號名理路**
 
+- `烏鶖 oo-tshiu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `烏鶖 oo-tshiu` 收錄佇《台灣野鳥鄉土名》。
+
 ---
 
 ## 灰卷尾 ハイイロオウチュウ Ashy Drongo [[eBird](https://ebird.org/species/ashdro1)]
@@ -59,6 +62,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "烏鶖", 
 - ◆ **山烏鶖 suann-oo-tshiu**
 
 **號名理路**
+
+- `山烏鶖 suann-oo-tshiu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `山烏鶖 suann-oo-tshiu` 收錄佇《台灣野鳥鄉土名》。
 
 ---
 

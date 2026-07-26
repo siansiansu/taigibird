@@ -25,6 +25,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄樹鳥
 
 **號名理路**
 
+- `啄樹鳥 tok-tshiū-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `鯪鯉鳥 lâ-lí-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 小啄木 ハイガシラコゲラ Gray-capped Pygmy Woodpecker [[eBird](https://ebird.org/species/gycwoo1)]
@@ -44,6 +47,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄樹鳥
 
 **號名理路**
 
+- `小啄樹鳥 sió-tok-tshiū-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `啄樹鳥 tok-tshiū-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 大赤啄木 オオアカゲラ White-backed Woodpecker [[eBird](https://ebird.org/species/whbwoo1)]
@@ -60,6 +66,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄樹鳥
 - △ 啄樹鳥 tok-tshiū-tsiáu
 
 **號名理路**
+
+- `啄樹鳥 tok-tshiū-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -80,6 +88,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄樹鳥
 
 **號名理路**
 
+- `啄樹鳥 tok-tshiū-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 大斑啄木鳥 アカゲラ Great Spotted Woodpecker [[eBird](https://ebird.org/species/grswoo)]
@@ -96,6 +106,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄樹鳥
 - △ 啄樹鳥 tok-tshiū-tsiáu
 
 **號名理路**
+
+- `啄樹鳥 tok-tshiū-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
@@ -115,6 +127,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄樹鳥
 - △ 啄樹鳥 tok-tshiū-tsiáu
 
 **號名理路**
+
+- `啄樹鳥 tok-tshiū-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 

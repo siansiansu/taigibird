@@ -41,6 +41,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵪鶉", 
 
 **號名理路**
 
+- `無尾三爪鵪鶉 tshiah-bô-bué-sann-jiáu-ian-thun` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 林三趾鶉 ヒメミフウズラ Small Buttonquail [[eBird](https://ebird.org/species/smabut2)]

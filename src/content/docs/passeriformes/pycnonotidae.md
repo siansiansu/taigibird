@@ -67,6 +67,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵯仔", 
 
 **號名理路**
 
+- `石鸚哥 tsio̍h-ing-ko` 收錄佇《台灣野鳥鄉土名》。
+
 ---
 
 ## 白頭翁 シロガシラ Light-vented Bulbul [[eBird](https://ebird.org/species/livbul1)]

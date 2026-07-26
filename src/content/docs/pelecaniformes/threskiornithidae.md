@@ -77,6 +77,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 
 **號名理路**
 
+- `飯匙鵝 puīnn-sî-gô` 收錄佇《台灣野鳥鄉土名》。
+
 ---
 
 ## 黑面琵鷺 クロツラヘラサギ Black-faced Spoonbill [[eBird](https://ebird.org/species/blfspo1)]
@@ -93,3 +95,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "䴉", "�
 
 **號名理路**
 
+- `飯匙鵝 puīnn-sî-gô` 收錄佇《台灣野鳥鄉土名》。

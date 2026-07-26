@@ -68,6 +68,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "扇尾鶯
 
 **號名理路**
 
+- `白尾扇 pe̍h-bué-sìnn` 收錄佇【蕭平治】《還我台灣鳥á名》。
+
 ---
 
 ## 黃頭扇尾鶯 タイワンセッカ Golden-headed Cisticola [[eBird](https://ebird.org/species/gohcis1)]
@@ -84,6 +86,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "扇尾鶯
 - △ 布袋鳥 pòo-tē-tsiáu
 
 **號名理路**
+
+- `塚仔鳥 thióng-á-tsiáu` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
 ---
 
