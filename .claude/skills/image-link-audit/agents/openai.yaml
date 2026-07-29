@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image Link Audit"
+  short_description: "Audit bird entry image URLs and reuse rights."
+  default_prompt: "Audit image links and licensing for the site content."
