@@ -10,7 +10,7 @@
 - [x] 水叮噹科 tsuí-tin-tang-kho - [src/content/docs/passeriformes/cinclidae.md](src/content/docs/passeriformes/cinclidae.md)
 - [x] 雀眉科 tshiok-bâi-kho - [src/content/docs/passeriformes/pellorneidae.md](src/content/docs/passeriformes/pellorneidae.md)
 - [x] 織布筆仔科 tsit-pòo-pit-á-kho - [src/content/docs/passeriformes/ploceidae.md](src/content/docs/passeriformes/ploceidae.md)
-- [ ] 攀雀科 phan-tshiok-kho - [src/content/docs/passeriformes/remizidae.md](src/content/docs/passeriformes/remizidae.md)
+- [x] 攀雀科 phan-tshiok-kho - [src/content/docs/passeriformes/remizidae.md](src/content/docs/passeriformes/remizidae.md)
 - [ ] 鳾科 si-kho - [src/content/docs/passeriformes/sittidae.md](src/content/docs/passeriformes/sittidae.md)
 - [ ] 細喙鶲科 suè-tshuì-ong-kho - [src/content/docs/passeriformes/stenostiridae.md](src/content/docs/passeriformes/stenostiridae.md)
 - [ ] 鷦鷯科 tsiau-liâu-kho - [src/content/docs/passeriformes/troglodytidae.md](src/content/docs/passeriformes/troglodytidae.md)
