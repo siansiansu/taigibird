@@ -18,6 +18,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜜鳥
 
 **號名理路**
 
+依據華語
+
 ---
 
 ## 藍喉太陽鳥 ルリオタイヨウチョウ Mrs. Gould's Sunbird [[eBird](https://ebird.org/species/gousun1)]
@@ -31,6 +33,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜜鳥
 - ◆ **藍喉太陽鳥 nâ-âu-thài-iông-tsiáu**
 
 **號名理路**
+
+依據華語
 
 ---
 
@@ -46,3 +50,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜜鳥
 
 **號名理路**
 
+Fork-tailed -> `攕仔尾 tshiám-á-bué`
