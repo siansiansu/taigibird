@@ -16,8 +16,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷦眉"]
 
 - ◆ **臺灣鷦眉 tâi-uân-tsiau-bâi**
 
-**號名理路**
-
 ---
 
 ## 小鷦眉 ミソサザイチメドリ Pygmy Cupwing [[eBird](https://ebird.org/species/pywbab1)]
@@ -29,6 +27,3 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷦眉"]
 **台語名**
 
 - ◆ **小鷦眉 sió-tsiau-bâi**
-
-**號名理路**
-

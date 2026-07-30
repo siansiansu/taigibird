@@ -22,6 +22,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵪鶉", 
 
 **號名理路**
 
+`Yellow-legged` -> `黃跤 n̂g-kha`
+
 ---
 
 ## 棕三趾鶉 ミフウズラ Barred Buttonquail [[eBird](https://ebird.org/species/barbut1)]
@@ -32,9 +34,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵪鶉", 
 
 **台語名**
 
-- ◆ **赤無尾三爪鵪鶉 tshiah-bô-bué-sann-jiáu-ian-thun**
 - ◆ **無尾三爪鵪鶉 tshiah-bô-bué-sann-jiáu-ian-thun**
-- ◆ **赤三趾鶉 tshiah-sann-tsí-tshun**
 - △ 三斑鶉 sann-pan-tshun
 - △ 三趾鶉 sann-tsí-tshun
 - △ 三爪鵪鶉 sann-jiáu-ian-thun
@@ -54,12 +54,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵪鶉", 
 **台語名**
 
 - ◆ **小無尾三爪鵪鶉 sió-bô-bué-sann-jiáu-ian-thun**
-- ◆ **林無尾三爪鵪鶉 lîm-bô-bué-sann-jiáu-ian-thun**
 - ◇ 小三趾鶉 sió-sann-tsí-tshun
 - ◇ 林三趾鶉 lîm-sann-tsí-tshun
 - △ 三斑鶉 sann-pan-tshun
 - △ 三趾鶉 sann-tsí-tshun
 - △ 三爪鵪鶉 sann-jiáu-ian-thun
-
-**號名理路**
-

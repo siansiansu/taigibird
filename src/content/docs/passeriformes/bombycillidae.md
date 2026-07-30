@@ -18,6 +18,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "連雀"]
 
 **號名理路**
 
+來自日本名 ヒレンジャク
+
 ---
 
 ## 黃連雀 キレンジャク Bohemian Waxwing [[eBird](https://ebird.org/species/bohwax)]
@@ -32,3 +34,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "連雀"]
 
 **號名理路**
 
+來自日本名 キレンジャク

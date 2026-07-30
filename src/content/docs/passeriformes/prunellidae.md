@@ -16,8 +16,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "岩鷚"]
 
 - ◆ **岩鷚 gâm-liù**
 
-**號名理路**
-
 ---
 
 ## 棕眉山岩鷚 ヤマヒバリ Siberian Accentor [[eBird](https://ebird.org/species/sibacc)]
@@ -28,7 +26,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "岩鷚"]
 
 **台語名**
 
-- ◆ **山岩鷚 suann-gān-liù**
-
-**號名理路**
-
+- ◆ **山岩鷚 suann-gâm-liù**

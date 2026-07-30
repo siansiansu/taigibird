@@ -14,10 +14,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "夜鷹", 
 
 **台語名**
 
-- ◆ **普通石磯仔 phóo-thong-tsio̍h-ki-á**
-- ◆ **殕色石磯仔 phú-sik-tsio̍h-ki-á**
-- ◇ 普通夜鷹 phóo-thong-iā-ing
-- ◇ 殕色夜鷹 phú-sik-iā-ing
+- ◆ **石磯仔 tsio̍h-ki-á**
+- ◇ 夜鷹 iā-ing
 - ◇ [日亞] 日本夜鷹 ji̍t-pún-iā-ing
 - ◇ [日亞] 日本石磯仔 ji̍t-pún-tsio̍h-ki-á
 - △ 蚊母 bûn-bó
@@ -54,3 +52,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "夜鷹", 
 **號名理路**
 
 - `石磯仔 tsio̍h-ki-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- `山蚊母 suann-bûn-bó`是`Savanna` ê 音譯，注意 Gray Nightjar 無適合叫`山蚊母 suann-bûn-bó`。

@@ -16,8 +16,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鐵爪鵐
 
 - ◆ **鐵爪鵐仔 thih-jiáu-bû-á**
 
-**號名理路**
-
 ---
 
 ## 雪鵐 ユキホオジロ Snow Bunting [[eBird](https://ebird.org/species/snobun)]
@@ -29,6 +27,3 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鐵爪鵐
 **台語名**
 
 - ◆ **雪鵐仔 seh-bû-á**
-
-**號名理路**
-

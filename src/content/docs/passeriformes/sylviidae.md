@@ -16,8 +16,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶯科", 
 
 - ◆ **白喉林鶯 pe̍h-âu-lîm-ing**
 
-**號名理路**
-
 ---
 
 ## 漠地林鶯 サバクムシクイ Asian Desert Warbler [[eBird](https://ebird.org/species/asdwar1)]
@@ -29,6 +27,3 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶯科", 
 **台語名**
 
 - ◆ **沙漠林鶯 sua-bôo-lîm-ing**
-
-**號名理路**
-

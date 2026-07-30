@@ -16,8 +16,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸛"]
 
 - ◆ **烏鸛 oo-kuàn**
 
-**號名理路**
-
 ---
 
 ## 東方白鸛 コウノトリ Oriental Stork [[eBird](https://ebird.org/species/oristo1)]
@@ -29,6 +27,3 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸛"]
 **台語名**
 
 - ◆ **東方白鸛 tong-hong-pe̍h-kuàn**
-
-**號名理路**
-

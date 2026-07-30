@@ -31,8 +31,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "王鶲", 
 
 **台語名**
 
-- ◆ **紫色綬帶 tsí-sik-siū-tuà**
-- △ 青目孔仔 tshenn-ba̍k-khóng-á
+- ◆ **青目孔仔 tshenn-ba̍k-khóng-á**
 - △ 綬帶 siū-tuà
 
 **號名理路**
@@ -49,10 +48,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "王鶲", 
 
 **台語名**
 
-- ◆ **阿穆爾綬帶 a-bo̍k-nī-siū-tuà**
+- ◆ **阿穆爾青目孔仔 a-bo̍k-nī-tshenn-ba̍k-khóng-á**
 - △ 綬帶 siū-tuà
-- △ 青目孔仔 tshenn-ba̍k-khóng-á
 
 **號名理路**
 
 - `青目孔仔 tshenn-ba̍k-khóng-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
+- Amur -> `a-bo̍k-nī`

@@ -16,8 +16,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄花"]
 
 - ◆ **青啄花 tshenn-tok-hue**
 
-**號名理路**
-
 ---
 
 ## 紅胸啄花 Fire-breasted Flowerpecker [[eBird](https://ebird.org/species/fibflo1)]
@@ -29,6 +27,3 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "啄花"]
 **台語名**
 
 - ◆ **紅胸啄花 âng-hing-tok-hue**
-
-**號名理路**
-

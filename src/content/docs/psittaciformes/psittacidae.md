@@ -17,8 +17,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸚哥", 
 - ◆ **紅領鸚哥 âng-niá-ing-ko**
 - △ 鸚哥 ing-ko
 
-**號名理路**
-
 ---
 
 ## 和尚鸚鵡 オキナインコ Monk Parakeet [[eBird](https://ebird.org/species/monpar)]
@@ -31,6 +29,3 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸚哥", 
 
 - ◆ **和尚鸚哥 huê-siūnn-ing-ko**
 - △ 鸚哥 ing-ko
-
-**號名理路**
-
