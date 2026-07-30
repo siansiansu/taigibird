@@ -36,7 +36,7 @@
 - [x] 三爪鵪鶉科 sann-jiáu-ian-thun-kho - [src/content/docs/charadriiformes/turnicidae.md](src/content/docs/charadriiformes/turnicidae.md)
 - [x] 王鶲科 ông-ong-kho - [src/content/docs/passeriformes/monarchidae.md](src/content/docs/passeriformes/monarchidae.md)
 - [x] 食蜜鳥科 tsia̍h-bi̍t-tsiáu-kho - [src/content/docs/passeriformes/nectariniidae.md](src/content/docs/passeriformes/nectariniidae.md)
-- [ ] 圓頭仔科 înn-thâu-á-kho - [src/content/docs/passeriformes/paradoxornithidae.md](src/content/docs/passeriformes/paradoxornithidae.md)
+- [x] 圓頭仔科 înn-thâu-á-kho - [src/content/docs/passeriformes/paradoxornithidae.md](src/content/docs/passeriformes/paradoxornithidae.md)
 - [ ] 抾箬仔科 khioh-ha̍h-á-kho - [src/content/docs/passeriformes/pittidae.md](src/content/docs/passeriformes/pittidae.md)
 - [ ] 扇尾鶲科 sìnn-bué-ong-kho - [src/content/docs/passeriformes/rhipiduridae.md](src/content/docs/passeriformes/rhipiduridae.md)
 - [ ] 花眉仔科 hue-bâi-á-kho - [src/content/docs/passeriformes/timaliidae.md](src/content/docs/passeriformes/timaliidae.md)
