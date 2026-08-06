@@ -16,8 +16,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 
 - ◆ **紅喉藏水鳥 âng-âu-tshàng-tsuí-tsiáu**
 
-**號名理路**
-
 ---
 
 ## 黑喉潛鳥 オオハム Arctic Loon [[eBird](https://ebird.org/species/arcloo)]
@@ -29,8 +27,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 **台語名**
 
 - ◆ **烏喉藏水鳥 oo-âu-tshàng-tsuí-tsiáu**
-
-**號名理路**
 
 ---
 
@@ -44,8 +40,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 
 - ◆ **太平洋藏水鳥 thài-pîng-iûnn-tshàng-tsuí-tsiáu**
 
-**號名理路**
-
 ---
 
 ## 白嘴潛鳥 ハシジロアビ Yellow-billed Loon [[eBird](https://ebird.org/species/yebloo)]
@@ -57,6 +51,3 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "潛鳥"]
 **台語名**
 
 - ◆ **白喙藏水鳥 pe̍h-tshuì-tshàng-tsuí-tsiáu**
-
-**號名理路**
-
