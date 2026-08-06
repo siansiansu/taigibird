@@ -19,8 +19,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸕鷀"]
 - △ 鶿鸕 tsû-lôo
 - △ 烏魚郎 oo-hî-lông
 
-**號名理路**
-
 ---
 
 ## 鸕鷀 カワウ Great Cormorant [[eBird](https://ebird.org/species/grecor)]
@@ -50,7 +48,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸕鷀"]
 
 **台語名**
 
-- ◆ **丹氏鸕鷀 tan-sī-lôo-tsî**
 - ◆ **日本鸕鷀 ji̍t-pún-lôo-tsî**
 - △ 老仔 lāu-á
 - △ 鶿鸕 tsû-lôo
@@ -58,3 +55,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸕鷀"]
 
 **號名理路**
 
+`日本鸕鷀 ji̍t-pún-lôo-tsî` 來自 Japanese Cormorant

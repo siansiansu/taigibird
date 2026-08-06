@@ -16,8 +16,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "熱帶鳥
 
 - ◆ **白尾熱帶鳥 pe̍h-bué-jia̍t-tài-tsiáu**
 
-**號名理路**
-
 ---
 
 ## 紅嘴熱帶鳥 アカハシネッタイチョウ Red-billed Tropicbird [[eBird](https://ebird.org/species/rebtro)]
@@ -30,8 +28,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "熱帶鳥
 
 - ◆ **紅喙熱帶鳥 âng-tshuì-jia̍t-tài-tsiáu**
 
-**號名理路**
-
 ---
 
 ## 紅尾熱帶鳥 アカオネッタイチョウ Red-tailed Tropicbird [[eBird](https://ebird.org/species/rettro)]
@@ -43,6 +39,3 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "熱帶鳥
 **台語名**
 
 - ◆ **紅尾熱帶鳥 âng-bé-jia̍t-tài-tsiáu**
-
-**號名理路**
-

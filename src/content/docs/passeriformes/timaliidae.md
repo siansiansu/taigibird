@@ -16,8 +16,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "花眉仔
 
 - ◆ **山紅頭 suann-âng-thâu**
 
-**號名理路**
-
 ---
 
 ## 小彎嘴 タイワンヒメマルハシ Taiwan Scimitar-Babbler [[eBird](https://ebird.org/species/taiscb1)]
@@ -34,8 +32,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "花眉仔
 - ◆ **賊仔鳥 tsha̍t-á-tsiáu**
 - △ 花眉仔 hue-bâi-á
 
-**號名理路**
-
 ---
 
 ## 大彎嘴 ムナフマルハシ Black-necklaced Scimitar-Babbler [[eBird](https://ebird.org/species/sbsbab2)]
@@ -51,6 +47,3 @@ no rights reserved, uploaded by Ben Keen
 - ◆ **大花眉舅仔 tuā-hue-bâi-kū-á**
 - ◆ **大賊仔鳥 tuā-tsha̍t-á-tsiáu**
 - △ 花眉仔 hue-bâi-á
-
-**號名理路**
-

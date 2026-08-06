@@ -20,8 +20,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "信天翁
 - △ 信天翁 sìn-thian-ang
 - △ 海鵝 hái-gô
 
-**號名理路**
-
 ---
 
 ## 黑腳信天翁 クロアシアホウドリ Black-footed Albatross [[eBird](https://ebird.org/species/bkfalb)]
@@ -38,8 +36,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "信天翁
 - △ 信天翁 sìn-thian-ang
 - △ 海鵝 hái-gô
 
-**號名理路**
-
 ---
 
 ## 短尾信天翁 アホウドリ Short-tailed Albatross [[eBird](https://ebird.org/species/shtalb)]
@@ -55,6 +51,3 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "信天翁
 - △ 海南戇 hái-lâm-gōng
 - △ 信天翁 sìn-thian-ang
 - △ 海鵝 hái-gô
-
-**號名理路**
-
