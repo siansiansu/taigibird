@@ -46,7 +46,7 @@
 - [x] 鸕鷀科 lôo-tsî-kho - [src/content/docs/suliformes/phalacrocoracidae.md](src/content/docs/suliformes/phalacrocoracidae.md)
 - [x] 賊仔鷗科 tsha̍t-á-oo-kho - [src/content/docs/charadriiformes/stercorariidae.md](src/content/docs/charadriiformes/stercorariidae.md)
 - [x] 藏水鳥科 tshàng-tsuí-tsiáu-kho - [src/content/docs/gaviiformes/gaviidae.md](src/content/docs/gaviiformes/gaviidae.md)
-- [ ] 粟鳥仔科 tshik-tsiáu-á-kho - [src/content/docs/passeriformes/passeridae.md](src/content/docs/passeriformes/passeridae.md)
+- [ ] 厝鳥仔科 tshù-tsiáu-á-kho - [src/content/docs/passeriformes/passeridae.md](src/content/docs/passeriformes/passeridae.md)
 - [ ] 犀鳥科 sai-tsiáu-kho - [src/content/docs/bucerotiformes/bucerotidae.md](src/content/docs/bucerotiformes/bucerotidae.md)
 - [ ] 海雀仔科 hái-tshiok-á-kho - [src/content/docs/charadriiformes/alcidae.md](src/content/docs/charadriiformes/alcidae.md)
 - [ ] 食蜂鳥科 tsia̍h-phang-tsiáu-kho - [src/content/docs/coraciiformes/meropidae.md](src/content/docs/coraciiformes/meropidae.md)

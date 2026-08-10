@@ -1,10 +1,10 @@
 ---
-title: 粟鳥仔科 tshik-tsiáu-á-kho
-description: 收錄粟鳥仔科 tshik-tsiáu-á-kho ê 台語號名，做未來命名討論 ê 參考。
+title: 厝鳥仔科 tshù-tsiáu-á-kho
+description: 收錄厝鳥仔科 tshù-tsiáu-á-kho ê 台語號名，做未來命名討論 ê 參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "粟鳥仔", "麻雀"]
 ---
 
-這頁收錄粟鳥仔科 tshik-tsiáu-á-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
+這頁收錄厝鳥仔科 tshù-tsiáu-á-kho ê 台語號名，◆ 表示建議號名，◇ 表示其他號名，△ 表示通稱。
 
 ## 家麻雀 イエスズメ House Sparrow [[eBird](https://ebird.org/species/houspa)]
 
@@ -81,4 +81,3 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "粟鳥仔
 - ◆ **山蚊母草鵐仔 suann-bûn-bó-tsháu-bû-á**
 
 **號名理路**
-
