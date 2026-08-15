@@ -19,4 +19,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蚵仔
 
 **號名理路**
 
-參考 `Oystercatcher` 號名
+借用 `Oystercatcher` 加上 `Ruddy Turnstone 石獅 tsio̍h-sai`的號名理路號名
+
+`Oystercatcher` = `Oyster` + `catcher`
+
+所以號做`蚵仔獅 ô-á-sai` 較有台語的氣口
+
+無建議號做`蠣鴴 lē-hing`
