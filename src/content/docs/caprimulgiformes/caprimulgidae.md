@@ -27,6 +27,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "夜鷹", 
 
 - `石磯仔 tsio̍h-ki-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
 
+
 ---
 
 ## 南亞夜鷹 シロアゴヨタカ Savanna Nightjar [[eBird](https://ebird.org/species/savnig1)]
@@ -37,9 +38,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "夜鷹", 
 
 **台語名**
 
-- ◆ **南亞石磯仔 lâm-a-tsio̍h-ki-á**
 - ◆ **山蚊母石磯仔 suann-bûn-bó-tsio̍h-ki-á**
-- ◇ 南亞夜鷹 lâm-a-iā-ing
 - ◇ 山蚊母夜鷹 suann-bûn-bó-iā-ing
 - ◇ [台亞] 台灣石磯仔 tâi-uân-tsio̍h-ki-á
 - ◇ [台亞] 台灣夜鷹 tâi-uân-iā-ing
@@ -52,4 +51,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "夜鷹", 
 **號名理路**
 
 - `石磯仔 tsio̍h-ki-á` 收錄佇【蕭平治】《還我台灣鳥á名》。
-- `山蚊母 suann-bûn-bó`是`Savanna` ê 音譯，注意 Gray Nightjar 無適合叫`山蚊母 suann-bûn-bó`。
+- `山蚊母 suann-bûn-bó`是`Savanna` ê 音譯，Gray Nightjar 無適合叫`山蚊母 suann-bûn-bó`。

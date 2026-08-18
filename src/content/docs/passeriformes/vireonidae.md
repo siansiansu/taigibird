@@ -16,3 +16,6 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "青花眉
 
 - ◆ **青花眉 tshenn-hue-bâi**
 - △ 花眉仔 hue-bâi-á
+
+1973 Embree台英辭典會揣到 `pe̍h-pak-hong-bâi`
+這个是直譯中國彼爿的漢字講法。
