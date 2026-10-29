@@ -19,6 +19,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "躼跤鷸
 - ◇ 高蹺鴴 ko-khiau-hîng
 - △ 躼跤仔 lò-kha-á
 
+**號名理路**
+
+參考教典[躼跤仔](https://sutian.moe.edu.tw/zh-hant/su/13451/)
+
 ---
 
 ## 黑領高蹺鴴 オーストラリアセイタカシギ Pied Stilt [[eBird](https://ebird.org/species/piesti1)]
@@ -29,9 +33,13 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "躼跤鷸
 
 **台語名**
 
-- ◆ **烏領躼跤鴴 oo-niá-lò-kha-hîng**
-- ◆ **烏領長跤鴴 oo-niá-tn̂g-kha-hîng**
+- ◆ **澳洲躼跤鴴 Ò-tsiu-lò-kha-hîng**
+- ◆ **澳洲長跤鴴 Ò-tsiu-tn̂g-kha-hîng**
 - △ 躼跤仔 lò-kha-á
+
+**號名理路**
+
+參考日語名、棲地
 
 ---
 
@@ -45,3 +53,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "躼跤鷸
 
 - ◆ **翹喙鴴 khiàu-tshuì-hîng**
 - △ 翹喙仔 khiàu-tshuì-á
+
+**號名理路**
+
+喙翹翹的翹喙鴴
