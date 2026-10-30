@@ -1,6 +1,6 @@
 # taigibird
 
-鳥仔 ê 名：線頂台語鳥仔名冊，使用 Astro Starlight。內容對照鳥種、台語名、eBird 連結、iNaturalist 圖片，以及華語/日語/英語名。
+鳥仔 ê 名：台語鳥仔名標準化計畫，使用 Astro Starlight。內容對照鳥種、台語名、eBird 連結、iNaturalist 圖片，以及華語/日語/英語名。
 
 ## Commands
 
