@@ -59,3 +59,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵪鶉", 
 - △ 三斑鶉 sann-pan-tshun
 - △ 三趾鶉 sann-tsí-tshun
 - △ 三爪鵪鶉 sann-jiáu-ian-thun
+
+**號名理路**
+
+Small -> `小 sió`

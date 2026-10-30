@@ -14,11 +14,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜜鳥
 
 **台語名**
 
-- ◆ **黃腹花蜜鳥 n̂g-pak-hue-bi̍t-tsiáu**
+- ◆ **黃腹太陽鳥 n̂g-pak-thài-iông-tsiáu**
 
 **號名理路**
 
-依據華語
+Sunbird -> `太陽鳥 thài-iông-tsiáu`
 
 ---
 
@@ -34,7 +34,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "食蜜鳥
 
 **號名理路**
 
-依據華語
+Sunbird -> `太陽鳥 thài-iông-tsiáu`
 
 ---
 
